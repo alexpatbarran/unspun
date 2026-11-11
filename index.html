@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="theme-color" content="#0d0f13">
+<title>Unspun</title>
+<meta name="apple-mobile-web-app-title" content="Unspun">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icons/icon-180.png">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,600&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0d0f13; --ink:#eef0f3; --muted:#9aa1ad; --line:#262a33; --accent:#6ea8fe; --amber:#e8b04b;
+    --st: env(safe-area-inset-top, 0px); --sb: env(safe-area-inset-bottom, 0px);
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html,body{height:100%;background:var(--bg);color:var(--ink);
+    font-family:"IBM Plex Sans",system-ui,-apple-system,sans-serif;-webkit-font-smoothing:antialiased}
+  body{overflow:hidden;overscroll-behavior:none}
+  a{color:inherit}
+  button{font:inherit}
+
+  /* top bar */
+  .bar{position:fixed;inset:0 0 auto 0;z-index:10;padding:calc(var(--st) + 10px) 18px 8px;
+    display:flex;align-items:center;justify-content:space-between;gap:10px;
+    background:linear-gradient(var(--bg) 60%, transparent)}
+  .brand{font-family:"Newsreader",serif;font-weight:600;font-size:20px;letter-spacing:.2px}
+  .brand span{color:var(--accent)}
+  .tabs{display:flex;gap:4px;background:#161a21;border:1px solid var(--line);border-radius:999px;padding:3px}
+  .tab{border:0;background:transparent;color:var(--muted);font-size:13px;font-weight:500;padding:6px 11px;border-radius:999px;cursor:pointer;white-space:nowrap}
+  .tab b{font-weight:600;font-variant-numeric:tabular-nums;margin-left:4px;color:inherit;opacity:.8}
+  .tab.on{background:#232835;color:var(--ink)}
+  .tab.lo.on{color:var(--amber)}
+  .progress{position:fixed;left:0;right:0;top:calc(var(--st) + 50px);height:2px;z-index:11}
+  .progress i{display:block;height:100%;width:0;background:var(--accent);transition:width .35s ease, background .3s}
+
+  /* horizontal pager with two vertical feeds */
+  .pager{position:fixed;inset:0;display:flex;overflow-x:scroll;overflow-y:hidden;scroll-snap-type:x mandatory;
+    -webkit-overflow-scrolling:touch;scrollbar-width:none}
+  .pager::-webkit-scrollbar{display:none}
+  .page{flex:0 0 100%;height:100dvh;scroll-snap-align:start;scroll-snap-stop:always;position:relative}
+  .feed{height:100dvh;overflow-y:scroll;scroll-snap-type:y mandatory;-webkit-overflow-scrolling:touch;scrollbar-width:none}
+  .feed::-webkit-scrollbar{display:none}
+
+  .card{height:100dvh;scroll-snap-align:start;scroll-snap-stop:always;position:relative;
+    padding:calc(var(--st) + 66px) 22px calc(var(--sb) + 28px);
+    display:flex;flex-direction:column;overflow-y:auto}
+  .card::before{content:"";position:absolute;inset:0;pointer-events:none;
+    background:radial-gradient(120% 60% at 0% 0%, color-mix(in srgb, var(--c) 16%, transparent), transparent 60%)}
+  .inner{position:relative;max-width:620px;width:100%;margin:auto 0;display:flex;flex-direction:column;gap:16px}
+  .meta{display:flex;align-items:center;gap:10px;font-size:12.5px;color:var(--muted)}
+  .chip{color:var(--c);border:1px solid color-mix(in srgb, var(--c) 45%, transparent);
+    padding:3px 9px;border-radius:999px;font-weight:600;letter-spacing:.3px;text-transform:uppercase;font-size:11px}
+  .readmark{margin-left:auto;font-size:12px;color:#5cc8a0;opacity:0;transition:opacity .4s}
+  .card.read .readmark{opacity:1}
+  .why{font-size:13px;line-height:1.45;color:#d9c08a;background:color-mix(in srgb, var(--amber) 10%, transparent);
+    border:1px solid color-mix(in srgb, var(--amber) 30%, transparent);border-radius:10px;padding:8px 11px}
+  .why b{color:var(--amber);font-weight:600}
+  h2{font-family:"Newsreader",serif;font-weight:600;font-size:clamp(25px,6.6vw,34px);line-height:1.13;letter-spacing:-.2px;text-wrap:balance}
+  .summary p{font-size:16px;line-height:1.55;color:#d6d9df}
+  .summary p+p{margin-top:10px}
+  .facts{border-top:1px solid var(--line);padding-top:14px}
+  .facts h3{font-size:11px;letter-spacing:1px;text-transform:uppercase;color:var(--muted);font-weight:600;margin-bottom:8px}
+  .facts li{list-style:none;position:relative;padding-left:16px;font-size:14.5px;line-height:1.45;color:#c9cdd4}
+  .facts li+li{margin-top:6px}
+  .facts li::before{content:"";position:absolute;left:0;top:.6em;width:6px;height:6px;border-radius:2px;background:var(--c)}
+  .sources{display:flex;flex-wrap:wrap;gap:8px}
+  .sources a{font-size:12.5px;text-decoration:none;color:var(--ink);background:#1b1f27;border:1px solid var(--line);padding:6px 10px;border-radius:8px}
+  .sources a::after{content:" ↗";color:var(--muted)}
+
+  .done .inner,.state .inner{align-items:center;text-align:center;margin:auto}
+  .tick{width:74px;height:74px;border-radius:50%;display:grid;place-items:center;
+    background:color-mix(in srgb,var(--c) 18%, transparent);border:1.5px solid var(--c)}
+  .tick svg{width:34px;height:34px}
+  .done h2,.state h2{font-size:32px}
+  .done p,.state p{color:var(--muted);font-size:15.5px;line-height:1.5;max-width:320px}
+  .btn{margin-top:6px;font-size:14px;color:var(--ink);background:#1b1f27;border:1px solid var(--line);padding:10px 16px;border-radius:10px;cursor:pointer}
+  .hint{color:var(--amber) !important;font-size:14px !important}
+  .note{position:fixed;left:50%;transform:translateX(-50%);bottom:calc(var(--sb) + 14px);z-index:12;
+    background:#232733;color:var(--ink);font-size:13px;padding:8px 12px;border-radius:8px;display:none}
+</style>
+</head>
+<body>
+<div class="bar">
+  <div class="brand">Unspun<span>.</span></div>
+  <div class="tabs" role="tablist">
+    <button class="tab on" id="tab-main" role="tab">Important<b id="n-main"></b></button>
+    <button class="tab lo" id="tab-lo" role="tab">Left out<b id="n-lo"></b></button>
+  </div>
+</div>
+<div class="progress"><i id="prog"></i></div>
+<main class="pager" id="pager">
+  <section class="page"><div class="feed" id="feed-main">
+    <section class="card state" style="--c:#6ea8fe"><div class="inner"><h2>Loading…</h2><p>Unspinning the news…</p></div></section>
+  </div></section>
+  <section class="page"><div class="feed" id="feed-lo"></div></section>
+</main>
+<div class="note" id="note"></div>
+
+<script>
+(function(){
+  const CAT = {
+    "Australia":"#e8b04b","World":"#6ea8fe","Economy":"#5cc8a0","Business":"#5cc8a0",
+    "Politics":"#ff8a73","Science & Tech":"#b48cff","Environment":"#7fcf6a","Health":"#ff9ec7",
+    "Sport":"#7fd3e8","Other":"#a8a8b8"
+  };
+  const pager = document.getElementById("pager");
+  const prog = document.getElementById("prog");
+  const note = document.getElementById("note");
+  const tabs = { main: document.getElementById("tab-main"), lo: document.getElementById("tab-lo") };
+  const counts = { main: document.getElementById("n-main"), lo: document.getElementById("n-lo") };
+
+  // two pages share one read map
+  const pages = {
+    main: { key:"main", feed: document.getElementById("feed-main"), items: [], queue: null, mode: "unread", observer: null },
+    lo:   { key:"lo",   feed: document.getElementById("feed-lo"),   items: [], queue: null, mode: "unread", observer: null }
+  };
+  let read = {};
+  let updatedAt = null;
+  let loaded = false;
+  let active = "main";
+
+  // ---------- helpers ----------
+  const el = (tag, cls, text) => { const e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; };
+  const safeUrl = u => { try { const x = new URL(u); return x.protocol === "https:" ? x.href : null; } catch { return null; } };
+  const ago = iso => {
+    const t = Date.parse(iso); if (!t) return "";
+    const m = Math.round((Date.now() - t) / 60000);
+    if (m < 60) return m <= 1 ? "just now" : m + " min ago";
+    const h = Math.round(m / 60); if (h < 24) return h + "h ago";
+    const d = Math.round(h / 24); return d === 1 ? "yesterday" : d + " days ago";
+  };
+  const showNote = (msg, ms=3000) => { note.textContent = msg; note.style.display = "block"; if (ms) setTimeout(()=>note.style.display="none", ms); };
+  const byFeedOrder = (a,b) => { const ba=String(a.batch||""), bb=String(b.batch||""); return ba===bb ? (Number(a.rank||99)-Number(b.rank||99)) : (ba<bb?1:-1); };
+
+  // ---------- read state (on this device) ----------
+  const LS = "unspun.read.v1";
+  const loadLocal = () => { try { return JSON.parse(localStorage.getItem(LS) || "{}") || {}; } catch { return {}; } };
+  function saveRead(){
+    const live = new Set([...pages.main.items, ...pages.lo.items].map(a => a.id));
+    const pruned = {}; for (const k in read) if (live.has(k)) pruned[k] = read[k];
+    try { localStorage.setItem(LS, JSON.stringify(pruned)); } catch {}
+  }
+
+  // ---------- cards ----------
+  function cardFor(a, isLo){
+    const c = CAT[a.category] || "#6ea8fe";
+    const s = el("section","card"); s.style.setProperty("--c", c); s.dataset.id = a.id;
+    if (read[a.id]) s.classList.add("read");
+    const inner = el("div","inner");
+    const meta = el("div","meta");
+    meta.append(el("span","chip", a.category || "News"), el("span", null, ago(a.publishedAt)), el("span","readmark","✓ read"));
+    inner.append(meta);
+    if (isLo && a.reason) { const w = el("div","why"); w.append(el("b", null, "Left out: "), document.createTextNode(String(a.reason))); inner.append(w); }
+    inner.append(el("h2", null, a.title || "Untitled"));
+    const sum = el("div","summary");
+    String(a.summary||"").split(/\n\s*\n/).filter(Boolean).forEach(p => sum.append(el("p", null, p.trim())));
+    inner.append(sum);
+    if (Array.isArray(a.keyFacts) && a.keyFacts.length){
+      const f = el("div","facts"); f.append(el("h3", null, "Key facts"));
+      const ul = el("ul"); a.keyFacts.slice(0,5).forEach(k => ul.append(el("li", null, String(k)))); f.append(ul); inner.append(f);
+    }
+    if (Array.isArray(a.sources) && a.sources.length){
+      const src = el("div","sources");
+      a.sources.slice(0,4).forEach(x => { const u = safeUrl(x && x.url); if (!u) return; const l = el("a", null, x.name || new URL(u).hostname); l.href = u; l.target = "_blank"; l.rel = "noopener"; src.append(l); });
+      inner.append(src);
+    }
+    s.append(inner);
+    return s;
+  }
+
+  function doneCard(p){
+    const isLo = p.key === "lo";
+    const s = el("section","card done"); s.style.setProperty("--c", isLo ? "#e8b04b" : "#5cc8a0");
+    const inner = el("div","inner");
+    const t = el("div","tick"); t.innerHTML = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" style="color:var(--c)"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg>';
+    const h = el("h2"); h.dataset.role = "done-title";
+    const txt = el("p"); txt.dataset.role = "done-text";
+    inner.append(t, h, txt);
+    if (!isLo) {
+      const hint = el("p","hint"); hint.dataset.role = "lo-hint"; inner.append(hint);
+    }
+    const latest = Date.parse(updatedAt||"");
+    if (latest) inner.append(el("p", null, "Last update " + ago(new Date(latest).toISOString()) + "."));
+    const b = el("button","btn", p.mode === "unread" ? "Re-read recent stories" : "Back to unread");
+    b.onclick = () => { p.mode = p.mode === "unread" ? "recent" : "unread"; p.queue = null; renderPage(p, true); updateUI(); };
+    if (p.items.length) inner.append(b);
+    s.append(inner); return s;
+  }
+
+  function stateCard(title, text){
+    const s = el("section","card state"); s.style.setProperty("--c","#6ea8fe");
+    const inner = el("div","inner"); inner.append(el("h2",null,title), el("p",null,text)); s.append(inner); return s;
+  }
+
+  function buildQueue(p){
+    const sorted = p.items.slice().sort(byFeedOrder);
+    if (p.mode === "recent") {
+      const cutoff = Date.now() - 48*3600*1000;
+      return sorted.filter(a => Date.parse(a.createdAt||a.publishedAt||0) >= cutoff || !read[a.id]).map(a=>a.id);
+    }
+    return sorted.filter(a => !read[a.id]).map(a => a.id);
+  }
+
+  function renderPage(p, toTop){
+    if (!p.queue) p.queue = buildQueue(p);
+    const map = new Map(p.items.map(a => [a.id, a]));
+    const prev = p.feed.scrollTop;
+    p.feed.replaceChildren();
+    if (!p.items.length) {
+      p.feed.append(stateCard(p.key === "lo" ? "Nothing left out" : "No stories yet",
+        p.key === "lo" ? "Every story considered made the Important page." : "Your first batch is on its way."));
+    } else {
+      p.queue.map(id => map.get(id)).filter(Boolean).forEach(a => p.feed.append(cardFor(a, p.key === "lo")));
+      p.feed.append(doneCard(p));
+    }
+    p.feed.scrollTop = toTop ? 0 : prev;
+    observe(p);
+  }
+
+  function unreadIn(p){ return p.items.filter(a => !read[a.id]).length; }
+
+  function updateUI(){
+    for (const k of ["main","lo"]) {
+      const p = pages[k], n = unreadIn(p);
+      counts[k].textContent = n ? String(n) : "✓";
+      const dt = p.feed.querySelector('[data-role="done-title"]'), dx = p.feed.querySelector('[data-role="done-text"]');
+      if (dt && dx) {
+        const left = (p.queue||[]).filter(id => !read[id]).length;
+        if (p.mode !== "unread") { dt.textContent = "That's the last 48 hours."; dx.textContent = "Tap below to go back to unread only."; }
+        else if (left) { dt.textContent = left + (left === 1 ? " story" : " stories") + " skipped"; dx.textContent = "Scroll back up to catch " + (left === 1 ? "it" : "them") + ", or come back later."; }
+        else if (k === "main") { dt.textContent = "You're up to date."; dx.textContent = "That's everything that matters right now. New stories land each morning around 6:40."; }
+        else { dt.textContent = "That's everything left out."; dx.textContent = "Swipe right to go back to Important."; }
+      }
+      if (k === "main") {
+        const hint = p.feed.querySelector('[data-role="lo-hint"]');
+        if (hint) { const lo = unreadIn(pages.lo); hint.textContent = lo ? "Swipe left for " + lo + " left-out " + (lo === 1 ? "story" : "stories") + " →" : ""; }
+      }
+    }
+    tabs.main.classList.toggle("on", active === "main");
+    tabs.lo.classList.toggle("on", active === "lo");
+    const p = pages[active], ids = p.queue || [];
+    const left = ids.filter(id => !read[id]).length;
+    prog.style.width = (ids.length ? ((ids.length - left) / ids.length * 100) : 0) + "%";
+    prog.style.background = active === "lo" ? "var(--amber)" : "var(--accent)";
+  }
+
+  function observe(p){
+    if (p.observer) p.observer.disconnect();
+    const timers = new Map();
+    p.observer = new IntersectionObserver(entries => {
+      entries.forEach(en => {
+        const id = en.target.dataset.id; if (!id) return;
+        if (en.isIntersecting && en.intersectionRatio >= 0.6) {
+          if (!read[id] && !timers.has(id)) timers.set(id, setTimeout(() => {
+            timers.delete(id);
+            if (active !== p.key) return; // only count what's actually on screen
+            read[id] = Date.now(); en.target.classList.add("read"); saveRead(); updateUI();
+          }, 1400));
+        } else if (timers.has(id)) { clearTimeout(timers.get(id)); timers.delete(id); }
+      });
+    }, { root: p.feed, threshold: [0, 0.6, 1] });
+    p.feed.querySelectorAll(".card[data-id]").forEach(c => p.observer.observe(c));
+  }
+
+  // ---------- page switching ----------
+  function goTo(k){ pager.scrollTo({ left: k === "lo" ? pager.clientWidth : 0, behavior: "smooth" }); }
+  tabs.main.onclick = () => goTo("main");
+  tabs.lo.onclick = () => goTo("lo");
+  let st = null;
+  pager.addEventListener("scroll", () => {
+    clearTimeout(st);
+    st = setTimeout(() => {
+      const k = pager.scrollLeft > pager.clientWidth / 2 ? "lo" : "main";
+      if (k !== active) { active = k; observe(pages[k]); updateUI(); }
+    }, 60);
+  }, { passive: true });
+  window.addEventListener("resize", () => { pager.scrollLeft = active === "lo" ? pager.clientWidth : 0; });
+
+  // ---------- data ----------
+  async function load(){
+    const r = await fetch("news.json?t=" + Date.now(), { cache: "no-store" });
+    if (!r.ok) throw new Error("HTTP " + r.status);
+    const j = await r.json();
+    updatedAt = j.updatedAt || null;
+    const clean = arr => (Array.isArray(arr) ? arr : []).filter(a => a && a.id && a.title);
+    return { main: clean(j.articles), lo: clean(j.leftOut) };
+  }
+
+  async function start(){
+    read = loadLocal();
+    let d;
+    try { d = await load(); }
+    catch { pages.main.feed.replaceChildren(stateCard("Can't reach your stories", "Check you're online, then reopen Unspun.")); return; }
+    pages.main.items = d.main; pages.lo.items = d.lo; loaded = true;
+    renderPage(pages.main, true); renderPage(pages.lo, true); updateUI();
+  }
+
+  async function refresh(){
+    if (!loaded) return start();
+    try {
+      const d = await load(); let added = 0;
+      for (const k of ["main","lo"]) {
+        const p = pages[k]; p.items = d[k];
+        const known = new Set(p.queue || []);
+        const fresh = p.items.slice().sort(byFeedOrder).filter(a => !known.has(a.id) && !read[a.id]).map(a => a.id);
+        if (fresh.length) { p.queue = (p.queue||[]).concat(fresh); renderPage(p, false); added += fresh.length; }
+      }
+      updateUI();
+      if (added) showNote(added + " new " + (added === 1 ? "story" : "stories"));
+    } catch {}
+  }
+
+  document.addEventListener("visibilitychange", () => { if (document.visibilityState === "visible") refresh(); });
+  start();
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,714 @@
+{
+ "updatedAt": "2026-11-12T04:30:00+11:00",
+ "articles": [
+  {
+   "id": "2026-11-12-abu-dhabi-talks",
+   "batch": "2026-11-12",
+   "rank": 1,
+   "category": "World",
+   "title": "Russia and Ukraine agree to large prisoner swap; no breakthrough on ending the war",
+   "summary": "Two days of US-mediated talks between Russian and Ukrainian delegations in Abu Dhabi ended on Wednesday with agreement on a large exchange of prisoners of war. Russia's chief negotiator, Vladimir Medinsky, said both sides had agreed to the swap. Ukraine's delegation was led by Rustem Umerov.\n\nNo ceasefire was agreed. US envoy Jared Kushner said territorial issues would be the hardest to settle but that progress was made on a post-war security framework. He said he and Steve Witkoff would travel to Moscow to brief Vladimir Putin and then meet Volodymyr Zelensky in Dublin.",
+   "keyFacts": [
+    "Final prisoner numbers had not been set when the talks ended",
+    "Russian state agency TASS said the exchange should happen within two to three weeks",
+    "It was the first meeting between the two delegations in about nine months"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/11/russia-ukraine-talks-in-abu-dhabi-end-with-prisoner-exchange-agreement"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-12/ukraine-russia-agree-prisoner-swap-abu-dhabi-talks/107375462"
+    },
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/large-scale-prisoner-exchange-agreed-as-2nd-day-of-abu-dhabi-talks-concludes-umerov-says/"
+    }
+   ],
+   "publishedAt": "2026-11-12T01:30:00+11:00",
+   "createdAt": "2026-11-12T03:30:00+11:00"
+  },
+  {
+   "id": "2026-11-12-qantas-accenture",
+   "batch": "2026-11-12",
+   "rank": 2,
+   "category": "Australia",
+   "title": "Qantas to cut 850 corporate jobs in outsourcing deal with Accenture",
+   "summary": "Qantas told staff on Tuesday it will cut 850 positions after signing an outsourcing deal with consultancy Accenture. The first phase covers finance, procurement, human resources and marketing, with the Sydney headquarters most affected. AAP reports most of Accenture's work for Qantas will be done in India, with some roles staying in Australia.\n\nChief executive Vanessa Hudson linked the move to modernising technology and the impact of AI. The Australian Services Union criticised the cuts as sending skills offshore. Transport Minister Catherine King called the decision extremely disappointing.",
+   "keyFacts": [
+    "850 positions; some reports put the total near 1,000",
+    "Qantas reported a $1.3 billion net profit for 2025/26 in August",
+    "Qantas says it will consult affected staff and redeploy where possible"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/qantas-to-slash-hundreds-of-jobs-send-roles-overseas"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-10/850-jobs-to-go-from-qantas-as-airline-moves-roles-overseas/107368120"
+    }
+   ],
+   "publishedAt": "2026-11-10T13:00:00+11:00",
+   "createdAt": "2026-11-12T03:30:00+11:00"
+  },
+  {
+   "id": "2026-11-12-us-cpi",
+   "batch": "2026-11-12",
+   "rank": 3,
+   "category": "Economy",
+   "title": "US inflation comes in higher than forecast, raising odds of a Fed rate rise",
+   "summary": "US consumer prices rose 0.4% in October, the Bureau of Labor Statistics reported, above the 0.3% economists expected. Core prices, which exclude food and energy, rose 0.3% against a forecast of 0.2%. The bureau could not publish annual figures because it collected no data in October 2025, during the government shutdown.\n\nFed Governor Christopher Waller said before the release that a half-point rate rise should be considered in December if core inflation came in around 0.3%. US shares and Treasuries fell after the data, and the ASX was expected to open lower.",
+   "keyFacts": [
+    "Headline CPI +0.4% for the month; core +0.3%",
+    "September's headline rise was 0.6%",
+    "Markets raised the odds of a December rate hike"
+   ],
+   "sources": [
+    {
+     "name": "BLS (official release)",
+     "url": "https://www.bls.gov/news.release/cpi.nr0.htm"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html"
+    }
+   ],
+   "publishedAt": "2026-11-11T00:30:00+11:00",
+   "createdAt": "2026-11-12T03:30:00+11:00"
+  },
+  {
+   "id": "2026-11-12-hegseth-house-leaders",
+   "batch": "2026-11-12",
+   "rank": 4,
+   "category": "Politics",
+   "title": "US House shelves Hegseth impeachment; Jordan to lead Republicans in new Congress",
+   "summary": "The US House voted 211–204 to refer Republican Thomas Massie's impeachment resolution against Defense Secretary Pete Hegseth to the Judiciary Committee, which effectively ends it for now. The articles accuse Hegseth of conducting hostilities against Iran without congressional authorisation. Massie was the only Republican to vote against the referral. Eleven Democrats and seven Republicans did not vote.\n\nSeparately, House Republicans elected Jim Jordan over Steve Scalise, 106–73 according to CBS News sources, to lead them when they become the minority in January.",
+   "keyFacts": [
+    "Vote was on a motion to refer, not on impeachment itself",
+    "11 Democrats were absent; the margin was 7",
+    "Senate Republicans re-elected John Thune as leader"
+   ],
+   "sources": [
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/live-updates/congress-today-senate-house-leadership-elections/"
+    },
+    {
+     "name": "Breaking Defense",
+     "url": "https://breakingdefense.com/2026/11/house-opts-to-stall-hegseth-impeachment-vote-sending-resolution-to-judiciary-committee/"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/11/did-democrats-save-pete-hegseth-from-impeachment"
+    }
+   ],
+   "publishedAt": "2026-11-11T10:00:00+11:00",
+   "createdAt": "2026-11-12T03:30:00+11:00"
+  },
+  {
+   "id": "2026-11-12-iran-plots-charges",
+   "batch": "2026-11-12",
+   "rank": 5,
+   "category": "World",
+   "title": "US charges three men over alleged Iran-backed plots in Europe and the US",
+   "summary": "Federal prosecutors in New York unsealed an indictment charging three men over what they describe as a campaign of nearly 20 attacks targeting Jewish communities in Europe and the US, plus a plot against RAF Fairford, a British base used by US forces. Prosecutors allege the men acted for Iran's Revolutionary Guard and the Iraqi militia Kata'ib Hezbollah. Only one of the three, Mohammad Baqer al-Saadi, is in custody.\n\nIran has denied involvement in the Fairford incident. Separately, UK police arrested a US Army soldier on suspicion of assisting Russian intelligence.",
+   "keyFacts": [
+    "Three men charged; only al-Saadi is in custody",
+    "Al-Saadi pleaded not guilty in June to earlier charges",
+    "The UK soldier arrest is a separate case"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-11/us-charges-3-men-with-plotting-terror-attacks/107371492"
+    },
+    {
+     "name": "NPR",
+     "url": "https://npr.org/2026/11/10/nx-s1-6036786/uk-iran-airbase-russia-spy"
+    },
+    {
+     "name": "Washington Post",
+     "url": "https://washingtonpost.com/world/2026/11/11/three-men-backed-by-iran-plotted-attack-british-air-base-us-says"
+    }
+   ],
+   "publishedAt": "2026-11-11T08:10:00+11:00",
+   "createdAt": "2026-11-12T03:30:00+11:00"
+  },
+  {
+   "id": "2026-11-12-knesset-sworn-in",
+   "batch": "2026-11-12",
+   "rank": 6,
+   "category": "World",
+   "title": "Israel's new parliament sworn in with no bloc holding a majority",
+   "summary": "Israel's 26th Knesset was sworn in on Tuesday. Neither Prime Minister Benjamin Netanyahu's bloc nor the opposing bloc holds the 61 seats needed to govern. President Isaac Herzog gave opposition leader Gadi Eisenkot the first mandate to form a government on 8 November, giving him 28 days.\n\nNetanyahu called on opposition parties to join a unity government under his leadership. Eisenkot's bloc sought a vote to replace Speaker Amir Ohana of Likud at the opening session. Ohana said such a vote required 61 signatures.",
+   "keyFacts": [
+    "Likud is the largest party with 27 seats",
+    "Eisenkot has 28 days to form a coalition",
+    "ABC reported heckling during Netanyahu's speech"
+   ],
+   "sources": [
+    {
+     "name": "Jerusalem Post",
+     "url": "https://www.jpost.com/israel-election-2026/article-914382"
+    },
+    {
+     "name": "Ynet",
+     "url": "https://www.ynetnews.com/article/bkbp4kkrmg"
+    }
+   ],
+   "publishedAt": "2026-11-11T01:00:00+11:00",
+   "createdAt": "2026-11-12T03:30:00+11:00"
+  },
+  {
+   "id": "2026-11-12-cop31-rooftop-solar",
+   "batch": "2026-11-12",
+   "rank": 9,
+   "category": "Environment",
+   "title": "COP31: rooftop solar declaration unveiled; Australia was first to sign",
+   "summary": "The Global Solar Council unveiled a Global Rooftop Solar Declaration at the COP31 climate talks in Antalya, Turkey. Signatory governments commit to helping double the number of homes with rooftop solar, from about 150 million to 300 million, by 2030. The declaration is voluntary and non-binding.\n\nAustralia became the first country to endorse it in October, when Energy Minister Chris Bowen, who is COP31's president of negotiations, signed at a Pacific pre-COP meeting in Fiji. ABC reports negotiators are split over a separate electrification target.",
+   "keyFacts": [
+    "COP31 runs 9–20 November in Antalya",
+    "Target: 300 million solar homes by 2030",
+    "More than a third of Australian homes have rooftop solar"
+   ],
+   "sources": [
+    {
+     "name": "PV Tech",
+     "url": "https://www.pv-tech.org/global-solar-council-to-unveil-rooftop-solar-declaration-at-cop31-as-governments-commit-to-300m-solar-homes/"
+    },
+    {
+     "name": "pv magazine Australia",
+     "url": "https://www.pv-magazine-australia.com/2026/10/08/australia-backs-goal-of-150-million-new-rooftop-solar-systems-globally-by-2030/"
+    }
+   ],
+   "publishedAt": "2026-11-10T20:00:00+11:00",
+   "createdAt": "2026-11-12T03:30:00+11:00"
+  },
+  {
+   "id": "2026-11-12-nvidia-board-probe",
+   "batch": "2026-11-12",
+   "rank": 10,
+   "category": "Business",
+   "title": "Nvidia board investigates reports CEO was target of foreign intelligence effort",
+   "summary": "Nvidia's board said on 8 November it was opening an independent investigation into reports that chief executive Jensen Huang was the target of a foreign intelligence effort. A committee of independent directors with outside counsel will run it. The board said it has no reason to believe national security or company secrets were compromised.\n\nThe New York Times reported in October that US officials concluded Megaspeed executive Alice Huang was passing information to Beijing. China denies this. Jensen Huang told staff he had been unfaithful to his wife. Nvidia shares fell more than 4% on Monday.",
+   "keyFacts": [
+    "Investigation is internal; no charges reported",
+    "Huang remains CEO and says he will cooperate",
+    "Shares closed at US$178.67 on 9 November"
+   ],
+   "sources": [
+    {
+     "name": "Nvidia (official statement)",
+     "url": "https://investor.nvidia.com/news/press-release-details/2026/Statement-from-NVIDIA-Board-of-Directors/"
+    },
+    {
+     "name": "ABC News (US)",
+     "url": "https://www.goodmorningamerica.com/news/story/nvidia-stock-falls-after-company-opens-probe-ceo-137970524"
+    }
+   ],
+   "publishedAt": "2026-11-10T09:00:00+11:00",
+   "createdAt": "2026-11-12T03:30:00+11:00"
+  },
+  {
+   "id": "2026-11-12-rba-ai-speech",
+   "batch": "2026-11-12",
+   "rank": 11,
+   "category": "Economy",
+   "title": "RBA economist says AI investment is adding to demand before productivity gains show",
+   "summary": "Reserve Bank chief economist Sarah Hunter said on Monday that AI is already reshaping the Australian economy through business investment and demand. AAP reports there is so far limited evidence that AI is lifting productivity. RBA staff estimate data centre investment has grown roughly tenfold in three years and project a further $115 billion by the end of 2028.\n\nRBA research found households' exposure to AI-related shares, mostly through super, rose from about 2% of financial wealth in 2022 to 5.3% in June 2026. Staff estimate a 30% fall in those shares would cut household wealth by 1.6%.",
+   "keyFacts": [
+    "Speech delivered 9 November in Sydney",
+    "AI-related memory chip prices rose more than 200% in a year, per RBA research",
+    "The $115 billion projection depends on power, water and construction capacity"
+   ],
+   "sources": [
+    {
+     "name": "AAP (via Canberra Times)",
+     "url": "https://www.canberratimes.com.au/story/9387921/australians-are-tied-to-the-ai-boom-like-it-or-not/"
+    }
+   ],
+   "publishedAt": "2026-11-09T09:30:00+11:00",
+   "createdAt": "2026-11-12T03:30:00+11:00"
+  },
+  {
+   "id": "2026-11-12-gaza-strikes",
+   "batch": "2026-11-12",
+   "rank": 7,
+   "category": "World",
+   "title": "Israeli strikes kill at least 10 in Gaza over two days, health officials say",
+   "summary": "Israeli forces killed at least seven Palestinians in Gaza on Tuesday, including a father and his 13-year-old son, local health officials told Reuters. Medics said the two were killed when an airstrike hit the roof of a displacement shelter in Gaza City's Zeitoun neighbourhood. On Wednesday, strikes killed three more people, including two brothers at a tent for displaced people.\n\nThe Israeli military said it struck militants in the areas, without giving details. Gaza's Health Ministry says more than 1,600 Palestinians have been killed since the ceasefire began in October 2025.",
+   "keyFacts": [
+    "At least 7 killed Tuesday and 3 Wednesday, per local health officials",
+    "The Israeli military says it targeted militants",
+    "The ceasefire took effect in October 2025"
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via Al-Monitor)",
+     "url": "https://www.al-monitor.com/originals/2026/11/israeli-fire-kills-seven-including-father-and-son-gaza-medics-say"
+    },
+    {
+     "name": "Reuters (via Arab News)",
+     "url": "https://www.arabnews.pk/world/israeli-strikes-kill-three-people-including-two-brothers-in-gaza-medics-say-3006758"
+    },
+    {
+     "name": "AP (via KSAT)",
+     "url": "https://www.ksat.com/news/world/2026/11/10/overnight-strikes-in-yemen-kill-at-least-1-person-and-wound-9-and-other-mideast-news/"
+    }
+   ],
+   "publishedAt": "2026-11-12T03:00:00+11:00",
+   "createdAt": "2026-11-12T04:30:00+11:00"
+  },
+  {
+   "id": "2026-11-12-epstein-oversight-report",
+   "batch": "2026-11-12",
+   "rank": 8,
+   "category": "Politics",
+   "title": "House Republicans' Epstein report says federal government failed survivors",
+   "summary": "Republicans on the US House Oversight Committee released a report on Tuesday concluding their 15-month investigation into Jeffrey Epstein. It found the federal government mishandled criminal investigations into Epstein over decades and failed survivors. It drew on 19 witness interviews and depositions and on documents subpoenaed from the Justice Department, Epstein's estate and two banks.\n\nThe report said the facts uncovered do not suggest President Trump was implicated in Epstein's crimes. It accused committee Democrats of trying to implicate him. It identified two former federal prosecutors whose role in the original case raised concerns, according to Fox News.",
+   "keyFacts": [
+    "Report runs to about 136 pages",
+    "Released by the Republican majority under chair James Comer",
+    "Next steps are left to the Justice Department"
+   ],
+   "sources": [
+    {
+     "name": "NPR",
+     "url": "https://www.npr.org/2026/11/10/nx-s1-6036135/federal-government-failed-to-hold-epstein-accountable-republican-committee-says"
+    },
+    {
+     "name": "Fox News",
+     "url": "https://www.foxnews.com/politics/explosive-house-report-exposes-failures-says-allowed-epsteins-abuse-continue-years"
+    }
+   ],
+   "publishedAt": "2026-11-11T03:00:00+11:00",
+   "createdAt": "2026-11-12T04:30:00+11:00"
+  }
+ ],
+ "leftOut": [
+  {
+   "id": "2026-11-12-lo-iran-uranium",
+   "batch": "2026-11-12",
+   "rank": 1,
+   "category": "World",
+   "title": "Iran repeats it will not send enriched uranium abroad; US keeps focus on sanctions",
+   "summary": "Iran's Supreme National Security Council secretary, Mohsen Rezaei, said again this week that none of Iran's enriched nuclear material will leave the country. He first made the statement publicly on 20 October during a visit by Pakistan's army chief, Asim Munir.\n\nUS Secretary of State Marco Rubio has said economic pressure, including a naval blockade, has reduced the need for major combat. Axios first reported in August that Rubio told allies the US was shifting from strikes to sanctions, without ruling out force if Iran attacks first.",
+   "keyFacts": [
+    "Iran says its enriched material is for use only inside the country",
+    "US strategy: naval blockade plus Treasury sanctions",
+    "Both positions have been stated before"
+   ],
+   "sources": [
+    {
+     "name": "Times of Israel",
+     "url": "https://www.timesofisrael.com/liveblog_entry/irans-security-chief-rejects-moving-any-enriched-uranium-out-of-the-country/"
+    },
+    {
+     "name": "Axios",
+     "url": "https://axios.com/2026/08/25/rubio-iran-war-hormuz-oil"
+    }
+   ],
+   "publishedAt": "2026-11-11T07:00:00+11:00",
+   "createdAt": "2026-11-12T04:30:00+11:00",
+   "reason": "Restatement of positions both sides have held since October (Iran) and August (US). No new development."
+  },
+  {
+   "id": "2026-11-12-lo-spain-strike",
+   "batch": "2026-11-12",
+   "rank": 2,
+   "category": "World",
+   "title": "Spain's main unions hold first 24-hour general strike since 2012 over housing and wages",
+   "summary": "Spain's two largest union federations, UGT and CCOO, called a 24-hour general strike for Wednesday 11 November over housing costs and wages. Tenants' unions and other groups joined the call. It is the first general strike backed by the major unions since 2012.\n\nThe strike falls just over two weeks before a snap general election on 29 November. Prime Minister Pedro Sánchez called the election after Congress rejected two government housing decrees. The official campaign starts on 13 November.",
+   "keyFacts": [
+    "Strike called for 00:00–24:00 on 11 November",
+    "General election on 29 November",
+    "Unions registered the strike with the Labour Ministry on 19 October"
+   ],
+   "sources": [
+    {
+     "name": "Catalan News",
+     "url": "https://www.catalannews.com/housing-crisis/item/unions-call-general-strike-for-november-11-over-housing-and-wages"
+    },
+    {
+     "name": "Demócrata",
+     "url": "https://www.democrata.es/en/current-events/general-strike-of-november-11-who-is-calling-it-how-long-it-lasts-and-what-the-reasons-are/"
+    }
+   ],
+   "publishedAt": "2026-11-11T10:00:00+11:00",
+   "createdAt": "2026-11-12T04:30:00+11:00",
+   "reason": "Could not yet find an original report on turnout or disruption on the day. Will move it to Important once confirmed."
+  },
+  {
+   "id": "2026-11-12-lo-duty-of-care",
+   "batch": "2026-11-12",
+   "rank": 3,
+   "category": "Australia",
+   "title": "Digital duty of care bill awaits Senate committee report due 20 November",
+   "summary": "The Online Safety Amendment (Digital Duty of Care) Bill 2026 passed the House of Representatives on 28 October and is now before the Senate. It would place a legal duty on online services, including social media, search engines and generative AI services, to take reasonable steps to keep Australians safe, with extra protections for under-18s.\n\nCompanies that breach the duty could face penalties of up to about $109 million. The government has backed changes aimed at AI chatbots that simulate emotional intimacy with children. The Greens want stronger penalties.",
+   "keyFacts": [
+    "Introduced by Communications Minister Anika Wells",
+    "Passed the House on 28 October",
+    "Senate committee report due 20 November"
+   ],
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/?p=141337"
+    },
+    {
+     "name": "MinterEllison (legal analysis)",
+     "url": "https://www.minterellison.com/articles/australias-new-digital-duty-of-care-what-it-means"
+    }
+   ],
+   "publishedAt": "2026-11-11T06:00:00+11:00",
+   "createdAt": "2026-11-12T04:30:00+11:00",
+   "reason": "No new development today. The next real step is the Senate committee report on 20 November."
+  },
+  {
+   "id": "2026-11-12-lo-uss-colorado",
+   "batch": "2026-11-12",
+   "rank": 4,
+   "category": "Australia",
+   "title": "USS Colorado named first US nuclear submarine to rotate through Australia under AUKUS",
+   "summary": "The US, Australia and the UK announced on 26 October that the Virginia-class submarine USS Colorado will be the first boat assigned to the AUKUS rotational force at HMAS Stirling in Western Australia, from late 2027. Defence Minister Richard Marles announced it jointly with his US and UK counterparts.\n\nThe submarine arrived at HMAS Stirling on 27 October for a month-long maintenance period. AAP noted the plan follows controversy in June over reports the US would deliver less than first promised.",
+   "keyFacts": [
+    "Up to four US and one UK submarine will rotate through HMAS Stirling",
+    "Rotations begin in late 2027",
+    "Ground News flagged it as barely covered by left-leaning outlets"
+   ],
+   "sources": [
+    {
+     "name": "AAP (via Canberra Times)",
+     "url": "https://www.canberratimes.com.au/story/9380487/first-aukus-nuclear-sub-to-come-to-australia-revealed/"
+    },
+    {
+     "name": "Stars and Stripes",
+     "url": "https://www.stripes.com/branches/navy/2026-10-28/uss-colorado-submarine-australia-aukus-23285205.html"
+    }
+   ],
+   "publishedAt": "2026-10-27T10:00:00+11:00",
+   "createdAt": "2026-11-12T04:30:00+11:00",
+   "reason": "Outside today's window: announced 26–27 October. Ground News Blindspot item (little coverage from left-leaning outlets)."
+  },
+  {
+   "id": "2026-11-12-lo-oleshky",
+   "batch": "2026-11-12",
+   "rank": 5,
+   "category": "World",
+   "title": "Localised ceasefire in Russian-occupied Oleshky brokered by Melania Trump, White House says",
+   "summary": "The White House said on 23 October that First Lady Melania Trump had secured a localised ceasefire between Russia and Ukraine in Oleshky, a Russian-occupied city in Kherson region. The pause was meant to let humanitarian aid in and allow civilians to evacuate.\n\nThe White House said it would begin on 29 October. A senior Ukrainian official said 27 October, and the Kremlin said timing was being coordinated. Kremlin spokesman Dmitry Peskov thanked the First Lady. Ukraine had repeatedly asked for a local ceasefire to organise evacuations.",
+   "keyFacts": [
+    "Oleshky has been occupied by Russia since February 2022",
+    "Residents are mainly elderly, with limited food and medicine, according to the White House",
+    "Ground News flagged it as barely covered by right-leaning outlets"
+   ],
+   "sources": [
+    {
+     "name": "White House (official)",
+     "url": "https://whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-secures-ceasefire-between-russia-and-ukraine-localized-to-oleshky"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/23/white-house-says-melania-trump-secured-a-ceasefire-in-ukraines-oleshky"
+    },
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/breaking-russia-ukraine-agree-to-oleshky-ceasefire-mediated-by-melania-trump-white-house-says/"
+    }
+   ],
+   "publishedAt": "2026-10-24T08:00:00+11:00",
+   "createdAt": "2026-11-12T04:30:00+11:00",
+   "reason": "Outside today's window: announced 23 October. Ground News Blindspot item (little coverage from right-leaning outlets)."
+  },
+  {
+   "id": "2026-11-12-lo-uk-budget-fixes",
+   "batch": "2026-11-12",
+   "rank": 6,
+   "category": "World",
+   "title": "UK government cuts tariffs on 100+ grocery items in pre-Budget 'everyday fixes'",
+   "summary": "UK Chancellor John Healey announced the removal of import tariffs on more than 100 grocery products, including marmalade, gherkins and baked beans, as part of a package of \"everyday fixes\" before his first Budget on 28 October. The package also made a higher tax-free mileage allowance permanent.\n\nThe Conservatives dismissed the measures as tinkering. Shadow Chancellor Andrew Griffith said cheaper gherkins were an inadequate response to higher taxes and prices.",
+   "keyFacts": [
+    "Budget delivered on 28 October",
+    "Andy Burnham became Prime Minister in July",
+    "The announcement came from the government's own press release"
+   ],
+   "sources": [
+    {
+     "name": "UK Government (official)",
+     "url": "https://www.gov.uk/government/news/everyday-fixes-to-make-life-easier-for-millions-of-britons"
+    },
+    {
+     "name": "PA (via Irish News)",
+     "url": "https://www.irishnews.com/news/uk/ministers-unveil-five-everyday-fixes-to-help-with-living-costs-ahead-of-budget-NHDAXMD2ABNNBD6LZGRUK4CMM4/"
+    }
+   ],
+   "publishedAt": "2026-10-27T09:00:00+11:00",
+   "createdAt": "2026-11-12T04:30:00+11:00",
+   "reason": "Outside today's window: 26–28 October. Ground News Blindspot item (little coverage from right-leaning outlets)."
+  },
+  {
+   "id": "2026-11-12-lo-raskin-diesel",
+   "batch": "2026-11-12",
+   "rank": 7,
+   "category": "Politics",
+   "title": "Raskin warns US companies they face penalties for importing Russian diesel under Trump deal",
+   "summary": "Representative Jamie Raskin, the top Democrat on the House Judiciary Committee, wrote to US fuel-industry groups on 26 October. He warned that importing Russian diesel under President Trump's deal with Moscow would breach the Ending Importation of Russian Oil Act of 2022. He said individuals could face up to 20 years in prison.\n\nRaskin argued that an executive decision cannot override the 2022 law. The White House disputed his reading and said the agreement complies with the law.",
+   "keyFacts": [
+    "Letters went to the American Petroleum Institute, the US Chamber of Commerce and AFPM",
+    "The dispute is over whether a 2022 law overrides sanctions relief",
+    "Ground News flagged it as barely covered by left-leaning outlets"
+   ],
+   "sources": [
+    {
+     "name": "United24 Media",
+     "url": "https://united24media.com/world/trump-struck-a-russian-diesel-deal-but-us-buyers-could-still-face-20-years-in-prison-23831"
+    },
+    {
+     "name": "Benzinga",
+     "url": "https://www.benzinga.com/node/62609289"
+    }
+   ],
+   "publishedAt": "2026-10-27T09:00:00+11:00",
+   "createdAt": "2026-11-12T04:30:00+11:00",
+   "reason": "Outside today's window: 26 October. Ground News Blindspot item (little coverage from left-leaning outlets)."
+  },
+  {
+   "id": "2026-11-12-lo-newsom-dsa",
+   "batch": "2026-11-12",
+   "rank": 8,
+   "category": "Politics",
+   "title": "Newsom recorded saying democratic socialists will be 'dominant' in the Democratic Party",
+   "summary": "California Governor Gavin Newsom was recorded on 17 October by an undercover reporter for Townhall during a campaign stop in New Hampshire. He said the energy behind the Democratic Socialists of America would become dominant and mainstream in the Democratic Party.\n\nIn a PBS interview in September, Newsom said the party was \"pretty aligned\" with DSA ideas such as universal healthcare. He described democratic socialist as largely a label for what he calls progressives.",
+   "keyFacts": [
+    "Recorded 17 October; published around 27 October",
+    "Newsom is widely seen as a possible 2028 candidate",
+    "Ground News flagged it as barely covered by left-leaning outlets"
+   ],
+   "sources": [
+    {
+     "name": "Daily Signal",
+     "url": "https://www.dailysignal.com/?p=241225"
+    },
+    {
+     "name": "Fox News",
+     "url": "https://www.foxnews.com/politics/newsom-admits-democratic-socialist-ideas-mainstream-democrat-party-pretty-aligned.amp"
+    }
+   ],
+   "publishedAt": "2026-10-27T09:00:00+11:00",
+   "createdAt": "2026-11-12T04:30:00+11:00",
+   "reason": "Outside today's window (late October), and it's political commentary rather than a decision or event. Ground News Blindspot item (little coverage from left-leaning outlets)."
+  },
+  {
+   "id": "2026-11-12-lo-trump-heckled",
+   "batch": "2026-11-12",
+   "rank": 9,
+   "category": "Politics",
+   "title": "Trump heckled at Mississippi rally over White House ballroom",
+   "summary": "A man interrupted President Trump at a midterm rally in Corinth, Mississippi, on 26 October, shouting an insult about the new White House ballroom and calling for release of the Epstein files. Trump told him to \"go home\", and security removed him.\n\nThe privately funded ballroom project involved demolishing the White House East Wing. It has drawn criticism over its cost and its impact on the historic building.",
+   "keyFacts": [
+    "Rally held 26 October in Corinth",
+    "Trump said, without evidence, that protesters were paid",
+    "Ground News flagged it as barely covered by right-leaning outlets"
+   ],
+   "sources": [
+    {
+     "name": "IBTimes UK",
+     "url": "https://ibtimes.co.uk/heckler-protests-trump-white-house-ballroom-mississippi-rally-1827991"
+    },
+    {
+     "name": "Atlanta Black Star",
+     "url": "https://atlantablackstar.com/2026/10/26/trump-hit-with-profanity-laced-jeer/"
+    }
+   ],
+   "publishedAt": "2026-10-27T13:00:00+11:00",
+   "createdAt": "2026-11-12T04:30:00+11:00",
+   "reason": "Outside today's window (26 October), and a rally heckle is not a policy event. Ground News Blindspot item (little coverage from right-leaning outlets)."
+  },
+  {
+   "id": "2026-11-12-lo-nc-candidate",
+   "batch": "2026-11-12",
+   "rank": 10,
+   "category": "World",
+   "title": "North Carolina state Senate candidate arrested after standoff with police",
+   "summary": "Police in Cary, North Carolina, arrested Jonathan D. Miller, the Libertarian nominee for state Senate District 16, on 26 October after an hours-long standoff. Officers had gone to his home on a welfare check after calls from people worried about his social media posts.\n\nPolice Chief Terry Sult said Miller was armed and ran into nearby woods. He was taken into custody about 3pm. No shots were fired and no one was injured. Police said he had a warrant for being a felon in possession of a firearm.",
+   "keyFacts": [
+    "Arrested 26 October in Cary",
+    "No injuries",
+    "Ground News flagged it as barely covered by left-leaning outlets"
+   ],
+   "sources": [
+    {
+     "name": "Fox News",
+     "url": "https://www.foxnews.com/politics/armed-senate-hopeful-triggers-police-manhunt-near-grade-school-alarming-tweets-go-viral"
+    },
+    {
+     "name": "IBTimes UK",
+     "url": "https://www.ibtimes.co.uk/north-carolina-senate-candidate-detained-cary-police-operation-1828025"
+    }
+   ],
+   "publishedAt": "2026-10-27T09:00:00+11:00",
+   "createdAt": "2026-11-12T04:30:00+11:00",
+   "reason": "Local crime with no national significance, and outside today's window (26 October). Ground News Blindspot item."
+  },
+  {
+   "id": "2026-11-12-lo-neil-young",
+   "batch": "2026-11-12",
+   "rank": 11,
+   "category": "Other",
+   "title": "Neil Young sues Trump political committee for US$10m over rally song",
+   "summary": "Musician Neil Young sued one of President Trump's political action committees on 26 October. He alleges it played \"Rockin' in the Free World\" without a licence at a 12 October rally in Youngstown, Ohio.\n\nThe lawsuit says Trump's 2020 campaign settled an earlier case and agreed not to use the song again without permission. The suit seeks US$10 million.",
+   "keyFacts": [
+    "Filed in federal court in Richmond, Virginia",
+    "Second suit by Young over the same song",
+    "Ground News flagged it as barely covered by right-leaning outlets"
+   ],
+   "sources": [
+    {
+     "name": "Courthouse News",
+     "url": "https://www.courthousenews.com/rocker-neil-young-sues-trump-for-10-million-over-use-of-his-song/"
+    },
+    {
+     "name": "Stereogum",
+     "url": "https://stereogum.com/2515679/neil-young-sues-trump-pac-over-rockin-in-the-free-world/news"
+    }
+   ],
+   "publishedAt": "2026-10-27T09:00:00+11:00",
+   "createdAt": "2026-11-12T04:30:00+11:00",
+   "reason": "Entertainment, and outside today's window (26 October). Ground News Blindspot item."
+  },
+  {
+   "id": "2026-11-12-lo-pope-argentina",
+   "batch": "2026-11-12",
+   "rank": 12,
+   "category": "World",
+   "title": "Pope Leo draws an estimated 2.5 million to Buenos Aires Mass on first papal visit to Argentina since 1987",
+   "summary": "Pope Leo XIV celebrated an open-air Mass in Buenos Aires on 9 November that officials estimated drew 2.5 million people, the largest gathering of his papacy. The same day he met victims of clergy abuse. He celebrated Mass in Córdoba on 10 November and visited Luján on 11 November.\n\nIt is the first papal visit to Argentina since 1987. The 12-day trip also covers Uruguay and Peru and ends on 17 November.",
+   "keyFacts": [
+    "Argentina leg ran 8–11 November",
+    "The Pope met President Javier Milei during the visit",
+    "Next stop: Peru"
+   ],
+   "sources": [
+    {
+     "name": "Buenos Aires Times",
+     "url": "https://www.batimes.com.ar/news/argentina/pope-leo-celebrates-mass-before-estimated-25-million-people-in-buenos-aires.phtml"
+    },
+    {
+     "name": "EWTN News",
+     "url": "https://www.ewtnnews.com/world/US/pope-leo-xiv-praises-the-christian-family-s-contributions-to-argentina"
+    }
+   ],
+   "publishedAt": "2026-11-10T09:00:00+11:00",
+   "createdAt": "2026-11-12T04:30:00+11:00",
+   "reason": "Ceremonial and religious event with no policy outcome."
+  },
+  {
+   "id": "2026-11-12-lo-khawaja",
+   "batch": "2026-11-12",
+   "rank": 13,
+   "category": "Sport",
+   "title": "Khawaja memoir claims whole Australian team knew about 2018 ball-tampering plan",
+   "summary": "Former Test opener Usman Khawaja claims in his memoir Sabr that the whole Australian team knew of the 2018 ball-tampering plan in Cape Town. He also says similar tactics were discussed during the previous Test in Port Elizabeth. That contradicts the Cricket Australia investigation, which found only Steve Smith, David Warner and Cameron Bancroft knew.\n\nKhawaja told captain Pat Cummins and Cricket Australia chief Todd Greenberg about the chapter before the team's South Africa tour. AAP reported he has since cut back some book-tour appearances.",
+   "keyFacts": [
+    "Book published by Penguin Australia in November",
+    "The 2018 investigation named only three players",
+    "Other players' accounts differ from Khawaja's"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://aljazeera.com/sports/2026/11/7/australia-cricket-ball-tampering-sandpapergate-usman-khawaja"
+    },
+    {
+     "name": "AFP (via BSS)",
+     "url": "https://www.bssnews.net/sports/442895"
+    }
+   ],
+   "publishedAt": "2026-11-07T12:00:00+11:00",
+   "createdAt": "2026-11-12T04:30:00+11:00",
+   "reason": "Sport."
+  },
+  {
+   "id": "2026-11-12-lo-walliams",
+   "batch": "2026-11-12",
+   "rank": 14,
+   "category": "Other",
+   "title": "David Walliams faces further allegations; he denies wrongdoing",
+   "summary": "Comedian and children's author David Walliams faced further allegations this week of inappropriate behaviour towards young women, in reporting by The Guardian and ITV. HarperCollins dropped him in December 2025 after an internal investigation, and in September 2026 it stopped publishing his back catalogue.\n\nWalliams strongly denies behaving inappropriately. His spokesperson has said he was never told of the allegations or given a chance to respond to the publisher's investigation.",
+   "keyFacts": [
+    "HarperCollins dropped him in December 2025",
+    "His back catalogue was dropped in September 2026",
+    "He denies all allegations"
+   ],
+   "sources": [
+    {
+     "name": "AFP (via Malay Mail)",
+     "url": "https://www.malaymail.com/news/showbiz/2026/09/19/uk-publisher-harpercollins-drops-little-britain-star-david-walliams-entire-back-catalogue-after-harassment-allegations/235737"
+    },
+    {
+     "name": "ITV News",
+     "url": "https://www.itv.com/news/2025-12-22/david-walliams-dropped-from-childrens-book-festival"
+    }
+   ],
+   "publishedAt": "2026-11-11T12:00:00+11:00",
+   "createdAt": "2026-11-12T04:30:00+11:00",
+   "reason": "Celebrity. I couldn't open this week's new Guardian/ITV report; the background here is from earlier verified coverage."
+  },
+  {
+   "id": "2026-11-12-lo-thomas-markle",
+   "batch": "2026-11-12",
+   "rank": 15,
+   "category": "Other",
+   "title": "Meghan's father Thomas Markle Sr. charged with possessing child abuse material",
+   "summary": "Thomas Markle Sr., 82, the estranged father of Meghan, Duchess of Sussex, was arrested by the FBI in Florida on 6 November. He is charged with one count of possession of child sexual abuse material, according to the US Attorney's Office. The material was allegedly found in two storage units he rented in the Los Angeles area.\n\nHe has not entered a plea, and the allegations have not been tested in court. Meghan described the allegations as deeply disturbing.",
+   "keyFacts": [
+    "Arrested 6 November near Tampa",
+    "Charged on a federal criminal complaint",
+    "Maximum penalty if convicted: 20 years"
+   ],
+   "sources": [
+    {
+     "name": "ABC News (US)",
+     "url": "https://abc7news.com/story/meghan-markles-father-thomas-markle-sr-arrested-fbi-florida/20020257/"
+    },
+    {
+     "name": "Fox 13",
+     "url": "https://www.fox13news.com/news/report-meghan-markles-estranged-dad-arrested-florida"
+    }
+   ],
+   "publishedAt": "2026-11-07T12:00:00+11:00",
+   "createdAt": "2026-11-12T04:30:00+11:00",
+   "reason": "Celebrity-related criminal case, and outside today's window (6 November)."
+  },
+  {
+   "id": "2026-11-12-lo-sussex-brussels",
+   "batch": "2026-11-12",
+   "rank": 16,
+   "category": "Other",
+   "title": "Harry and Meghan speak at European Parliament event on social media harms to children",
+   "summary": "Prince Harry and Meghan attended an event at the European Parliament in Brussels on 10 November. It opened a memorial installation showing images of 50 children who died after harm they suffered on social media. Parliament President Roberta Metsola was also due to speak.\n\nIt was the couple's first public appearance since the allegations against Meghan's father emerged. Harry has campaigned on the risks of social media and AI chatbots for young people.",
+   "keyFacts": [
+    "Event at the European Parliament, Brussels",
+    "The installation is called the Lost Screen Memorial",
+    "Harry spoke on AI chatbots and children in September"
+   ],
+   "sources": [
+    {
+     "name": "AFP (via The Star)",
+     "url": "https://www.thestar.com.my/tech/tech-news/2026/11/05/harry-and-meghan-to-discuss-online-harms-at-eu-parliament-event"
+    },
+    {
+     "name": "Paris Match Belgique",
+     "url": "https://www.parismatch.be/actualites/people/2026/11/05/le-prince-harry-et-meghan-markle-se-rendront-la-semaine-prochaine-a-bruxelles-voici-la-raison-XVH3MNGGCVFYNO72M6ZXM2VKYY/"
+    }
+   ],
+   "publishedAt": "2026-11-11T02:00:00+11:00",
+   "createdAt": "2026-11-12T04:30:00+11:00",
+   "reason": "Royals and celebrity. The online-safety policy itself is covered elsewhere."
+  }
+ ]
+}
