@@ -39,17 +39,19 @@
   .progress{position:fixed;left:0;right:0;top:calc(var(--st) + 50px);height:2px;z-index:11}
   .progress i{display:block;height:100%;width:0;background:var(--accent);transition:width .35s ease, background .3s}
 
-  /* horizontal pager with two vertical feeds */
-  .pager{position:fixed;inset:0;display:flex;overflow-x:scroll;overflow-y:hidden;scroll-snap-type:x mandatory;
-    -webkit-overflow-scrolling:touch;scrollbar-width:none}
-  .pager::-webkit-scrollbar{display:none}
-  .page{flex:0 0 100%;height:100dvh;scroll-snap-align:start;scroll-snap-stop:always;position:relative}
-  .feed{height:100dvh;overflow-y:scroll;scroll-snap-type:y mandatory;-webkit-overflow-scrolling:touch;scrollbar-width:none}
-  .feed::-webkit-scrollbar{display:none}
+  /* pages slide sideways, stories slide vertically; long stories scroll inside their card */
+  .pager{position:fixed;inset:0;overflow:hidden}
+  .pages{display:flex;height:100%;transition:transform .34s cubic-bezier(.2,.8,.2,1);will-change:transform}
+  .page{flex:0 0 100%;height:100dvh;overflow:hidden;position:relative}
+  .track{height:100%;transition:transform .34s cubic-bezier(.2,.8,.2,1);will-change:transform}
+  .dragging{transition:none !important}
 
-  .card{height:100dvh;scroll-snap-align:start;scroll-snap-stop:always;position:relative;
+  .card{height:100dvh;position:relative;
     padding:calc(var(--st) + 66px) 22px calc(var(--sb) + 28px);
-    display:flex;flex-direction:column;overflow-y:auto}
+    display:flex;flex-direction:column;overflow-y:auto;overscroll-behavior:none;
+    -webkit-overflow-scrolling:touch;touch-action:pan-y;scrollbar-width:none}
+  .card::-webkit-scrollbar{display:none}
+
   .card::before{content:"";position:absolute;inset:0;pointer-events:none;
     background:radial-gradient(120% 60% at 0% 0%, color-mix(in srgb, var(--c) 16%, transparent), transparent 60%)}
   .inner{position:relative;max-width:620px;width:100%;margin:auto 0;display:flex;flex-direction:column;gap:16px}
@@ -94,12 +96,12 @@
   </div>
 </div>
 <div class="progress"><i id="prog"></i></div>
-<main class="pager" id="pager">
-  <section class="page"><div class="feed" id="feed-main">
+<main class="pager" id="pager"><div class="pages" id="pages">
+  <section class="page" id="page-main"><div class="track" id="feed-main">
     <section class="card state" style="--c:#6ea8fe"><div class="inner"><h2>Loading…</h2><p>Unspinning the news…</p></div></section>
   </div></section>
-  <section class="page"><div class="feed" id="feed-lo"></div></section>
-</main>
+  <section class="page lo" id="page-lo"><div class="track" id="feed-lo"></div></section>
+</div></main>
 <div class="note" id="note"></div>
 
 <script>
@@ -110,16 +112,18 @@
     "Sport":"#7fd3e8","Other":"#a8a8b8"
   };
   const pager = document.getElementById("pager");
+  const pagesEl = document.getElementById("pages");
   const prog = document.getElementById("prog");
   const note = document.getElementById("note");
   const tabs = { main: document.getElementById("tab-main"), lo: document.getElementById("tab-lo") };
   const counts = { main: document.getElementById("n-main"), lo: document.getElementById("n-lo") };
 
-  // two pages share one read map
-  const pages = {
-    main: { key:"main", feed: document.getElementById("feed-main"), items: [], queue: null, mode: "unread", observer: null },
-    lo:   { key:"lo",   feed: document.getElementById("feed-lo"),   items: [], queue: null, mode: "unread", observer: null }
+  const mk = key => {
+    const pageEl = document.getElementById("page-" + key);
+    return { key, pageEl, track: document.getElementById("feed-" + key),
+      items: [], queue: null, mode: "unread", cards: [], index: 0, timer: null };
   };
+  const pages = { main: mk("main"), lo: mk("lo") };
   let read = {};
   let updatedAt = null;
   let loaded = false;
@@ -137,6 +141,8 @@
   };
   const showNote = (msg, ms=3000) => { note.textContent = msg; note.style.display = "block"; if (ms) setTimeout(()=>note.style.display="none", ms); };
   const byFeedOrder = (a,b) => { const ba=String(a.batch||""), bb=String(b.batch||""); return ba===bb ? (Number(a.rank||99)-Number(b.rank||99)) : (ba<bb?1:-1); };
+  const atTop = c => !c || c.scrollTop <= 1;
+  const atBottom = c => !c || c.scrollTop + c.clientHeight >= c.scrollHeight - 12;
 
   // ---------- read state (on this device) ----------
   const LS = "unspun.read.v1";
@@ -182,9 +188,7 @@
     const h = el("h2"); h.dataset.role = "done-title";
     const txt = el("p"); txt.dataset.role = "done-text";
     inner.append(t, h, txt);
-    if (!isLo) {
-      const hint = el("p","hint"); hint.dataset.role = "lo-hint"; inner.append(hint);
-    }
+    if (!isLo) { const hint = el("p","hint"); hint.dataset.role = "lo-hint"; inner.append(hint); }
     const latest = Date.parse(updatedAt||"");
     if (latest) inner.append(el("p", null, "Last update " + ago(new Date(latest).toISOString()) + "."));
     const b = el("button","btn", p.mode === "unread" ? "Re-read recent stories" : "Back to unread");
@@ -210,17 +214,57 @@
   function renderPage(p, toTop){
     if (!p.queue) p.queue = buildQueue(p);
     const map = new Map(p.items.map(a => [a.id, a]));
-    const prev = p.feed.scrollTop;
-    p.feed.replaceChildren();
+    const keepId = p.cards[p.index] && p.cards[p.index].dataset.id;
+    p.track.replaceChildren();
     if (!p.items.length) {
-      p.feed.append(stateCard(p.key === "lo" ? "Nothing left out" : "No stories yet",
+      p.track.append(stateCard(p.key === "lo" ? "Nothing left out" : "No stories yet",
         p.key === "lo" ? "Every story considered made the Important page." : "Your first batch is on its way."));
     } else {
-      p.queue.map(id => map.get(id)).filter(Boolean).forEach(a => p.feed.append(cardFor(a, p.key === "lo")));
-      p.feed.append(doneCard(p));
+      p.queue.map(id => map.get(id)).filter(Boolean).forEach(a => p.track.append(cardFor(a, p.key === "lo")));
+      p.track.append(doneCard(p));
     }
-    p.feed.scrollTop = toTop ? 0 : prev;
-    observe(p);
+    p.cards = Array.from(p.track.children);
+    if (toTop) p.index = 0;
+    else if (keepId) { const i = p.cards.findIndex(c => c.dataset.id === keepId); p.index = i >= 0 ? i : Math.min(p.index, p.cards.length - 1); }
+    p.index = Math.max(0, Math.min(p.index, p.cards.length - 1));
+    place(p, false);
+    startRead(p);
+  }
+
+  // ---------- movement ----------
+  function place(p, animate){
+    if (!animate) p.track.classList.add("dragging");
+    p.track.style.transform = "translateY(" + (-p.index * 100) + "%)";
+    if (!animate) { void p.track.offsetHeight; p.track.classList.remove("dragging"); }
+  }
+  function step(p, dir){
+    const n = p.cards.length, to = Math.max(0, Math.min(n - 1, p.index + dir));
+    if (to !== p.index) {
+      p.index = to;
+      const c = p.cards[to]; if (c) c.scrollTop = 0;   // every story starts from its headline
+    }
+    place(p, true); startRead(p); updateUI();
+  }
+  function placePages(animate){
+    if (!animate) pagesEl.classList.add("dragging");
+    pagesEl.style.transform = "translateX(" + (active === "lo" ? -100 : 0) + "%)";
+    if (!animate) { void pagesEl.offsetHeight; pagesEl.classList.remove("dragging"); }
+  }
+  function setPage(k){
+    if (k !== active) { active = k; startRead(pages[k]); }
+    placePages(true); updateUI();
+  }
+
+
+  // ---------- reading ----------
+  function startRead(p){
+    clearTimeout(p.timer);
+    const c = p.cards[p.index]; const id = c && c.dataset.id;
+    if (!id || read[id]) return;
+    p.timer = setTimeout(() => {
+      if (active !== p.key || p.cards[p.index] !== c) return;
+      read[id] = Date.now(); c.classList.add("read"); saveRead(); updateUI();
+    }, 1400);
   }
 
   function unreadIn(p){ return p.items.filter(a => !read[a.id]).length; }
@@ -229,58 +273,105 @@
     for (const k of ["main","lo"]) {
       const p = pages[k], n = unreadIn(p);
       counts[k].textContent = n ? String(n) : "✓";
-      const dt = p.feed.querySelector('[data-role="done-title"]'), dx = p.feed.querySelector('[data-role="done-text"]');
+      const dt = p.track.querySelector('[data-role="done-title"]'), dx = p.track.querySelector('[data-role="done-text"]');
       if (dt && dx) {
         const left = (p.queue||[]).filter(id => !read[id]).length;
         if (p.mode !== "unread") { dt.textContent = "That's the last 48 hours."; dx.textContent = "Tap below to go back to unread only."; }
-        else if (left) { dt.textContent = left + (left === 1 ? " story" : " stories") + " skipped"; dx.textContent = "Scroll back up to catch " + (left === 1 ? "it" : "them") + ", or come back later."; }
+        else if (left) { dt.textContent = left + (left === 1 ? " story" : " stories") + " skipped"; dx.textContent = "Swipe back down to catch " + (left === 1 ? "it" : "them") + ", or come back later."; }
         else if (k === "main") { dt.textContent = "You're up to date."; dx.textContent = "That's everything that matters right now. New stories land each morning around 6:40."; }
         else { dt.textContent = "That's everything left out."; dx.textContent = "Swipe right to go back to Important."; }
       }
       if (k === "main") {
-        const hint = p.feed.querySelector('[data-role="lo-hint"]');
+        const hint = p.track.querySelector('[data-role="lo-hint"]');
         if (hint) { const lo = unreadIn(pages.lo); hint.textContent = lo ? "Swipe left for " + lo + " left-out " + (lo === 1 ? "story" : "stories") + " →" : ""; }
       }
     }
     tabs.main.classList.toggle("on", active === "main");
     tabs.lo.classList.toggle("on", active === "lo");
-    const p = pages[active], ids = p.queue || [];
-    const left = ids.filter(id => !read[id]).length;
-    prog.style.width = (ids.length ? ((ids.length - left) / ids.length * 100) : 0) + "%";
+    const p = pages[active], stories = p.cards.filter(c => c.dataset.id).length;
+    prog.style.width = (stories ? Math.min(p.index, stories) / stories * 100 : 0) + "%";
     prog.style.background = active === "lo" ? "var(--amber)" : "var(--accent)";
   }
 
-  function observe(p){
-    if (p.observer) p.observer.disconnect();
-    const timers = new Map();
-    p.observer = new IntersectionObserver(entries => {
-      entries.forEach(en => {
-        const id = en.target.dataset.id; if (!id) return;
-        if (en.isIntersecting && en.intersectionRatio >= 0.6) {
-          if (!read[id] && !timers.has(id)) timers.set(id, setTimeout(() => {
-            timers.delete(id);
-            if (active !== p.key) return; // only count what's actually on screen
-            read[id] = Date.now(); en.target.classList.add("read"); saveRead(); updateUI();
-          }, 1400));
-        } else if (timers.has(id)) { clearTimeout(timers.get(id)); timers.delete(id); }
-      });
-    }, { root: p.feed, threshold: [0, 0.6, 1] });
-    p.feed.querySelectorAll(".card[data-id]").forEach(c => p.observer.observe(c));
-  }
-
-  // ---------- page switching ----------
-  function goTo(k){ pager.scrollTo({ left: k === "lo" ? pager.clientWidth : 0, behavior: "smooth" }); }
-  tabs.main.onclick = () => goTo("main");
-  tabs.lo.onclick = () => goTo("lo");
-  let st = null;
-  pager.addEventListener("scroll", () => {
-    clearTimeout(st);
-    st = setTimeout(() => {
-      const k = pager.scrollLeft > pager.clientWidth / 2 ? "lo" : "main";
-      if (k !== active) { active = k; observe(pages[k]); updateUI(); }
-    }, 60);
+  // ---------- touch: one swipe = one story ----------
+  // If the story fits on screen, any vertical swipe moves on.
+  // If it's long, it scrolls normally; once you're at the bottom, a swipe up always moves to the next one
+  // (and at the top, a swipe down always goes back).
+  const DIST = 50, SPEED = 0.3; // px, px/ms
+  let g = null;
+  pager.addEventListener("touchstart", e => {
+    if (e.touches.length !== 1) { g = null; return; }
+    const t = e.touches[0], p = pages[active];
+    g = { x0: t.clientX, y0: t.clientY, t0: performance.now(), mode: null, p, card: p.cards[p.index], dx: 0, dy: 0 };
   }, { passive: true });
-  window.addEventListener("resize", () => { pager.scrollLeft = active === "lo" ? pager.clientWidth : 0; });
+
+  pager.addEventListener("touchmove", e => {
+    if (!g) return;
+    const t = e.touches[0];
+    const dx = t.clientX - g.x0, dy = t.clientY - g.y0;
+    if (!g.mode) {
+      if (Math.abs(dx) < 4 && Math.abs(dy) < 4) return;
+      if (Math.abs(dx) > Math.abs(dy) * 1.2) g.mode = "h";
+      else g.mode = ((dy < 0 && atBottom(g.card)) || (dy > 0 && atTop(g.card))) ? "v" : "native";
+      if (g.mode === "v") g.p.track.classList.add("dragging");
+      if (g.mode === "h") pagesEl.classList.add("dragging");
+    }
+    if (g.mode === "native") return;   // still reading a long story: let it scroll, it stops at the end
+    e.preventDefault();
+    g.dx = t.clientX - g.x0; g.dy = t.clientY - g.y0;
+    if (g.mode === "v") {
+      let d = g.dy; const n = g.p.cards.length;
+      if ((g.p.index === 0 && d > 0) || (g.p.index === n - 1 && d < 0)) d *= 0.3;
+      g.p.track.style.transform = "translateY(calc(" + (-g.p.index * 100) + "% + " + d + "px))";
+    } else {
+      let d = g.dx; const pi = active === "lo" ? 1 : 0;
+      if ((pi === 0 && d > 0) || (pi === 1 && d < 0)) d *= 0.3;
+      pagesEl.style.transform = "translateX(calc(" + (-pi * 100) + "% + " + d + "px))";
+    }
+  }, { passive: false });
+
+  function endTouch(cancelled){
+    if (!g) return;
+    const dt = Math.max(1, performance.now() - g.t0);
+    if (g.mode === "v") {
+      g.p.track.classList.remove("dragging");
+      const go = !cancelled && (Math.abs(g.dy) > DIST || Math.abs(g.dy) / dt > SPEED);
+      if (go) step(g.p, g.dy < 0 ? 1 : -1); else place(g.p, true);
+    } else if (g.mode === "h") {
+      pagesEl.classList.remove("dragging");
+      const go = !cancelled && (Math.abs(g.dx) > DIST || Math.abs(g.dx) / dt > SPEED);
+      if (go && g.dx < 0 && active === "main") setPage("lo");
+      else if (go && g.dx > 0 && active === "lo") setPage("main");
+      else placePages(true);
+    }
+    g = null;
+  }
+  pager.addEventListener("touchend", () => endTouch(false));
+  pager.addEventListener("touchcancel", () => endTouch(true));
+
+  // ---------- mouse wheel and keyboard (for desktop) ----------
+  let wheelLock = 0;
+  pager.addEventListener("wheel", e => {
+    const p = pages[active], c = p.cards[p.index], now = Date.now();
+    if (Math.abs(e.deltaX) > Math.abs(e.deltaY)) {
+      e.preventDefault(); if (now < wheelLock || Math.abs(e.deltaX) < 20) return;
+      wheelLock = now + 700; setPage(e.deltaX > 0 ? "lo" : "main"); return;
+    }
+    if ((e.deltaY > 0 && atBottom(c)) || (e.deltaY < 0 && atTop(c))) {
+      e.preventDefault(); if (now < wheelLock || Math.abs(e.deltaY) < 15) return;
+      wheelLock = now + 700; step(p, e.deltaY > 0 ? 1 : -1);
+    }
+  }, { passive: false });
+  document.addEventListener("keydown", e => {
+    const p = pages[active];
+    if (e.key === "ArrowDown" || e.key === "PageDown") { e.preventDefault(); step(p, 1); }
+    else if (e.key === "ArrowUp" || e.key === "PageUp") { e.preventDefault(); step(p, -1); }
+    else if (e.key === "ArrowRight") setPage("lo");
+    else if (e.key === "ArrowLeft") setPage("main");
+  });
+
+  tabs.main.onclick = () => setPage("main");
+  tabs.lo.onclick = () => setPage("lo");
 
   // ---------- data ----------
   async function load(){
@@ -296,7 +387,7 @@
     read = loadLocal();
     let d;
     try { d = await load(); }
-    catch { pages.main.feed.replaceChildren(stateCard("Can't reach your stories", "Check you're online, then reopen Unspun.")); return; }
+    catch { pages.main.track.replaceChildren(stateCard("Can't reach your stories", "Check you're online, then reopen Unspun.")); return; }
     pages.main.items = d.main; pages.lo.items = d.lo; loaded = true;
     renderPage(pages.main, true); renderPage(pages.lo, true); updateUI();
   }
