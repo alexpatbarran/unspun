@@ -314,7 +314,7 @@
    ],
    "publishedAt": "2026-11-11T07:00:00+11:00",
    "createdAt": "2026-11-12T04:30:00+11:00",
-   "reason": "Restatement of positions both sides have held since October (Iran) and August (US). No new development."
+   "reason": "Restatement, nothing new"
   },
   {
    "id": "2026-11-12-lo-spain-strike",
@@ -340,7 +340,7 @@
    ],
    "publishedAt": "2026-11-11T10:00:00+11:00",
    "createdAt": "2026-11-12T04:30:00+11:00",
-   "reason": "Could not yet find an original report on turnout or disruption on the day. Will move it to Important once confirmed."
+   "reason": "Not yet confirmed"
   },
   {
    "id": "2026-11-12-lo-duty-of-care",
@@ -366,224 +366,12 @@
    ],
    "publishedAt": "2026-11-11T06:00:00+11:00",
    "createdAt": "2026-11-12T04:30:00+11:00",
-   "reason": "No new development today. The next real step is the Senate committee report on 20 November."
-  },
-  {
-   "id": "2026-11-12-lo-uss-colorado",
-   "batch": "2026-11-12",
-   "rank": 4,
-   "category": "Australia",
-   "title": "USS Colorado named first US nuclear submarine to rotate through Australia under AUKUS",
-   "summary": "The US, Australia and the UK announced on 26 October that the Virginia-class submarine USS Colorado will be the first boat assigned to the AUKUS rotational force at HMAS Stirling in Western Australia, from late 2027. Defence Minister Richard Marles announced it jointly with his US and UK counterparts.\n\nThe submarine arrived at HMAS Stirling on 27 October for a month-long maintenance period. AAP noted the plan follows controversy in June over reports the US would deliver less than first promised.",
-   "keyFacts": [
-    "Up to four US and one UK submarine will rotate through HMAS Stirling",
-    "Rotations begin in late 2027",
-    "Ground News flagged it as barely covered by left-leaning outlets"
-   ],
-   "sources": [
-    {
-     "name": "AAP (via Canberra Times)",
-     "url": "https://www.canberratimes.com.au/story/9380487/first-aukus-nuclear-sub-to-come-to-australia-revealed/"
-    },
-    {
-     "name": "Stars and Stripes",
-     "url": "https://www.stripes.com/branches/navy/2026-10-28/uss-colorado-submarine-australia-aukus-23285205.html"
-    }
-   ],
-   "publishedAt": "2026-10-27T10:00:00+11:00",
-   "createdAt": "2026-11-12T04:30:00+11:00",
-   "reason": "Outside today's window: announced 26–27 October. Ground News Blindspot item (little coverage from left-leaning outlets)."
-  },
-  {
-   "id": "2026-11-12-lo-oleshky",
-   "batch": "2026-11-12",
-   "rank": 5,
-   "category": "World",
-   "title": "Localised ceasefire in Russian-occupied Oleshky brokered by Melania Trump, White House says",
-   "summary": "The White House said on 23 October that First Lady Melania Trump had secured a localised ceasefire between Russia and Ukraine in Oleshky, a Russian-occupied city in Kherson region. The pause was meant to let humanitarian aid in and allow civilians to evacuate.\n\nThe White House said it would begin on 29 October. A senior Ukrainian official said 27 October, and the Kremlin said timing was being coordinated. Kremlin spokesman Dmitry Peskov thanked the First Lady. Ukraine had repeatedly asked for a local ceasefire to organise evacuations.",
-   "keyFacts": [
-    "Oleshky has been occupied by Russia since February 2022",
-    "Residents are mainly elderly, with limited food and medicine, according to the White House",
-    "Ground News flagged it as barely covered by right-leaning outlets"
-   ],
-   "sources": [
-    {
-     "name": "White House (official)",
-     "url": "https://whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-secures-ceasefire-between-russia-and-ukraine-localized-to-oleshky"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/23/white-house-says-melania-trump-secured-a-ceasefire-in-ukraines-oleshky"
-    },
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/breaking-russia-ukraine-agree-to-oleshky-ceasefire-mediated-by-melania-trump-white-house-says/"
-    }
-   ],
-   "publishedAt": "2026-10-24T08:00:00+11:00",
-   "createdAt": "2026-11-12T04:30:00+11:00",
-   "reason": "Outside today's window: announced 23 October. Ground News Blindspot item (little coverage from right-leaning outlets)."
-  },
-  {
-   "id": "2026-11-12-lo-uk-budget-fixes",
-   "batch": "2026-11-12",
-   "rank": 6,
-   "category": "World",
-   "title": "UK government cuts tariffs on 100+ grocery items in pre-Budget 'everyday fixes'",
-   "summary": "UK Chancellor John Healey announced the removal of import tariffs on more than 100 grocery products, including marmalade, gherkins and baked beans, as part of a package of \"everyday fixes\" before his first Budget on 28 October. The package also made a higher tax-free mileage allowance permanent.\n\nThe Conservatives dismissed the measures as tinkering. Shadow Chancellor Andrew Griffith said cheaper gherkins were an inadequate response to higher taxes and prices.",
-   "keyFacts": [
-    "Budget delivered on 28 October",
-    "Andy Burnham became Prime Minister in July",
-    "The announcement came from the government's own press release"
-   ],
-   "sources": [
-    {
-     "name": "UK Government (official)",
-     "url": "https://www.gov.uk/government/news/everyday-fixes-to-make-life-easier-for-millions-of-britons"
-    },
-    {
-     "name": "PA (via Irish News)",
-     "url": "https://www.irishnews.com/news/uk/ministers-unveil-five-everyday-fixes-to-help-with-living-costs-ahead-of-budget-NHDAXMD2ABNNBD6LZGRUK4CMM4/"
-    }
-   ],
-   "publishedAt": "2026-10-27T09:00:00+11:00",
-   "createdAt": "2026-11-12T04:30:00+11:00",
-   "reason": "Outside today's window: 26–28 October. Ground News Blindspot item (little coverage from right-leaning outlets)."
-  },
-  {
-   "id": "2026-11-12-lo-raskin-diesel",
-   "batch": "2026-11-12",
-   "rank": 7,
-   "category": "Politics",
-   "title": "Raskin warns US companies they face penalties for importing Russian diesel under Trump deal",
-   "summary": "Representative Jamie Raskin, the top Democrat on the House Judiciary Committee, wrote to US fuel-industry groups on 26 October. He warned that importing Russian diesel under President Trump's deal with Moscow would breach the Ending Importation of Russian Oil Act of 2022. He said individuals could face up to 20 years in prison.\n\nRaskin argued that an executive decision cannot override the 2022 law. The White House disputed his reading and said the agreement complies with the law.",
-   "keyFacts": [
-    "Letters went to the American Petroleum Institute, the US Chamber of Commerce and AFPM",
-    "The dispute is over whether a 2022 law overrides sanctions relief",
-    "Ground News flagged it as barely covered by left-leaning outlets"
-   ],
-   "sources": [
-    {
-     "name": "United24 Media",
-     "url": "https://united24media.com/world/trump-struck-a-russian-diesel-deal-but-us-buyers-could-still-face-20-years-in-prison-23831"
-    },
-    {
-     "name": "Benzinga",
-     "url": "https://www.benzinga.com/node/62609289"
-    }
-   ],
-   "publishedAt": "2026-10-27T09:00:00+11:00",
-   "createdAt": "2026-11-12T04:30:00+11:00",
-   "reason": "Outside today's window: 26 October. Ground News Blindspot item (little coverage from left-leaning outlets)."
-  },
-  {
-   "id": "2026-11-12-lo-newsom-dsa",
-   "batch": "2026-11-12",
-   "rank": 8,
-   "category": "Politics",
-   "title": "Newsom recorded saying democratic socialists will be 'dominant' in the Democratic Party",
-   "summary": "California Governor Gavin Newsom was recorded on 17 October by an undercover reporter for Townhall during a campaign stop in New Hampshire. He said the energy behind the Democratic Socialists of America would become dominant and mainstream in the Democratic Party.\n\nIn a PBS interview in September, Newsom said the party was \"pretty aligned\" with DSA ideas such as universal healthcare. He described democratic socialist as largely a label for what he calls progressives.",
-   "keyFacts": [
-    "Recorded 17 October; published around 27 October",
-    "Newsom is widely seen as a possible 2028 candidate",
-    "Ground News flagged it as barely covered by left-leaning outlets"
-   ],
-   "sources": [
-    {
-     "name": "Daily Signal",
-     "url": "https://www.dailysignal.com/?p=241225"
-    },
-    {
-     "name": "Fox News",
-     "url": "https://www.foxnews.com/politics/newsom-admits-democratic-socialist-ideas-mainstream-democrat-party-pretty-aligned.amp"
-    }
-   ],
-   "publishedAt": "2026-10-27T09:00:00+11:00",
-   "createdAt": "2026-11-12T04:30:00+11:00",
-   "reason": "Outside today's window (late October), and it's political commentary rather than a decision or event. Ground News Blindspot item (little coverage from left-leaning outlets)."
-  },
-  {
-   "id": "2026-11-12-lo-trump-heckled",
-   "batch": "2026-11-12",
-   "rank": 9,
-   "category": "Politics",
-   "title": "Trump heckled at Mississippi rally over White House ballroom",
-   "summary": "A man interrupted President Trump at a midterm rally in Corinth, Mississippi, on 26 October, shouting an insult about the new White House ballroom and calling for release of the Epstein files. Trump told him to \"go home\", and security removed him.\n\nThe privately funded ballroom project involved demolishing the White House East Wing. It has drawn criticism over its cost and its impact on the historic building.",
-   "keyFacts": [
-    "Rally held 26 October in Corinth",
-    "Trump said, without evidence, that protesters were paid",
-    "Ground News flagged it as barely covered by right-leaning outlets"
-   ],
-   "sources": [
-    {
-     "name": "IBTimes UK",
-     "url": "https://ibtimes.co.uk/heckler-protests-trump-white-house-ballroom-mississippi-rally-1827991"
-    },
-    {
-     "name": "Atlanta Black Star",
-     "url": "https://atlantablackstar.com/2026/10/26/trump-hit-with-profanity-laced-jeer/"
-    }
-   ],
-   "publishedAt": "2026-10-27T13:00:00+11:00",
-   "createdAt": "2026-11-12T04:30:00+11:00",
-   "reason": "Outside today's window (26 October), and a rally heckle is not a policy event. Ground News Blindspot item (little coverage from right-leaning outlets)."
-  },
-  {
-   "id": "2026-11-12-lo-nc-candidate",
-   "batch": "2026-11-12",
-   "rank": 10,
-   "category": "World",
-   "title": "North Carolina state Senate candidate arrested after standoff with police",
-   "summary": "Police in Cary, North Carolina, arrested Jonathan D. Miller, the Libertarian nominee for state Senate District 16, on 26 October after an hours-long standoff. Officers had gone to his home on a welfare check after calls from people worried about his social media posts.\n\nPolice Chief Terry Sult said Miller was armed and ran into nearby woods. He was taken into custody about 3pm. No shots were fired and no one was injured. Police said he had a warrant for being a felon in possession of a firearm.",
-   "keyFacts": [
-    "Arrested 26 October in Cary",
-    "No injuries",
-    "Ground News flagged it as barely covered by left-leaning outlets"
-   ],
-   "sources": [
-    {
-     "name": "Fox News",
-     "url": "https://www.foxnews.com/politics/armed-senate-hopeful-triggers-police-manhunt-near-grade-school-alarming-tweets-go-viral"
-    },
-    {
-     "name": "IBTimes UK",
-     "url": "https://www.ibtimes.co.uk/north-carolina-senate-candidate-detained-cary-police-operation-1828025"
-    }
-   ],
-   "publishedAt": "2026-10-27T09:00:00+11:00",
-   "createdAt": "2026-11-12T04:30:00+11:00",
-   "reason": "Local crime with no national significance, and outside today's window (26 October). Ground News Blindspot item."
-  },
-  {
-   "id": "2026-11-12-lo-neil-young",
-   "batch": "2026-11-12",
-   "rank": 11,
-   "category": "Other",
-   "title": "Neil Young sues Trump political committee for US$10m over rally song",
-   "summary": "Musician Neil Young sued one of President Trump's political action committees on 26 October. He alleges it played \"Rockin' in the Free World\" without a licence at a 12 October rally in Youngstown, Ohio.\n\nThe lawsuit says Trump's 2020 campaign settled an earlier case and agreed not to use the song again without permission. The suit seeks US$10 million.",
-   "keyFacts": [
-    "Filed in federal court in Richmond, Virginia",
-    "Second suit by Young over the same song",
-    "Ground News flagged it as barely covered by right-leaning outlets"
-   ],
-   "sources": [
-    {
-     "name": "Courthouse News",
-     "url": "https://www.courthousenews.com/rocker-neil-young-sues-trump-for-10-million-over-use-of-his-song/"
-    },
-    {
-     "name": "Stereogum",
-     "url": "https://stereogum.com/2515679/neil-young-sues-trump-pac-over-rockin-in-the-free-world/news"
-    }
-   ],
-   "publishedAt": "2026-10-27T09:00:00+11:00",
-   "createdAt": "2026-11-12T04:30:00+11:00",
-   "reason": "Entertainment, and outside today's window (26 October). Ground News Blindspot item."
+   "reason": "No new development"
   },
   {
    "id": "2026-11-12-lo-pope-argentina",
    "batch": "2026-11-12",
-   "rank": 12,
+   "rank": 4,
    "category": "World",
    "title": "Pope Leo draws an estimated 2.5 million to Buenos Aires Mass on first papal visit to Argentina since 1987",
    "summary": "Pope Leo XIV celebrated an open-air Mass in Buenos Aires on 9 November that officials estimated drew 2.5 million people, the largest gathering of his papacy. The same day he met victims of clergy abuse. He celebrated Mass in Córdoba on 10 November and visited Luján on 11 November.\n\nIt is the first papal visit to Argentina since 1987. The 12-day trip also covers Uruguay and Peru and ends on 17 November.",
@@ -604,12 +392,12 @@
    ],
    "publishedAt": "2026-11-10T09:00:00+11:00",
    "createdAt": "2026-11-12T04:30:00+11:00",
-   "reason": "Ceremonial and religious event with no policy outcome."
+   "reason": "Ceremonial event"
   },
   {
    "id": "2026-11-12-lo-khawaja",
    "batch": "2026-11-12",
-   "rank": 13,
+   "rank": 5,
    "category": "Sport",
    "title": "Khawaja memoir claims whole Australian team knew about 2018 ball-tampering plan",
    "summary": "Former Test opener Usman Khawaja claims in his memoir Sabr that the whole Australian team knew of the 2018 ball-tampering plan in Cape Town. He also says similar tactics were discussed during the previous Test in Port Elizabeth. That contradicts the Cricket Australia investigation, which found only Steve Smith, David Warner and Cameron Bancroft knew.\n\nKhawaja told captain Pat Cummins and Cricket Australia chief Todd Greenberg about the chapter before the team's South Africa tour. AAP reported he has since cut back some book-tour appearances.",
@@ -630,12 +418,12 @@
    ],
    "publishedAt": "2026-11-07T12:00:00+11:00",
    "createdAt": "2026-11-12T04:30:00+11:00",
-   "reason": "Sport."
+   "reason": "Sport"
   },
   {
    "id": "2026-11-12-lo-walliams",
    "batch": "2026-11-12",
-   "rank": 14,
+   "rank": 6,
    "category": "Other",
    "title": "David Walliams faces further allegations; he denies wrongdoing",
    "summary": "Comedian and children's author David Walliams faced further allegations this week of inappropriate behaviour towards young women, in reporting by The Guardian and ITV. HarperCollins dropped him in December 2025 after an internal investigation, and in September 2026 it stopped publishing his back catalogue.\n\nWalliams strongly denies behaving inappropriately. His spokesperson has said he was never told of the allegations or given a chance to respond to the publisher's investigation.",
@@ -656,12 +444,12 @@
    ],
    "publishedAt": "2026-11-11T12:00:00+11:00",
    "createdAt": "2026-11-12T04:30:00+11:00",
-   "reason": "Celebrity. I couldn't open this week's new Guardian/ITV report; the background here is from earlier verified coverage."
+   "reason": "Celebrity"
   },
   {
    "id": "2026-11-12-lo-thomas-markle",
    "batch": "2026-11-12",
-   "rank": 15,
+   "rank": 7,
    "category": "Other",
    "title": "Meghan's father Thomas Markle Sr. charged with possessing child abuse material",
    "summary": "Thomas Markle Sr., 82, the estranged father of Meghan, Duchess of Sussex, was arrested by the FBI in Florida on 6 November. He is charged with one count of possession of child sexual abuse material, according to the US Attorney's Office. The material was allegedly found in two storage units he rented in the Los Angeles area.\n\nHe has not entered a plea, and the allegations have not been tested in court. Meghan described the allegations as deeply disturbing.",
@@ -682,12 +470,12 @@
    ],
    "publishedAt": "2026-11-07T12:00:00+11:00",
    "createdAt": "2026-11-12T04:30:00+11:00",
-   "reason": "Celebrity-related criminal case, and outside today's window (6 November)."
+   "reason": "Celebrity"
   },
   {
    "id": "2026-11-12-lo-sussex-brussels",
    "batch": "2026-11-12",
-   "rank": 16,
+   "rank": 8,
    "category": "Other",
    "title": "Harry and Meghan speak at European Parliament event on social media harms to children",
    "summary": "Prince Harry and Meghan attended an event at the European Parliament in Brussels on 10 November. It opened a memorial installation showing images of 50 children who died after harm they suffered on social media. Parliament President Roberta Metsola was also due to speak.\n\nIt was the couple's first public appearance since the allegations against Meghan's father emerged. Harry has campaigned on the risks of social media and AI chatbots for young people.",
@@ -708,7 +496,7 @@
    ],
    "publishedAt": "2026-11-11T02:00:00+11:00",
    "createdAt": "2026-11-12T04:30:00+11:00",
-   "reason": "Royals and celebrity. The online-safety policy itself is covered elsewhere."
+   "reason": "Celebrity"
   }
  ]
 }
