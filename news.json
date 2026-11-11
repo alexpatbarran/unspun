@@ -1,10 +1,39 @@
 {
- "updatedAt": "2026-11-12T04:30:00+11:00",
+ "updatedAt": "2026-11-12T10:35:00+11:00",
  "articles": [
+  {
+   "id": "2026-11-12-mississippi-senate",
+   "batch": "2026-11-12",
+   "rank": 1,
+   "category": "World",
+   "title": "Democrat Scott Colom wins Mississippi US Senate seat, AP projects",
+   "summary": "Democrat Scott Colom has won Mississippi's US Senate race, defeating Republican incumbent Cindy Hyde-Smith, according to projections by the Associated Press and other outlets on Wednesday US time. The result came after more than a week of counting in a race that had been too close to call since the 3 November election.\n\nAP figures reported by WDAM put Colom on 49.2 per cent of the vote. Hyde-Smith has held the seat since 2018. Her response to the projection was not included in the AP report carried by WDAM.",
+   "keyFacts": [
+    "Colom is a district attorney from Columbus, Mississippi",
+    "The race stayed too close to call for more than a week after polling day",
+    "The winner serves a six-year term"
+   ],
+   "sources": [
+    {
+     "name": "NBC News",
+     "url": "https://www.nbcnews.com/politics/2026-election/scott-colom-mississippi-senate-election-win-democrat-hyde-smith-rcna605729"
+    },
+    {
+     "name": "NPR",
+     "url": "https://www.npr.org/2026/11/11/g-s1-151688/mississippi-senate-race-scott-colom"
+    },
+    {
+     "name": "AP (via WDAM)",
+     "url": "https://www.wdam.com/2026/11/11/colom-claims-us-senate-seat-ending-hyde-smiths-8-year-tenure/"
+    }
+   ],
+   "publishedAt": "2026-11-12T10:08:00+11:00",
+   "createdAt": "2026-11-12T10:35:00+11:00"
+  },
   {
    "id": "2026-11-12-abu-dhabi-talks",
    "batch": "2026-11-12",
-   "rank": 1,
+   "rank": 2,
    "category": "World",
    "title": "Russia and Ukraine agree to large prisoner swap; no breakthrough on ending the war",
    "summary": "Two days of US-mediated talks between Russian and Ukrainian delegations in Abu Dhabi ended on Wednesday with agreement on a large exchange of prisoners of war. Russia's chief negotiator, Vladimir Medinsky, said both sides had agreed to the swap. Ukraine's delegation was led by Rustem Umerov.\n\nNo ceasefire was agreed. US envoy Jared Kushner said territorial issues would be the hardest to settle but that progress was made on a post-war security framework. He said he and Steve Witkoff would travel to Moscow to brief Vladimir Putin and then meet Volodymyr Zelensky in Dublin.",
@@ -28,31 +57,6 @@
     }
    ],
    "publishedAt": "2026-11-12T01:30:00+11:00",
-   "createdAt": "2026-11-12T03:30:00+11:00"
-  },
-  {
-   "id": "2026-11-12-qantas-accenture",
-   "batch": "2026-11-12",
-   "rank": 2,
-   "category": "Australia",
-   "title": "Qantas to cut 850 corporate jobs in outsourcing deal with Accenture",
-   "summary": "Qantas told staff on Tuesday it will cut 850 positions after signing an outsourcing deal with consultancy Accenture. The first phase covers finance, procurement, human resources and marketing, with the Sydney headquarters most affected. AAP reports most of Accenture's work for Qantas will be done in India, with some roles staying in Australia.\n\nChief executive Vanessa Hudson linked the move to modernising technology and the impact of AI. The Australian Services Union criticised the cuts as sending skills offshore. Transport Minister Catherine King called the decision extremely disappointing.",
-   "keyFacts": [
-    "850 positions; some reports put the total near 1,000",
-    "Qantas reported a $1.3 billion net profit for 2025/26 in August",
-    "Qantas says it will consult affected staff and redeploy where possible"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/qantas-to-slash-hundreds-of-jobs-send-roles-overseas"
-    },
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-10/850-jobs-to-go-from-qantas-as-airline-moves-roles-overseas/107368120"
-    }
-   ],
-   "publishedAt": "2026-11-10T13:00:00+11:00",
    "createdAt": "2026-11-12T03:30:00+11:00"
   },
   {
@@ -81,9 +85,84 @@
    "createdAt": "2026-11-12T03:30:00+11:00"
   },
   {
-   "id": "2026-11-12-hegseth-house-leaders",
+   "id": "2026-11-12-nab-underpayment-undertaking",
    "batch": "2026-11-12",
    "rank": 4,
+   "category": "Business",
+   "title": "NAB to repay $169m to 66,000 underpaid workers under Fair Work undertaking",
+   "summary": "National Australia Bank has signed an enforceable undertaking with the Fair Work Ombudsman over underpayments affecting 65,999 current and former staff between 2012 and 2026, the regulator announced on Thursday. NAB will pay $127 million in wages, $34 million in interest and $8 million in superannuation.\n\nThe bank will also make a $2 million contrition payment to the Commonwealth, which the regulator described as the largest under such an undertaking. NAB self-reported the problems in late 2019. Fair Work Ombudsman Anna Booth criticised the bank's failure to build compliant payroll systems. The undertaking requires an independent payroll audit and reporting to the board.",
+   "keyFacts": [
+    "Individual amounts range from under $5 to more than $87,000",
+    "NAB says it has already paid at least $155 million",
+    "No court penalty applies under an enforceable undertaking"
+   ],
+   "sources": [
+    {
+     "name": "HRD Australia",
+     "url": "https://www.hcamag.com/au/specialisation/employment-law/nab-signs-undertaking-over-127m-underpayments/597051"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-12/asx-markets-business-news-live-updates-thursday-12-november/107374826"
+    }
+   ],
+   "publishedAt": "2026-11-12T08:04:00+11:00",
+   "createdAt": "2026-11-12T10:35:00+11:00"
+  },
+  {
+   "id": "2026-11-12-abs-lending-record-fall",
+   "batch": "2026-11-12",
+   "rank": 5,
+   "category": "Economy",
+   "title": "New home loans fall 15 per cent in September quarter, largest drop on record",
+   "summary": "The number of new home loans in Australia fell 15.0 per cent to 111,878 in the September quarter, the Australian Bureau of Statistics said on Wednesday. The value of new loans fell 15.5 per cent to $81.2 billion, the largest quarterly fall since the series began in 2002.\n\nNew investor loans fell 30.6 per cent in number and 32.3 per cent in value, both record falls. ABS head of finance statistics Mish Tan said investor activity reflected more than borrowing costs, including possible tax changes and expectations of lower house prices. Workplace Relations Minister Amanda Rishworth told the ABC the data showed investors moving to new homes.",
+   "keyFacts": [
+    "Owner-occupier loans fell 5.3 per cent",
+    "First home buyer loans fell 8.6 per cent",
+    "It was the third straight quarterly fall in investor loans"
+   ],
+   "sources": [
+    {
+     "name": "Australian Bureau of Statistics",
+     "url": "https://www.abs.gov.au/media-centre/media-releases/largest-quarterly-falls-record-led-loans-investors"
+    },
+    {
+     "name": "ABS Lending indicators",
+     "url": "https://www.abs.gov.au/statistics/economy/finance/lending-indicators/latest-release"
+    }
+   ],
+   "publishedAt": "2026-11-11T11:30:00+11:00",
+   "createdAt": "2026-11-12T10:35:00+11:00"
+  },
+  {
+   "id": "2026-11-12-qantas-accenture",
+   "batch": "2026-11-12",
+   "rank": 6,
+   "category": "Australia",
+   "title": "Qantas to cut 850 corporate jobs in outsourcing deal with Accenture",
+   "summary": "Qantas told staff on Tuesday it will cut 850 positions after signing an outsourcing deal with consultancy Accenture. The first phase covers finance, procurement, human resources and marketing, with the Sydney headquarters most affected. AAP reports most of Accenture's work for Qantas will be done in India, with some roles staying in Australia.\n\nChief executive Vanessa Hudson linked the move to modernising technology and the impact of AI. The Australian Services Union criticised the cuts as sending skills offshore. Transport Minister Catherine King called the decision extremely disappointing.",
+   "keyFacts": [
+    "850 positions; some reports put the total near 1,000",
+    "Qantas reported a $1.3 billion net profit for 2025/26 in August",
+    "Qantas says it will consult affected staff and redeploy where possible"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/qantas-to-slash-hundreds-of-jobs-send-roles-overseas"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-10/850-jobs-to-go-from-qantas-as-airline-moves-roles-overseas/107368120"
+    }
+   ],
+   "publishedAt": "2026-11-10T13:00:00+11:00",
+   "createdAt": "2026-11-12T03:30:00+11:00"
+  },
+  {
+   "id": "2026-11-12-hegseth-house-leaders",
+   "batch": "2026-11-12",
+   "rank": 7,
    "category": "Politics",
    "title": "US House shelves Hegseth impeachment; Jordan to lead Republicans in new Congress",
    "summary": "The US House voted 211–204 to refer Republican Thomas Massie's impeachment resolution against Defense Secretary Pete Hegseth to the Judiciary Committee, which effectively ends it for now. The articles accuse Hegseth of conducting hostilities against Iran without congressional authorisation. Massie was the only Republican to vote against the referral. Eleven Democrats and seven Republicans did not vote.\n\nSeparately, House Republicans elected Jim Jordan over Steve Scalise, 106–73 according to CBS News sources, to lead them when they become the minority in January.",
@@ -110,9 +189,59 @@
    "createdAt": "2026-11-12T03:30:00+11:00"
   },
   {
+   "id": "2026-11-12-asic-sues-cba",
+   "batch": "2026-11-12",
+   "rank": 8,
+   "category": "Business",
+   "title": "ASIC sues Commonwealth Bank, alleging $8.5m in undisclosed business fees",
+   "summary": "The Australian Securities and Investments Commission has started civil penalty proceedings against Commonwealth Bank over fees on its CommBiz business banking platform, according to ABC News and AAP. ASIC alleges about 42,000 business customers were overcharged about $8.5 million for direct debits and credits between November 2020 and May 2025.\n\nASIC alleges the platform's terms misled customers about fees from its 2006 launch, and that complaints began in 2015. Commissioner Alan Kirkland said the regulator alleges the bank broke a basic promise. CBA stopped the fees in 2025 and has paid $26.4 million in remediation to about 93,000 customers. CBA had not commented when the reports were published.",
+   "keyFacts": [
+    "The claims are allegations and have not been tested in court",
+    "No case management hearing had been listed",
+    "ASIC says a 2016 internal audit flagged the issue"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-12/asic-sues-commonwealth-bank-alleges-overcharged-millions-in-fees/107376156"
+    },
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/top-bank-accused-of-overcharging-thousands-of-firms"
+    }
+   ],
+   "publishedAt": "2026-11-12T09:00:00+11:00",
+   "createdAt": "2026-11-12T10:35:00+11:00"
+  },
+  {
+   "id": "2026-11-12-spain-general-strike",
+   "batch": "2026-11-12",
+   "rank": 9,
+   "category": "World",
+   "title": "Spain holds first general strike since 2012 over housing; unions claim four million joined",
+   "summary": "Spain's two largest unions, UGT and CCOO, held a 24-hour general strike on Wednesday over housing costs and wages, the first general strike in the country since 2012. The unions said four million workers took part, according to Reuters reporting carried by ABC News. That figure has not been independently confirmed.\n\nPolice reported 40 arrests across 476 incidents by midday. Unions said they would file a criminal complaint over what they called a disproportionate police response. Employer group CEOE said the strike was counterproductive. Prime Minister Pedro Sánchez faces a general election on 29 November.",
+   "keyFacts": [
+    "Spain's central bank estimates a housing shortfall of about 750,000 homes",
+    "A BBVA Research economist estimated a 0.1–0.2 per cent hit to annual GDP",
+    "Basque broadcaster EITB reported 32 arrests in the early hours"
+   ],
+   "sources": [
+    {
+     "name": "ABC News (Reuters)",
+     "url": "https://www.abc.net.au/news/2026-11-12/spain-protests-housing-election/107375816"
+    },
+    {
+     "name": "EITB",
+     "url": "https://www.eitb.eus/en/news/detail/986025/spain-general-strike--thirty-two-people-arrested-early-hours/"
+    }
+   ],
+   "publishedAt": "2026-11-12T05:03:00+11:00",
+   "createdAt": "2026-11-12T10:35:00+11:00"
+  },
+  {
    "id": "2026-11-12-iran-plots-charges",
    "batch": "2026-11-12",
-   "rank": 5,
+   "rank": 10,
    "category": "World",
    "title": "US charges three men over alleged Iran-backed plots in Europe and the US",
    "summary": "Federal prosecutors in New York unsealed an indictment charging three men over what they describe as a campaign of nearly 20 attacks targeting Jewish communities in Europe and the US, plus a plot against RAF Fairford, a British base used by US forces. Prosecutors allege the men acted for Iran's Revolutionary Guard and the Iraqi militia Kata'ib Hezbollah. Only one of the three, Mohammad Baqer al-Saadi, is in custody.\n\nIran has denied involvement in the Fairford incident. Separately, UK police arrested a US Army soldier on suspicion of assisting Russian intelligence.",
@@ -141,7 +270,7 @@
   {
    "id": "2026-11-12-knesset-sworn-in",
    "batch": "2026-11-12",
-   "rank": 6,
+   "rank": 11,
    "category": "World",
    "title": "Israel's new parliament sworn in with no bloc holding a majority",
    "summary": "Israel's 26th Knesset was sworn in on Tuesday. Neither Prime Minister Benjamin Netanyahu's bloc nor the opposing bloc holds the 61 seats needed to govern. President Isaac Herzog gave opposition leader Gadi Eisenkot the first mandate to form a government on 8 November, giving him 28 days.\n\nNetanyahu called on opposition parties to join a unity government under his leadership. Eisenkot's bloc sought a vote to replace Speaker Amir Ohana of Likud at the opening session. Ohana said such a vote required 61 signatures.",
@@ -164,80 +293,9 @@
    "createdAt": "2026-11-12T03:30:00+11:00"
   },
   {
-   "id": "2026-11-12-cop31-rooftop-solar",
-   "batch": "2026-11-12",
-   "rank": 9,
-   "category": "Environment",
-   "title": "COP31: rooftop solar declaration unveiled; Australia was first to sign",
-   "summary": "The Global Solar Council unveiled a Global Rooftop Solar Declaration at the COP31 climate talks in Antalya, Turkey. Signatory governments commit to helping double the number of homes with rooftop solar, from about 150 million to 300 million, by 2030. The declaration is voluntary and non-binding.\n\nAustralia became the first country to endorse it in October, when Energy Minister Chris Bowen, who is COP31's president of negotiations, signed at a Pacific pre-COP meeting in Fiji. ABC reports negotiators are split over a separate electrification target.",
-   "keyFacts": [
-    "COP31 runs 9–20 November in Antalya",
-    "Target: 300 million solar homes by 2030",
-    "More than a third of Australian homes have rooftop solar"
-   ],
-   "sources": [
-    {
-     "name": "PV Tech",
-     "url": "https://www.pv-tech.org/global-solar-council-to-unveil-rooftop-solar-declaration-at-cop31-as-governments-commit-to-300m-solar-homes/"
-    },
-    {
-     "name": "pv magazine Australia",
-     "url": "https://www.pv-magazine-australia.com/2026/10/08/australia-backs-goal-of-150-million-new-rooftop-solar-systems-globally-by-2030/"
-    }
-   ],
-   "publishedAt": "2026-11-10T20:00:00+11:00",
-   "createdAt": "2026-11-12T03:30:00+11:00"
-  },
-  {
-   "id": "2026-11-12-nvidia-board-probe",
-   "batch": "2026-11-12",
-   "rank": 10,
-   "category": "Business",
-   "title": "Nvidia board investigates reports CEO was target of foreign intelligence effort",
-   "summary": "Nvidia's board said on 8 November it was opening an independent investigation into reports that chief executive Jensen Huang was the target of a foreign intelligence effort. A committee of independent directors with outside counsel will run it. The board said it has no reason to believe national security or company secrets were compromised.\n\nThe New York Times reported in October that US officials concluded Megaspeed executive Alice Huang was passing information to Beijing. China denies this. Jensen Huang told staff he had been unfaithful to his wife. Nvidia shares fell more than 4% on Monday.",
-   "keyFacts": [
-    "Investigation is internal; no charges reported",
-    "Huang remains CEO and says he will cooperate",
-    "Shares closed at US$178.67 on 9 November"
-   ],
-   "sources": [
-    {
-     "name": "Nvidia (official statement)",
-     "url": "https://investor.nvidia.com/news/press-release-details/2026/Statement-from-NVIDIA-Board-of-Directors/"
-    },
-    {
-     "name": "ABC News (US)",
-     "url": "https://www.goodmorningamerica.com/news/story/nvidia-stock-falls-after-company-opens-probe-ceo-137970524"
-    }
-   ],
-   "publishedAt": "2026-11-10T09:00:00+11:00",
-   "createdAt": "2026-11-12T03:30:00+11:00"
-  },
-  {
-   "id": "2026-11-12-rba-ai-speech",
-   "batch": "2026-11-12",
-   "rank": 11,
-   "category": "Economy",
-   "title": "RBA economist says AI investment is adding to demand before productivity gains show",
-   "summary": "Reserve Bank chief economist Sarah Hunter said on Monday that AI is already reshaping the Australian economy through business investment and demand. AAP reports there is so far limited evidence that AI is lifting productivity. RBA staff estimate data centre investment has grown roughly tenfold in three years and project a further $115 billion by the end of 2028.\n\nRBA research found households' exposure to AI-related shares, mostly through super, rose from about 2% of financial wealth in 2022 to 5.3% in June 2026. Staff estimate a 30% fall in those shares would cut household wealth by 1.6%.",
-   "keyFacts": [
-    "Speech delivered 9 November in Sydney",
-    "AI-related memory chip prices rose more than 200% in a year, per RBA research",
-    "The $115 billion projection depends on power, water and construction capacity"
-   ],
-   "sources": [
-    {
-     "name": "AAP (via Canberra Times)",
-     "url": "https://www.canberratimes.com.au/story/9387921/australians-are-tied-to-the-ai-boom-like-it-or-not/"
-    }
-   ],
-   "publishedAt": "2026-11-09T09:30:00+11:00",
-   "createdAt": "2026-11-12T03:30:00+11:00"
-  },
-  {
    "id": "2026-11-12-gaza-strikes",
    "batch": "2026-11-12",
-   "rank": 7,
+   "rank": 12,
    "category": "World",
    "title": "Israeli strikes kill at least 10 in Gaza over two days, health officials say",
    "summary": "Israeli forces killed at least seven Palestinians in Gaza on Tuesday, including a father and his 13-year-old son, local health officials told Reuters. Medics said the two were killed when an airstrike hit the roof of a displacement shelter in Gaza City's Zeitoun neighbourhood. On Wednesday, strikes killed three more people, including two brothers at a tent for displaced people.\n\nThe Israeli military said it struck militants in the areas, without giving details. Gaza's Health Ministry says more than 1,600 Palestinians have been killed since the ceasefire began in October 2025.",
@@ -264,9 +322,159 @@
    "createdAt": "2026-11-12T04:30:00+11:00"
   },
   {
+   "id": "2026-11-12-us-soldier-uk-arrest",
+   "batch": "2026-11-12",
+   "rank": 13,
+   "category": "World",
+   "title": "Senior US soldier arrested in England on suspicion of aiding Russian intelligence",
+   "summary": "A 41-year-old US Army soldier was arrested near Gloucester, England, on Tuesday on suspicion of offences under the UK's National Security Act, London's Metropolitan Police said. Counter-terrorism officers worked with the FBI and the US military, and searches were carried out at two addresses in Gloucestershire.\n\nThe man has not been named or charged. Brigadier General Sean Stinchon of US Army Counterintelligence Command described him as a senior soldier. FBI Director Kash Patel called it an important arrest. Police said the case is Russia-related and not linked to earlier Iran-related incidents at RAF Fairford.",
+   "keyFacts": [
+    "The suspect is held in custody in London",
+    "The offences relate to two sections of the National Security Act 2023",
+    "Police called it a significant investigation"
+   ],
+   "sources": [
+    {
+     "name": "AP (via PBS NewsHour)",
+     "url": "https://www.pbs.org/newshour/nation/u-s-soldier-arrested-in-britain-accused-of-espionage-linked-to-russia"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage"
+    }
+   ],
+   "publishedAt": "2026-11-11T06:41:00+11:00",
+   "createdAt": "2026-11-12T10:35:00+11:00"
+  },
+  {
+   "id": "2026-11-12-global-carbon-budget",
+   "batch": "2026-11-12",
+   "rank": 14,
+   "category": "Environment",
+   "title": "Global fossil CO2 emissions projected to fall 0.4 per cent in 2026",
+   "summary": "Carbon dioxide emissions from fossil fuels are projected to fall 0.4 per cent in 2026 to 38.2 billion tonnes, according to the annual Global Carbon Budget released on Tuesday. The researchers said a projected 1.9 per cent fall in oil use was likely a short-term response to the energy shock from the Iran conflict.\n\nIncluding land-use change, total emissions are projected to rise from 42.8 to 43.3 billion tonnes. Lead author Pierre Friedlingstein of the University of Exeter told AAP the fall was partly temporary. The report projects declines in China, the US and the EU, and a rise in India.",
+   "keyFacts": [
+    "Projected changes: China −0.9%, US −1.3%, EU −1.5%, India +4.4%",
+    "The figures are projections, not final data",
+    "Australia's fossil emissions fell 1.2 per cent in 2025, the report found"
+   ],
+   "sources": [
+    {
+     "name": "Global Carbon Budget",
+     "url": "https://globalcarbonbudget.org/fossil-co2-emissions-decrease-in-2026/"
+    },
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/fuel-crisis-forces-emissions-down-but-a-rebound-looms"
+    }
+   ],
+   "publishedAt": "2026-11-11T10:00:00+11:00",
+   "createdAt": "2026-11-12T10:35:00+11:00"
+  },
+  {
+   "id": "2026-11-12-cop31-rooftop-solar",
+   "batch": "2026-11-12",
+   "rank": 15,
+   "category": "Environment",
+   "title": "COP31: rooftop solar declaration unveiled; Australia was first to sign",
+   "summary": "The Global Solar Council unveiled a Global Rooftop Solar Declaration at the COP31 climate talks in Antalya, Turkey. Signatory governments commit to helping double the number of homes with rooftop solar, from about 150 million to 300 million, by 2030. The declaration is voluntary and non-binding.\n\nAustralia became the first country to endorse it in October, when Energy Minister Chris Bowen, who is COP31's president of negotiations, signed at a Pacific pre-COP meeting in Fiji. ABC reports negotiators are split over a separate electrification target.",
+   "keyFacts": [
+    "COP31 runs 9–20 November in Antalya",
+    "Target: 300 million solar homes by 2030",
+    "More than a third of Australian homes have rooftop solar"
+   ],
+   "sources": [
+    {
+     "name": "PV Tech",
+     "url": "https://www.pv-tech.org/global-solar-council-to-unveil-rooftop-solar-declaration-at-cop31-as-governments-commit-to-300m-solar-homes/"
+    },
+    {
+     "name": "pv magazine Australia",
+     "url": "https://www.pv-magazine-australia.com/2026/10/08/australia-backs-goal-of-150-million-new-rooftop-solar-systems-globally-by-2030/"
+    }
+   ],
+   "publishedAt": "2026-11-10T20:00:00+11:00",
+   "createdAt": "2026-11-12T03:30:00+11:00"
+  },
+  {
+   "id": "2026-11-12-albanese-cop31-leaders",
+   "batch": "2026-11-12",
+   "rank": 16,
+   "category": "Australia",
+   "title": "Albanese meets Erdoğan and Norway's Støre at COP31 leaders' summit",
+   "summary": "Prime Minister Anthony Albanese has held talks with Turkish President Recep Tayyip Erdoğan, Norwegian Prime Minister Jonas Gahr Støre and Finnish President Alexander Stubb at the COP31 climate summit in Antalya, Türkiye, ABC News reported. Government readouts said the talks covered clean energy, AI, the Middle East and Ukraine.\n\nAt the leaders' summit, Albanese called for action to protect Pacific nations. UN Secretary-General António Guterres called for no new fossil fuel infrastructure. Critics accused Australia of continuing to expand coal and gas. Australia is leading the negotiations at COP31 under an arrangement with host Türkiye.",
+   "keyFacts": [
+    "The Erdoğan meeting covered COP31 leadership and defence",
+    "The Støre meeting covered online and AI safety",
+    "Australia was the first to sign COP31's rooftop solar declaration"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-12/federal-politics-live-blog-albanese-cop31-nov-2/107375902"
+    },
+    {
+     "name": "Prime Minister of Australia",
+     "url": "https://www.pm.gov.au/media/cop-be-hosted-turkiye-australia-leading-negotiations"
+    }
+   ],
+   "publishedAt": "2026-11-12T06:58:00+11:00",
+   "createdAt": "2026-11-12T10:35:00+11:00"
+  },
+  {
+   "id": "2026-11-12-anthropic-ipo-australia",
+   "batch": "2026-11-12",
+   "rank": 17,
+   "category": "Business",
+   "title": "Anthropic opens IPO share offer to Australian retail investors",
+   "summary": "AI company Anthropic has lodged a prospectus with the Australian Securities and Investments Commission, opening part of its initial public offering to Australian retail investors, AAP and Bloomberg reported. The global offer is for 825 million shares at US$70 to US$78 each, with a Nasdaq listing planned for 20 November.\n\nThe Australian offer opened on Wednesday and closes on 17 November, with CommSec as lead broker. At the midpoint price the raise would be about US$84.6 billion, according to AAP's calculation. The prospectus reports a net loss of US$23.3 billion for the September quarter and says the investment carries a high degree of risk.",
+   "keyFacts": [
+    "Final pricing is due on 19 November",
+    "Anthropic reported almost US$17 billion in September-quarter revenue",
+    "Eight Australian brokers are taking part"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/aussies-have-one-week-to-get-into-red-hot-anthropic-ipo"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-lodges-australian-prospectus-opening-ipo-to-retail"
+    }
+   ],
+   "publishedAt": "2026-11-11T09:00:00+11:00",
+   "createdAt": "2026-11-12T10:35:00+11:00"
+  },
+  {
+   "id": "2026-11-12-nvidia-board-probe",
+   "batch": "2026-11-12",
+   "rank": 18,
+   "category": "Business",
+   "title": "Nvidia board investigates reports CEO was target of foreign intelligence effort",
+   "summary": "Nvidia's board said on 8 November it was opening an independent investigation into reports that chief executive Jensen Huang was the target of a foreign intelligence effort. A committee of independent directors with outside counsel will run it. The board said it has no reason to believe national security or company secrets were compromised.\n\nThe New York Times reported in October that US officials concluded Megaspeed executive Alice Huang was passing information to Beijing. China denies this. Jensen Huang told staff he had been unfaithful to his wife. Nvidia shares fell more than 4% on Monday.",
+   "keyFacts": [
+    "Investigation is internal; no charges reported",
+    "Huang remains CEO and says he will cooperate",
+    "Shares closed at US$178.67 on 9 November"
+   ],
+   "sources": [
+    {
+     "name": "Nvidia (official statement)",
+     "url": "https://investor.nvidia.com/news/press-release-details/2026/Statement-from-NVIDIA-Board-of-Directors/"
+    },
+    {
+     "name": "ABC News (US)",
+     "url": "https://www.goodmorningamerica.com/news/story/nvidia-stock-falls-after-company-opens-probe-ceo-137970524"
+    }
+   ],
+   "publishedAt": "2026-11-10T09:00:00+11:00",
+   "createdAt": "2026-11-12T03:30:00+11:00"
+  },
+  {
    "id": "2026-11-12-epstein-oversight-report",
    "batch": "2026-11-12",
-   "rank": 8,
+   "rank": 19,
    "category": "Politics",
    "title": "House Republicans' Epstein report says federal government failed survivors",
    "summary": "Republicans on the US House Oversight Committee released a report on Tuesday concluding their 15-month investigation into Jeffrey Epstein. It found the federal government mishandled criminal investigations into Epstein over decades and failed survivors. It drew on 19 witness interviews and depositions and on documents subpoenaed from the Justice Department, Epstein's estate and two banks.\n\nThe report said the facts uncovered do not suggest President Trump was implicated in Epstein's crimes. It accused committee Democrats of trying to implicate him. It identified two former federal prosecutors whose role in the original case raised concerns, according to Fox News.",
@@ -287,6 +495,123 @@
    ],
    "publishedAt": "2026-11-11T03:00:00+11:00",
    "createdAt": "2026-11-12T04:30:00+11:00"
+  },
+  {
+   "id": "2026-11-12-europe-school-bomb-hoaxes",
+   "batch": "2026-11-12",
+   "rank": 20,
+   "category": "World",
+   "title": "Hundreds of Italian schools evacuated after emailed bomb threats",
+   "summary": "At least 300 schools in Italy were evacuated on Wednesday after emailed bomb warnings, Reuters reported in a story carried by ABC News. Schools in Scotland, Northern Ireland and Ireland received similar emails, which authorities classed as hoaxes and which did not disrupt classes.\n\nItalian Defence Minister Guido Crosetto said the threats were intended to spread fear. No group has been confirmed as responsible. Russia denied involvement, and Iran called accusations against it baseless. The emails follow similar waves of hoax threats sent to schools in Europe in October and early November.",
+   "keyFacts": [
+    "No explosives were reported found",
+    "Italian postal police have investigated earlier emails",
+    "France separately summoned Iran's ambassador over an alleged cyberattack"
+   ],
+   "sources": [
+    {
+     "name": "ABC News (Reuters)",
+     "url": "https://www.abc.net.au/news/2026-11-12/european-bomb-hoaxes-italy-uk/107375742"
+    },
+    {
+     "name": "Orizzonte Scuola",
+     "url": "https://www.orizzontescuola.it/psicosi-bomba-nelle-scuole-di-mezza-europa-allarmi-via-e-mail-e-decine-di-evacuazioni-da-nord-a-sud-italia-fino-al-regno-unito/"
+    }
+   ],
+   "publishedAt": "2026-11-12T02:05:00+11:00",
+   "createdAt": "2026-11-12T10:35:00+11:00"
+  },
+  {
+   "id": "2026-11-12-rba-ai-speech",
+   "batch": "2026-11-12",
+   "rank": 21,
+   "category": "Economy",
+   "title": "RBA economist says AI investment is adding to demand before productivity gains show",
+   "summary": "Reserve Bank chief economist Sarah Hunter said on Monday that AI is already reshaping the Australian economy through business investment and demand. AAP reports there is so far limited evidence that AI is lifting productivity. RBA staff estimate data centre investment has grown roughly tenfold in three years and project a further $115 billion by the end of 2028.\n\nRBA research found households' exposure to AI-related shares, mostly through super, rose from about 2% of financial wealth in 2022 to 5.3% in June 2026. Staff estimate a 30% fall in those shares would cut household wealth by 1.6%.",
+   "keyFacts": [
+    "Speech delivered 9 November in Sydney",
+    "AI-related memory chip prices rose more than 200% in a year, per RBA research",
+    "The $115 billion projection depends on power, water and construction capacity"
+   ],
+   "sources": [
+    {
+     "name": "AAP (via Canberra Times)",
+     "url": "https://www.canberratimes.com.au/story/9387921/australians-are-tied-to-the-ai-boom-like-it-or-not/"
+    }
+   ],
+   "publishedAt": "2026-11-09T09:30:00+11:00",
+   "createdAt": "2026-11-12T03:30:00+11:00"
+  },
+  {
+   "id": "2026-11-12-vic-liberal-candidate-dumped",
+   "batch": "2026-11-12",
+   "rank": 22,
+   "category": "Politics",
+   "title": "Victorian Liberals withdraw Williamstown candidate over comments on Indigenous people",
+   "summary": "The Victorian Liberal Party has withdrawn its endorsement of Paul Lindemann, its candidate for the seat of Williamstown, over comments he made about Indigenous Australians, ABC News reported on Thursday. The party said it had not previously been aware of the comments.\n\nLiberal leader Jess Wilson told ABC News Breakfast the comments were deeply offensive and that the party's vetting process had not detected them. The ABC said it had tried to contact Lindemann. Campaigning resumed on Thursday after a pause for Remembrance Day, ahead of the state election on 28 November.",
+   "keyFacts": [
+    "Williamstown is in Melbourne's west",
+    "Wilson said she was disappointed by the vetting failure",
+    "Lindemann's response had not been reported"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-12/victoria-election-blog/107374690"
+    }
+   ],
+   "publishedAt": "2026-11-12T09:49:00+11:00",
+   "createdAt": "2026-11-12T10:35:00+11:00"
+  },
+  {
+   "id": "2026-11-12-quantum-dc-tungkillo-pause",
+   "batch": "2026-11-12",
+   "rank": 23,
+   "category": "Business",
+   "title": "Developer pauses 1,200MW AI data centre plan in Adelaide Hills",
+   "summary": "Quantum DC has paused its proposal for a 1,200-megawatt AI data centre at Tungkillo in South Australia's Adelaide Hills, ABC News reported on Thursday. The company said it would not seek development approval this year but has not ruled out proceeding later.\n\nChief executive Alby Tomassi said in a statement the company had misread the strength of local feeling. More than 350 people contacted the company and residents submitted 432 questions. Planned community sessions have been cancelled, and the company said an independent expert panel would review its specialist studies.",
+   "keyFacts": [
+    "Two earlier consultation sessions were postponed",
+    "The proposal included an energy hub",
+    "A community meeting was earlier cancelled over a bomb threat, Data Center Dynamics reported"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-12/quantum-dc-pauses-tungkillo-ai-data-centre/107376052"
+    },
+    {
+     "name": "Data Center Dynamics",
+     "url": "https://www.datacenterdynamics.com/en/news/quantum-dc-cancels-australian-data-center-community-meeting-over-credible-bomb-threat/"
+    }
+   ],
+   "publishedAt": "2026-11-12T08:14:00+11:00",
+   "createdAt": "2026-11-12T10:35:00+11:00"
+  },
+  {
+   "id": "2026-11-12-alcohol-liver-disease-report",
+   "batch": "2026-11-12",
+   "rank": 24,
+   "category": "Health",
+   "title": "Report finds alcohol-related hepatitis rose in Victoria and remains elevated",
+   "summary": "Hospital admissions for alcohol-associated hepatitis in Victoria rose sharply during the COVID-19 pandemic and remain elevated, according to a Burnet Institute report commissioned by the Foundation for Alcohol Research and Education (FARE), ABC News reported.\n\nLead author Professor Jessica Howell said about 40 per cent of admissions between 2017 and 2024 were people under 45. About 13 per cent of patients were admitted to intensive care, and the mortality rate was about 4 per cent. Women made up about one in three cases. The study was retrospective and drew on two Victorian patient databases.",
+   "keyFacts": [
+    "FARE is an alcohol-harm advocacy group",
+    "The study covered 2017 to 2024",
+    "An independent hepatologist commented on the findings to the ABC"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/health/2026-11-12/alcohol-related-liver-disease-in-victoria/107364604"
+    },
+    {
+     "name": "Scimex",
+     "url": "https://www.scimex.org/newsfeed/alcohol-related-liver-diseases-are-sending-more-aussies-to-hospital"
+    }
+   ],
+   "publishedAt": "2026-11-12T07:39:00+11:00",
+   "createdAt": "2026-11-12T10:35:00+11:00"
   }
  ],
  "leftOut": [
@@ -317,35 +642,9 @@
    "reason": "Restatement, nothing new"
   },
   {
-   "id": "2026-11-12-lo-spain-strike",
-   "batch": "2026-11-12",
-   "rank": 2,
-   "category": "World",
-   "title": "Spain's main unions hold first 24-hour general strike since 2012 over housing and wages",
-   "summary": "Spain's two largest union federations, UGT and CCOO, called a 24-hour general strike for Wednesday 11 November over housing costs and wages. Tenants' unions and other groups joined the call. It is the first general strike backed by the major unions since 2012.\n\nThe strike falls just over two weeks before a snap general election on 29 November. Prime Minister Pedro Sánchez called the election after Congress rejected two government housing decrees. The official campaign starts on 13 November.",
-   "keyFacts": [
-    "Strike called for 00:00–24:00 on 11 November",
-    "General election on 29 November",
-    "Unions registered the strike with the Labour Ministry on 19 October"
-   ],
-   "sources": [
-    {
-     "name": "Catalan News",
-     "url": "https://www.catalannews.com/housing-crisis/item/unions-call-general-strike-for-november-11-over-housing-and-wages"
-    },
-    {
-     "name": "Demócrata",
-     "url": "https://www.democrata.es/en/current-events/general-strike-of-november-11-who-is-calling-it-how-long-it-lasts-and-what-the-reasons-are/"
-    }
-   ],
-   "publishedAt": "2026-11-11T10:00:00+11:00",
-   "createdAt": "2026-11-12T04:30:00+11:00",
-   "reason": "Not yet confirmed"
-  },
-  {
    "id": "2026-11-12-lo-duty-of-care",
    "batch": "2026-11-12",
-   "rank": 3,
+   "rank": 2,
    "category": "Australia",
    "title": "Digital duty of care bill awaits Senate committee report due 20 November",
    "summary": "The Online Safety Amendment (Digital Duty of Care) Bill 2026 passed the House of Representatives on 28 October and is now before the Senate. It would place a legal duty on online services, including social media, search engines and generative AI services, to take reasonable steps to keep Australians safe, with extra protections for under-18s.\n\nCompanies that breach the duty could face penalties of up to about $109 million. The government has backed changes aimed at AI chatbots that simulate emotional intimacy with children. The Greens want stronger penalties.",
@@ -371,7 +670,7 @@
   {
    "id": "2026-11-12-lo-pope-argentina",
    "batch": "2026-11-12",
-   "rank": 4,
+   "rank": 3,
    "category": "World",
    "title": "Pope Leo draws an estimated 2.5 million to Buenos Aires Mass on first papal visit to Argentina since 1987",
    "summary": "Pope Leo XIV celebrated an open-air Mass in Buenos Aires on 9 November that officials estimated drew 2.5 million people, the largest gathering of his papacy. The same day he met victims of clergy abuse. He celebrated Mass in Córdoba on 10 November and visited Luján on 11 November.\n\nIt is the first papal visit to Argentina since 1987. The 12-day trip also covers Uruguay and Peru and ends on 17 November.",
@@ -397,7 +696,7 @@
   {
    "id": "2026-11-12-lo-khawaja",
    "batch": "2026-11-12",
-   "rank": 5,
+   "rank": 4,
    "category": "Sport",
    "title": "Khawaja memoir claims whole Australian team knew about 2018 ball-tampering plan",
    "summary": "Former Test opener Usman Khawaja claims in his memoir Sabr that the whole Australian team knew of the 2018 ball-tampering plan in Cape Town. He also says similar tactics were discussed during the previous Test in Port Elizabeth. That contradicts the Cricket Australia investigation, which found only Steve Smith, David Warner and Cameron Bancroft knew.\n\nKhawaja told captain Pat Cummins and Cricket Australia chief Todd Greenberg about the chapter before the team's South Africa tour. AAP reported he has since cut back some book-tour appearances.",
@@ -423,7 +722,7 @@
   {
    "id": "2026-11-12-lo-walliams",
    "batch": "2026-11-12",
-   "rank": 6,
+   "rank": 5,
    "category": "Other",
    "title": "David Walliams faces further allegations; he denies wrongdoing",
    "summary": "Comedian and children's author David Walliams faced further allegations this week of inappropriate behaviour towards young women, in reporting by The Guardian and ITV. HarperCollins dropped him in December 2025 after an internal investigation, and in September 2026 it stopped publishing his back catalogue.\n\nWalliams strongly denies behaving inappropriately. His spokesperson has said he was never told of the allegations or given a chance to respond to the publisher's investigation.",
@@ -449,7 +748,7 @@
   {
    "id": "2026-11-12-lo-thomas-markle",
    "batch": "2026-11-12",
-   "rank": 7,
+   "rank": 6,
    "category": "Other",
    "title": "Meghan's father Thomas Markle Sr. charged with possessing child abuse material",
    "summary": "Thomas Markle Sr., 82, the estranged father of Meghan, Duchess of Sussex, was arrested by the FBI in Florida on 6 November. He is charged with one count of possession of child sexual abuse material, according to the US Attorney's Office. The material was allegedly found in two storage units he rented in the Los Angeles area.\n\nHe has not entered a plea, and the allegations have not been tested in court. Meghan described the allegations as deeply disturbing.",
@@ -475,7 +774,7 @@
   {
    "id": "2026-11-12-lo-sussex-brussels",
    "batch": "2026-11-12",
-   "rank": 8,
+   "rank": 7,
    "category": "Other",
    "title": "Harry and Meghan speak at European Parliament event on social media harms to children",
    "summary": "Prince Harry and Meghan attended an event at the European Parliament in Brussels on 10 November. It opened a memorial installation showing images of 50 children who died after harm they suffered on social media. Parliament President Roberta Metsola was also due to speak.\n\nIt was the couple's first public appearance since the allegations against Meghan's father emerged. Harry has campaigned on the risks of social media and AI chatbots for young people.",
@@ -497,6 +796,50 @@
    "publishedAt": "2026-11-11T02:00:00+11:00",
    "createdAt": "2026-11-12T04:30:00+11:00",
    "reason": "Celebrity"
+  },
+  {
+   "id": "2026-11-12-lo-bessent-base",
+   "batch": "2026-11-12",
+   "rank": 8,
+   "category": "World",
+   "title": "Treasury Secretary Bessent moved to military base over Iranian threats, sources say",
+   "summary": "US Treasury Secretary Scott Bessent has been moved to live on a military base because of threats from Iran, ABC News (US) reported on Wednesday, citing multiple unnamed sources familiar with the situation. He had reportedly been living in Washington's Georgetown area.\n\nThe report said Defence Secretary Pete Hegseth and Secretary of State Marco Rubio also live on military bases while in Washington. The Secret Service, which protects Bessent, did not immediately respond to a request for comment. The move has not been officially confirmed.",
+   "keyFacts": [
+    "The report relies on unnamed sources",
+    "ABC News (US) described the story as developing",
+    "No official statement had been issued"
+   ],
+   "sources": [
+    {
+     "name": "ABC News (US)",
+     "url": "https://abcnews.com/Politics/treasury-secretary-scott-bessent-moved-military-base-sources/story?id=138044885"
+    }
+   ],
+   "publishedAt": "2026-11-12T01:33:00+11:00",
+   "createdAt": "2026-11-12T10:35:00+11:00",
+   "reason": "Not yet confirmed"
+  },
+  {
+   "id": "2026-11-12-lo-ukraine-strikes-nov11",
+   "batch": "2026-11-12",
+   "rank": 9,
+   "category": "World",
+   "title": "Russian strikes kill several people and cut power in eight Ukrainian regions",
+   "summary": "Russian attacks on 10 and 11 November killed at least four people and injured more than 20 across several Ukrainian regions, according to regional officials cited by Ukrainian news agency UNN. Zaporizhzhia's governor Ivan Fedorov reported one death and 15 injuries, and Donetsk officials reported two deaths.\n\nUNN reported power outages in eight regions, with emergency cuts in Kharkiv after a missile strike damaged garages and cars there. The attacks came as Russian and Ukrainian delegations met for US-mediated talks in Abu Dhabi, which ended with a prisoner exchange agreement.",
+   "keyFacts": [
+    "Odesa's governor said a 70-year-old woman died of her injuries",
+    "Donetsk officials reported 661 evacuations",
+    "Zhytomyr reported damage to energy and transport sites"
+   ],
+   "sources": [
+    {
+     "name": "UNN",
+     "url": "https://unn.ua/en/news/russias-attack-on-ukraine-on-november-11-there-are-fatalities-and-casualties-in-a-number-of-regions-as-well-as-problems-with-electricity"
+    }
+   ],
+   "publishedAt": "2026-11-11T17:55:00+11:00",
+   "createdAt": "2026-11-12T10:35:00+11:00",
+   "reason": "Outside today's window"
   }
  ]
 }
