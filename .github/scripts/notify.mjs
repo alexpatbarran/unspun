@@ -13,9 +13,9 @@ const site = `https://${owner.toLowerCase()}.github.io/${repo}/`;
 const now = JSON.parse(readFileSync("news.json", "utf8"));
 const ids = arr => new Set((arr || []).map(a => a && a.id).filter(Boolean));
 
-let title = "Unspun", body;
+let title, body;
 if (process.env.EVENT === "workflow_dispatch") {
-  body = "Test: notifications are working.";
+  title = "Test notification"; body = "Notifications are working.";
 } else {
   let before = { articles: [], leftOut: [] };
   const sha = process.env.BEFORE || "";
@@ -27,8 +27,9 @@ if (process.env.EVENT === "workflow_dispatch") {
   console.log(`New: ${newMain} important, ${newLo} left out`);
   if (!newMain && !newLo) { console.log("Nothing new, no notification."); process.exit(0); }
   const s = n => n === 1 ? "story" : "stories";
-  body = newMain ? `${newMain} new ${s(newMain)}` : "No new important stories";
-  if (newLo) body += ` · ${newLo} left out`;
+  const total = newMain + newLo;
+  title = `${total} new ${s(total)}`;
+  body = `${newMain} important and ${newLo} left out`;
 
   // wait until GitHub Pages is serving this update, so the stories are there when you open the app
   const want = now.updatedAt;
