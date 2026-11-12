@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-12T17:50:00+11:00",
+ "updatedAt": "2026-11-13T06:55:00+11:00",
  "articles": [
   {
    "id": "2026-11-12-mississippi-senate",
@@ -896,6 +896,286 @@
    ],
    "publishedAt": "2026-11-12T14:22:00+11:00",
    "createdAt": "2026-11-12T17:50:00+11:00"
+  },
+  {
+   "id": "2026-11-13-nvidia-huang-resigns",
+   "batch": "2026-11-13",
+   "rank": 1,
+   "category": "Business",
+   "title": "Jensen Huang resigns as Nvidia chief executive; CFO Colette Kress named interim CEO",
+   "summary": "Nvidia's board said on Thursday US time that co-founder Jensen Huang had resigned as president, chief executive and director, effective immediately. Chief financial officer Colette Kress will serve as interim CEO while the board searches for a permanent replacement, and former Synopsys chief Harvey Jones becomes the company's first board chair. The company's statement gave no reason.\n\nThe move follows a board investigation into reports, first published by The New York Times, about Huang's personal relationships and possible foreign intelligence interest, according to AP and ABC News. China denies the spying claims. AP reported President Trump suggested former Apple CEO Tim Cook as a successor. Nvidia shares fell about 5 per cent by midday.",
+   "keyFacts": [
+    "Huang led Nvidia for 33 years",
+    "Nvidia reports quarterly results on 17 November",
+    "A proposed class action alleges shareholders were misled; the claim is untested"
+   ],
+   "sources": [
+    {
+     "name": "Nvidia",
+     "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"
+    },
+    {
+     "name": "AP (via KSAT)",
+     "url": "https://www.ksat.com/business/2026/11/12/what-we-know-after-jensen-huang-resigns-as-nvidias-ceo/"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-13/nvidia-founder-jensen-huang-resigns/107376470"
+    }
+   ],
+   "publishedAt": "2026-11-13T00:00:00+11:00",
+   "createdAt": "2026-11-13T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-13-putin-envoys-moscow-talks",
+   "batch": "2026-11-13",
+   "rank": 2,
+   "category": "World",
+   "title": "Kremlin says Putin's talks with US envoys were constructive; trilateral talks to continue",
+   "summary": "Russian President Vladimir Putin met US envoys Steve Witkoff and Jared Kushner in Moscow on Thursday to discuss ending the war in Ukraine, Kremlin aide Yuri Ushakov said, according to Reuters and Ukrainian agency UNN. Ushakov described the talks as substantive and useful and said the sides agreed to continue three-way negotiations with Ukraine.\n\nUshakov said the envoys supported a humanitarian mission in Kostiantynivka. The US side had not released its own account in the reports reviewed. The envoys were next due to meet Ukrainian President Volodymyr Zelenskyy in Dublin. Russian Deputy Foreign Minister Sergei Ryabkov said it was too soon to say trust had been restored after this week's Abu Dhabi talks.",
+   "keyFacts": [
+    "The Moscow meeting followed two days of talks in Abu Dhabi",
+    "The Kremlin's description has not been independently confirmed",
+    "No date has been announced for the Dublin meeting"
+   ],
+   "sources": [
+    {
+     "name": "UNN",
+     "url": "https://unn.ua/en/news/putin-was-concerned-by-zelenskyy-and-his-greetings-to-trump-what-else-the-russian-dictator-discussed-with-witkoff-and-kushner"
+    },
+    {
+     "name": "Reuters (via Jerusalem Post)",
+     "url": "https://www.jpost.com/international/internationalrussia-ukraine-war/article-914670"
+    }
+   ],
+   "publishedAt": "2026-11-13T03:11:00+11:00",
+   "createdAt": "2026-11-13T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-13-hormuz-four-tankers",
+   "batch": "2026-11-13",
+   "rank": 3,
+   "category": "World",
+   "title": "Iran says four tankers hit by explosions in Strait of Hormuz after ignoring warnings",
+   "summary": "Iran's military said on Thursday that four oil tankers had been struck by explosions in the Strait of Hormuz after entering restricted areas, Reuters reported. The Revolutionary Guards navy said two supertankers were disabled on Wednesday, and Iran's army later said two more hit mines in the eastern part of the strait on Thursday afternoon.\n\nReuters said it could not immediately verify Iran's account. Separately, the UK Maritime Trade Operations centre said a vessel was hit by an unidentified projectile about 14 nautical miles north-west of Ras Al-Khaimah on Wednesday, causing an engine-room fire; the crew were evacuated. Iranian state media said vessels had struck naval mines.",
+   "keyFacts": [
+    "Iran says the ships used an unauthorised route",
+    "At least 10 ships were hit in the first 10 days of November, per the Washington Institute",
+    "October had 37 recorded attacks, the most of any month in the conflict"
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via Yahoo News)",
+     "url": "https://www.yahoo.com/news/articles/four-tankers-struck-explosions-strait-162708977.html"
+    }
+   ],
+   "publishedAt": "2026-11-13T03:27:00+11:00",
+   "createdAt": "2026-11-13T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-13-israel-iran-attack-preparations",
+   "batch": "2026-11-13",
+   "rank": 4,
+   "category": "World",
+   "title": "Israeli cabinet reportedly orders military to prepare for possible Iran strike",
+   "summary": "Israel's security cabinet, chaired by Prime Minister Benjamin Netanyahu, ordered the military to step up preparations for a possible attack on Iran, Israeli broadcaster KAN reported on Wednesday evening, according to Al Jazeera. The Israeli government had not confirmed the report.\n\nIranian security chief Mohsen Rezaei said any base used in a new US war would be a legitimate target. President Trump has said he is prepared to resume the war if a Qatar-backed diplomatic track fails. Israeli opposition figure Gadi Eisenkot urged against action without a direct and immediate threat. Al Jazeera said Tehran had rejected a US proposal to move its highly enriched uranium to a third country.",
+   "keyFacts": [
+    "The report came from Israeli public broadcaster KAN",
+    "Brent crude settled at US$92.76 a barrel on Wednesday",
+    "Iran rejects sending enriched uranium abroad"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack"
+    }
+   ],
+   "publishedAt": "2026-11-12T14:50:00+11:00",
+   "createdAt": "2026-11-13T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-13-counter-terrorism-online-centre",
+   "batch": "2026-11-13",
+   "rank": 5,
+   "category": "Australia",
+   "title": "ASIO and AFP open $76m online counter-terrorism centre in Sydney",
+   "summary": "A new Counter Terrorism Online Centre combining ASIO and the Australian Federal Police opens in Sydney on Friday, Home Affairs Minister Tony Burke said, according to ABC News and AAP. The centre, funded in the May federal budget, will monitor online radicalisation and act as a single contact point for overseas agencies.\n\nBurke said ASIO had found an Australian Discord server with more than 1,000 members spreading extremist ideology. AFP Commissioner Krissy Barrett described the centre as an early-warning system. ASIO director-general Mike Burgess said his agency and partners needed to be online too. ABC reported children make up 40 per cent of this year's counter-terrorism caseload.",
+   "keyFacts": [
+    "ABC put the cost at $76 million; AAP reported $74 million",
+    "It builds on existing cybercrime and child exploitation hubs",
+    "A 17-year-old NSW boy was charged with a terrorism offence the day before"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-13/sydney-counterterrorism-hub-targets-youth-extremism/107380242"
+    },
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/new-intelligence-hub-tackling-online-radicalisation"
+    }
+   ],
+   "publishedAt": "2026-11-13T05:00:00+11:00",
+   "createdAt": "2026-11-13T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-13-microsoft-outlook-outage",
+   "batch": "2026-11-13",
+   "rank": 6,
+   "category": "Science & Tech",
+   "title": "Microsoft Outlook, Teams and 365 hit by global outage",
+   "summary": "Microsoft confirmed an outage on Thursday US time that left many users unable to reach their Outlook inboxes, TechCrunch reported. The problem was first reported in the Americas and Microsoft later said it could affect any region. Users also reported problems with Teams, Copilot and wider Microsoft 365 services, according to Euronews and ABC News.\n\nMicrosoft said part of its infrastructure was under higher than normal load and that it was redistributing traffic. It did not give a cause. Downdetector recorded more than 130,000 Outlook reports at the peak, Euronews said, though such counts may not match the number of people affected. Microsoft said Teams had been restored in North America.",
+   "keyFacts": [
+    "Exchange Online mailboxes could not be reached",
+    "Microsoft had a days-long 365 outage in September",
+    "No cause has been given"
+   ],
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/12/microsoft-outage-hits-outlook-teams-and-copilot-disrupting-thousands"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-13/microsoft-outlook-outage/107380958"
+    }
+   ],
+   "publishedAt": "2026-11-13T06:03:00+11:00",
+   "createdAt": "2026-11-13T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-13-cop31-pacific-resilience-facility",
+   "batch": "2026-11-13",
+   "rank": 7,
+   "category": "Environment",
+   "title": "Pacific leaders press for climate finance as Albanese meets them at COP31",
+   "summary": "Prime Minister Anthony Albanese met Pacific leaders at the COP31 climate summit in Turkey on Thursday, as the Pacific Resilience Facility reached US$200 million towards a US$500 million target, AAP reported. Businessman Andrew Forrest announced a US$5 million contribution.\n\nPalau President Surangel Whipps Jr called for funding rather than promises. Climate Minister Chris Bowen said only 0.2 per cent of global climate finance reaches small island states. Greenpeace Australia Pacific called on Australia to commit to ending new fossil fuel projects. Asked about criticism from activist Greta Thunberg, Albanese said she was entitled to her views. Australia is co-hosting the summit with Turkey.",
+   "keyFacts": [
+    "The facility is a Pacific-run fund for climate resilience",
+    "It has raised US$200 million of a US$500 million goal",
+    "Australia leads COP31 negotiations while Turkey hosts"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/australia-under-fire-as-pacific-seeks-climate-lifeline"
+    }
+   ],
+   "publishedAt": "2026-11-13T02:00:00+11:00",
+   "createdAt": "2026-11-13T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-13-medicine-shortages-analysis",
+   "batch": "2026-11-13",
+   "rank": 8,
+   "category": "Health",
+   "title": "ABC analysis finds 40 medicines in critical shortage, 13 of them repeatedly",
+   "summary": "An ABC News analysis of Therapeutic Goods Administration data going back to 2015 found 40 medicines are currently in critical shortage in Australia, and 13 of those have been critically short more than once. The penicillin injection Bicillin L-A has been in critical shortage since April 2025, which its supplier attributes to manufacturing problems.\n\nThe pancreatic enzyme treatment Creon has been short for more than a year amid higher demand, the ABC reported. Professor John Saunders of the Royal Australasian College of Physicians said doctors were frustrated. The TGA said it cannot force companies to supply medicines. Australia is also expected to run out of Q fever vaccine this week.",
+   "keyFacts": [
+    "Analysis covers TGA shortage records since 2015",
+    "40 medicines are in critical shortage",
+    "The TGA says it has no power to compel supply"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-13/repeated-critical-medicine-shortages-new-analysis/107242432"
+    }
+   ],
+   "publishedAt": "2026-11-13T05:00:00+11:00",
+   "createdAt": "2026-11-13T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-13-macquarie-harbour-salmon-deaths",
+   "batch": "2026-11-13",
+   "rank": 9,
+   "category": "Environment",
+   "title": "Released EPA data show 1,907 tonnes of farmed salmon died in Macquarie Harbour",
+   "summary": "Tasmanian Environment Protection Authority data released under right-to-information laws show 1,907 tonnes of farmed salmon died in Macquarie Harbour between October 2024 and December 2025, ABC News reported. The data were obtained by Environment Tasmania and released after salmon companies sought reviews of the decision.\n\nEnvironment Tasmania's Jess Coughlan described the death rates as very high. Salmon Tasmania chief John Whittington said fewer than 8 per cent of fish held had died and that tonnage could not be used as a mortality rate. The harbour farms' environmental licences expired almost a year ago; the companies have applied for renewal and can keep operating while applications are assessed.",
+   "keyFacts": [
+    "Covers October 2024 to December 2025",
+    "Industry says under 8 per cent of fish died",
+    "Licence renewals are still being assessed"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-13/salmon-deaths-macquarie-harbour-tasmania-rti/107379706"
+    }
+   ],
+   "publishedAt": "2026-11-13T06:00:00+11:00",
+   "createdAt": "2026-11-13T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-13-minns-subpoena-protest-policing",
+   "batch": "2026-11-13",
+   "rank": 10,
+   "category": "Australia",
+   "title": "NSW Premier and ministers subpoenaed in Herzog protest policing case",
+   "summary": "Lawyers for protesters charged after clashes with police at a February rally in Sydney against Israeli President Isaac Herzog's visit have subpoenaed NSW Premier Chris Minns, Police Minister Yasmin Catley, Tourism Minister Steve Kamper and Police Commissioner Mal Lanyon, AAP reported on Thursday.\n\nSolicitor Nick Hanna, who represents 16 people, said he would argue the policing was unlawful. Spokespeople declined to comment because the matter is before the courts. The Law Enforcement Conduct Commission is still investigating. AAP said the charges are under review after the Court of Appeal ruled protest restrictions in place at the time unconstitutional. The allegations against police have not been tested.",
+   "keyFacts": [
+    "The rally was at Sydney Town Hall on 9 February",
+    "16 clients are represented by one lawyer",
+    "The LECC investigation is ongoing"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/senior-ministers-could-face-court-over-protest-policing"
+    }
+   ],
+   "publishedAt": "2026-11-12T16:00:00+11:00",
+   "createdAt": "2026-11-13T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-13-horizon-europe-agreement",
+   "batch": "2026-11-13",
+   "rank": 11,
+   "category": "Science & Tech",
+   "title": "Australia signs agreement to join EU's Horizon Europe research program",
+   "summary": "Industry and Science Minister Tim Ayres signed an agreement in Brussels with EU research commissioner Ekaterina Zaharieva for Australia to join Horizon Europe, the EU's main research funding program, AAP reported. Australian researchers will be able to take part from 1 January.\n\nThe government says the program is worth about $155 billion. The federal government contributed $20 million, matched by the Group of Eight universities, AAP said. Treaty negotiations were concluded earlier this year, according to Ayres' office. Canada, New Zealand and the UK are among more than 20 associated countries. Ayres said the deal links Australian researchers with leading international expertise.",
+   "keyFacts": [
+    "Participation begins on 1 January 2027",
+    "Federal funding of $20m is matched by the Group of Eight",
+    "More than 20 countries are associated"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/aussie-scientists-tap-into-multibillion-dollar-fund"
+    },
+    {
+     "name": "Minister for Industry and Science",
+     "url": "https://www.minister.industry.gov.au/ministers/timayres/media-releases/access-worlds-largest-research-fund-horizon"
+    }
+   ],
+   "publishedAt": "2026-11-12T20:00:00+11:00",
+   "createdAt": "2026-11-13T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-13-vic-labor-open-ticket",
+   "batch": "2026-11-13",
+   "rank": 12,
+   "category": "Politics",
+   "title": "Victorian Labor to run open preference tickets in Prahran and Caulfield",
+   "summary": "Victorian Labor will not recommend preferences after its own candidates in the seats of Prahran and Caulfield at the 28 November state election, AAP reported. Greens leader Ellen Sandell said the decision would help conservative candidates and called it unforgivable.\n\nPrahran is held by Liberal MP Rachel Westaway, who won it from the Greens at a 2025 by-election that Labor did not contest. Opposition Leader Jess Wilson said the Liberals would put Labor, the Greens and the Victorian Socialists last, with decisions made seat by seat. A Resolve poll in The Age put the Coalition on 30 per cent of the primary vote, One Nation on 23, Labor on 22 and the Greens on 13.",
+   "keyFacts": [
+    "The election is on 28 November",
+    "Open tickets give no preference recommendation",
+    "Liberals will set preferences seat by seat"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/unforgivable-greens-cry-labor-preference-hypocrisy"
+    }
+   ],
+   "publishedAt": "2026-11-12T18:00:00+11:00",
+   "createdAt": "2026-11-13T06:55:00+11:00"
   }
  ],
  "leftOut": [
@@ -1190,6 +1470,230 @@
    "publishedAt": "2026-11-12T12:04:00+11:00",
    "createdAt": "2026-11-12T17:50:00+11:00",
    "reason": "Human interest"
+  },
+  {
+   "id": "2026-11-13-lo-dc-gym-shooting",
+   "batch": "2026-11-13",
+   "rank": 1,
+   "category": "World",
+   "title": "One killed, four injured in shooting at Washington DC gym; gunman dead",
+   "summary": "A gunman shot five people at and near a gym in Washington DC's Logan Circle neighbourhood on Thursday morning local time, killing one, police said, according to Al Jazeera and CBS News. The area is about 1.6 kilometres north of the White House.\n\nPolice said the suspect later died of a self-inflicted gunshot wound after a standoff. Interim Police Chief Jeffery Carroll said the shooting appeared to stem from a dispute with a condominium homeowners association. Nearby schools and apartment buildings were locked down during the search. A local councillor named a suspect, but police had not formally confirmed the identity in the reports reviewed.",
+   "keyFacts": [
+    "The shooting began about 8am local time",
+    "Federal ATF agents assisted DC police",
+    "Police point to a residential dispute as a motive"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/12/what-to-know-about-the-logan-circle-shooting-in-washington-dc"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/news/washington-dc-shooting-gym-vida/"
+    }
+   ],
+   "publishedAt": "2026-11-13T00:30:00+11:00",
+   "createdAt": "2026-11-13T06:55:00+11:00",
+   "reason": "Local crime"
+  },
+  {
+   "id": "2026-11-13-lo-perth-inquest-triple-zero",
+   "batch": "2026-11-13",
+   "rank": 2,
+   "category": "Australia",
+   "title": "Perth inquest hears triple-zero call before 2024 double murder was wrongly graded",
+   "summary": "A WA coronial inquest has heard that a triple-zero call made before the May 2024 shooting deaths of Jennifer Petelczyc and her daughter Gretl at their Perth home was graded priority two rather than priority one, AAP reported. Counsel assisting said Mark Bombara shot both women and then himself.\n\nWA Police Commander Jason Longhorn told the inquest he believed the priority two grading was incorrect. Superintendent Andrew Wilson said officers had not assessed the risk correctly and that eight officers were disciplined. A lawyer for the family said the women had been targeted as proxies for Bombara's family. The inquest is continuing.",
+   "keyFacts": [
+    "The killings occurred on 24 May 2024",
+    "Eight officers were disciplined",
+    "The inquest continues"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/double-murder-emergency-calls-not-given-top-priority"
+    }
+   ],
+   "publishedAt": "2026-11-12T16:00:00+11:00",
+   "createdAt": "2026-11-13T06:55:00+11:00",
+   "reason": "Local crime"
+  },
+  {
+   "id": "2026-11-13-lo-politician-threats-charges",
+   "batch": "2026-11-13",
+   "rank": 3,
+   "category": "Australia",
+   "title": "AFP charges two men over alleged threats to federal politicians",
+   "summary": "The Australian Federal Police charged two men with using a carriage service to menace, harass or cause offence over alleged threats to politicians, AAP reported. A 43-year-old man was arrested in the Moreton Bay area north of Brisbane on Thursday, and a 67-year-old man was arrested in Melbourne on Wednesday and faces three counts.\n\nBoth men were granted conditional bail and are due in court in January and February. AFP Commissioner Krissy Barrett said police charge about one person a week for threatening parliamentarians. The allegations have not been tested in court, and neither man had entered a plea in the reports reviewed.",
+   "keyFacts": [
+    "One man was charged in Queensland, one in Victoria",
+    "Both were granted conditional bail",
+    "The AFP says it charges about one person a week over such threats"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/two-men-charged-over-allegedly-threatening-politicians"
+    }
+   ],
+   "publishedAt": "2026-11-12T17:00:00+11:00",
+   "createdAt": "2026-11-13T06:55:00+11:00",
+   "reason": "Local crime"
+  },
+  {
+   "id": "2026-11-13-lo-quambatook-murder-trial",
+   "batch": "2026-11-13",
+   "rank": 4,
+   "category": "Australia",
+   "title": "Trial begins over alleged murder of Quambatook woman in dispute over pool work",
+   "summary": "Brian Robert Barnes, 68, has pleaded not guilty in the Victorian Supreme Court to murdering 70-year-old Merril Kelly at her home in Quambatook, in north-west Victoria, in January 2025, AAP reported.\n\nCrown prosecutor Patrick Bourke KC alleged Barnes was angry about unpaid pool work and attacked Kelly before taking her body to a cemetery and setting it alight. He said an autopsy showed she died before the fire. Defence barrister David Cronin SC told the jury Barnes did not cause her death and that someone else may have inflicted the fatal injuries. The trial before Justice James Elliott is continuing.",
+   "keyFacts": [
+    "Barnes has pleaded not guilty",
+    "Prosecutors allege a dispute over pool work",
+    "The trial is continuing"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/man-accused-of-killing-elderly-woman-over-pool-payment"
+    }
+   ],
+   "publishedAt": "2026-11-12T15:00:00+11:00",
+   "createdAt": "2026-11-13T06:55:00+11:00",
+   "reason": "Local crime"
+  },
+  {
+   "id": "2026-11-13-lo-vic-australian-of-year",
+   "batch": "2026-11-13",
+   "rank": 5,
+   "category": "Other",
+   "title": "Pancreatic cancer advocate Cherie Dear named Victorian Australian of the Year",
+   "summary": "Cherie Dear, who co-founded pancreatic cancer charity Dare to Hope with her late husband, former Hawthorn player Paul Dear, has been named Victoria's 2027 Australian of the Year, ABC News reported.\n\nThe other Victorian winners are autism researcher Wenn Lawson as Senior Australian of the Year, Ryan Brigham of Health in Focus as Young Australian of the Year, and Gavin Hynam, who has donated 19 cars to people in need, as Local Hero. The four will join other state and territory recipients in Canberra, where the national winners will be announced on 25 January.",
+   "keyFacts": [
+    "Four Victorian award recipients were named",
+    "National awards are on 25 January",
+    "State winners become national finalists"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-13/australian-of-the-year-victorian-winners/107379768"
+    }
+   ],
+   "publishedAt": "2026-11-13T06:27:00+11:00",
+   "createdAt": "2026-11-13T06:55:00+11:00",
+   "reason": "Ceremonial event"
+  },
+  {
+   "id": "2026-11-13-lo-golden-boot",
+   "batch": "2026-11-13",
+   "rank": 6,
+   "category": "Sport",
+   "title": "Kalyn Ponga and Stacey Waaka win rugby league's Golden Boot awards",
+   "summary": "New Zealand's Kalyn Ponga has won the men's International Rugby League Golden Boot for 2026 and compatriot Stacey Waaka won the women's award, AAP reported. The awards were presented at Suncorp Stadium in Brisbane on Thursday night.\n\nPonga broke his forearm in New Zealand's 24-20 World Cup loss to Australia and returned 23 days later. Waaka scored nine tries in four World Cup matches. England's Rob Hawkins won the wheelchair Golden Boot. AAP said voting did not include Sunday's World Cup final.",
+   "keyFacts": [
+    "Ponga is 28",
+    "Waaka scored nine World Cup tries",
+    "Rob Hawkins won the wheelchair award"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/new-zealand-double-act-scoops-golden-boot-awards"
+    }
+   ],
+   "publishedAt": "2026-11-12T21:00:00+11:00",
+   "createdAt": "2026-11-13T06:55:00+11:00",
+   "reason": "Sport"
+  },
+  {
+   "id": "2026-11-13-lo-socceroos-jordan",
+   "batch": "2026-11-13",
+   "rank": 7,
+   "category": "Sport",
+   "title": "Players' union asks for Socceroos friendly in Jordan to be moved over safety",
+   "summary": "Professional Footballers Australia has asked Football Australia to reschedule or relocate the Socceroos' planned friendly against Jordan in Amman because of security concerns, AAP reported. PFA chief executive Beau Busch said players overwhelmingly supported the request.\n\nAustralia are due to play Qatar in Doha before travelling to Amman four days later. Indonesia has cancelled its 13 November friendly in Amman. AAP said the Asian Cup was postponed after an attack on Riyadh airport attributed to the Houthis. Winger Awer Mabil said he would travel if selected. The squad announcement has been delayed to the weekend.",
+   "keyFacts": [
+    "The PFA wants the match moved or rescheduled",
+    "Indonesia cancelled its game in Amman",
+    "Football Australia had not announced a decision"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/my-hand-is-up-socceroo-happy-to-go-to-middle-east"
+    }
+   ],
+   "publishedAt": "2026-11-12T17:00:00+11:00",
+   "createdAt": "2026-11-13T06:55:00+11:00",
+   "reason": "Sport"
+  },
+  {
+   "id": "2026-11-13-lo-perth-bears-burton",
+   "batch": "2026-11-13",
+   "rank": 8,
+   "category": "Sport",
+   "title": "Perth Bears say they are confident of signing Matt Burton",
+   "summary": "Perth Bears general manager Gareth Holmes said on Thursday he was hopeful of signing Canterbury and NSW State of Origin player Matt Burton within days, AAP reported. Burton had not confirmed any move.\n\nHolmes spoke at the launch of the new NRL club's away jumper at North Sydney Oval and said Burton had decisions to make. Burton visited the club this week. AAP said the Bears can offer a salary-cap allowance of 20 per cent granted by Australian Rugby League Commission chair Peter V'landys in August.",
+   "keyFacts": [
+    "The signing is not confirmed",
+    "Burton visited the club this week",
+    "The Bears join the NRL as an expansion team"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/confident-perth-bears-upbeat-about-signing-burton"
+    }
+   ],
+   "publishedAt": "2026-11-12T16:00:00+11:00",
+   "createdAt": "2026-11-13T06:55:00+11:00",
+   "reason": "Sport"
+  },
+  {
+   "id": "2026-11-13-lo-david-jones-staff",
+   "batch": "2026-11-13",
+   "rank": 9,
+   "category": "Business",
+   "title": "David Jones staff and union react to planned closure of 19 stores",
+   "summary": "Thousands of David Jones' 6,000 staff are affected by receivers FTI Consulting's plan, announced on Wednesday, for 19 stores in Australia and New Zealand to trade only until the end of December, AAP reported.\n\nNSW retail union secretary Bernie Smith blamed management decisions for the collapse. Charles Lloyd Jones, a member of the founding family, told AAP that retailers without a distinctive offer were forced to compete on price. The retailer lost $95.5 million in 2024-25. The store closures were reported in an earlier update; this report adds reactions but no new decisions.",
+   "keyFacts": [
+    "19 stores will close after December",
+    "The chain employs about 6,000 people",
+    "It lost $95.5m in 2024-25"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/david-jones-family-member-mourns-race-to-the-bottom"
+    }
+   ],
+   "publishedAt": "2026-11-12T15:00:00+11:00",
+   "createdAt": "2026-11-13T06:55:00+11:00",
+   "reason": "No new development"
+  },
+  {
+   "id": "2026-11-13-lo-victoria-business-mood",
+   "batch": "2026-11-13",
+   "rank": 10,
+   "category": "Economy",
+   "title": "Victorian business conditions weakest of any state ahead of election, NAB survey shows",
+   "summary": "NAB's monthly business survey showed business conditions in Victoria fell to minus 6 in October, the lowest of any state and below the national reading of minus 1, AAP reported. NAB senior economist Gareth Spence linked part of the fall to uncertainty before the 28 November state election.\n\nAAP also cited the Westpac-Melbourne Institute consumer confidence index, which fell 2.7 per cent to a four-year low. Westpac's Matthew Hassan pointed to petrol prices near $2.40 a litre, inflation of 4.3 per cent and the RBA's rate rise to 4.85 per cent. Both surveys were released earlier in the week.",
+   "keyFacts": [
+    "Victorian conditions index: minus 6",
+    "National conditions index: minus 1",
+    "Consumer confidence is at a four-year low"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/mood-sours-for-business-consumers-amid-uncertainty"
+    }
+   ],
+   "publishedAt": "2026-11-12T14:00:00+11:00",
+   "createdAt": "2026-11-13T06:55:00+11:00",
+   "reason": "Restatement, nothing new"
   }
  ]
 }
