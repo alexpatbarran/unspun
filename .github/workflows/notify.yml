@@ -1,0 +1,35 @@
+name: Notify phone
+
+# Runs after each news update. Waits until the live site has the new stories,
+# then sends one notification to the phone saved in the UNSPUN_PUSH secret.
+# "Run workflow" on the Actions tab sends a test notification.
+on:
+  push:
+    branches: [main]
+    paths: [news.json]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: notify
+  cancel-in-progress: false
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm install --no-save --no-audit --no-fund web-push@3.6.7
+      - run: node .github/scripts/notify.mjs
+        env:
+          UNSPUN_PUSH: ${{ secrets.UNSPUN_PUSH }}
+          BEFORE: ${{ github.event.before }}
+          EVENT: ${{ github.event_name }}

@@ -83,6 +83,13 @@
   .done p,.state p{color:var(--muted);font-size:15.5px;line-height:1.5;max-width:320px}
   .btn{margin-top:6px;font-size:14px;color:var(--ink);background:#1b1f27;border:1px solid var(--line);padding:10px 16px;border-radius:10px;cursor:pointer}
   .hint{color:var(--amber) !important;font-size:14px !important}
+  .push{display:flex;flex-direction:column;align-items:center;gap:8px;margin-top:4px}
+  .push:empty{display:none}
+  .push .btn{margin-top:0}
+  .push .btn.go{background:var(--accent);color:#0d0f13;border-color:var(--accent);font-weight:600}
+  .push p{font-size:13.5px !important}
+  .push code{font-family:ui-monospace,Menlo,monospace;font-size:12.5px;color:var(--ink);background:#1b1f27;padding:1px 5px;border-radius:5px}
+  .link{background:none;border:0;color:var(--muted);font-size:13px;text-decoration:underline;text-underline-offset:3px;cursor:pointer;padding:4px}
   .note{position:fixed;left:50%;transform:translateX(-50%);bottom:calc(var(--sb) + 14px);z-index:12;
     background:#232733;color:var(--ink);font-size:13px;padding:8px 12px;border-radius:8px;display:none}
 </style>
@@ -151,6 +158,12 @@
     const live = new Set([...pages.main.items, ...pages.lo.items].map(a => a.id));
     const pruned = {}; for (const k in read) if (live.has(k)) pruned[k] = read[k];
     try { localStorage.setItem(LS, JSON.stringify(pruned)); } catch {}
+    shareRead(pruned);
+  }
+  // the notification worker reads this copy to work out the icon badge
+  function shareRead(obj){
+    try { if (self.caches) caches.open("unspun-state").then(c => c.put(new URL("state/read.json", location.href).href,
+      new Response(JSON.stringify(obj || read), { headers: { "Content-Type": "application/json" } }))).catch(()=>{}); } catch {}
   }
 
   // ---------- cards ----------
@@ -189,6 +202,7 @@
     const txt = el("p"); txt.dataset.role = "done-text";
     inner.append(t, h, txt);
     if (!isLo) { const hint = el("p","hint"); hint.dataset.role = "lo-hint"; inner.append(hint); }
+    if (!isLo) { const pb = el("div","push"); pb.dataset.role = "push"; inner.append(pb); }
     const latest = Date.parse(updatedAt||"");
     if (latest) inner.append(el("p", null, "Last update " + ago(new Date(latest).toISOString()) + "."));
     const b = el("button","btn", p.mode === "unread" ? "Re-read recent stories" : "Back to unread");
@@ -223,6 +237,7 @@
       p.queue.map(id => map.get(id)).filter(Boolean).forEach(a => p.track.append(cardFor(a, p.key === "lo")));
       p.track.append(doneCard(p));
     }
+    if (p.key === "main") renderPush();
     p.cards = Array.from(p.track.children);
     if (toTop) p.index = 0;
     else if (keepId) { const i = p.cards.findIndex(c => c.dataset.id === keepId); p.index = i >= 0 ? i : Math.min(p.index, p.cards.length - 1); }
@@ -278,7 +293,7 @@
         const left = (p.queue||[]).filter(id => !read[id]).length;
         if (p.mode !== "unread") { dt.textContent = "That's the last 48 hours."; dx.textContent = "Tap below to go back to unread only."; }
         else if (left) { dt.textContent = left + (left === 1 ? " story" : " stories") + " skipped"; dx.textContent = "Swipe back down to catch " + (left === 1 ? "it" : "them") + ", or come back later."; }
-        else if (k === "main") { dt.textContent = "You're up to date."; dx.textContent = "That's everything that matters right now. New stories land each morning around 6:40."; }
+        else if (k === "main") { dt.textContent = "You're up to date."; dx.textContent = "That's everything that matters right now. New stories land around 6:40am and 5:40pm."; }
         else { dt.textContent = "That's everything left out."; dx.textContent = "Swipe right to go back to Important."; }
       }
       if (k === "main") {
@@ -291,6 +306,82 @@
     const p = pages[active], stories = p.cards.filter(c => c.dataset.id).length;
     prog.style.width = (stories ? Math.min(p.index, stories) / stories * 100 : 0) + "%";
     prog.style.background = active === "lo" ? "var(--amber)" : "var(--accent)";
+    setBadge(unreadIn(pages.main));
+  }
+  function setBadge(n){
+    if (!loaded || !("setAppBadge" in navigator)) return;
+    try { (n ? navigator.setAppBadge(n) : navigator.clearAppBadge()).catch(()=>{}); } catch {}
+  }
+
+  // ---------- notifications ----------
+  // The app makes its own key pair and push subscription, then gives you one "setup code"
+  // to paste into GitHub (secret UNSPUN_PUSH). GitHub uses it to ping this phone after each update.
+  const PS = "unspun.push.v1";
+  const canPush = "serviceWorker" in navigator && "PushManager" in window && "Notification" in window;
+  const standalone = (window.matchMedia && matchMedia("(display-mode: standalone)").matches) || navigator.standalone === true;
+  let push = (() => { try { return JSON.parse(localStorage.getItem(PS) || "null"); } catch { return null; } })();
+  let pushOpen = false;
+  const savePush = () => { try { localStorage.setItem(PS, JSON.stringify(push)); } catch {} };
+  const b64u = buf => btoa(String.fromCharCode(...new Uint8Array(buf))).replace(/\+/g,"-").replace(/\//g,"_").replace(/=+$/,"");
+  const setupCode = () => JSON.stringify({ v: 1, pub: push.pub, priv: push.priv, sub: push.sub });
+
+  let swReg = null;
+  if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").then(r => { swReg = r; checkSub(); }).catch(() => {});
+
+  async function checkSub(){
+    // if iOS ever replaces the subscription, ask for a fresh setup code
+    if (!push || !swReg || !swReg.pushManager || Notification.permission !== "granted") return;
+    try {
+      const s = await swReg.pushManager.getSubscription();
+      if (!s) { push = null; savePush(); }
+      else if (s.endpoint !== push.sub.endpoint) { push.sub = s.toJSON(); push.done = false; savePush(); }
+      renderPush();
+    } catch {}
+  }
+
+  async function turnOn(){
+    try {
+      const perm = await Notification.requestPermission();
+      if (perm !== "granted") { showNote("Notifications are off. You can allow them in Settings › Notifications › Unspun.", 5000); return; }
+      const reg = swReg || await navigator.serviceWorker.ready;
+      const kp = await crypto.subtle.generateKey({ name: "ECDSA", namedCurve: "P-256" }, true, ["sign","verify"]);
+      const raw = await crypto.subtle.exportKey("raw", kp.publicKey);
+      const jwk = await crypto.subtle.exportKey("jwk", kp.privateKey);
+      const old = await reg.pushManager.getSubscription(); if (old) await old.unsubscribe();
+      const sub = await reg.pushManager.subscribe({ userVisibleOnly: true, applicationServerKey: new Uint8Array(raw) });
+      push = { pub: b64u(raw), priv: jwk.d, sub: sub.toJSON(), done: false }; savePush();
+      shareRead(); pushOpen = true; renderPush(); setBadge(unreadIn(pages.main));
+    } catch (err) { showNote("Couldn't turn on notifications: " + (err && err.message || err), 6000); }
+  }
+
+  async function copyCode(){
+    const code = setupCode();
+    try { await navigator.clipboard.writeText(code); showNote("Setup code copied"); }
+    catch {
+      const t = document.createElement("textarea"); t.value = code; t.style.position = "fixed"; t.style.opacity = "0";
+      document.body.append(t); t.select(); try { document.execCommand("copy"); showNote("Setup code copied"); } catch { showNote("Couldn't copy, try again"); } t.remove();
+    }
+  }
+
+  function renderPush(){
+    const box = pages.main.track.querySelector('[data-role="push"]'); if (!box) return;
+    box.replaceChildren();
+    if (!canPush) {
+      if (!standalone) box.append(el("p", null, "Open Unspun from your Home Screen to turn on notifications."));
+      return;
+    }
+    if (!push || Notification.permission !== "granted") {
+      const b = el("button","btn go","Turn on notifications"); b.onclick = turnOn; box.append(b); return;
+    }
+    if (!push.done || pushOpen) {
+      box.append(el("p", null, "One last step: copy your setup code and save it in GitHub."));
+      const c = el("button","btn go","Copy setup code"); c.onclick = copyCode;
+      const p = el("p"); p.append("GitHub › unspun › Settings › Secrets and variables › Actions › New repository secret. Name it ", el("code", null, "UNSPUN_PUSH"), " and paste the code.");
+      const d = el("button","link","I've saved it"); d.onclick = () => { push.done = true; pushOpen = false; savePush(); renderPush(); showNote("Notifications on"); };
+      box.append(c, p, d); return;
+    }
+    const s = el("button","link","Notifications on · setup code"); s.onclick = () => { pushOpen = true; renderPush(); };
+    box.append(s);
   }
 
   // ---------- touch: one swipe = one story ----------
@@ -384,7 +475,7 @@
   }
 
   async function start(){
-    read = loadLocal();
+    read = loadLocal(); shareRead();
     let d;
     try { d = await load(); }
     catch { pages.main.track.replaceChildren(stateCard("Can't reach your stories", "Check you're online, then reopen Unspun.")); return; }
