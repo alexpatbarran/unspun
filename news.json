@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-12T10:35:00+11:00",
+ "updatedAt": "2026-11-12T17:50:00+11:00",
  "articles": [
   {
    "id": "2026-11-12-mississippi-senate",
@@ -612,6 +612,290 @@
    ],
    "publishedAt": "2026-11-12T07:39:00+11:00",
    "createdAt": "2026-11-12T10:35:00+11:00"
+  },
+  {
+   "id": "2026-11-12-nvidia-board-huang-meeting",
+   "batch": "2026-11-12-pm",
+   "rank": 1,
+   "category": "Business",
+   "title": "Nvidia board meets on Jensen Huang's future after reports it may remove him",
+   "summary": "Nvidia's board met on Wednesday, US time, to consider chief executive Jensen Huang's future, Reuters reported, citing a source. The Wall Street Journal first reported the board was preparing to remove him, and CBS News said two sources gave the same account. Nvidia had not commented, and no decision had been announced by Thursday evening Sydney time.\n\nThis is new since the board opened its investigation on 8 November. The New York Times has since reported, citing five people, that Huang had a relationship with Kimberly Powell, an Nvidia vice-president. That followed earlier reports about his ties to Alice Huang, whom US officials suspect of working for Beijing. China denies this. Shares fell about 8 per cent after hours.",
+   "keyFacts": [
+    "Nvidia has not confirmed the reports that the board plans to remove him",
+    "Shares fell about 8% in after-hours trade on Wednesday",
+    "A House committee chair said he may subpoena Huang"
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via Yahoo Finance)",
+     "url": "https://finance.yahoo.com/news/nvidia-preparing-oust-ceo-jensen-223546395.html"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/news/nvidia-board-ceo-jensen-huang-china/"
+    },
+    {
+     "name": "ABC News (US)",
+     "url": "https://abcnews.com/US/nvidia-board-reportedly-preparing-oust-ceo-jensen-huang/story?id=138062059"
+    }
+   ],
+   "publishedAt": "2026-11-12T10:32:00+11:00",
+   "createdAt": "2026-11-12T17:50:00+11:00"
+  },
+  {
+   "id": "2026-11-12-russia-ukraine-capitals-envoys-moscow",
+   "batch": "2026-11-12-pm",
+   "rank": 2,
+   "category": "World",
+   "title": "Russia and Ukraine trade strikes on capitals as US envoys arrive in Moscow",
+   "summary": "Russia and Ukraine attacked each other's capitals early on Thursday, a day after US-mediated talks in Abu Dhabi ended, Reuters reported. A Reuters witness heard explosions in Kyiv. Russia's defence ministry said it hit military and energy sites and a munitions store in Kyiv. Moscow's mayor said five drones heading for the city were shot down.\n\nUS envoys Jared Kushner and Steve Witkoff landed in Moscow for a meeting with Vladimir Putin and were greeted by Kremlin envoy Kirill Dmitriev. They then plan to fly to Ireland to meet Volodymyr Zelensky. US mediators say the two sides still disagree on major issues, including territory.",
+   "keyFacts": [
+    "Kyiv Independent reported explosions in Kyiv at about 1am local time",
+    "Officials in Rivne region reported damage to energy infrastructure",
+    "Kushner said European partners must take part in the talks"
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via ThePrint)",
+     "url": "https://theprint.in/world/russia-ukraine-exchange-attacks-on-capitals-as-us-envoys-land-in-moscow/3096665"
+    },
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/russia-attacks-kyiv-with-ballistic-missiles-hours-after-peace-talks-end/"
+    }
+   ],
+   "publishedAt": "2026-11-12T17:00:00+11:00",
+   "createdAt": "2026-11-12T17:50:00+11:00"
+  },
+  {
+   "id": "2026-11-12-gaza-nasser-hospital-strike",
+   "batch": "2026-11-12-pm",
+   "rank": 3,
+   "category": "World",
+   "title": "Israeli strike on Gaza's Nasser Hospital kills six, health ministry says",
+   "summary": "An Israeli airstrike hit Nasser Hospital in Khan Younis, southern Gaza, early on Thursday, killing six people and wounding at least 12, according to Gaza's Health Ministry. The ministry said the strike hit the surgery department and that a doctor was among those killed. An AP journalist at the scene said parts of the second floor were destroyed.\n\nThe Israeli military said it targeted a senior Hamas militant and others, without giving evidence. Israel accuses Hamas of using hospitals as cover, which Hamas denies. Nasser is one of the few hospitals still working in Gaza.",
+   "keyFacts": [
+    "Casualty figures come from Gaza's Health Ministry",
+    "The Israeli military said the target was a senior Hamas figure",
+    "The strike follows two days of deadly strikes reported earlier this week"
+   ],
+   "sources": [
+    {
+     "name": "AP (via ClickOnDetroit)",
+     "url": "https://www.clickondetroit.com/news/world/2026/11/12/israeli-strike-on-a-gaza-hospital-kills-6-people-health-authorities-say/"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://aljazeera.com/news/liveblog/2026/11/12/iran-war-live-tehran-warns-of-wider-retaliation-israel-kills-in-gaza"
+    }
+   ],
+   "publishedAt": "2026-11-12T16:47:00+11:00",
+   "createdAt": "2026-11-12T17:50:00+11:00"
+  },
+  {
+   "id": "2026-11-12-hormuz-didamar-tanker",
+   "batch": "2026-11-12-pm",
+   "rank": 4,
+   "category": "World",
+   "title": "Iran says it hit navigation systems on Omani island; tanker reported on fire in Hormuz",
+   "summary": "Three sources told Reuters that Iran attacked shipping navigation systems on Oman's Didamar island in the Strait of Hormuz. Iranian state media said the Revolutionary Guards destroyed what it called enemy navigation systems there. Reuters could not confirm whether anything was destroyed, and shipping sources said the effect on commercial traffic was likely to be limited.\n\nSeparately, Iran's army said on Wednesday an oil tanker hit a mine and caught fire after entering a restricted area. The UK Maritime Trade Operations agency said it had a report of an incident involving a tanker, with damage and crew condition unknown. US Central Command and Oman did not comment.",
+   "keyFacts": [
+    "It is unclear whether the two tanker reports refer to the same ship",
+    "Iran has restricted Hormuz traffic since the war began in late February",
+    "The US says mines in the area have been cleared"
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via Arab News)",
+     "url": "https://www.arabnews.com/middle-east/ukmto-reports-tanker-incident-in-strait-of-hormuz-3011095"
+    },
+    {
+     "name": "Middle East Eye",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-army-says-oil-tanker-ablaze-hormuz-strait-after-hitting-mine"
+    }
+   ],
+   "publishedAt": "2026-11-12T05:20:00+11:00",
+   "createdAt": "2026-11-12T17:50:00+11:00"
+  },
+  {
+   "id": "2026-11-12-qld-cfmeu-interim-report",
+   "batch": "2026-11-12-pm",
+   "rank": 5,
+   "category": "Politics",
+   "title": "Queensland CFMEU inquiry calls for building code; Miles apologises for Labor policy",
+   "summary": "The commission of inquiry into the Queensland CFMEU released an interim report early, citing an urgent need for change, the ABC reported. Commissioner Stuart Wood KC recommended a new construction industry code and a dedicated regulator, with exclusion from government-funded work as the main penalty. He found Labor's Best Practice Industry Conditions policy raised costs by at least 20 per cent on three major projects.\n\nOn Thursday, Opposition Leader Steven Miles apologised for the 2018 policy, saying it was misused and he would not bring it back. Deputy Premier Jarrod Bleijie said the apology did not go far enough. He said the government was considering the report and had already committed to a code.",
+   "keyFacts": [
+    "The cost finding covers Cross River Rail, Centenary Bridge and Gold Coast Light Rail",
+    "The final report is now due in December 2027",
+    "The Crisafulli government suspended the policy in 2024"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-11/queensland-cfmeu-inquiry-interim-report/107375078"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-12/qld-cfmeu-inquiry-report-response/107376800"
+    }
+   ],
+   "publishedAt": "2026-11-12T11:19:00+11:00",
+   "createdAt": "2026-11-12T17:50:00+11:00"
+  },
+  {
+   "id": "2026-11-12-vic-pre-election-budget-update",
+   "batch": "2026-11-12-pm",
+   "rank": 6,
+   "category": "Economy",
+   "title": "Victorian pre-election budget update forecasts wider deficit and slower growth",
+   "summary": "Victoria's Department of Treasury and Finance released its pre-election budget update on Thursday, ahead of the 28 November state election, AAP reported. It forecasts the cash deficit widening by $3 billion over four years compared with the May budget, and net debt reaching $196.2 billion by mid-2030.\n\nThe update forecasts economic growth slowing to 1 per cent this financial year, down from 1.5 per cent in May, and unemployment rising to 5.25 per cent. It cites higher interest rates, persistent inflation and federal migration cuts. Premier Ben Carroll said he would cut spending, while Opposition Leader Jess Wilson has set a goal of a cash surplus by 2032.",
+   "keyFacts": [
+    "Operating surplus forecast at $700 million for 2026-27, down $400 million",
+    "Prepared by the public service under caretaker rules",
+    "Victorians vote on 28 November"
+   ],
+   "sources": [
+    {
+     "name": "AAP (via Macleay Argus)",
+     "url": "https://www.macleayargus.com.au/story/9390186/debt-blowout-slower-growth-pain-in-pre-poll-forecast/"
+    }
+   ],
+   "publishedAt": "2026-11-12T12:52:00+11:00",
+   "createdAt": "2026-11-12T17:50:00+11:00"
+  },
+  {
+   "id": "2026-11-12-david-jones-19-stores",
+   "batch": "2026-11-12-pm",
+   "rank": 7,
+   "category": "Business",
+   "title": "David Jones to close 19 of its 38 stores under receivers' plan",
+   "summary": "Receivers for David Jones announced on Wednesday plans to close 19 of the department store chain's 38 stores, the ABC reported. Chief executive Erica Berchtold told suppliers in an email that the store network was no longer the right shape for the business. She said the stores were expected to trade through the Christmas period, with final trading days later in the year.\n\nDavid Jones went into voluntary administration last week, with McGrath Nicol appointed administrator. Employment Minister Amanda Rishworth urged the company to redeploy affected staff. The number of jobs affected has not been announced.",
+   "keyFacts": [
+    "The store network covers Australia and New Zealand",
+    "FTI Consulting is receiver for lender Hilco",
+    "Exact closing dates have not been set"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-12/david-jones-suppliers-react-to-store-closures/107374298"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-12/federal-politics-live-blog-albanese-cop31-nov-2/107375902"
+    }
+   ],
+   "publishedAt": "2026-11-12T14:42:00+11:00",
+   "createdAt": "2026-11-12T17:50:00+11:00"
+  },
+  {
+   "id": "2026-11-12-congo-ebola-11000",
+   "batch": "2026-11-12-pm",
+   "rank": 8,
+   "category": "Health",
+   "title": "Congo's Ebola outbreak passes 11,000 cases, government data show",
+   "summary": "Ebola cases in the Democratic Republic of Congo have passed 11,000, according to government health data reported by Reuters and AP. The figures show 11,042 infections and 5,387 deaths since the outbreak was declared in mid-May. It is caused by the Bundibugyo virus, for which there is no approved vaccine or treatment.\n\nThe outbreak has spread to eight of Congo's 26 provinces, with Ituri and North Kivu the main hotspots, and cases have been reported in Uganda, Kenya and Nigeria. Reuters said delayed detection, conflict and strained health services have helped it spread. Only the 2014-16 West African outbreak has been larger.",
+   "keyFacts": [
+    "Deaths are close to half of recorded infections",
+    "The outbreak was declared in mid-May 2026",
+    "AP reported attacks on health workers and facilities"
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via CNBC Africa)",
+     "url": "https://www.cnbcafrica.com/2026/congos-ebola-cases-surpass-11000-government-data-show"
+    },
+    {
+     "name": "AP (via KPBS)",
+     "url": "https://www.kpbs.org/news/health/2026/11/11/ebola-tops-11-000-cases-in-congos-deadliest-outbreak"
+    }
+   ],
+   "publishedAt": "2026-11-11T19:54:00+11:00",
+   "createdAt": "2026-11-12T17:50:00+11:00"
+  },
+  {
+   "id": "2026-11-12-anz-ceo-inquiry",
+   "batch": "2026-11-12-pm",
+   "rank": 9,
+   "category": "Economy",
+   "title": "ANZ chief tells parliament inquiry global markets are in a 'dangerous situation'",
+   "summary": "ANZ chief executive Nuno Matos told a parliamentary inquiry in Canberra on Thursday that record share prices combined with high interest rates were a dangerous mix for the world, the ABC reported. He linked strong competition for capital to spending on AI and data centres, government spending and persistent inflation.\n\nMatos said he expected the Australian economy to slow noticeably but not go into recession. He said a sudden halt in AI spending would cause major global problems, but he did not expect one. He also called for rules on AI, citing fraud risks. The other major bank chiefs are due to appear before the committee.",
+   "keyFacts": [
+    "The inquiry is chaired by Labor MP Ed Husic",
+    "Matos reported a $7.59 billion cash profit for ANZ",
+    "NAB and CBA chiefs are due to appear on Friday"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-12/anz-boss-says-global-markets-in-dangerous-situation/107377392"
+    }
+   ],
+   "publishedAt": "2026-11-12T15:09:00+11:00",
+   "createdAt": "2026-11-12T17:50:00+11:00"
+  },
+  {
+   "id": "2026-11-12-q-fever-vaccine-shortage",
+   "batch": "2026-11-12-pm",
+   "rank": 10,
+   "category": "Health",
+   "title": "Australia expected to run out of Q fever vaccine this week",
+   "summary": "Australia is expected to run out of Q-VAX, its only Q fever vaccine, this week, ABC Rural reported. Supplier CSL Seqirus said it expects a short, temporary stock-out until the end of the year. It said the next two batches have been sped up and are expected in late December.\n\nThe company blamed raw material supply problems and equipment faults on its filling lines, which meant three or four batches could not be released. Each batch takes about nine months to make. Farmers told the ABC they had been unable to vaccinate staff for months. The Health Department said CSL Seqirus manages supply under a 10-year, $1 billion arrangement.",
+   "keyFacts": [
+    "991 Q fever cases were recorded last year, a record",
+    "Q fever spreads from livestock to people",
+    "Supply is expected to improve early next year"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-12/q-fever-vaccine-shortage-in-australia/107374986"
+    }
+   ],
+   "publishedAt": "2026-11-12T06:29:00+11:00",
+   "createdAt": "2026-11-12T17:50:00+11:00"
+  },
+  {
+   "id": "2026-11-12-yemen-houthi-saudi-fighting",
+   "batch": "2026-11-12-pm",
+   "rank": 11,
+   "category": "World",
+   "title": "Yemen fighting intensifies as Saudi Arabia and Houthis trade missile and drone claims",
+   "summary": "The Saudi-led coalition said it intercepted three cruise missiles aimed at Riyadh and drones aimed at Mecca and southern Saudi Arabia, Al Jazeera reported. Saudi civil defence said debris from intercepted missiles fell in a village in Mecca province. A Houthi spokesperson denied targeting Mecca and said the group struck a pumping station in Yanbu and targeted Riyadh's airport.\n\nThe WHO said that as of 8 November the fighting had caused 11,755 casualties, including 2,098 deaths. It said more than 320,000 people had been displaced since 1 August. Yemen's government-aligned army said at least 138 Houthi fighters were killed or wounded; this has not been independently verified.",
+   "keyFacts": [
+    "Casualty and displacement figures are from the WHO",
+    "Each side's claims about the strikes have not been independently confirmed",
+    "More than 2,000 casualties were recorded in nine days"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/12/fighting-intensifies-in-yemen-as-houthis-deny-targeting-mecca"
+    }
+   ],
+   "publishedAt": "2026-11-12T15:41:00+11:00",
+   "createdAt": "2026-11-12T17:50:00+11:00"
+  },
+  {
+   "id": "2026-11-12-taiwan-apec-equal-basis",
+   "batch": "2026-11-12-pm",
+   "rank": 12,
+   "category": "World",
+   "title": "Taiwan says it is attending China-hosted APEC summit on an 'equal basis'",
+   "summary": "Taiwan's President Lai Ching-te said on Thursday that Taiwan is taking part in next week's APEC leaders' summit in Shenzhen, China, on an equal basis with other members, Reuters reported. His government had earlier asked Beijing for a written guarantee. Lai named Acer founder Stan Shih as Taiwan's envoy.\n\nChina's foreign ministry said it handles the participation of what it calls the Taiwan region under the one-China principle and APEC's agreed rules. It said Taiwan's representatives can attend as normal if those practices are followed. US President Donald Trump is expected to meet Xi Jinping in Shenzhen.",
+   "keyFacts": [
+    "Shih was also Taiwan's envoy at the 2007 APEC summit in Sydney",
+    "Taiwan usually sends business leaders or former officials to APEC",
+    "Beijing refuses to talk to Lai and claims Taiwan as its territory"
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via Yahoo News)",
+     "url": "https://www.yahoo.com/news/articles/taiwan-taking-part-apec-china-032230030.html"
+    }
+   ],
+   "publishedAt": "2026-11-12T14:22:00+11:00",
+   "createdAt": "2026-11-12T17:50:00+11:00"
   }
  ],
  "leftOut": [
@@ -840,6 +1124,72 @@
    "publishedAt": "2026-11-11T17:55:00+11:00",
    "createdAt": "2026-11-12T10:35:00+11:00",
    "reason": "Outside today's window"
+  },
+  {
+   "id": "2026-11-12-lo-lane-cove-remains",
+   "batch": "2026-11-12-pm",
+   "rank": 13,
+   "category": "Australia",
+   "title": "Human remains found in sofa dumped in Sydney bushland at Lane Cove North",
+   "summary": "NSW Police said a man found human remains inside a storage sofa dumped in bushland off Avian Crescent, Lane Cove North, on Wednesday afternoon, the ABC reported. A forensic examination found they were the torso of an adult man. Police said the remains had been there for at least a couple of days.\n\nSuperintendent Paul Devaney said police were working to identify the man and find out how he died. He said there was no sign of foul play in Lane Cove and residents were not under threat. Police used a cadaver dog, a line search and aerial surveillance.",
+   "keyFacts": [
+    "The man has not been formally identified",
+    "A post-mortem examination will be held",
+    "Police are checking the missing persons register"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-12/human-remains-torso-found-in-sofa-in-sydney-bushland-lane-cove/107376074"
+    }
+   ],
+   "publishedAt": "2026-11-12T07:58:00+11:00",
+   "createdAt": "2026-11-12T17:50:00+11:00",
+   "reason": "Local crime"
+  },
+  {
+   "id": "2026-11-12-lo-stephen-roche",
+   "batch": "2026-11-12-pm",
+   "rank": 14,
+   "category": "Australia",
+   "title": "Man who drove fugitive Hussein Chamas across Australia faces sentencing in Darwin",
+   "summary": "Irish national Stephen Roche faced a sentencing hearing in the NT Supreme Court on Thursday after pleading guilty to attempting to pervert the course of justice, the ABC reported. He drove fugitive Hussein Chamas about 4,680 kilometres in a rented van before Chamas was intercepted by Border Force in the Arafura Sea.\n\nThe prosecution said jail was the only appropriate penalty. Roche's lawyer argued that 123 days already spent on remand was enough, citing his health and remorse. The court heard Roche was to be paid $30,000.",
+   "keyFacts": [
+    "Sentence is due on 1 December",
+    "Chamas was jailed in August on drug charges",
+    "Roche was arrested in January 2025"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-12/stephen-roche-fugitive-hussein-chamas-drug-trafficking-driver/107375264"
+    }
+   ],
+   "publishedAt": "2026-11-12T15:39:00+11:00",
+   "createdAt": "2026-11-12T17:50:00+11:00",
+   "reason": "Local crime"
+  },
+  {
+   "id": "2026-11-12-lo-gippsland-teen-found",
+   "batch": "2026-11-12-pm",
+   "rank": 15,
+   "category": "Australia",
+   "title": "Missing teenager found alive after six nights in Gippsland bush",
+   "summary": "A 17-year-old who went missing while camping at Walhalla East in Victoria's Gippsland was found alive on Thursday morning, Victoria Police said, according to the ABC. A police helicopter crew spotted him in a dry riverbed about two kilometres east of Stoney Creek.\n\nPolice said he had fallen down a steep embankment two days earlier and could not walk. He had cuts and severe sunburn and was taken to Latrobe Regional Hospital. More than 80 volunteers had joined the search, along with police divers, the dog squad and helicopters.",
+   "keyFacts": [
+    "He went missing on 6 November",
+    "Walhalla East is about 180 km east of Melbourne",
+    "He is being monitored in hospital"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-12/missing-teenager-william-found-gippsland-bush/107372518"
+    }
+   ],
+   "publishedAt": "2026-11-12T12:04:00+11:00",
+   "createdAt": "2026-11-12T17:50:00+11:00",
+   "reason": "Human interest"
   }
  ]
 }
