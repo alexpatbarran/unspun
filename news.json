@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-13T06:55:00+11:00",
+ "updatedAt": "2026-11-13T17:50:59+11:00",
  "articles": [
   {
    "id": "2026-11-12-mississippi-senate",
@@ -1176,6 +1176,446 @@
    ],
    "publishedAt": "2026-11-12T18:00:00+11:00",
    "createdAt": "2026-11-13T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-13-iran-bahrain-radar",
+   "batch": "2026-11-13-pm",
+   "rank": 1,
+   "category": "World",
+   "title": "Iran says it struck US early-warning radar in Bahrain",
+   "summary": "Iran's Islamic Revolutionary Guard Corps said it targeted a US early-warning radar site in Bahrain, describing the strike as retaliation for an air attack on a telecommunications tower in Hormozgan province, Al Jazeera reported. Iranian state media said the port city of Sirik was hit on Thursday. The IRGC-affiliated Fars agency said the radar was destroyed.\n\nThe United States and Bahrain had not commented. Reuters said it was the first attack on US military assets in a Gulf country claimed by Iran since early September. US Central Command said its naval blockade of Iranian ports remained in force.",
+   "keyFacts": [
+    "The IRGC called the strike a warning",
+    "Neither Washington nor Manama commented",
+    "The US blockade of Iranian ports continues"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain"
+    }
+   ],
+   "publishedAt": "2026-11-13T14:17:00+11:00",
+   "createdAt": "2026-11-13T17:50:59+11:00"
+  },
+  {
+   "id": "2026-11-13-trump-iran-no-deal-needed",
+   "batch": "2026-11-13-pm",
+   "rank": 2,
+   "category": "World",
+   "title": "Trump says US does not need Iran deal, tells Vance to focus on Democratic-run cities",
+   "summary": "US President Donald Trump said the United States does not need a deal with Iran and directed Vice-President JD Vance to give his full attention to what Trump described as crime and corruption in Democratic-run cities and states, Reuters reported via the ABC. Trump wrote that the US held large sums of Iranian money and controlled the Strait of Hormuz.\n\nThe Wall Street Journal had reported that Vance was considering face-to-face talks with a senior Iranian security official; Reuters did not confirm this. Vance's office did not respond to requests for comment. Oil prices rose after the remarks, according to AAP.",
+   "keyFacts": [
+    "Trump said a deal with Iran was not needed",
+    "Vance had been leading US contacts on Iran",
+    "Brent crude rose to about US$96 a barrel"
+   ],
+   "sources": [
+    {
+     "name": "ABC News (Reuters)",
+     "url": "https://www.abc.net.au/news/2026-11-13/trump-says-us-does-not-need-iran-deal/107380892"
+    },
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/australian-shares-dip-as-risk-sentiment-sours-again"
+    }
+   ],
+   "publishedAt": "2026-11-13T06:01:00+11:00",
+   "createdAt": "2026-11-13T17:50:59+11:00"
+  },
+  {
+   "id": "2026-11-13-microsoft-outage-restored",
+   "batch": "2026-11-13-pm",
+   "rank": 3,
+   "category": "Science & Tech",
+   "title": "Microsoft services recovering; company says no sign outage was a cyber attack",
+   "summary": "Microsoft said there was no indication that Friday's global outage of Outlook, Teams and other services was caused by a cyber attack, and reported a gradual recovery from about 10am AEDT, the ABC reported. Microsoft said a process that sets up secure connections on affected servers became overloaded and that it was reviewing recent configuration changes.\n\nThe AFP, ASIO, NSW Parliament, Service NSW and Queensland Health were among those affected, according to AAP. Home Affairs Minister Tony Burke said an agreement with Microsoft to prioritise Australian recovery had been activated. The ABC reported a senior Home Affairs official had warned in August about the impact of a Microsoft outage.",
+   "keyFacts": [
+    "The outage began just after 3am AEDT",
+    "National Cyber Security Coordinator is examining it",
+    "Government agencies including AFP and ASIO were affected"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-13/microsoft-outage-teams-outlook-copilot/107381196"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-13/microsoft-reliance-national-security-risk/107382100"
+    },
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/organisations-scrambling-after-major-microsoft-outage"
+    }
+   ],
+   "publishedAt": "2026-11-13T12:56:00+11:00",
+   "createdAt": "2026-11-13T17:50:59+11:00"
+  },
+  {
+   "id": "2026-11-13-finland-russian-warship-strike",
+   "batch": "2026-11-13-pm",
+   "rank": 4,
+   "category": "World",
+   "title": "Finland detects strike on Russian warship in Gulf of Finland; Ukraine claims attack",
+   "summary": "Finland's military said it detected a strike on a Russian warship in the Gulf of Finland area and that Finland faced no immediate military threat, Al Jazeera reported, citing Reuters. Finland gave no details on the location or source. Finnish broadcaster Yle reported that Ukraine's Security Service said it carried out the attack.\n\nLocal media said the vessel was a small navy ship that returned to St Petersburg; casualties were unclear. US envoys Steve Witkoff and Jared Kushner met Ukrainian President Volodymyr Zelenskyy in Ireland after talks with Vladimir Putin in Moscow. Kushner said the US was working towards the war's largest prisoner exchange.",
+   "keyFacts": [
+    "Finland said it faced no immediate threat",
+    "Ukraine's SBU claimed the attack, according to Yle",
+    "Russia said it intercepted 146 drones over Leningrad region"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/13/finland-detects-strike-on-russian-warship-as-zelenskyy-meets-us-envoys"
+    }
+   ],
+   "publishedAt": "2026-11-13T13:35:00+11:00",
+   "createdAt": "2026-11-13T17:50:59+11:00"
+  },
+  {
+   "id": "2026-11-13-trump-cuba-force",
+   "batch": "2026-11-13-pm",
+   "rank": 5,
+   "category": "World",
+   "title": "Trump says he would consider military force against Cuba before leaving office",
+   "summary": "US President Donald Trump said in a radio interview with host Hugh Hewitt that he would consider using military force against Cuba and wanted to resolve the issue before his term ends in 2029, Al Jazeera reported. Politico reported it was the first time Trump had given a timeframe for a possible operation. Trump said Secretary of State Marco Rubio would support it.\n\nA US oil blockade of Cuba has been in place since January. Cuban officials have called it collective punishment, and the island has faced nationwide blackouts and shortages. In March, the head of US Southern Command told senators US troops were not rehearsing an invasion.",
+   "keyFacts": [
+    "Trump's term ends in January 2029",
+    "A US oil blockade has applied since January",
+    "The US has sanctioned President Díaz-Canel"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/13/trump-moots-toppling-cuba-authorities-before-leaving-office"
+    }
+   ],
+   "publishedAt": "2026-11-13T13:33:00+11:00",
+   "createdAt": "2026-11-13T17:50:59+11:00"
+  },
+  {
+   "id": "2026-11-13-backpacker-visa-rethink",
+   "batch": "2026-11-13-pm",
+   "rank": 6,
+   "category": "Politics",
+   "title": "Government reconsidering planned backpacker visa changes, Burke indicates",
+   "summary": "Home Affairs Minister Tony Burke indicated the government is reworking its planned changes to working holiday visas, the ABC reported. Burke said Australia still needed to reduce numbers and that the overall migration figure he announced could not change, but described the adjustments as tweaks and said a resolution was close.\n\nHome Affairs data show British working holiday arrivals rose from 47,238 in 2023-24 to 79,412 in 2024-25, after a free trade deal removed specified work requirements for UK citizens. The ACCI said businesses needed certainty. Albanese raised the scheme with UK Prime Minister Andy Burnham at COP31, according to AAP.",
+   "keyFacts": [
+    "Applications from 24 countries were paused in August",
+    "Labor targets net migration of 225,000 by 2028",
+    "UK citizens can stay up to three years"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-13/backpacker-working-holiday-visa-immigration-uk-rethink/107381884"
+    },
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/world-leaders-urged-not-to-overlook-pacific-plight"
+    }
+   ],
+   "publishedAt": "2026-11-13T13:45:00+11:00",
+   "createdAt": "2026-11-13T17:50:59+11:00"
+  },
+  {
+   "id": "2026-11-13-un-rapporteur-youth-detention",
+   "batch": "2026-11-13-pm",
+   "rank": 7,
+   "category": "Australia",
+   "title": "UN Indigenous rights envoy says youth detention is creating a new Stolen Generation",
+   "summary": "The UN Special Rapporteur on the Rights of Indigenous Peoples, Albert Barume, said at the end of his visit to Australia that the detention of Aboriginal children amounted to a new Stolen Generation, AAP reported. He said he was refused access to Darwin's Holtze and Queensland's Cleveland youth detention centres, and called on Prime Minister Anthony Albanese to show leadership.\n\nA Senate report found that in the June 2025 quarter, 60 per cent of children in detention were Indigenous, compared with 6.6 per cent of the population. Barume is due to report to the UN Human Rights Council in September 2027.",
+   "keyFacts": [
+    "Barume's visit ended on Friday",
+    "He said he was denied access to two centres",
+    "His report is due in September 2027"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/un-warns-australia-is-creating-a-new-stolen-generation"
+    }
+   ],
+   "publishedAt": "2026-11-13T12:00:00+11:00",
+   "createdAt": "2026-11-13T17:50:59+11:00"
+  },
+  {
+   "id": "2026-11-13-apra-ai-stress-tests",
+   "batch": "2026-11-13-pm",
+   "rank": 8,
+   "category": "Economy",
+   "title": "APRA to run AI stress tests, says financial disruption is likely",
+   "summary": "Australian Prudential Regulation Authority chair John Lonsdale said it was safe to assume artificial intelligence would cause interruptions and problems for banks, insurers and super funds, the ABC reported. APRA plans AI-focused stress tests of hypothetical severe scenarios from next year, and Lonsdale said major institutions were not yet adequately prepared.\n\nAPRA's System Risk Outlook, released on Thursday, placed AI at the centre of risks to the financial system, according to the ABC. In April, APRA wrote to industry leaders about cyber threats from frontier AI models, and in August APRA and ASIC jointly urged firms to move from awareness to action.",
+   "keyFacts": [
+    "Stress tests are planned from next year",
+    "APRA's System Risk Outlook was released Thursday",
+    "ASIC and APRA issued a joint warning in August"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-13/regulator-apra-warns-of-interruptions-as-frontier-ai-evolves/107378944"
+    },
+    {
+     "name": "ASIC",
+     "url": "https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-201mr-asic-and-apra-warn-frontier-ai-awareness-must-turn-to-action/"
+    }
+   ],
+   "publishedAt": "2026-11-13T05:00:00+11:00",
+   "createdAt": "2026-11-13T17:50:59+11:00"
+  },
+  {
+   "id": "2026-11-13-asx-midday-dip",
+   "batch": "2026-11-13-pm",
+   "rank": 9,
+   "category": "Economy",
+   "title": "ASX falls nearly 1 per cent at midday; Australian dollar at lowest since January",
+   "summary": "The S&P/ASX 200 was down 83.4 points, or 0.91 per cent, at 9,063.4 at midday on Friday, AAP reported, with financials down more than 1 per cent. A Capital.com analyst said Nvidia's leadership upheaval had slowed a recovery in technology shares.\n\nBrent crude rose to about US$96 a barrel after President Trump's comments on Iran talks, while gold fell to a 13-month low near US$3,883 an ounce and copper reached its lowest level since July. The Australian dollar traded at 68.02 US cents, its lowest since January, according to AAP.",
+   "keyFacts": [
+    "ASX 200 at midday: 9,063.4",
+    "Gold at a 13-month low",
+    "Australian dollar: 68.02 US cents"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/australian-shares-dip-as-risk-sentiment-sours-again"
+    }
+   ],
+   "publishedAt": "2026-11-13T12:30:00+11:00",
+   "createdAt": "2026-11-13T17:50:59+11:00"
+  },
+  {
+   "id": "2026-11-13-brooklyn-building-collapse",
+   "batch": "2026-11-13-pm",
+   "rank": 10,
+   "category": "World",
+   "title": "Death toll from Brooklyn building collapse rises to at least eight",
+   "summary": "At least eight people, including two children, died when a three-storey building collapsed into a neighbouring construction site in the Flatbush area of Brooklyn, New York Mayor Zohran Mamdani said, according to Al Jazeera. At least 18 people were taken to hospital, four in a critical condition, and about 250 firefighters attended.\n\nThe Fire Department said the cause was under investigation. City records cited in the report show a stop-work order was issued for the adjacent site in March, work resumed in violation in April, and it was allowed to continue in May. The architect, owner and contractor did not respond to AP.",
+   "keyFacts": [
+    "The collapse happened on Wednesday afternoon local time",
+    "At least 18 people were hospitalised",
+    "A stop-work order was issued in March"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/12/building-collapse-in-brooklyn-kills-two-injures-more-than-a-dozen"
+    }
+   ],
+   "publishedAt": "2026-11-13T08:16:00+11:00",
+   "createdAt": "2026-11-13T17:50:59+11:00"
+  },
+  {
+   "id": "2026-11-13-spain-far-right-group-suspended",
+   "batch": "2026-11-13-pm",
+   "rank": 11,
+   "category": "World",
+   "title": "Spanish court suspends far-right group Núcleo Nacional in hate crime probe",
+   "summary": "A judge in the northern Spanish city of Gijón suspended the activities of the far-right group Núcleo Nacional on Thursday, ordering its office closed and its social media and bank accounts blocked as part of an investigation into alleged hate crimes and illegal association, Al Jazeera reported, citing Reuters.\n\nFourteen members were arrested last week on suspicion of inciting hatred, and police said they seized more than 20 firearms from the group's Madrid headquarters. A representative of the group said in a video that it faced political persecution. Spain holds a general election on 29 November.",
+   "keyFacts": [
+    "14 members were arrested last week",
+    "Police seized more than 20 firearms",
+    "Spain votes on 29 November"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/13/spanish-court-suspends-far-right-group-over-alleged-hate-crimes"
+    }
+   ],
+   "publishedAt": "2026-11-13T13:52:00+11:00",
+   "createdAt": "2026-11-13T17:50:59+11:00"
+  },
+  {
+   "id": "2026-11-13-bowen-cop31-final-week",
+   "batch": "2026-11-13-pm",
+   "rank": 12,
+   "category": "Environment",
+   "title": "Bowen says coal and gas exports do not weaken Australia's role as COP31 negotiator",
+   "summary": "Climate Change Minister Chris Bowen, who is presiding over COP31 negotiations in Türkiye, told the ABC that Australia's coal and gas exports had not undermined its standing as a negotiator and that countries needed a pragmatic energy transition. He said his role was to reach the most ambitious outcome that consensus would allow.\n\nBowen rejected criticism from activist Greta Thunberg and from Opposition Leader Angus Taylor, who has questioned the summit's costs. Australia is promoting a target to raise electricity's share of global energy use from about 23 per cent to 35 per cent by 2035; critics note it does not require renewables.",
+   "keyFacts": [
+    "More than 190 countries are negotiating",
+    "The electrification target is 35 per cent by 2035",
+    "Negotiations intensify next week"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-13/chris-bowen-seeks-pragmatic-consensus-nto-inal-cop31-talks/107380860"
+    }
+   ],
+   "publishedAt": "2026-11-13T05:50:00+11:00",
+   "createdAt": "2026-11-13T17:50:59+11:00"
+  },
+  {
+   "id": "2026-11-13-nsw-gun-laws-inquiry",
+   "batch": "2026-11-13-pm",
+   "rank": 13,
+   "category": "Australia",
+   "title": "NSW inquiry hears from Bondi attack survivor and gun sellers on firearm law repeal bill",
+   "summary": "Bondi terror attack survivor Leon Elski told a NSW parliamentary inquiry into a bill to repeal the state's new gun restrictions that he supported the reforms and stronger licence checks, AAP reported. He said the existing system had failed despite several layers of checks.\n\nGun retailers told the inquiry the changes, including a cap on firearms per person and a buyback, were damaging their businesses. The Shooters Union and the Australian Jewish Association backed repeal. Premier Chris Minns introduced the restrictions after the 14 December 2025 attack, in which 15 people were killed.",
+   "keyFacts": [
+    "The inquiry is examining a repeal bill",
+    "Reforms include a per-person firearms cap",
+    "The Bondi attack killed 15 people"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/something-has-failed-bondi-survivor-backs-gun-laws"
+    }
+   ],
+   "publishedAt": "2026-11-13T14:00:00+11:00",
+   "createdAt": "2026-11-13T17:50:59+11:00"
+  },
+  {
+   "id": "2026-11-13-sa-gas-data-centres",
+   "batch": "2026-11-13-pm",
+   "rank": 14,
+   "category": "Environment",
+   "title": "SA energy minister supports gas helping power proposed AI data centres",
+   "summary": "South Australian Energy Minister Tom Koutsantonis told the ABC he was comfortable with gas being used to firm power supply for proposed AI data centres when solar and wind output is low. The state's data centre strategy, released about five months ago, focused on renewable energy.\n\nSA Greens leader Rob Simms called the position a reversal and proposed a moratorium, which a government spokesperson rejected. The Conservation Council called gas a step backwards, while Data Centres Australia defended its use. Developer Quantum DC paused its 1,200-megawatt Tungkillo proposal on 12 November.",
+   "keyFacts": [
+    "Quantum DC estimated 20 per cent gas use",
+    "Iren has proposed an 800MW site at Bundey",
+    "The Greens want a data centre moratorium"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-13/sa-gives-green-light-for-gas-to-power-data-centres/107364606"
+    }
+   ],
+   "publishedAt": "2026-11-13T07:06:00+11:00",
+   "createdAt": "2026-11-13T17:50:59+11:00"
+  },
+  {
+   "id": "2026-11-13-pm-golf-club-inquiry",
+   "batch": "2026-11-13-pm",
+   "rank": 15,
+   "category": "Politics",
+   "title": "Senate inquiry told PM's honorary golf club membership was worth $1,100 a year",
+   "summary": "Marrickville Golf Club president Andrew Tighe told a Senate inquiry on Thursday that Prime Minister Anthony Albanese had held an honorary membership since 2012, with privileges valued at $1,100 in 2026, AAP reported. Albanese has said it was worth about $5. MPs must declare gifts over $750, and the membership was not declared.\n\nClub records show Albanese resigned the membership in September. The club received a $6 million grant from a $560 million invitation-only program. Opposition Leader Angus Taylor accused the Prime Minister of lying; the club's general manager described the valuation as an estimate.",
+   "keyFacts": [
+    "The membership dated from 2012",
+    "The gift declaration threshold is $750",
+    "The club received a $6 million grant"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/leaders-of-pm-s-local-golf-club-face-senate-grilling"
+    }
+   ],
+   "publishedAt": "2026-11-12T17:00:00+11:00",
+   "createdAt": "2026-11-13T17:50:59+11:00"
+  },
+  {
+   "id": "2026-11-13-vic-royal-commission-documents",
+   "batch": "2026-11-13-pm",
+   "rank": 16,
+   "category": "Politics",
+   "title": "Big Build royal commission told state authority withheld Andrews-linked documents",
+   "summary": "Counsel assisting Victoria's Big Build royal commission, Chris Young KC, said on Thursday that the Victorian Infrastructure Delivery Authority had produced documents late and incompletely, AAP reported. Text messages referring to former premier Daniel Andrews' office were provided only on Tuesday, and handwritten notes by a former Rail Projects Victoria chief were heavily redacted until repeated requests.\n\nYoung said state entities engaged only when compelled. The commission will seek evidence from two further witnesses. The hearings come ahead of the 28 November state election.",
+   "keyFacts": [
+    "Texts were provided only on Tuesday",
+    "Notes were redacted until repeated requests",
+    "Two further witnesses will be sought"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/premier-linked-documents-withheld-from-royal-commission"
+    }
+   ],
+   "publishedAt": "2026-11-12T17:00:00+11:00",
+   "createdAt": "2026-11-13T17:50:59+11:00"
+  },
+  {
+   "id": "2026-11-13-newcastle-harbour-protest-ruling",
+   "batch": "2026-11-13-pm",
+   "rank": 17,
+   "category": "Australia",
+   "title": "NSW Supreme Court allows Rising Tide flotilla on Newcastle Harbour",
+   "summary": "NSW Supreme Court Justice Edward Muston dismissed a police application to prohibit Rising Tide's anti-coal flotilla on Newcastle Harbour, finding the public interest in political expression outweighed the commissioner's safety concerns, the ABC reported. The protest is capped at 785 watercraft and will block the shipping channel for 30 to 40 minutes.\n\nPolice argued the risk of collision, capsize and drowning was serious. Rising Tide's barrister pointed to safety teams and mandatory life jackets, and an organiser said there would be no civil disobedience.",
+   "keyFacts": [
+    "The ruling was made on Friday",
+    "Up to 785 watercraft may take part",
+    "The channel will be blocked for up to 40 minutes"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-13/newcastle-harbour-protest-court-decision/107376804"
+    }
+   ],
+   "publishedAt": "2026-11-13T16:29:00+11:00",
+   "createdAt": "2026-11-13T17:50:59+11:00"
+  },
+  {
+   "id": "2026-11-13-seq-storms",
+   "batch": "2026-11-13-pm",
+   "rank": 18,
+   "category": "Environment",
+   "title": "Storms with gusts up to 120km/h cut power to 25,500 homes south of Brisbane",
+   "summary": "Thunderstorms with wind gusts of up to 120km/h struck south of Brisbane on Thursday, AAP reported. Energex said about 25,500 homes were without power by mid-afternoon, with hundreds of powerlines down, and 14 properties were left temporarily uninhabitable.\n\nThe SES received more than 300 calls for help, almost 240 of them in Logan, and more than 20 schools and several roads were closed. The Bureau of Meteorology said further thunderstorms and flash flooding were possible into the weekend.",
+   "keyFacts": [
+    "Up to 100mm of rain fell in places",
+    "More than 300 calls were made to the SES",
+    "More storms are forecast into the weekend"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/roads-and-power-cut-as-region-reels-from-wild-weather"
+    }
+   ],
+   "publishedAt": "2026-11-12T18:00:00+11:00",
+   "createdAt": "2026-11-13T17:50:59+11:00"
+  },
+  {
+   "id": "2026-11-13-tas-premier-christmas-apology",
+   "batch": "2026-11-13-pm",
+   "rank": 19,
+   "category": "Politics",
+   "title": "Tasmanian Premier apologises for effect of post about school Christmas events",
+   "summary": "Tasmanian Premier Jeremy Rockliff apologised for the effect of an October Facebook post that said Christmas references were being removed from school celebrations, the ABC reported. The school concerned was identified online, called security over abuse, and its acting principal took leave.\n\nThe Australian Education Union had passed a no-confidence motion in Rockliff and barred politicians from school events until he apologised. The Education Department secretary had written to Rockliff on the day of the post saying Christmas remained important. Rockliff said he stood by his expectations and did not retract the claim.",
+   "keyFacts": [
+    "The post was made on 14 October",
+    "The AEU passed a no-confidence motion",
+    "Rockliff did not withdraw the claim"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-13/tasmanian-premier-jeremy-rockliff-apology-for-christmas-post/107383244"
+    }
+   ],
+   "publishedAt": "2026-11-13T17:12:00+11:00",
+   "createdAt": "2026-11-13T17:50:59+11:00"
+  },
+  {
+   "id": "2026-11-13-factcheck-albanese-allan-feud",
+   "batch": "2026-11-13-pm",
+   "rank": 20,
+   "category": "Politics",
+   "title": "AAP FactCheck finds overseas-run pages invented Albanese–Allan feud",
+   "summary": "AAP FactCheck found false a claim that former Victorian premier Jacinta Allan publicly called for Prime Minister Anthony Albanese to be removed. The posts came from a Facebook page that Meta's transparency data shows is run from Vietnam.\n\nAAP said there was no record of such a statement. It also found no Hansard record of a claimed exchange between Bob Katter and Fatima Payman, and said a reported on-air clash between Albanese and Michael Rowland did not occur; Rowland left the ABC in February. Similar claims appeared on other pages ahead of the 28 November Victorian election.",
+   "keyFacts": [
+    "The page is run from Vietnam, Meta data show",
+    "Allan lost the Labor leadership in July",
+    "Images showed signs of AI generation"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/disinformation-pages-invent-feud-between-anthony-albanese-and-jacinta-allan"
+    }
+   ],
+   "publishedAt": "2026-11-13T10:00:00+11:00",
+   "createdAt": "2026-11-13T17:50:59+11:00"
   }
  ],
  "leftOut": [
@@ -1694,6 +2134,340 @@
    "publishedAt": "2026-11-12T14:00:00+11:00",
    "createdAt": "2026-11-13T06:55:00+11:00",
    "reason": "Restatement, nothing new"
+  },
+  {
+   "id": "2026-11-13-lo-rory-amon-verdict",
+   "batch": "2026-11-13-pm",
+   "rank": 1,
+   "category": "Australia",
+   "title": "Former NSW Liberal MP Rory Amon found guilty of sexually assaulting 13-year-old",
+   "summary": "A NSW Supreme Court jury found former Pittwater MP Rory Amon guilty of the sexual assault and indecent assault of a 13-year-old boy in 2017, the ABC reported. The jury deliberated for about four hours.\n\nThe court heard Amon met the boy through a dating app. Amon had argued he believed the boy was 17. He remains on bail, and sentencing is listed for later this month. At an earlier trial in March, Amon was acquitted of most charges and the jury could not agree on two counts.",
+   "keyFacts": [
+    "The jury deliberated about four hours",
+    "The offences occurred in 2017",
+    "Sentencing is listed for later this month"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-13/ex-nsw-liberal-mp-rory-amon-guilty-sexual-assault-13yo-boy/107384336"
+    },
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/ex-liberal-mp-mostly-cleared-of-child-sex-crimes"
+    }
+   ],
+   "publishedAt": "2026-11-13T17:15:00+11:00",
+   "createdAt": "2026-11-13T17:50:59+11:00",
+   "reason": "Local crime"
+  },
+  {
+   "id": "2026-11-13-lo-cummins-khawaja",
+   "batch": "2026-11-13-pm",
+   "rank": 2,
+   "category": "Sport",
+   "title": "Cummins rejects Khawaja's claim that whole team knew of 2018 ball-tampering plan",
+   "summary": "Australian Test captain Pat Cummins rejected former teammate Usman Khawaja's claim, made in his memoir, that the entire team knew of the 2018 Cape Town ball-tampering plan, the ABC reported. Cummins said he did not know sandpaper was being used.\n\nCummins said Khawaja had been careless with people's reputations and that legal advice suggested some claims could be defamatory, though he would not take action. He also said the bans given to three players were too harsh. Cricket Australia has ruled out reopening its investigation.",
+   "keyFacts": [
+    "The comments came at a press conference in Sydney",
+    "Cricket Australia will not reopen its investigation",
+    "Cummins said he would not sue"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-13/pat-cummins-says-usman-khawaja-casual-with-peoples-lives/107381770"
+    }
+   ],
+   "publishedAt": "2026-11-13T11:39:00+11:00",
+   "createdAt": "2026-11-13T17:50:59+11:00",
+   "reason": "Sport"
+  },
+  {
+   "id": "2026-11-13-lo-swans-no-charges",
+   "batch": "2026-11-13-pm",
+   "rank": 3,
+   "category": "Sport",
+   "title": "Victoria Police will not charge four Sydney Swans players, citing insufficient evidence",
+   "summary": "Victoria Police said it would not lay criminal charges against Sydney Swans players Isaac Heeney, Chad Warner, James Jordon and Nick Blakey over an alleged incident at a Melbourne hotel in August, citing insufficient evidence after legal advice, the ABC reported.\n\nPolice noted an ongoing civil matter and declined further comment. Swans chief executive Matthew Pavlich said the players could now move forward, and the club said it stood by its decision to stand them down. Lawyers for three women are pursuing civil claims.",
+   "keyFacts": [
+    "Police cited insufficient evidence",
+    "The alleged incident occurred in August",
+    "Civil claims are continuing"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-13/sydney-swans-players-cleared-by-police-over-pullman/107372082"
+    }
+   ],
+   "publishedAt": "2026-11-13T10:56:00+11:00",
+   "createdAt": "2026-11-13T17:50:59+11:00",
+   "reason": "Sport"
+  },
+  {
+   "id": "2026-11-13-lo-darwin-terror-teen-bail",
+   "batch": "2026-11-13-pm",
+   "rank": 4,
+   "category": "Australia",
+   "title": "Prosecutors oppose bail for Darwin teenager charged with terrorism offence",
+   "summary": "A Darwin teenage girl charged with collecting or making documents likely to facilitate terrorist acts appeared in court on Friday, AAP reported. Prosecutor Hadi Mazloum alleged her diary named a student she wanted dead and that she shared a plan to shoot at a school, and argued the risk to the community was too high for bail.\n\nHer lawyer cited significant psychological circumstances and sought a supervised community-based order. The judge adjourned the bail application to Monday. A 14-year-old boy was arrested with her on 3 November.",
+   "keyFacts": [
+    "She was arrested on 3 November",
+    "The arrest followed a joint AFP, NT Police and ASIO operation",
+    "Bail will be decided on Monday"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/terror-accused-teen-s-alleged-diary-entries-revealed"
+    }
+   ],
+   "publishedAt": "2026-11-13T13:00:00+11:00",
+   "createdAt": "2026-11-13T17:50:59+11:00",
+   "reason": "Local crime"
+  },
+  {
+   "id": "2026-11-13-lo-vic-online-ad-spending",
+   "batch": "2026-11-13-pm",
+   "rank": 5,
+   "category": "Politics",
+   "title": "Analysis estimates Victorian Labor has outspent Liberals sixfold on online ads",
+   "summary": "An analysis by digital campaign platform Populares estimates Victorian Labor and its candidates have spent $3.1 million on online advertising since August, compared with just over $500,000 by the Liberals and about $21,000 by One Nation, the ABC reported. The figures are upper-range estimates from platform disclosures and exclude other media.\n\nThe ABC said Labor, the Liberals and the Greens did not respond. An Australia Institute representative said the campaign had seen unprecedented use of AI content and deepfakes.",
+   "keyFacts": [
+    "Labor spending estimated at $3.1 million",
+    "Liberal spending just over $500,000",
+    "Figures exclude TV and print"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-13/political-ads-vic-election-ai-social-media-use/107378416"
+    }
+   ],
+   "publishedAt": "2026-11-13T05:54:00+11:00",
+   "createdAt": "2026-11-13T17:50:59+11:00",
+   "reason": "Commentary"
+  },
+  {
+   "id": "2026-11-13-lo-us-myanmar-rare-earths",
+   "batch": "2026-11-13-pm",
+   "rank": 6,
+   "category": "World",
+   "title": "ABC reports US has held talks with Myanmar's military-backed government over rare earths",
+   "summary": "The Trump administration has held talks with Myanmar's military-backed government ahead of the ASEAN summit in the Philippines, the ABC reported, citing a State Department document that lists countering China and access to rare earth resources among the goals.\n\nThe talks followed the detention of a former American Chamber of Commerce head at Yangon airport in June. A Lowy Institute analyst described it as hostage diplomacy, and a human rights advocate criticised the talks. The US has previously accused Myanmar's military of genocide.",
+   "keyFacts": [
+    "China controls about 90 per cent of rare earth output, an analyst said",
+    "The ASEAN summit is in the Philippines",
+    "The piece is an ABC analysis"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-13/trump-quest-for-rare-earths-brings-us-closer-to-myanmar-regime/107376926"
+    }
+   ],
+   "publishedAt": "2026-11-13T13:06:00+11:00",
+   "createdAt": "2026-11-13T17:50:59+11:00",
+   "reason": "Commentary"
+  },
+  {
+   "id": "2026-11-13-lo-population-doomsday",
+   "batch": "2026-11-13-pm",
+   "rank": 7,
+   "category": "Science & Tech",
+   "title": "1960 paper had predicted population would become infinite on 13 November 2026",
+   "summary": "A 1960 paper in the journal Science predicted world population would approach infinity on 13 November 2026, based on a formula drawn from historical fertility and death rates, the ABC reported. The date was chosen to fall on lead author Heinz von Foerster's birthday.\n\nAn economist quoted said the projections held until about the 1980s. Global population growth peaked at about 2.3 per cent a year in 1963, and the UN projects population will peak at just over 10 billion in about 60 years.",
+   "keyFacts": [
+    "The paper was published in 1960",
+    "Growth peaked in 1963",
+    "The UN projects a peak just over 10 billion"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/science/2026-11-13/world-has-avoided-a-predicted-population-doomsday/107320748"
+    }
+   ],
+   "publishedAt": "2026-11-13T08:49:00+11:00",
+   "createdAt": "2026-11-13T17:50:59+11:00",
+   "reason": "Human interest"
+  },
+  {
+   "id": "2026-11-13-lo-rohan-dennis-bond",
+   "batch": "2026-11-13-pm",
+   "rank": 8,
+   "category": "Sport",
+   "title": "Olympic cyclist Rohan Dennis admits breaching good behaviour bond",
+   "summary": "Olympic medallist Rohan Dennis admitted in the South Australian District Court that he breached a good behaviour bond, AAP reported. The bond, imposed in 2025 over the December 2023 crash that killed his wife Melissa Hoskins, carries a suspended 17-month jail term.\n\nDennis was caught driving while disqualified in June, with two children in the car. Judge Emily Telfer ordered a supervision compliance report and adjourned the matter to 1 February.",
+   "keyFacts": [
+    "The breach was admitted on Friday",
+    "The bond carries a 17-month term",
+    "The matter returns on 1 February"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/personal-reasons-oly-cyclist-admits-breaching-bond"
+    }
+   ],
+   "publishedAt": "2026-11-13T12:00:00+11:00",
+   "createdAt": "2026-11-13T17:50:59+11:00",
+   "reason": "Sport"
+  },
+  {
+   "id": "2026-11-13-lo-adelaide-workplace-death",
+   "batch": "2026-11-13-pm",
+   "rank": 9,
+   "category": "Australia",
+   "title": "Man dies in workplace incident in Adelaide's north-east",
+   "summary": "A 26-year-old man died at the scene of a workplace incident on Leopold Street, Vista, in Adelaide's north-eastern suburbs on Friday, South Australia Police said, according to the ABC. Emergency services were called at about 12.15pm.\n\nSafeWork SA said it had been notified and sent an investigator and an inspector. SA Power Networks workers were seen examining a power pole nearby. Police will prepare a report for the coroner. No cause has been stated.",
+   "keyFacts": [
+    "The man was 26",
+    "SafeWork SA is investigating",
+    "A report will go to the coroner"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-13/fatal-workplace-incident-vista-adelaide/107383520"
+    }
+   ],
+   "publishedAt": "2026-11-13T16:45:00+11:00",
+   "createdAt": "2026-11-13T17:50:59+11:00",
+   "reason": "Human interest"
+  },
+  {
+   "id": "2026-11-13-lo-hegseth-tomb",
+   "batch": "2026-11-13-pm",
+   "rank": 10,
+   "category": "World",
+   "title": "Guard at Tomb of the Unknown Soldier reprimands Hegseth's group during photos",
+   "summary": "A video shows a sentinel at the Tomb of the Unknown Soldier at Arlington National Cemetery asking Defence Secretary Pete Hegseth's group to maintain silence and respect while they were laughing during photographs on Veterans Day, Al Jazeera reported.\n\nPentagon spokesperson Sean Parnell said the sentinel had responded correctly and that the department honours the military's sacrifices. The incident came a day after House Republicans blocked a vote on articles of impeachment against Hegseth.",
+   "keyFacts": [
+    "The incident was on 11 November",
+    "The Pentagon said the guard acted correctly",
+    "House Republicans blocked an impeachment vote"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/12/hegseth-entourage-reprimanded-by-guard-at-tomb-of-the-unknown-soldier"
+    }
+   ],
+   "publishedAt": "2026-11-12T11:42:00+11:00",
+   "createdAt": "2026-11-13T17:50:59+11:00",
+   "reason": "Ceremonial event"
+  },
+  {
+   "id": "2026-11-13-lo-westpac-construction-lending",
+   "batch": "2026-11-13-pm",
+   "rank": 11,
+   "category": "Economy",
+   "title": "Westpac says it is financing 30 per cent fewer housing construction projects",
+   "summary": "Westpac chief executive Anthony Miller told a parliamentary inquiry on Thursday that the bank was financing 30 per cent fewer housing construction projects than 18 months ago, and that each dollar lent was delivering fewer homes, AAP reported. He said replacing staff with AI was not the bank's focus.\n\nANZ chief Nuno Matos said he could not guarantee there would be no job losses from AI. ABS data released on Wednesday showed investor home loans fell a record 30.6 per cent.",
+   "keyFacts": [
+    "Westpac's construction financing is down 30 per cent",
+    "CBA and NAB appeared on Friday",
+    "Investor loans fell a record 30.6 per cent"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/bank-bosses-face-inquiry-over-ai-and-offshore-job-cuts"
+    }
+   ],
+   "publishedAt": "2026-11-12T17:00:00+11:00",
+   "createdAt": "2026-11-13T17:50:59+11:00",
+   "reason": "Restatement, nothing new"
+  },
+  {
+   "id": "2026-11-13-lo-ukraine-starshield",
+   "batch": "2026-11-13-pm",
+   "rank": 12,
+   "category": "World",
+   "title": "Zelenskyy says Starshield satellite service speeds again restricted",
+   "summary": "Ukrainian President Volodymyr Zelenskyy said speed restrictions on Starshield, the military version of the Starlink satellite service, were again hampering Ukraine's interception of Russian jet-powered drones, AAP reported.\n\nThe report also restated that Abu Dhabi talks earlier in the week agreed a large prisoner exchange, which Russia's TASS said could happen within two to three weeks. Ukraine said it shot down 89 of 123 drones overnight, and one person was killed in Kyiv. The figures could not be independently verified.",
+   "keyFacts": [
+    "Zelenskyy posted the claim on Thursday",
+    "TASS said a swap could come within weeks",
+    "Ukraine said 89 of 123 drones were downed"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/russia-and-ukraine-agree-to-large-prisoners-of-war-swap"
+    }
+   ],
+   "publishedAt": "2026-11-12T20:00:00+11:00",
+   "createdAt": "2026-11-13T17:50:59+11:00",
+   "reason": "Restatement, nothing new"
+  },
+  {
+   "id": "2026-11-13-lo-rubio-europe-talks",
+   "batch": "2026-11-13-pm",
+   "rank": 13,
+   "category": "World",
+   "title": "Rubio says UK and European nations should be part of Ukraine peace talks",
+   "summary": "US Secretary of State Marco Rubio said at a G7 foreign ministers' meeting in Paris that the UK and other European countries should have a place at negotiations to end the war in Ukraine, AAP reported. He described the Abu Dhabi talks as productive but said much work remained.\n\nUkraine's president called the talks constructive and substantive, the first since February. Russia's foreign minister Sergei Lavrov said he favoured a broader European security framework being agreed first.",
+   "keyFacts": [
+    "The remarks were made at the G7 in Paris",
+    "The Abu Dhabi talks were the first since February",
+    "Lavrov wants a wider security framework first"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/ukraine-calls-uae-talks-with-russia-quite-substantive"
+    }
+   ],
+   "publishedAt": "2026-11-11T20:00:00+11:00",
+   "createdAt": "2026-11-13T17:50:59+11:00",
+   "reason": "Outside today's window"
+  },
+  {
+   "id": "2026-11-13-lo-lamarre-condon-trial",
+   "batch": "2026-11-13-pm",
+   "rank": 14,
+   "category": "Australia",
+   "title": "Former police officer denies desperation in Paddington murder trial evidence",
+   "summary": "Former NSW police officer Beau Lamarre-Condon, who has pleaded not guilty to murdering Jesse Baird and Luke Davies in February 2024 and claims self-defence, continued his evidence on Thursday, AAP reported.\n\nUnder cross-examination about a long message he sent to Baird claiming a cancer diagnosis, he acknowledged parts were untrue but denied being desperate or obsessed. He also admitted posting a false image online about a relationship. The trial continues.",
+   "keyFacts": [
+    "He has pleaded not guilty",
+    "Thursday was his sixth day of evidence",
+    "The deaths occurred on 19 February 2024"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/killer-cop-denies-ex-dating-another-man-made-him-angry"
+    }
+   ],
+   "publishedAt": "2026-11-12T17:00:00+11:00",
+   "createdAt": "2026-11-13T17:50:59+11:00",
+   "reason": "Local crime"
+  },
+  {
+   "id": "2026-11-13-lo-bank-hearings-preview",
+   "batch": "2026-11-13-pm",
+   "rank": 15,
+   "category": "Economy",
+   "title": "CBA and NAB chiefs to face parliamentary hearings after fee and wage cases",
+   "summary": "Commonwealth Bank chief Matt Comyn and NAB chief Andrew Irvine were due to appear before parliamentary hearings on Friday, AAP reported, after NAB agreed to repay $169 million to 66,000 underpaid staff and ASIC began proceedings against CBA over $8.5 million in undisclosed business fees.\n\nCommittee chair Ed Husic, a Labor MP, criticised NAB's plans to move about 180 roles offshore. Westpac's chief disclosed a 28 per cent gender pay gap at the hearings.",
+   "keyFacts": [
+    "Hearings continued on Friday",
+    "NAB is repaying $169 million",
+    "ASIC is suing CBA over $8.5 million in fees"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/banks-to-get-grilled-on-heels-of-twin-scandals"
+    }
+   ],
+   "publishedAt": "2026-11-13T07:00:00+11:00",
+   "createdAt": "2026-11-13T17:50:59+11:00",
+   "reason": "No new development"
   }
  ]
 }
