@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-13T17:50:59+11:00",
+ "updatedAt": "2026-11-14T06:54:58+11:00",
  "articles": [
   {
    "id": "2026-11-12-mississippi-senate",
@@ -1616,6 +1616,499 @@
    ],
    "publishedAt": "2026-11-13T10:00:00+11:00",
    "createdAt": "2026-11-13T17:50:59+11:00"
+  },
+  {
+   "id": "2026-11-14-scotus-asylum-ban",
+   "batch": "2026-11-14",
+   "rank": 1,
+   "category": "Politics",
+   "title": "US Supreme Court agrees to rule on Trump's asylum ban at the Mexican border",
+   "summary": "The US Supreme Court agreed on Friday to decide whether President Donald Trump acted lawfully when he suspended asylum access for migrants crossing the southern border between ports of entry, according to Reuters and CBS News. The restrictions were set out in a proclamation on his first day in office.\n\nA federal judge in Washington ruled against the policy in July 2025, and an appeals court upheld that ruling in April, but the restrictions have largely stayed in force while the case continues, Reuters reported. Immigrant rights groups brought the challenge. A ruling is expected by the end of June.",
+   "keyFacts": [
+    "Policy dates from Trump's 20 January 2025 proclamation",
+    "Two lower courts ruled against the restrictions",
+    "Decision expected by the end of June"
+   ],
+   "sources": [
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/news/supreme-court-trump-asylum-u-s-mexico-border/"
+    },
+    {
+     "name": "Reuters (via Yahoo News)",
+     "url": "https://www.yahoo.com/news/politics/articles/supreme-court-weigh-trumps-asylum-185204970.html"
+    }
+   ],
+   "publishedAt": "2026-11-14T06:01:00+11:00",
+   "createdAt": "2026-11-14T06:54:58+11:00"
+  },
+  {
+   "id": "2026-11-14-ukraine-1200-drones-europe-talks",
+   "batch": "2026-11-14",
+   "rank": 2,
+   "category": "World",
+   "title": "Ukraine fires nearly 1,200 drones at Russia; Kushner says Europe will join talks",
+   "summary": "Ukraine launched almost 1,200 drones at Russian targets overnight into Friday, one of its largest aerial attacks of the war, AP reported. Russia's Defence Ministry said 1,198 were shot down. Local officials said strikes on three Russian regions killed seven people, including a 12-year-old. Ukrainian authorities said Russia fired 117 drones at Ukraine, killing at least two.\n\nAfter talks in Abu Dhabi, US envoy Jared Kushner said Russia had agreed that Europe would be included in coming negotiations. EU foreign policy chief Kaja Kallas said Europe should insist on a ceasefire first. Kremlin spokesman Dmitry Peskov said Moscow was open to contacts once it understood European intentions.",
+   "keyFacts": [
+    "Russia says it downed 1,198 Ukrainian drones",
+    "Seven killed in three Russian regions, officials said",
+    "Russia launched 117 drones at Ukraine overnight"
+   ],
+   "sources": [
+    {
+     "name": "AP (via ABC News)",
+     "url": "https://abcnews.com/International/wireStory/ukraine-fires-1200-drones-russia-us-led-talks-138104516"
+    },
+    {
+     "name": "AP (via ClickOrlando)",
+     "url": "https://www.clickorlando.com/news/world/2026/11/13/ukraine-fires-nearly-1200-drones-at-russia-as-us-led-talks-consider-wider-european-security/"
+    }
+   ],
+   "publishedAt": "2026-11-13T23:01:00+11:00",
+   "createdAt": "2026-11-14T06:54:58+11:00"
+  },
+  {
+   "id": "2026-11-14-us-ppi-october",
+   "batch": "2026-11-14",
+   "rank": 3,
+   "category": "Economy",
+   "title": "US producer prices rise 6.5 per cent over the year, the fastest pace since 2022",
+   "summary": "US producer prices rose 0.3 per cent in October, below the 0.4 per cent economists had forecast, according to Labor Department figures reported by Investing.com and Yahoo Finance. Over the year to October, prices were up 6.5 per cent, the largest annual increase since November 2022.\n\nGoods prices rose 0.5 per cent in the month and services 0.2 per cent, Investing.com reported. Analysts at Capital Economics said the Federal Reserve may need to raise rates more quickly. Markets are pricing in at least a quarter-point rise at the Fed's December meeting, with some bets on half a point.",
+   "keyFacts": [
+    "Monthly rise of 0.3 per cent, below forecasts",
+    "Annual rise of 6.5 per cent, up from 6.3 per cent",
+    "Markets expect a Fed rate rise in December"
+   ],
+   "sources": [
+    {
+     "name": "Investing.com",
+     "url": "https://www.investing.com/news/economic-indicators/us-producer-prices-rise-by-65-yearoveryear-in-october-5025495"
+    },
+    {
+     "name": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
+    }
+   ],
+   "publishedAt": "2026-11-14T00:30:00+11:00",
+   "createdAt": "2026-11-14T06:54:58+11:00"
+  },
+  {
+   "id": "2026-11-14-wall-street-chip-selloff",
+   "batch": "2026-11-14",
+   "rank": 4,
+   "category": "Economy",
+   "title": "Wall Street slips as chip stocks fall and US 10-year yield tops 5.1 per cent",
+   "summary": "US shares fell on Friday as chipmakers sold off after Jensen Huang's resignation as Nvidia chief executive, AP reported. In afternoon trading the S&P 500 was down 0.6 per cent, the Nasdaq 1.1 per cent and the Dow 0.1 per cent. AP said the S&P 500 was still on track for a weekly gain of about 2 per cent.\n\nNvidia was down 2.8 per cent, Broadcom 5.1 per cent and AMD 10 per cent at that point, according to AP. The 10-year Treasury yield rose to 5.14 per cent from 5.10 per cent. Economists widely expect the Federal Reserve to raise rates in December, AP reported.",
+   "keyFacts": [
+    "AMD down about 10 per cent in afternoon trade",
+    "10-year Treasury yield at 5.14 per cent",
+    "Figures are afternoon levels, not final closes"
+   ],
+   "sources": [
+    {
+     "name": "AP (via BNN Bloomberg)",
+     "url": "https://bnnbloomberg.ca/business/artificial-intelligence/2026/11/13/stocks-sway-as-wall-street-heads-for-a-winning-week-after-several-turbulent-days"
+    }
+   ],
+   "publishedAt": "2026-11-14T05:32:00+11:00",
+   "createdAt": "2026-11-14T06:54:58+11:00"
+  },
+  {
+   "id": "2026-11-14-us-denies-bahrain-radar-hit",
+   "batch": "2026-11-14",
+   "rank": 5,
+   "category": "World",
+   "title": "US military denies Iran hit radar in Bahrain, says it shot down two drones",
+   "summary": "The US military denied an Iranian claim that the Revolutionary Guards had destroyed a US early-warning radar in Bahrain, Reuters reported. US forces said they shot down two one-way attack drones launched towards Bahrain by the Guards and that no harm was caused.\n\nIran said its action was retaliation for an air strike on a telecommunications tower near the port town of Sirik in Hormozgan province, according to Iranian state media cited by Reuters and RFE/RL. There was no immediate comment from Bahrain. The war began with US and Israeli strikes on Iran on 28 February, and the US has imposed a naval blockade on Iranian ports.",
+   "keyFacts": [
+    "US says two Iranian drones were shot down",
+    "Iran cited a strike on a tower near Sirik",
+    "Bahrain did not immediately comment"
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via Al-Monitor)",
+     "url": "https://www.al-monitor.com/originals/2026/11/us-denies-irans-claim-it-attacked-early-warning-radar-bahrain"
+    },
+    {
+     "name": "RFE/RL",
+     "url": "https://www.rferl.org/a/iran-us-sirik-bahrain-war-nuclear-talks/33897951.html"
+    }
+   ],
+   "publishedAt": "2026-11-13T23:00:00+11:00",
+   "createdAt": "2026-11-14T06:54:58+11:00"
+  },
+  {
+   "id": "2026-11-14-hormuz-lng-tanker-mine",
+   "batch": "2026-11-14",
+   "rank": 6,
+   "category": "World",
+   "title": "Iran says LNG tanker hit a mine and exploded in the Strait of Hormuz",
+   "summary": "Iran's Revolutionary Guards navy said a tanker carrying liquefied natural gas struck a naval mine and exploded in the Strait of Hormuz on Friday, according to Iranian state media cited by Reuters. The Guards said the ship had taken an unauthorised and dangerous route. No details about the vessel were immediately available.\n\nThe report came a day after Iranian media said four oil tankers had been hit by explosions. Reuters, citing the Washington Institute for Near East Policy, said at least 10 ships were hit in the first 10 days of November, after 37 attacks in October.",
+   "keyFacts": [
+    "Iran says the ship used an unauthorised route",
+    "Four tankers were reported hit the previous day",
+    "At least 10 ships hit in early November, think tank says"
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via gCaptain)",
+     "url": "https://gcaptain.com/iran-says-tanker-carrying-lng-hit-mine-suffered-explosion-in-hormuz/"
+    },
+    {
+     "name": "Reuters (via Korea Times)",
+     "url": "https://www.koreatimes.co.kr/world/20261113/iran-says-tanker-carrying-lng-hit-mine-suffered-explosion-in-hormuz"
+    }
+   ],
+   "publishedAt": "2026-11-13T19:23:00+11:00",
+   "createdAt": "2026-11-14T06:54:58+11:00"
+  },
+  {
+   "id": "2026-11-14-senate-summons-huang-lutnick",
+   "batch": "2026-11-14",
+   "rank": 7,
+   "category": "Business",
+   "title": "US Senate committee asks Jensen Huang and Howard Lutnick to testify over Nvidia case",
+   "summary": "Senate Banking Committee chair Tim Scott has asked former Nvidia chief executive Jensen Huang to appear on 3 December and Commerce Secretary Howard Lutnick on 10 December, Fortune reported. Scott's letter cited national security concerns and said the committee was prepared to use subpoenas if they did not appear voluntarily.\n\nHuang resigned this week after acknowledging an affair with a woman reported to be suspected by US intelligence of spying for China, which has denied involvement. Reuters, citing unnamed sources, reported a second relationship with an employee. Senators from both parties have raised questions about the Commerce Department's handling of chip exports to China, Fortune said.",
+   "keyFacts": [
+    "Huang asked to appear on 3 December",
+    "Lutnick asked to appear on 10 December",
+    "Committee says it may use subpoenas"
+   ],
+   "sources": [
+    {
+     "name": "Fortune",
+     "url": "https://fortune.com/2026/11/13/senate-banking-committee-nvidia-jensen-huang-howard-lutnick/"
+    }
+   ],
+   "publishedAt": "2026-11-13T23:04:00+11:00",
+   "createdAt": "2026-11-14T06:54:58+11:00"
+  },
+  {
+   "id": "2026-11-14-poland-permanent-us-base",
+   "batch": "2026-11-14",
+   "rank": 8,
+   "category": "World",
+   "title": "Poland says Pentagon backs permanent US troop base; White House to decide in December",
+   "summary": "Poland's Defence Minister Władysław Kosiniak-Kamysz said the Pentagon had given a green light to a permanent US troop presence in Poland, with a final White House decision expected in early December, according to Military Times and Breaking Defense. He spoke after meeting US Defence Secretary Pete Hegseth on 10 November.\n\nThe Pentagon's readout of the meeting did not mention a base. Warsaw has proposed four possible sites, Bydgoszcz, Poznań, Szczecin and Wrocław, for about 5,000 US troops, and has offered to fund infrastructure estimated at up to US$4.4 billion, Breaking Defense reported. Poland hosts about 10,000 mostly rotational US soldiers.",
+   "keyFacts": [
+    "Final decision expected from White House in early December",
+    "Base proposed for about 5,000 US troops",
+    "Pentagon readout did not mention a base"
+   ],
+   "sources": [
+    {
+     "name": "Military Times",
+     "url": "https://www.militarytimes.com/news/pentagon-congress/2026/11/12/pentagon-greenlit-permanent-presence-of-us-troops-in-poland-official-says/"
+    },
+    {
+     "name": "Breaking Defense",
+     "url": "https://breakingdefense.com/2026/11/poland-says-pentagon-supports-permanent-us-base-with-decision-expected-in-december/"
+    }
+   ],
+   "publishedAt": "2026-11-13T08:22:00+11:00",
+   "createdAt": "2026-11-14T06:54:58+11:00"
+  },
+  {
+   "id": "2026-11-14-dutch-coalition-crisis-talks",
+   "batch": "2026-11-14",
+   "rank": 9,
+   "category": "World",
+   "title": "Dutch coalition survives crisis talks after row over tax package",
+   "summary": "Dutch Prime Minister Rob Jetten held about seven hours of crisis talks on Friday with leaders of his two coalition partners after a dispute over a tax package, AP and NL Times reported. Sources told NL Times the conservative VVD would stay in the minority government.\n\nThe row began when coalition partners D66 and CDA passed an amended tax plan with support from left-leaning opposition parties, while the VVD voted against it. VVD leader Dilan Yeşilgöz-Zegerius said the minority cabinet experiment had failed but adjustments were possible, AP reported. Jetten said further talks would be held in the coming days. The government took office less than nine months ago.",
+   "keyFacts": [
+    "Talks lasted about seven hours, NL Times said",
+    "Tax plan passed with a one-vote majority",
+    "Government is less than nine months old"
+   ],
+   "sources": [
+    {
+     "name": "AP (via ABC News)",
+     "url": "https://abcnews.com/International/wireStory/dutch-prime-minister-holds-hours-crisis-talks-coalition-138119022"
+    },
+    {
+     "name": "NL Times",
+     "url": "https://nltimes.nl/2026/11/13/pm-rob-jettens-cabinet-survives-vvd-defecting-left-center-tax-plan-deal"
+    }
+   ],
+   "publishedAt": "2026-11-14T05:26:00+11:00",
+   "createdAt": "2026-11-14T06:54:58+11:00"
+  },
+  {
+   "id": "2026-11-14-binance-theft-seizure",
+   "batch": "2026-11-14",
+   "rank": 10,
+   "category": "World",
+   "title": "US moves to seize $1.2b in crypto stolen from Binance, blames North Korea",
+   "summary": "The US Justice Department said it had obtained court authorisation to seize or restrain more than US$1.2 billion in cryptocurrency stolen from the Binance exchange in late October. The FBI attributes the theft, of more than US$6 billion, to a North Korea-linked group it calls TraderTraitor.\n\nGovernment and private-sector efforts have frozen more than US$2.7 billion in total, the department said. It also said it had seized cloud infrastructure used in a separate scheme, called FaceStealer, which it says stole more than US$400 million over 18 months. CBS News reported that a judge would later decide who has a legitimate claim to recovered funds.",
+   "keyFacts": [
+    "More than US$6 billion was taken from Binance",
+    "US$2.7 billion frozen in total, officials said",
+    "Separate FaceStealer scheme blamed for US$400m theft"
+   ],
+   "sources": [
+    {
+     "name": "US Department of Justice",
+     "url": "https://www.justice.gov/opa/pr/justice-department-announces-actions-disrupt-north-koreas-massive-theft-cryptocurrency"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/news/fbi-cryptocurrency-1-2-billion-binance/"
+    }
+   ],
+   "publishedAt": "2026-11-13T08:20:00+11:00",
+   "createdAt": "2026-11-14T06:54:58+11:00"
+  },
+  {
+   "id": "2026-11-14-ai-halt-lawsuit",
+   "batch": "2026-11-14",
+   "rank": 11,
+   "category": "Science & Tech",
+   "title": "US nonprofits sue OpenAI, Anthropic, Google, Meta and SpaceX to halt frontier AI work",
+   "summary": "Four US nonprofit groups have filed a civil lawsuit in San Francisco Superior Court seeking to stop OpenAI, Anthropic, Google, Meta and SpaceX's AI division from developing their most advanced AI models, according to Al Jazeera and Reuters. The groups are the Irreplaceable Education Fund, Public Citizen, Heat Initiative and the Alliance for Secure AI.\n\nThe suit relies on California's unfair competition law and cites catastrophic risks, including AI-driven cyber attacks, Al Jazeera reported. It seeks a freeze on training and deployment and an emergency injunction. Meta declined to comment and the other companies did not respond to Reuters. Florida and eight other states have separately sued OpenAI.",
+   "keyFacts": [
+    "Filed in San Francisco Superior Court",
+    "Brought under California unfair competition law",
+    "Seeks a freeze on training and deployment"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/12/us-nonprofits-sue-tech-giants-to-halt-ai-development"
+    },
+    {
+     "name": "Reuters (via The Daily Record)",
+     "url": "https://thedailyrecord.com/2026/11/12/nonprofits-sue-openai-google-anthropic-halt-frontier-ai/"
+    }
+   ],
+   "publishedAt": "2026-11-13T06:06:00+11:00",
+   "createdAt": "2026-11-14T06:54:58+11:00"
+  },
+  {
+   "id": "2026-11-14-albanese-asean-trump",
+   "batch": "2026-11-14",
+   "rank": 12,
+   "category": "Australia",
+   "title": "Albanese leaves COP31 for ASEAN summit, where Trump is due to attend",
+   "summary": "Prime Minister Anthony Albanese left the COP31 climate summit in Antalya, Turkey, on Friday night Australian time for the ASEAN summit in the Philippines, AAP reported. US President Donald Trump is confirmed to attend the ASEAN event on 17 November, and the two leaders could meet up to three times across ASEAN and the APEC forum in Shenzhen, according to AAP.\n\nAlbanese is expected to discuss regional security and fuel supplies, AAP said. Environmental groups criticised the government at COP31 for not addressing a fossil fuel phase-out. Climate Change Minister Chris Bowen remains in Turkey as head of negotiations, with a cover decision due on 20 November.",
+   "keyFacts": [
+    "Trump confirmed for ASEAN event on 17 November",
+    "Trip ends at APEC in Shenzhen, China",
+    "Bowen stays at COP31 to lead negotiations"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/changing-climates-pm-trades-cop31-for-trump-talks"
+    }
+   ],
+   "publishedAt": "2026-11-14T03:40:00+11:00",
+   "createdAt": "2026-11-14T06:54:58+11:00"
+  },
+  {
+   "id": "2026-11-14-microsoft-outage-apology",
+   "batch": "2026-11-14",
+   "rank": 13,
+   "category": "Science & Tech",
+   "title": "Microsoft apologises for near 24-hour outage, blames network capacity upgrade",
+   "summary": "Microsoft has apologised for an outage that disrupted Outlook, Teams, OneDrive and other Microsoft 365 services for close to 24 hours, according to Windows Central and AAP. The company said the problem was technical and not related to a cyber attack or AI. It linked the fault to an earlier network capacity upgrade and said it would publish a full incident report.\n\nIn Australia, ASIO chief Mike Burgess said ASIO and the AFP were affected, mainly through email, AAP reported. NSW Parliament, Service NSW, Queensland Health and Northern Territory government services were also hit. In the UK, the NHS and London's Metropolitan Police were affected.",
+   "keyFacts": [
+    "Restoration took almost 24 hours",
+    "Microsoft says there was no cyber attack",
+    "Full post-incident report promised"
+   ],
+   "sources": [
+    {
+     "name": "Windows Central",
+     "url": "https://www.windowscentral.com/microsoft/we-are-deeply-sorry-microsoft-apologizes-for-major-outage-that-knocked-outlook-teams-and-microsoft-365-offline-for-24-hours-insists-it-wasnt-ai-that-caused-it"
+    },
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/hours-long-microsoft-outage-hits-companies-governments"
+    },
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/organisations-scrambling-after-major-microsoft-outage"
+    }
+   ],
+   "publishedAt": "2026-11-14T06:00:00+11:00",
+   "createdAt": "2026-11-14T06:54:58+11:00"
+  },
+  {
+   "id": "2026-11-14-moscow-car-bomb-azarov-aide",
+   "batch": "2026-11-14",
+   "rank": 14,
+   "category": "World",
+   "title": "Car bomb in Moscow injures former aide to ex-Ukrainian prime minister",
+   "summary": "A car explosion in Moscow's Chertanovo district injured Sergei Zavorotny, a former adviser to former Ukrainian prime minister Mykola Azarov, Russian authorities said on Friday, according to Anadolu Agency and Al Jazeera. Russia's Investigative Committee opened a criminal case. It was the second car bombing in Russia in two days, after a blast in St Petersburg killed a serviceman, Al Jazeera reported.\n\nAzarov said he believed Ukrainian services were behind the attack. Moscow blames Kyiv for such attacks; Ukrainian authorities had not commented. No group has claimed responsibility. Russian broadcaster REN TV reported serious injuries, which officials did not confirm.",
+   "keyFacts": [
+    "Investigative Committee opened a criminal case",
+    "Second car bombing in Russia in two days",
+    "No group has claimed responsibility"
+   ],
+   "sources": [
+    {
+     "name": "Anadolu Agency",
+     "url": "https://www.aa.com.tr/en/world/former-aide-to-ex-ukrainian-premier-injured-in-car-explosion-in-southern-moscow/4123858"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://aljazeera.com/amp/news/2026/11/13/car-bombings-in-russia-kill-military-officer-injure-ex-ukraine-pm-adviser"
+    }
+   ],
+   "publishedAt": "2026-11-13T19:00:00+11:00",
+   "createdAt": "2026-11-14T06:54:58+11:00"
+  },
+  {
+   "id": "2026-11-14-uk-alfatih-conviction",
+   "batch": "2026-11-14",
+   "rank": 15,
+   "category": "World",
+   "title": "UK jury convicts man wanted by Germany over alleged Hamas-linked plot of wounding bailiff",
+   "summary": "A jury at Birmingham Crown Court convicted Mohammed Al Fatih, 40, of wounding a debt collector on Friday and acquitted him of wounding with intent, The National reported. He was remanded for sentencing, and extradition proceedings will resume.\n\nGerman federal prosecutors allege he was one of eight men plotting attacks on Jewish targets and Israeli diplomats, and that he stored pistols in Vienna, according to The National. Those allegations have not been tested in court. Israel's Mossad says his father is senior Hamas figure Basem Naim. His barrister argued post-traumatic stress explained his behaviour during the incident. He was granted UK asylum in 2015.",
+   "keyFacts": [
+    "Acquitted of the more serious charge of intent",
+    "Germany is seeking his extradition",
+    "German allegations remain untested in court"
+   ],
+   "sources": [
+    {
+     "name": "The National",
+     "url": "https://www.thenationalnews.com/news/uk/2026/11/13/hamas-bodyguard-to-be-extradited-from-uk-to-germany-over-massacre-plot/"
+    }
+   ],
+   "publishedAt": "2026-11-14T00:41:00+11:00",
+   "createdAt": "2026-11-14T06:54:58+11:00"
+  },
+  {
+   "id": "2026-11-14-spain-sanchez-feijoo-debate",
+   "batch": "2026-11-14",
+   "rank": 16,
+   "category": "World",
+   "title": "Spain sets Sánchez–Feijóo election debate for 19 November",
+   "summary": "Spain's Television Academy said Prime Minister Pedro Sánchez of the Socialist party and opposition People's Party leader Alberto Núñez Feijóo will hold a televised debate on Thursday 19 November, according to the EFE news agency and El Español. The academy's president, María Casado, will moderate.\n\nThe parties agreed on five topics: housing, economy and tax, social policy and public services, anti-corruption and democratic renewal, and migration and foreign policy, EFE reported. A draw decided Feijóo will open and Sánchez will close. El Español said the debate was originally planned for 16 November. Spain holds a general election on 29 November.",
+   "keyFacts": [
+    "Debate moved from 16 to 19 November",
+    "Five agreed topic blocks, including housing",
+    "General election is on 29 November"
+   ],
+   "sources": [
+    {
+     "name": "EFE (via Infobae)",
+     "url": "https://www.infobae.com/espana/agencias/2026/11/13/sanchez-y-feijoo-debatiran-cara-a-cara-el-19-de-noviembre-en-la-academia-de-television/"
+    },
+    {
+     "name": "El Español",
+     "url": "https://www.elespanol.com/espana/politica/20261113/cara-sanchez-feijoo-celebrara-noviembre-organizado-academia-television/1003744457727_0.html"
+    }
+   ],
+   "publishedAt": "2026-11-14T02:03:00+11:00",
+   "createdAt": "2026-11-14T06:54:58+11:00"
+  },
+  {
+   "id": "2026-11-14-france-israel-melenchon-ban",
+   "batch": "2026-11-14",
+   "rank": 17,
+   "category": "World",
+   "title": "France criticises Israel's entry ban on Jean-Luc Mélenchon",
+   "summary": "French Foreign Minister Jean-Noël Barrot called Israel's decision to bar left-wing leader Jean-Luc Mélenchon from entering the country a demagogic move, Middle East Eye reported. Israel announced the ban on Thursday, citing his statements on Israel and the Gaza war.\n\nIsraeli Interior Minister Gideon Sa'ar accused Mélenchon of spreading blood libels, referring among other things to his pledge to escort aid flotillas to Gaza if elected, according to Middle East Eye. Mélenchon said on X that he had been barred from a place he had no plans to visit. Barrot, a political opponent of Mélenchon, said the decision helped Mélenchon's party.",
+   "keyFacts": [
+    "Israel announced the ban on Thursday",
+    "Barrot is a political opponent of Mélenchon",
+    "Mélenchon is a 2027 presidential contender"
+   ],
+   "sources": [
+    {
+     "name": "Middle East Eye",
+     "url": "https://middleeasteye.net/news/french-government-condemns-israel-entry-ban-jean-luc-melenchon"
+    }
+   ],
+   "publishedAt": "2026-11-13T22:25:00+11:00",
+   "createdAt": "2026-11-14T06:54:58+11:00"
+  },
+  {
+   "id": "2026-11-14-pakistan-74-militants",
+   "batch": "2026-11-14",
+   "rank": 18,
+   "category": "World",
+   "title": "Pakistan army says 74 militants killed in raids since 3 November",
+   "summary": "Pakistan's military media wing said security forces had killed at least 74 militants since 3 November in operations in Khyber Pakhtunkhwa and Balochistan provinces, Arab News Pakistan reported. It said 35 were killed in Mir Ali and eight in Orakzai in the previous 48 hours, and that weapons and explosives were recovered.\n\nThe military described militants in Balochistan as backed by India, which New Delhi denies. Pakistan also accuses Afghanistan of sheltering Pakistani Taliban fighters, which Kabul denies. The military said operations would continue. The figures could not be independently verified.",
+   "keyFacts": [
+    "43 killed in Khyber Pakhtunkhwa in 48 hours",
+    "India and Afghanistan deny Pakistan's accusations",
+    "Military says operations will continue"
+   ],
+   "sources": [
+    {
+     "name": "Arab News Pakistan",
+     "url": "https://www.arabnews.pk/pakistan/pakistan-says-74-militants-killed-since-nov-3-in-balochistan-khyber-pakhtunkhwa-security-operations-3006913"
+    }
+   ],
+   "publishedAt": "2026-11-13T17:42:00+11:00",
+   "createdAt": "2026-11-14T06:54:58+11:00"
+  },
+  {
+   "id": "2026-11-14-guinea-gold-clashes",
+   "batch": "2026-11-14",
+   "rank": 19,
+   "category": "World",
+   "title": "Ten killed in Guinea clashes over ban on artisanal gold mining",
+   "summary": "Ten people were killed and 13 injured in clashes in Guinea's Siguiri gold region as security forces enforced a ban on unregulated artisanal mining, according to provisional government figures reported by Mining.com. Five of the dead were foreign nationals. The territorial administration ministry said protesters had set up barricades before gunfire broke out.\n\nMore than 1,200 suspected illegal miners have been arrested since the ban took effect on 2 November, Mining.com reported. Malian authorities said about 160,000 people had been displaced into Mali, and Burkina Faso said it had repatriated more than 45,000 citizens from Guinea.",
+   "keyFacts": [
+    "Ban on artisanal mining took effect 2 November",
+    "Five foreign nationals among the dead",
+    "More than 1,200 suspected miners arrested"
+   ],
+   "sources": [
+    {
+     "name": "Mining.com",
+     "url": "https://mining.com/guinea-gold-mining-crackdown-leaves-10-dead-sparks-exodus"
+    }
+   ],
+   "publishedAt": "2026-11-13T21:53:00+11:00",
+   "createdAt": "2026-11-14T06:54:58+11:00"
+  },
+  {
+   "id": "2026-11-14-kansas-governor-holscher",
+   "batch": "2026-11-14",
+   "rank": 20,
+   "category": "Politics",
+   "title": "Democrat Cindy Holscher wins Kansas governor's race, AP declares",
+   "summary": "Democrat Cindy Holscher has won the Kansas governorship, defeating Republican state Senate president Ty Masterson, according to an AP race call reported by PBS NewsHour. She succeeds term-limited Democratic Governor Laura Kelly.\n\nHolscher campaigned on halting construction of new AI data centres, AP reported. Republicans outspent Democrats by more than three to one, with the Republican Governors Association spending US$19 million on advertising, according to AdImpact data cited by AP. In other Kansas races, Democrats won a US Senate seat for the first time since 1932 and Chris Mann defeated Attorney General Kris Kobach.",
+   "keyFacts": [
+    "Holscher succeeds Democrat Laura Kelly",
+    "Republicans outspent Democrats three to one",
+    "Democrats also won a US Senate seat in Kansas"
+   ],
+   "sources": [
+    {
+     "name": "AP (via PBS NewsHour)",
+     "url": "https://www.pbs.org/newshour/politics/cindy-holscher-wins-election-for-kansas-governor-extending-democrats-wave-of-victories"
+    }
+   ],
+   "publishedAt": "2026-11-13T10:15:00+11:00",
+   "createdAt": "2026-11-14T06:54:58+11:00"
+  },
+  {
+   "id": "2026-11-14-mamdani-snap-deal",
+   "batch": "2026-11-14",
+   "rank": 21,
+   "category": "Politics",
+   "title": "Mamdani says Trump agreed to delay new SNAP stocking rules for small shops",
+   "summary": "New York Mayor Zohran Mamdani said on Friday he had reached a deal directly with President Donald Trump to delay enforcement of new federal food stamp (SNAP) stocking rules for small retailers nationwide, amNY reported. City Hall said the delay is 90 days.\n\nThe rules require participating stores to stock more varieties of staple foods. Mamdani had written to the Agriculture Department on 2 November asking for a six-month delay. The White House and the department had not confirmed the agreement when amNY published. The city says more than 10,000 New York bodegas and corner stores are affected.",
+   "keyFacts": [
+    "Delay is 90 days, City Hall says",
+    "White House had not confirmed the deal",
+    "Rules affect small SNAP retailers nationwide"
+   ],
+   "sources": [
+    {
+     "name": "amNY",
+     "url": "https://www.amny.com/politics/mamdani-deal-trump-delay-snap-rules-nationwide/"
+    }
+   ],
+   "publishedAt": "2026-11-14T06:30:00+11:00",
+   "createdAt": "2026-11-14T06:54:58+11:00"
   }
  ],
  "leftOut": [
@@ -2468,6 +2961,146 @@
    "publishedAt": "2026-11-13T07:00:00+11:00",
    "createdAt": "2026-11-13T17:50:59+11:00",
    "reason": "No new development"
+  },
+  {
+   "id": "2026-11-14-lo-rideau-canal-freezing",
+   "batch": "2026-11-14",
+   "rank": 1,
+   "category": "Environment",
+   "title": "Ottawa agency weighs artificially freezing part of Rideau Canal skateway",
+   "summary": "Canada's National Capital Commission is considering refrigerating a 900-metre stretch of the Rideau Canal in downtown Ottawa so it can be used for skating more often, The Canadian Press reported. The commission's chief operating officer, Tobi Nussbaum, told CBC News that a feasibility study proposed using refrigeration pipes.\n\nNussbaum said the number of skating days could triple, but not before 2030. The canal opened for only 10 days in 2024 and did not open to skaters in 2023, according to The Canadian Press. The study links the shorter seasons to warmer winters.",
+   "keyFacts": [
+    "Stretch under study is 900 metres long",
+    "Skating days could triple, the commission says",
+    "Not expected before 2030"
+   ],
+   "sources": [
+    {
+     "name": "The Canadian Press (via paNOW)",
+     "url": "https://panow.com/2026/11/13/national-capital-commission-considering-artificial-freezing-for-rideau-canal/"
+    },
+    {
+     "name": "The Canadian Press (via iNFOnews)",
+     "url": "https://infonews.ca/news/7983551/national-capital-commission-considering-artificial-freezing-for-rideau-canal/"
+    }
+   ],
+   "publishedAt": "2026-11-14T04:26:00+11:00",
+   "createdAt": "2026-11-14T06:54:58+11:00",
+   "reason": "Human interest"
+  },
+  {
+   "id": "2026-11-14-lo-gop-midterm-reaction",
+   "batch": "2026-11-14",
+   "rank": 2,
+   "category": "Politics",
+   "title": "Republicans acknowledge midterm defeat but few call for a break with Trump",
+   "summary": "Republican lawmakers have acknowledged that voters rejected them in the midterm elections but have shown little interest in breaking with President Donald Trump, AP reported. Representative Richard Hudson, who led the House Republican campaign arm, said voters felt costs were too high. House Speaker Mike Johnson said voters made the wrong choice.\n\nSenator Josh Hawley blamed cuts to rural healthcare, and Representative Lauren Boebert said the party had collectively failed, according to AP. Democrats flipped more than 40 Republican-held House seats. The piece is an analysis of reactions rather than a report of a new event.",
+   "keyFacts": [
+    "Democrats flipped more than 40 House seats",
+    "Hudson led the House Republican campaign arm",
+    "Analysis piece drawing on lawmakers' comments"
+   ],
+   "sources": [
+    {
+     "name": "AP (via News4Jax)",
+     "url": "https://www.news4jax.com/news/politics/2026/11/13/republicans-dazed-by-midterm-election-defeats-grapple-with-what-went-wrong/"
+    }
+   ],
+   "publishedAt": "2026-11-13T23:12:00+11:00",
+   "createdAt": "2026-11-14T06:54:58+11:00",
+   "reason": "Commentary"
+  },
+  {
+   "id": "2026-11-14-lo-miss-universe-visas",
+   "batch": "2026-11-14",
+   "rank": 3,
+   "category": "Other",
+   "title": "US travel restrictions keep some African contestants out of Miss Universe",
+   "summary": "Some contestants from African countries may miss the Miss Universe pageant in Puerto Rico on 24 November because of visa problems linked to US travel restrictions, The Daily Beast reported. Miss Universe Zambia organisers said their contestant, Pamela Mubanga, had been forced to withdraw.\n\nZimbabwe's Roseanna Hall said her visa approval had stalled, and South Sudan's Amylia Deng said her participation was uncertain, according to The Daily Beast. The restrictions on nationals of a number of countries took effect on 1 January 2026. The outlet said it had sought comment from the State Department.",
+   "keyFacts": [
+    "Pageant final is on 24 November",
+    "Zambia's contestant has withdrawn",
+    "Restrictions took effect on 1 January 2026"
+   ],
+   "sources": [
+    {
+     "name": "The Daily Beast",
+     "url": "https://www.thedailybeast.com/miss-universe-contestants-locked-out-of-us-by-trumps-travel-ban"
+    }
+   ],
+   "publishedAt": "2026-11-14T05:05:00+11:00",
+   "createdAt": "2026-11-14T06:54:58+11:00",
+   "reason": "Entertainment"
+  },
+  {
+   "id": "2026-11-14-lo-walliams-police-investigation",
+   "batch": "2026-11-14",
+   "rank": 4,
+   "category": "Other",
+   "title": "London police open investigation into David Walliams over sexual offence allegations",
+   "summary": "London's Metropolitan Police said it had received several allegations of non-recent serious sexual offences involving a man in his 50s and had opened an investigation, ITV News and ABC News reported, identifying the man as author David Walliams. The allegations are separate from a joint ITV and Guardian investigation published earlier in the week.\n\nWalliams denies the allegations and says he has not broken the law. Detective Superintendent Mike Cagney is leading the inquiry. Police have not said how many offences were reported or when they allegedly occurred.",
+   "keyFacts": [
+    "Allegations are described as non-recent",
+    "Walliams denies any wrongdoing",
+    "Separate from the ITV and Guardian reports"
+   ],
+   "sources": [
+    {
+     "name": "ITV News",
+     "url": "https://www.itv.com/news/2026-11-13/police-launches-investigation-into-david-walliams-over-alleged-sexual-offences"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-14/uk-police-launch-investigation-into-david-walliams/107385506"
+    }
+   ],
+   "publishedAt": "2026-11-14T03:20:00+11:00",
+   "createdAt": "2026-11-14T06:54:58+11:00",
+   "reason": "Celebrity"
+  },
+  {
+   "id": "2026-11-14-lo-russell-brand-new-allegations",
+   "batch": "2026-11-14",
+   "rank": 5,
+   "category": "Other",
+   "title": "Six more women make misconduct allegations against Russell Brand, Times reports",
+   "summary": "Six more women have accused comedian Russell Brand of sexual misconduct between 2005 and 2013, according to a report in The Times cited by NME. The Times said it had taken extensive steps to corroborate the claims and had not paid any sources.\n\nBrand was convicted last week of rape and three counts of sexual assault and was sentenced on 9 November to 10 years and six months in prison, NME reported. He has previously denied wrongdoing. London police are investigating two further rape allegations.",
+   "keyFacts": [
+    "Allegations cover 2005 to 2013",
+    "Brand was sentenced on 9 November",
+    "He has previously denied wrongdoing"
+   ],
+   "sources": [
+    {
+     "name": "NME",
+     "url": "https://www.nme.com/news/film/russell-brand-accused-sexual-misconduct-allegations-3975844"
+    }
+   ],
+   "publishedAt": "2026-11-13T21:20:00+11:00",
+   "createdAt": "2026-11-14T06:54:58+11:00",
+   "reason": "Celebrity"
+  },
+  {
+   "id": "2026-11-14-lo-socceroos-qatar",
+   "batch": "2026-11-14",
+   "rank": 6,
+   "category": "Sport",
+   "title": "Socceroos beat Asian champions Qatar 3-0 in Doha friendly",
+   "summary": "Australia beat Qatar 3-0 in an international friendly in Doha, AAP reported. Riley McGree, Tete Yengi and Nestory Irankunda scored in the first half, and Qatar had a late goal ruled out for offside.\n\nCoach Tony Popovic made several changes and gave debuts to four players: Eli Adams, Sam Klein, Kasey Bos and Diesel Herrington, according to AAP. Australia had 14 shots to Qatar's three. The Socceroos play Jordan in Doha on Tuesday, Wednesday Australian time.",
+   "keyFacts": [
+    "All three goals came in the first half",
+    "Four players made debuts",
+    "Jordan match follows on Tuesday in Doha"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/socceroos-hammer-asian-champions-in-statement-win"
+    }
+   ],
+   "publishedAt": "2026-11-14T05:30:00+11:00",
+   "createdAt": "2026-11-14T06:54:58+11:00",
+   "reason": "Sport"
   }
  ]
 }
