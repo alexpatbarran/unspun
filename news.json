@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T06:54:58+11:00",
+ "updatedAt": "2026-11-14T17:53:55+11:00",
  "articles": [
   {
    "id": "2026-11-12-mississippi-senate",
@@ -2109,6 +2109,302 @@
    ],
    "publishedAt": "2026-11-14T06:30:00+11:00",
    "createdAt": "2026-11-14T06:54:58+11:00"
+  },
+  {
+   "id": "2026-11-14-trump-xi-putin-summit",
+   "batch": "2026-11-14-pm",
+   "rank": 1,
+   "category": "World",
+   "title": "White House says Trump, Xi and Putin will meet together at APEC in China",
+   "summary": "The White House has confirmed plans for a three-way meeting between US President Donald Trump, China's Xi Jinping and Russia's Vladimir Putin on the sidelines of next week's APEC summit in Shenzhen, according to AAP and Al Jazeera. It would be the first such meeting of the three leaders.\n\nTrump has said the talks could cover the US war with Iran and a new nuclear arms agreement that includes China, after the New START treaty with Russia expired in February. A senior US official told Reuters no agreement is expected. The Kremlin called the meeting significant. Ukraine's President Volodymyr Zelenskyy has raised concern about decisions being made without Kyiv.",
+   "keyFacts": [
+    "Meeting planned on APEC sidelines in Shenzhen",
+    "New START expired in February",
+    "US official says no agreement expected"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/trump-xi-and-putin-plan-unprecedented-joint-meeting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china"
+    }
+   ],
+   "publishedAt": "2026-11-14T13:00:00+11:00",
+   "createdAt": "2026-11-14T17:53:55+11:00"
+  },
+  {
+   "id": "2026-11-14-faa-national-ground-stop",
+   "batch": "2026-11-14-pm",
+   "rank": 2,
+   "category": "World",
+   "title": "FAA halts all US departures for over four hours after air traffic communications fault",
+   "summary": "The US Federal Aviation Administration ordered a nationwide ground stop on Friday, US time, after a communications problem affected air traffic control centres, Transportation Secretary Sean Duffy said. The stop lasted more than four hours before departures resumed, according to AAP and the ABC.\n\nThe ABC reported more than 11,000 flights were delayed or cancelled and about 600 diverted. Homeland Security Secretary Markwayne Mullin said early findings pointed to a telecommunications failure, with no sign of an attack so far. Duffy said US$30 billion is needed to upgrade air traffic control. Australian travel industry representatives said travellers due to fly within 72 hours were being prioritised.",
+   "keyFacts": [
+    "Ground stop lasted more than four hours",
+    "ABC reports 11,000+ flights delayed or cancelled",
+    "Officials say no sign of an attack so far"
+   ],
+   "sources": [
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/news/faa-issues-nationwide-ground-stop/"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-14/australians-stranded-in-us-amid-flight-cancellations-chaos/107385998"
+    },
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/us-aviation-authority-orders-national-ground-stop"
+    }
+   ],
+   "publishedAt": "2026-11-14T08:29:00+11:00",
+   "createdAt": "2026-11-14T17:53:55+11:00"
+  },
+  {
+   "id": "2026-11-14-australia-philippines-defence-pact",
+   "batch": "2026-11-14-pm",
+   "rank": 3,
+   "category": "Australia",
+   "title": "Australia and Philippines to sign defence cooperation agreement in Manila",
+   "summary": "Australia and the Philippines are expected to sign a defence cooperation agreement on Sunday on the sidelines of the ASEAN summit in Manila, the ABC and SBS reported. Prime Minister Anthony Albanese arrived in Manila on Saturday from the COP31 climate summit in Türkiye.\n\nAccording to the ABC, the deal is expected to expand reciprocal military access and information sharing and support the Philippine navy and coastguard. SBS reported it would cover maritime awareness and interoperability. China's foreign ministry has told Australia to stop inciting confrontation, the ABC said. Albanese may meet US President Donald Trump, who is due at ASEAN on 17 November, AAP reported.",
+   "keyFacts": [
+    "Signing expected Sunday in Manila",
+    "Covers military access and information sharing",
+    "Trump due at ASEAN on 17 November"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-14/major-defence-deal-astralia-philippines-clashes-china/107381694"
+    },
+    {
+     "name": "SBS News",
+     "url": "https://www.sbs.com.au/news/article/philippines-defence-pact/ypbg32mt4"
+    },
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/changing-climates-pm-trades-cop31-for-trump-talks"
+    }
+   ],
+   "publishedAt": "2026-11-14T17:01:00+11:00",
+   "createdAt": "2026-11-14T17:53:55+11:00"
+  },
+  {
+   "id": "2026-11-14-hormuz-two-oil-tankers-mines",
+   "batch": "2026-11-14-pm",
+   "rank": 4,
+   "category": "World",
+   "title": "Iran's Revolutionary Guards say two oil tankers hit mines in Strait of Hormuz",
+   "summary": "Iran's Revolutionary Guards navy said two oil tankers exploded and caught fire after hitting naval mines in the Strait of Hormuz, according to a statement on Iranian state television reported by ANI and Aaj News. It said one was a supertanker and that both had switched off radar and positioning systems to cross by an unauthorised route.\n\nIran did not name the ships or their flags, and the claims have not been independently confirmed. The US military has said it has cleared the main shipping lanes of mines. Al Jazeera described it as the third reported tanker incident in about 24 hours.",
+   "keyFacts": [
+    "Ships and flags were not named",
+    "Claims not independently confirmed",
+    "US says main lanes cleared of mines"
+   ],
+   "sources": [
+    {
+     "name": "ANI",
+     "url": "https://www.aninews.in/news/world/middle-east/two-oil-tankers-explode-catch-fire-after-hitting-naval-mines-near-hormuz-irans-irgc-navy20261114040310/"
+    },
+    {
+     "name": "Aaj News",
+     "url": "https://english.aaj.tv/news/330480631/two-oil-tankers-explode-after-hitting-mines-in-strait-of-hormuz-iran-claims"
+    }
+   ],
+   "publishedAt": "2026-11-14T09:33:00+11:00",
+   "createdAt": "2026-11-14T17:53:55+11:00"
+  },
+  {
+   "id": "2026-11-14-icc-afghanistan-us-troops",
+   "batch": "2026-11-14-pm",
+   "rank": 5,
+   "category": "World",
+   "title": "ICC judges close part of Afghanistan probe that covered alleged US troop crimes",
+   "summary": "Judges at the International Criminal Court have closed the part of the prosecutor's Afghanistan investigation that could examine alleged crimes by US forces, along with a probe into the Islamic State affiliate ISIS-K, according to Reuters and AP reports carried by Al Jazeera and Defense News. The investigation will now focus on the Taliban's conduct since 2021.\n\nThe judges cited significant limits on the prosecution's ability to investigate. The prosecutor's office said it had appealed. The US is not an ICC member and has sanctioned court staff. Arrest warrants for four Taliban leaders remain in force, Reuters reported.",
+   "keyFacts": [
+    "Focus narrowed to Taliban conduct since 2021",
+    "Prosecutor's office has appealed",
+    "Warrants for four Taliban leaders remain"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/14/icc-stops-probe-into-alleged-crimes-by-us-troops-in-afghanistan"
+    },
+    {
+     "name": "Reuters (via Defense News)",
+     "url": "https://www.defensenews.com/global/mideast-africa/2026/11/13/judges-close-part-of-icc-afghanistan-investigations-that-could-look-at-us-troops/"
+    }
+   ],
+   "publishedAt": "2026-11-14T04:55:00+11:00",
+   "createdAt": "2026-11-14T17:53:55+11:00"
+  },
+  {
+   "id": "2026-11-14-turkiye-qatar-defence-pact",
+   "batch": "2026-11-14-pm",
+   "rank": 6,
+   "category": "World",
+   "title": "Türkiye and Qatar sign mutual defence agreement",
+   "summary": "Türkiye and Qatar have signed a mutual defence agreement committing them to a unified position against any external armed attack on either country, according to AFP and Al Jazeera. It was signed after President Recep Tayyip Erdoğan met Qatar's Emir Sheikh Tamim bin Hamad Al Thani in Istanbul on Friday.\n\nA joint statement carried by Qatar's state news agency said the pact covers consultation on threats, joint exercises, defence industry cooperation and training, AFP reported. Erdoğan's office said it added a new dimension to ties, and the emir called it a strategic partnership. Other agreements signed included one on conflict resolution.",
+   "keyFacts": [
+    "Signed in Istanbul on Friday",
+    "Pledges joint stance against external attack",
+    "Covers exercises, industry and training"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement"
+    },
+    {
+     "name": "AFP (via Al-Monitor)",
+     "url": "https://www.al-monitor.com/originals/2026/11/turkey-qatar-sign-mutual-defence-agreement"
+    }
+   ],
+   "publishedAt": "2026-11-14T02:49:00+11:00",
+   "createdAt": "2026-11-14T17:53:55+11:00"
+  },
+  {
+   "id": "2026-11-14-medicaid-work-rules-delay",
+   "batch": "2026-11-14-pm",
+   "rank": 7,
+   "category": "Health",
+   "title": "US gives states six more months before enforcing Medicaid work requirements",
+   "summary": "The Trump administration said on Friday, US time, that states will have six more months before they must enforce new Medicaid work requirements, moving enforcement to 1 July 2027, STAT reported. States had been preparing to start on 1 January.\n\nThe rules, from last year's budget law, require many working-age adults covered under Medicaid expansion to work, study or volunteer 80 hours a month unless exempt. STAT reported that states had sued the federal health agency CMS seeking a delay until exemptions for medically frail people were settled, and that a judge recently rejected the administration's definition of medical frailty.",
+   "keyFacts": [
+    "Enforcement moved to 1 July 2027",
+    "Requirement is 80 hours a month",
+    "States had sued seeking a delay"
+   ],
+   "sources": [
+    {
+     "name": "STAT",
+     "url": "https://www.statnews.com/2026/11/13/medicaid-work-requirements-implementation-delayed-six-months/"
+    },
+    {
+     "name": "Nextgov/FCW",
+     "url": "https://www.nextgov.com/digital-government/2026/11/cms-lets-states-punt-medicaid-work-requirements-six-months/417227/?oref=ng-homepage-river"
+    }
+   ],
+   "publishedAt": "2026-11-14T09:21:00+11:00",
+   "createdAt": "2026-11-14T17:53:55+11:00"
+  },
+  {
+   "id": "2026-11-14-us-treasury-yen-purchase",
+   "batch": "2026-11-14-pm",
+   "rank": 8,
+   "category": "Economy",
+   "title": "New York Fed report confirms US Treasury bought yen in July",
+   "summary": "The US Treasury bought Japanese yen in the July–September quarter while the Federal Reserve made no foreign exchange interventions of its own, the Federal Reserve Bank of New York said in its quarterly report. Reuters reported the New York Fed bought 79.4 billion yen for the Treasury on 31 July, paid for with euros from the Exchange Stabilization Fund.\n\nJapan's Finance Ministry spent 15.4 trillion yen on intervention in the same quarter, according to Reuters. Treasury Secretary Scott Bessent said in August the US would not hesitate to join further action. The yen has since weakened back towards 160 per US dollar, Reuters said.",
+   "keyFacts": [
+    "79.4 billion yen bought on 31 July",
+    "Fed made no interventions of its own",
+    "Japan spent 15.4 trillion yen in the quarter"
+   ],
+   "sources": [
+    {
+     "name": "Federal Reserve Bank of New York (via InsuranceNewsNet)",
+     "url": "https://insurancenewsnet.com/oarticle/the-federal-reserve-did-not-intervene-in-fx-markets-during-the-third-quarter-the-u-s-treasury-purchased-japanese-yen-in-fx-markets-during-the-same-period"
+    },
+    {
+     "name": "Reuters (via The Standard)",
+     "url": "https://www.thestandard.com.hk/finance/article/348397/US-Treasury-bought-yen-in-July-Fed-made-no-solo-FX-interventions-in-Q3"
+    }
+   ],
+   "publishedAt": "2026-11-13T09:00:00+11:00",
+   "createdAt": "2026-11-14T17:53:55+11:00"
+  },
+  {
+   "id": "2026-11-14-houthis-jazan-missiles",
+   "batch": "2026-11-14-pm",
+   "rank": 9,
+   "category": "World",
+   "title": "Houthis say they fired missiles at Saudi forces in Jazan",
+   "summary": "Yemen's Houthis said on Friday they fired two ballistic missiles at Saudi forces at Al-Tuwal in Jazan province, Reuters reported. The claim came hours after Saudi civil defence declared an all-clear in the province, and Reuters said it was unclear if the two were linked. There was no immediate Saudi confirmation.\n\nThe Houthis also claimed attacks on King Khalid International Airport in Riyadh and on a pumping station on the East-West oil pipeline, according to Reuters. Saudi Arabia has been rerouting about 4 million barrels of oil a day through that pipeline to the Red Sea port of Yanbu.",
+   "keyFacts": [
+    "Houthis claim two ballistic missiles fired",
+    "No immediate Saudi confirmation",
+    "Airport and pipeline attacks also claimed"
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via ThePrint)",
+     "url": "https://theprint.in/world/yemens-houthis-say-they-fired-missiles-at-saudi-forces-in-jazan/3098422/"
+    }
+   ],
+   "publishedAt": "2026-11-14T08:00:00+11:00",
+   "createdAt": "2026-11-14T17:53:55+11:00"
+  },
+  {
+   "id": "2026-11-14-india-900gw-clean-energy",
+   "batch": "2026-11-14-pm",
+   "rank": 10,
+   "category": "Environment",
+   "title": "India targets 900 gigawatts of clean power by 2035 as coal use continues",
+   "summary": "India has set a goal of 900 gigawatts of non-fossil power capacity by 2035, almost double its 500-gigawatt target for 2030, AP reported. Its current clean capacity is just over 300 gigawatts, third behind China and the US.\n\nA University of California, Berkeley researcher told AP the target cannot be met unless the grid is upgraded. The government has approved nearly US$20 billion for grid and storage projects. Coal produced about 71 per cent of India's electricity in 2025, according to the think tank Ember, and the head of India's Central Electricity Authority said up to 150 gigawatts of new coal may be needed by 2035.",
+   "keyFacts": [
+    "Target nearly doubles 2030 goal",
+    "Current clean capacity just over 300GW",
+    "Coal supplied about 71% of 2025 power"
+   ],
+   "sources": [
+    {
+     "name": "AP (via ABC News US)",
+     "url": "https://abcnews.com/Business/wireStory/india-seeks-triple-clean-energy-capacity-900-gigawatts-138129887"
+    },
+    {
+     "name": "AP (via KIRO 7)",
+     "url": "https://www.kiro7.com/news/science/india-seeks-triple/47SNYITYLQ3DNJ52A4ORUY5CMU/"
+    }
+   ],
+   "publishedAt": "2026-11-14T13:00:00+11:00",
+   "createdAt": "2026-11-14T17:53:55+11:00"
+  },
+  {
+   "id": "2026-11-14-vic-labor-schools-pledge",
+   "batch": "2026-11-14-pm",
+   "rank": 11,
+   "category": "Politics",
+   "title": "Victorian Labor pledges $1.17 billion for school upgrades if re-elected",
+   "summary": "Victorian Labor would spend more than $1.17 billion upgrading 228 public schools if re-elected, Premier Ben Carroll said on Saturday, AAP reported. The package includes $500 million for non-government schools, made up of $350 million for Catholic schools and $150 million for low-fee independent schools.\n\nEducation Minister Gabrielle Williams asked Opposition Leader Jess Wilson which upgrades she would cut. Wilson has alleged the government made secret cuts to non-government school funding, which Labor denies, saying it was keeping funding within national entitlements. Wilson described the pledge as another large pre-election promise, according to AAP.",
+   "keyFacts": [
+    "228 public schools to be upgraded",
+    "$500m for non-government schools",
+    "Opposition alleges funding cuts; Labor denies"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/government-pledges-billion-dollar-boost-to-schools"
+    }
+   ],
+   "publishedAt": "2026-11-14T14:00:00+11:00",
+   "createdAt": "2026-11-14T17:53:55+11:00"
+  },
+  {
+   "id": "2026-11-14-georgia-election-board-ein",
+   "batch": "2026-11-14-pm",
+   "rank": 12,
+   "category": "Politics",
+   "title": "ProPublica reports Georgia election board members worked with Cleta Mitchell network",
+   "summary": "Current and former members of Georgia's State Election Board coordinated with lawyer Cleta Mitchell's Election Integrity Network and allied groups, ProPublica reported, citing recordings of private calls and events. It reported that the board's executive director, James Mills, worked closely with network members, according to five sources.\n\nBoard chair John Fervier told ProPublica the network's influence should stop. Vice chair Janelle King said activists did not influence her decisions, and Mills declined to answer questions. Mitchell praised the network's work with the board, and network figure Garland Favorito called the report's central claim a false conspiracy theory.",
+   "keyFacts": [
+    "Based on recordings of private calls",
+    "Board chair says influence should stop",
+    "Network figure calls claim false"
+   ],
+   "sources": [
+    {
+     "name": "ProPublica",
+     "url": "https://www.propublica.org/article/georgia-election-board-cleta-mitchell-midterms"
+    }
+   ],
+   "publishedAt": "2026-11-13T22:00:00+11:00",
+   "createdAt": "2026-11-14T17:53:55+11:00"
   }
  ],
  "leftOut": [
@@ -2191,32 +2487,6 @@
    "reason": "Ceremonial event"
   },
   {
-   "id": "2026-11-12-lo-khawaja",
-   "batch": "2026-11-12",
-   "rank": 4,
-   "category": "Sport",
-   "title": "Khawaja memoir claims whole Australian team knew about 2018 ball-tampering plan",
-   "summary": "Former Test opener Usman Khawaja claims in his memoir Sabr that the whole Australian team knew of the 2018 ball-tampering plan in Cape Town. He also says similar tactics were discussed during the previous Test in Port Elizabeth. That contradicts the Cricket Australia investigation, which found only Steve Smith, David Warner and Cameron Bancroft knew.\n\nKhawaja told captain Pat Cummins and Cricket Australia chief Todd Greenberg about the chapter before the team's South Africa tour. AAP reported he has since cut back some book-tour appearances.",
-   "keyFacts": [
-    "Book published by Penguin Australia in November",
-    "The 2018 investigation named only three players",
-    "Other players' accounts differ from Khawaja's"
-   ],
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://aljazeera.com/sports/2026/11/7/australia-cricket-ball-tampering-sandpapergate-usman-khawaja"
-    },
-    {
-     "name": "AFP (via BSS)",
-     "url": "https://www.bssnews.net/sports/442895"
-    }
-   ],
-   "publishedAt": "2026-11-07T12:00:00+11:00",
-   "createdAt": "2026-11-12T04:30:00+11:00",
-   "reason": "Sport"
-  },
-  {
    "id": "2026-11-12-lo-walliams",
    "batch": "2026-11-12",
    "rank": 5,
@@ -2239,32 +2509,6 @@
     }
    ],
    "publishedAt": "2026-11-11T12:00:00+11:00",
-   "createdAt": "2026-11-12T04:30:00+11:00",
-   "reason": "Celebrity"
-  },
-  {
-   "id": "2026-11-12-lo-thomas-markle",
-   "batch": "2026-11-12",
-   "rank": 6,
-   "category": "Other",
-   "title": "Meghan's father Thomas Markle Sr. charged with possessing child abuse material",
-   "summary": "Thomas Markle Sr., 82, the estranged father of Meghan, Duchess of Sussex, was arrested by the FBI in Florida on 6 November. He is charged with one count of possession of child sexual abuse material, according to the US Attorney's Office. The material was allegedly found in two storage units he rented in the Los Angeles area.\n\nHe has not entered a plea, and the allegations have not been tested in court. Meghan described the allegations as deeply disturbing.",
-   "keyFacts": [
-    "Arrested 6 November near Tampa",
-    "Charged on a federal criminal complaint",
-    "Maximum penalty if convicted: 20 years"
-   ],
-   "sources": [
-    {
-     "name": "ABC News (US)",
-     "url": "https://abc7news.com/story/meghan-markles-father-thomas-markle-sr-arrested-fbi-florida/20020257/"
-    },
-    {
-     "name": "Fox 13",
-     "url": "https://www.fox13news.com/news/report-meghan-markles-estranged-dad-arrested-florida"
-    }
-   ],
-   "publishedAt": "2026-11-07T12:00:00+11:00",
    "createdAt": "2026-11-12T04:30:00+11:00",
    "reason": "Celebrity"
   },
@@ -3101,6 +3345,190 @@
    "publishedAt": "2026-11-14T05:30:00+11:00",
    "createdAt": "2026-11-14T06:54:58+11:00",
    "reason": "Sport"
+  },
+  {
+   "id": "2026-11-14-lo-newsom-2028-timing",
+   "batch": "2026-11-14-pm",
+   "rank": 1,
+   "category": "Politics",
+   "title": "Newsom says he will decide on a 2028 presidential run in early January",
+   "summary": "California Governor Gavin Newsom said he would decide in early January whether to run for president in 2028, the Sacramento Bee and Fox News reported. He made the comments to Turkey's Anadolu Agency at the COP31 climate summit in Antalya.\n\nNewsom, who leaves office in January, has previously said he would consult his family first and would not run if former vice-president Kamala Harris entered the race. Harris has not commented publicly, according to the Sacramento Bee. Newsom said the recent midterm results would factor into his decision.",
+   "keyFacts": [
+    "Decision due in early January",
+    "Newsom leaves office in January",
+    "Harris has not commented publicly"
+   ],
+   "sources": [
+    {
+     "name": "Sacramento Bee (via Yahoo News)",
+     "url": "https://www.yahoo.com/news/politics/articles/gavin-newsom-says-ll-decide-182850845.html"
+    },
+    {
+     "name": "Fox News",
+     "url": "https://www.foxnews.com/politics/newsom-reveals-when-decide-2028-white-house-bid-growing-speculation"
+    }
+   ],
+   "publishedAt": "2026-11-13T18:08:00+11:00",
+   "createdAt": "2026-11-14T17:53:55+11:00",
+   "reason": "No new development"
+  },
+  {
+   "id": "2026-11-14-lo-al-green-impeachment",
+   "batch": "2026-11-14-pm",
+   "rank": 2,
+   "category": "Politics",
+   "title": "Al Green says he will seek another House vote on impeaching Trump",
+   "summary": "Democratic Congressman Al Green of Texas said on the House floor that he would call for a vote on impeaching President Donald Trump as early as next week, Breitbart News reported. Green said he has made similar calls at least six times.\n\nGreen linked the move to the recent failed attempt to impeach Defence Secretary Pete Hegseth. In September the House voted 232 to 147 to set aside an earlier Green impeachment resolution. The report did not include a response from the White House or House leaders.",
+   "keyFacts": [
+    "Vote sought as early as next week",
+    "September resolution set aside 232-147",
+    "No White House response reported"
+   ],
+   "sources": [
+    {
+     "name": "Breitbart News",
+     "url": "https://www.breitbart.com/politics/2026/11/13/unelected-yet-still-effective-democrat-rep-al-green-plans-to-impeach-trump-yet-again/"
+    }
+   ],
+   "publishedAt": "2026-11-14T05:27:00+11:00",
+   "createdAt": "2026-11-14T17:53:55+11:00",
+   "reason": "Restatement, nothing new"
+  },
+  {
+   "id": "2026-11-14-lo-trump-film-incentive-faa",
+   "batch": "2026-11-14-pm",
+   "rank": 3,
+   "category": "Other",
+   "title": "Trump promoted film tax bill while FAA ground stop was under way, TheWrap reports",
+   "summary": "President Donald Trump posted support on Truth Social for a bipartisan bill offering federal incentives for film and television production while a nationwide FAA ground stop was in place on Friday, TheWrap reported. It said he had not publicly addressed the flight disruption at that time.\n\nTransportation Secretary Sean Duffy had posted that a communication issue was behind the stoppage and that technicians were investigating, according to TheWrap. Homeland Security Secretary Markwayne Mullin said the cause was not yet known but it was not a terrorist attack.",
+   "keyFacts": [
+    "Trump backed a federal production incentive bill",
+    "Report says he had not addressed the stoppage",
+    "Officials said no terrorist link"
+   ],
+   "sources": [
+    {
+     "name": "TheWrap",
+     "url": "https://www.thewrap.com/media-platforms/politics/trump-bipartisan-hollywood-production-bill-stays-mum-on-grounded-flights/"
+    }
+   ],
+   "publishedAt": "2026-11-14T10:52:00+11:00",
+   "createdAt": "2026-11-14T17:53:55+11:00",
+   "reason": "Commentary"
+  },
+  {
+   "id": "2026-11-14-lo-lebanon-explosives-truck",
+   "batch": "2026-11-14-pm",
+   "rank": 4,
+   "category": "World",
+   "title": "Lebanon promised investigation after truck carrying explosives was seized",
+   "summary": "Lebanon's Prime Minister Nawaf Salam said in October that authorities would pursue suspected Hezbollah members linked to a truck carrying explosives that was stopped at the Dahr al-Baidar checkpoint, AP reported via The Times of Israel. He called it a criminal operation.\n\nJudicial officials told AP the truck carried about 780 kilograms of explosives. Two people were detained and referred to judicial authorities, and they said they had only been told to move the load from Baalbek to Beirut. Hezbollah declined to comment, according to AP.",
+   "keyFacts": [
+    "About 780kg of explosives seized",
+    "Two detainees referred to judiciary",
+    "Hezbollah declined to comment"
+   ],
+   "sources": [
+    {
+     "name": "AP (via The Times of Israel)",
+     "url": "https://www.timesofisrael.com/lebanon-vows-probe-after-security-forces-seize-truck-packed-with-explosives/"
+    }
+   ],
+   "publishedAt": "2026-10-13T02:45:00+11:00",
+   "createdAt": "2026-11-14T17:53:55+11:00",
+   "reason": "Outside today's window"
+  },
+  {
+   "id": "2026-11-14-lo-israel-soldiers-hezbollah",
+   "batch": "2026-11-14-pm",
+   "rank": 5,
+   "category": "World",
+   "title": "Israel said three soldiers were wounded in attack it blamed on Hezbollah",
+   "summary": "The Israeli military said in August that three soldiers were seriously wounded in an attack near the Lebanese border that it attributed to Hezbollah and described as a ceasefire violation, Anadolu Agency reported via Yeni Şafak. Netanyahu's office made a similar statement, LBCI reported.\n\nIsrael then struck what it called a Hezbollah headquarters in Ansar and said it killed a Radwan Force commander. Lebanese health ministry figures cited in the report said Israeli strikes killed 11 people in southern Lebanon. Hezbollah blamed the escalation on Israeli domestic politics.",
+   "keyFacts": [
+    "Three soldiers seriously wounded, Israel says",
+    "Israel struck site in Ansar",
+    "Hezbollah blamed Israeli politics"
+   ],
+   "sources": [
+    {
+     "name": "Anadolu Agency (via Yeni Şafak)",
+     "url": "https://en.yenisafak.com/world/israel-says-3-soldiers-wounded-in-hezbollah-attack-3721948"
+    },
+    {
+     "name": "LBCI",
+     "url": "https://v7cdn.lbcgroup.tv/news/lebanon-news/952692/netanyahus-office-says-hezbollah-attack-wounded-three-israeli-soldiers/en"
+    }
+   ],
+   "publishedAt": "2026-08-15T16:55:00+10:00",
+   "createdAt": "2026-11-14T17:53:55+11:00",
+   "reason": "Outside today's window"
+  },
+  {
+   "id": "2026-11-14-lo-albanese-bowen-hot-mic",
+   "batch": "2026-11-14-pm",
+   "rank": 6,
+   "category": "Other",
+   "title": "Albanese and Bowen caught on open microphone joking at COP31",
+   "summary": "Prime Minister Anthony Albanese and Climate Change and Energy Minister Chris Bowen were recorded on an open microphone sharing a private joke at the COP31 climate summit in Türkiye, the ABC reported in a short video. The remark involved a crude reference.\n\nThe exchange came as Albanese left the summit for the ASEAN meeting in Manila, while Bowen stays on to lead negotiations, according to AAP. Neither minister had commented on the recording in the ABC's report.",
+   "keyFacts": [
+    "Recorded at COP31 in Türkiye",
+    "ABC published a short video",
+    "No comment from either minister reported"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-14/pm-and-energy-minister-s-hot-mic-moment/107386054"
+    }
+   ],
+   "publishedAt": "2026-11-14T12:58:00+11:00",
+   "createdAt": "2026-11-14T17:53:55+11:00",
+   "reason": "Human interest"
+  },
+  {
+   "id": "2026-11-14-lo-taliban-aid-workers-anniversary",
+   "batch": "2026-11-14-pm",
+   "rank": 7,
+   "category": "Other",
+   "title": "Australian aid workers recall 2001 detention by Taliban, 25 years on",
+   "summary": "Two Australians held by the Taliban in 2001, Peter Bunch and Diana Thomas, have described their detention and rescue to AAP, 25 years after it ended. They were among eight Shelter Now International staff arrested in Kabul in August 2001 and accused of promoting Christianity.\n\nAfter US strikes began and Northern Alliance forces advanced, the group was freed from a jail in Ghazni and later flown out by US special forces, reaching Pakistan on 15 November 2001, AAP reported. Former prime minister John Howard told AAP it was a dramatic time.",
+   "keyFacts": [
+    "Eight aid workers were detained in 2001",
+    "Rescued by US special forces helicopter",
+    "Reached Pakistan on 15 November 2001"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/aussie-aid-workers-recall-miracle-escape-from-taliban"
+    }
+   ],
+   "publishedAt": "2026-11-14T07:00:00+11:00",
+   "createdAt": "2026-11-14T17:53:55+11:00",
+   "reason": "Human interest"
+  },
+  {
+   "id": "2026-11-14-lo-perth-inquest-daughter",
+   "batch": "2026-11-14-pm",
+   "rank": 8,
+   "category": "Other",
+   "title": "Gunman's daughter gives evidence at Perth double murder inquest",
+   "summary": "The daughter of Mark Bombara, who shot dead Jennifer Petelczyc and her daughter Gretl at their Perth home in May 2024, gave evidence at the WA Coroners Court on Friday, AAP reported. Bombara, who had been looking for his estranged wife, then killed himself.\n\nAriel Bombara apologised to the victims' family and called for change on family and domestic violence, according to AAP. She criticised police for allowing her father to keep 13 firearms despite warnings. The acting state coroner will deliver findings at a later date.",
+   "keyFacts": [
+    "Inquest is in the WA Coroners Court",
+    "Gunman held 13 firearms, court heard",
+    "Findings to be delivered later"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/he-was-ruthless-daughter-apologises-for-killer-dad"
+    }
+   ],
+   "publishedAt": "2026-11-14T06:00:00+11:00",
+   "createdAt": "2026-11-14T17:53:55+11:00",
+   "reason": "Local crime"
   }
  ]
 }
