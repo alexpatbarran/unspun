@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T17:53:55+11:00",
+ "updatedAt": "2026-11-15T06:55:00+11:00",
  "articles": [
   {
    "id": "2026-11-12-mississippi-senate",
@@ -2405,6 +2405,248 @@
    ],
    "publishedAt": "2026-11-13T22:00:00+11:00",
    "createdAt": "2026-11-14T17:53:55+11:00"
+  },
+  {
+   "id": "2026-11-15-us-donbas-nato-idea",
+   "batch": "2026-11-15",
+   "rank": 1,
+   "category": "World",
+   "title": "Zelenskiy says US raised idea of Ukraine leaving Donbas in exchange for NATO entry",
+   "summary": "Ukrainian President Volodymyr Zelenskiy said US negotiators asked whether Kyiv would pull its forces out of the Donbas region if Ukraine were admitted to NATO, according to Reuters and AAP. He said it was the first time membership had been tied to territorial concessions in the talks.\n\nZelenskiy said Ukraine was not ready to give up territory, but would put such a question to a referendum if it received a full package of security guarantees, military support and reconstruction funding. He also said Russian President Vladimir Putin did not personally support a ceasefire. Moscow's response to the idea was not reported.",
+   "keyFacts": [
+    "Two days of US-brokered talks in Abu Dhabi ended without a major breakthrough",
+    "The sides agreed a prisoner exchange of more than 1,000 people, Reuters reported",
+    "EU leaders named Britain, France, Germany, Italy, Poland and EU officials as Europe's negotiating team"
+   ],
+   "sources": [
+    {
+     "name": "ABC News (Reuters)",
+     "url": "https://www.abc.net.au/news/2026-11-15/us-idea-of-ukraine-ceding-donbas-to-join-nato-zelenskyy/107386558"
+    },
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/ukraine-launches-nearly-1200-drones-at-russia"
+    }
+   ],
+   "publishedAt": "2026-11-15T00:51:00+11:00",
+   "createdAt": "2026-11-15T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-15-us-measles-elimination-lost",
+   "batch": "2026-11-15",
+   "rank": 2,
+   "category": "Health",
+   "title": "US loses measles elimination status after 26 years",
+   "summary": "The United States no longer qualifies as having eliminated measles, according to a decision by an expert commission reporting to the Pan American Health Organization, CBS News and CNN reported on Friday US time. The Wall Street Journal first reported the finding. The US had held the status since 2000.\n\nCBS said the Centers for Disease Control and Prevention has counted 5,412 cases in 2026, the most since 1991, and at least six deaths, while state health departments have reported 10 deaths, according to Al Jazeera. The CDC says 96 per cent of this year's infections were in people who were unvaccinated or whose status was unknown. PAHO is due to hold a news conference on Tuesday.",
+   "keyFacts": [
+    "Status is lost when one chain of transmission continues for more than 12 months",
+    "Cases have been confirmed in 45 states and Washington DC, CBS said",
+    "Kindergarten vaccination fell from 95.2 to 92.4 per cent between 2019-20 and 2025-26, Al Jazeera reported"
+   ],
+   "sources": [
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/news/measles-elimination-status-united-states/"
+    },
+    {
+     "name": "CNN (via CP24)",
+     "url": "https://www.cp24.com/news/world/2026/11/14/after-26-years-the-us-has-lost-its-measles-elimination-status/"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/14/measles-associated-deaths-reach-10-in-us-after-two-more-deaths-reported"
+    }
+   ],
+   "publishedAt": "2026-11-15T03:11:00+11:00",
+   "createdAt": "2026-11-15T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-15-faa-router-cancellations",
+   "batch": "2026-11-15",
+   "rank": 3,
+   "category": "World",
+   "title": "US flight disruption continues; Duffy says contractor router flooded FAA network",
+   "summary": "US Transportation Secretary Sean Duffy said a router installed during work by contractor L3Harris at a remote Federal Aviation Administration site began flooding other routers in the air traffic control network, causing Friday's nationwide ground stop, according to Yahoo News. He said officials were still determining whether the cause was contractor error or faulty equipment, and that it was not a cyber attack.\n\nFAA Administrator Bryan Bedford said 4,000 to 5,000 of about 41,000 scheduled flights would be cancelled on Saturday, with schedules expected to return to normal by the end of Sunday. New York Governor Kathy Hochul called for Duffy to resign. L3Harris's response was not reported.",
+   "keyFacts": [
+    "Flightradar24 counted nearly 10,000 cancellations from the stoppage, ABC reported",
+    "Bedford said the ground stop was the longest since 11 September 2001",
+    "Airlines will not have to compensate passengers because the fault was in FAA systems, ABC said"
+   ],
+   "sources": [
+    {
+     "name": "Yahoo News",
+     "url": "https://www.yahoo.com/news/us/live/faa-ground-stop-latest-updates-duffy-blames-contractor-l3harris-thousands-more-flights-canceled-saturday-no-sign-of-cyberattack-161329174.html"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-15/us-airlines-more-disruptions-ahead-of-thanksgiving/107386452"
+    }
+   ],
+   "publishedAt": "2026-11-15T05:40:00+11:00",
+   "createdAt": "2026-11-15T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-15-un-hormuz-seafarers",
+   "batch": "2026-11-15",
+   "rank": 4,
+   "category": "World",
+   "title": "UN says at least 25 seafarers killed around Strait of Hormuz since February",
+   "summary": "At least 25 seafarers have been killed in and around the Strait of Hormuz since the US-Israeli war with Iran began in February, UN Assistant Secretary-General Khaled Khiari told the Security Council on Friday, according to Al Jazeera. He said the situation should not be allowed to become normal.\n\nThe International Maritime Organization recorded 136 security incidents involving ships between 1 March and 11 November, including 35 in October and 10 so far in November, Khiari said. Iranian authorities said on Saturday that three oil tankers had hit mines in restricted areas, while the US military says the main shipping routes have been cleared.",
+   "keyFacts": [
+    "Figures cover the period up to 11 November",
+    "Shipping through the strait is about 65 per cent below pre-war levels, according to UKMTO",
+    "Iran and the US give conflicting accounts of whether the routes are safe"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february"
+    }
+   ],
+   "publishedAt": "2026-11-14T18:46:00+11:00",
+   "createdAt": "2026-11-15T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-15-hungary-sesztak-cash",
+   "batch": "2026-11-15",
+   "rank": 5,
+   "category": "World",
+   "title": "Hungary recovers nearly $US20 million in cash in probe of Orbán-era minister",
+   "summary": "Hungarian authorities have recovered almost $US20 million in cash in a bribery investigation into Miklós Seszták, a development minister under former prime minister Viktor Orbán, Reuters reported. Some of the money was buried in forests and some hidden in farm buildings and warehouses, according to the report. Seszták denies wrongdoing.\n\nPrime Minister Péter Magyar, who replaced Orbán after April's election, described the find as the end of a Fidesz \"mafia\". Fidesz's response was not included in the Reuters report. Two former ministers and former central bank governor György Matolcsy are under arrest in separate cases and deny wrongdoing.",
+   "keyFacts": [
+    "Recovered sums were 5.07 billion forints, €2.66 million and $US1.26 million",
+    "Orbán governed for 16 years before losing power in April",
+    "A Median survey puts Fidesz support at 16 per cent, Reuters said"
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via Yahoo News)",
+     "url": "https://www.yahoo.com/news/politics/articles/hungary-recovers-20-million-cash-072253785.html"
+    },
+    {
+     "name": "NBC News",
+     "url": "https://www.nbcnews.com/world/hungary/hungary-recovers-20-million-cash-buried-hidden-probe-ex-minister-rcna609305"
+    }
+   ],
+   "publishedAt": "2026-11-14T18:22:00+11:00",
+   "createdAt": "2026-11-15T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-15-cop31-stocktake-electrification",
+   "batch": "2026-11-15",
+   "rank": 6,
+   "category": "Environment",
+   "title": "COP31: UN climate chief urges faster progress as ministers arrive in Antalya",
+   "summary": "UN climate chief Simon Stiell described progress at the COP31 talks in Antalya as constructive on Saturday and urged governments to move quickly to the hardest issues, according to Climate Home News and Reuters. A stocktaking plenary chaired by Türkiye and Australia was scheduled for Saturday night as ministers arrived for the final week.\n\nAt least 15 countries have backed a voluntary pledge to lift electricity's share of global final energy use to 35 per cent by 2035, from 23 per cent now, Climate Home reported. African nations are seeking adaptation finance of at least $US120 billion a year by 2035. Civil society groups criticised a draft note on a just transition mechanism, which Chris Bowen called comprehensive.",
+   "keyFacts": [
+    "Australia's Chris Bowen is president of negotiations",
+    "EU negotiator Wopke Hoekstra signalled the EU may drop the word 'clean' from electrification wording",
+    "Brazil's President Lula said Brazil should host the next fossil fuel phase-out conference"
+   ],
+   "sources": [
+    {
+     "name": "Climate Home News",
+     "url": "https://climatechangenews.com/2026/11/14/cop31-bulletin-day-6-limited-progress-as-ministers-arrive-in-antalya"
+    },
+    {
+     "name": "Reuters (via US News)",
+     "url": "https://www.usnews.com/news/world/articles/2026-11-14/un-climate-chief-urges-speed-as-cop31-confronts-fossil-fuel-divide"
+    }
+   ],
+   "publishedAt": "2026-11-14T22:21:00+11:00",
+   "createdAt": "2026-11-15T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-15-alaska-governor-kreiss-tomkins",
+   "batch": "2026-11-15",
+   "rank": 7,
+   "category": "Politics",
+   "title": "Democrat Jonathan Kreiss-Tomkins elected Alaska governor",
+   "summary": "Former state legislator Jonathan Kreiss-Tomkins has been elected governor of Alaska, the first Democrat to win the office since 1998, according to CBS News and the Associated Press. He defeated three Republican candidates, including one endorsed by President Donald Trump, after more than a week of counting.\n\nKreiss-Tomkins, 37, said the state had been poorly served under outgoing Republican Governor Mike Dunleavy, citing ferry service cuts, and pledged a cabinet drawing on Republicans, Democrats and independents. Republican Senator Lisa Murkowski endorsed him a week before polling day. Responses from his Republican opponents were not included in the CBS report.",
+   "keyFacts": [
+    "Alaska voted on 3 November",
+    "Democrats will hold 30 governorships after the midterms, CBS said",
+    "Three former Alaska governors backed Kreiss-Tomkins"
+   ],
+   "sources": [
+    {
+     "name": "CBS News (AP)",
+     "url": "https://www.cbsnews.com/news/alaska-governor-jkt-jonathan-kreiss-tomkins-election/"
+    },
+    {
+     "name": "NBC News",
+     "url": "https://www.nbcnews.com/politics/2026-election/jonathan-kreiss-tomkins-democrat-wins-alaska-governor-race-rcna606558"
+    }
+   ],
+   "publishedAt": "2026-11-14T18:11:00+11:00",
+   "createdAt": "2026-11-15T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-15-alaska-ranked-choice-kept",
+   "batch": "2026-11-15",
+   "rank": 8,
+   "category": "Politics",
+   "title": "Alaska voters reject repeal of ranked-choice voting and open primaries",
+   "summary": "A ballot measure to repeal Alaska's open top-four primaries and ranked-choice general elections has failed, according to an Associated Press call reported by NPR. It is the second time voters have rejected a repeal, after a 2024 measure failed by 743 votes, Alaska Public Media reported.\n\nSupporters of repeal argued the system is confusing, while opponents of repeal said it gives voters more choice, according to Alaska Public Media. The campaign against repeal raised about $10.4 million, compared with about $2.6 million for the repeal side, the outlet reported. Nick Troiano of Unite America said Alaskans had spoken.",
+   "keyFacts": [
+    "The measure was Ballot Measure 2 at the 3 November election",
+    "Elon Musk gave $1.5 million to a group backing repeal, Alaska Public Media said",
+    "The US Senate race has two candidates named Dan Sullivan and may go to ranked tabulation, NPR said"
+   ],
+   "sources": [
+    {
+     "name": "NPR (via YPR)",
+     "url": "https://www.ypradio.org/npr-news/2026-11-14/alaska-voters-arent-ditching-ranked-choice-voting-top-four-primaries"
+    },
+    {
+     "name": "Alaska Public Media",
+     "url": "https://alaskapublic.org/news/politics/elections/2026-11-03/early-results-show-alaskans-rejecting-ranked-choice-voting-repeal"
+    }
+   ],
+   "publishedAt": "2026-11-15T00:08:00+11:00",
+   "createdAt": "2026-11-15T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-15-rabbit-report-card",
+   "batch": "2026-11-15",
+   "rank": 9,
+   "category": "Environment",
+   "title": "Report card finds Australia making no progress on reducing rabbit numbers",
+   "summary": "Australia's rabbit numbers, spread and impacts have remained largely unchanged over five years, according to the government-compiled Vertebrate Pest Management Report Card, AAP reported. Populations have increased in Victoria, Tasmania and the ACT, and environmental damage is worsening in NSW and Tasmania.\n\nExperts estimate there are about 200 million rabbits nationally, threatening 322 listed species and causing more than $200 million a year in farm losses, AAP said. The federal Established Pest Animals and Weeds program had no ongoing funding in the last budget, with a decision due next year. Reece Pianta of the Invasive Species Council said funding cuts were allowing populations to spread. A government response was not reported.",
+   "keyFacts": [
+    "Rabbits are becoming resistant to the haemorrhagic disease virus released almost a decade ago",
+    "The government funded $2.6 million for new biocontrol research this year",
+    "Rabbits were released in Victoria in 1859"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/australia-failing-to-bring-rabbits-under-control"
+    }
+   ],
+   "publishedAt": "2026-11-15T05:45:00+11:00",
+   "createdAt": "2026-11-15T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-15-rheumatic-heart-disease-declaration",
+   "batch": "2026-11-15",
+   "rank": 10,
+   "category": "Health",
+   "title": "Health leaders back 2040 goal to end rheumatic heart disease as Australia faces criticism",
+   "summary": "Global health leaders have backed a Perth Declaration aiming to eliminate rheumatic heart disease and acute rheumatic fever by 2040, the ABC reported. Experts said Australia appears willing to tolerate some of the world's highest rates of the disease, mainly among First Nations people.\n\nAbout 12,000 people in Australia live with the disease or have a history of rheumatic fever, and First Nations people make up four in five cases, according to the ABC. World Heart Federation president Jagat Narula said Australia had committed only a small part of the $689 million needed for its national strategy. The federal government said it is investing $95.8 million, and Assistant Minister Rebecca White pointed to housing and sanitation work.",
+   "keyFacts": [
+    "First Nations people die from the disease at more than five times the non-Indigenous rate",
+    "Australia's national Endgame Strategy targets 2031",
+    "Acute rheumatic fever can be treated with penicillin, a Heart Foundation adviser said"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-15/australia-criticised-over-indigenous-rheumatic-heart-disease/107377218"
+    }
+   ],
+   "publishedAt": "2026-11-15T06:01:00+11:00",
+   "createdAt": "2026-11-15T06:55:00+11:00"
   }
  ],
  "leftOut": [
@@ -3529,6 +3771,260 @@
    "publishedAt": "2026-11-14T06:00:00+11:00",
    "createdAt": "2026-11-14T17:53:55+11:00",
    "reason": "Local crime"
+  },
+  {
+   "id": "2026-11-15-lo-greens-jet-fuel",
+   "batch": "2026-11-15",
+   "rank": 1,
+   "category": "Politics",
+   "title": "Greens seek end to fuel tax concession for private jets",
+   "summary": "The Greens want parliament to end the lower excise rate on fuel used by private aircraft, with leader David Shoebridge citing Parliamentary Budget Office costings, AAP reported. The PBO estimated the change would raise $640 million in 2027 and $1.5 billion over the forward estimates.\n\nShoebridge said motorists pay 53.7 cents a litre in fuel tax compared with about 3.6 cents for jet owners, according to AAP. He named several high-profile jet owners as beneficiaries. The government's response was not included in the AAP report.",
+   "keyFacts": [
+    "The proposal uses PBO costings",
+    "Shoebridge said drivers pay almost 15 times more tax per litre",
+    "The story was published before this update window"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/greens-call-for-an-end-to-jet-fuel-tax-breaks-for-rich"
+    }
+   ],
+   "publishedAt": "2026-11-14T12:40:00+11:00",
+   "createdAt": "2026-11-15T06:55:00+11:00",
+   "reason": "Outside today's window"
+  },
+  {
+   "id": "2026-11-15-lo-seq-storm-claims",
+   "batch": "2026-11-15",
+   "rank": 2,
+   "category": "Australia",
+   "title": "Insurers receive more than 2,700 claims after storms in Queensland and NSW",
+   "summary": "Insurers have received more than 2,700 claims after supercell storms hit south-east Queensland and northern NSW on Wednesday, the Insurance Council of Australia said, according to AAP. About 2,400 claims came from Queensland, and about 300 related to food spoiled during power cuts.\n\nAbout 25,000 homes lost power on Thursday, and the SES received more than 300 calls, most in Logan, AAP reported. The Bureau of Meteorology warned of further storms and possible flash flooding over the weekend. Insurance Council chief Andrew Hall urged policyholders to keep receipts.",
+   "keyFacts": [
+    "Gusts reached up to 120km/h in Logan",
+    "More than 20 schools were closed",
+    "The Darling Downs recorded 124mm in two hours"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/roads-and-power-cut-as-region-reels-from-wild-weather"
+    }
+   ],
+   "publishedAt": "2026-11-14T15:40:00+11:00",
+   "createdAt": "2026-11-15T06:55:00+11:00",
+   "reason": "Outside today's window"
+  },
+  {
+   "id": "2026-11-15-lo-small-business-prices",
+   "batch": "2026-11-15",
+   "rank": 3,
+   "category": "Economy",
+   "title": "Data show more small businesses raising prices after card surcharge ban",
+   "summary": "A growing share of small businesses that previously added card surcharges have raised prices since the ban took effect on 1 October, according to payments company Tyro, AAP reported. Tyro's Nigel Lee said the share rose from 9.4 per cent in the first week to 12.4 per cent three weeks later.\n\nOf those businesses, 61 per cent lifted prices by more than the old surcharge, Lee said. He expected more increases before the end of the year as rent, power, wage and interest costs rise. The ban is expected to save consumers about $1 billion over time.",
+   "keyFacts": [
+    "Data cover 65,000 Tyro retail, hospitality and services clients",
+    "The surcharge ban began on 1 October",
+    "The report was published before this update window"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/price-rises-coming-as-small-businesses-juggle-costs"
+    }
+   ],
+   "publishedAt": "2026-11-13T12:00:00+11:00",
+   "createdAt": "2026-11-15T06:55:00+11:00",
+   "reason": "Outside today's window"
+  },
+  {
+   "id": "2026-11-15-lo-children-check-database",
+   "batch": "2026-11-15",
+   "rank": 4,
+   "category": "Australia",
+   "title": "National working with children check database expands as SA joins",
+   "summary": "A national system that tracks criminal records of Working With Children Check holders in near real time is expanding, with South Australia joining from Monday, AAP reported. The pilot already covers Commonwealth and ACT offences, but full coverage across all jurisdictions is not expected until 2028.\n\nAttorney-General Michelle Rowland blamed differences between state systems for the timeline and said the government wanted to beat it. The 2015 royal commission into institutional child sexual abuse recommended a central database. The federal government has invested $37 million, and all jurisdictions have confirmed they will join.",
+   "keyFacts": [
+    "The system is called the National Continuous Checking Capability",
+    "States must opt in, with no deadline",
+    "The report was published before this update window"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/children-check-database-comes-decade-after-call"
+    }
+   ],
+   "publishedAt": "2026-11-13T09:11:00+11:00",
+   "createdAt": "2026-11-15T06:55:00+11:00",
+   "reason": "Outside today's window"
+  },
+  {
+   "id": "2026-11-15-lo-david-jones-retail-pain",
+   "batch": "2026-11-15",
+   "rank": 5,
+   "category": "Business",
+   "title": "Equifax data point to rising business exits as David Jones closes stores",
+   "summary": "Business exits rose 41.3 per cent year on year in the September quarter while new business entries fell more than 15 per cent, according to Equifax data reported by AAP alongside the David Jones collapse. Active tax defaults rose 25 per cent, the data showed.\n\nEquifax's Brad Walters said smaller operators were borrowing to cover immediate overheads. David Jones entered administration and receivership on 5 November and plans to close 19 of its 38 stores. Retail groups forecast $7.2 billion in Black Friday and pre-Christmas spending.",
+   "keyFacts": [
+    "Business-level insolvencies rose almost 17 per cent",
+    "Hospitality insolvencies eased 7 per cent",
+    "The piece is an analysis of retail conditions"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/david-jones-collapse-hints-at-spreading-retail-pain"
+    }
+   ],
+   "publishedAt": "2026-11-13T19:00:00+11:00",
+   "createdAt": "2026-11-15T06:55:00+11:00",
+   "reason": "Commentary"
+  },
+  {
+   "id": "2026-11-15-lo-rukaj-arrest",
+   "batch": "2026-11-15",
+   "rank": 6,
+   "category": "Other",
+   "title": "Man who escaped custody at Melbourne funeral arrested in far north Queensland",
+   "summary": "Orijol Rukaj, 47, who escaped Corrections Victoria supervision during a visit to a Melbourne cemetery for his brother's funeral in April, has been arrested in Bamaga in far north Queensland, AAP reported. He had been on remand on drug importation charges.\n\nVictoria Police said he would be extradited to Victoria within days, according to AAP. Police did not say how he travelled interstate. Officers have identified several overseas-based people they believe helped him escape. He has not yet faced the original charges in court.",
+   "keyFacts": [
+    "Rukaj was on the run for about six months",
+    "He was arrested on Friday",
+    "Police earlier said he was unlikely to pose a risk to community safety"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/fugitive-arrested-after-six-months-on-the-run"
+    }
+   ],
+   "publishedAt": "2026-11-14T08:00:00+11:00",
+   "createdAt": "2026-11-15T06:55:00+11:00",
+   "reason": "Local crime"
+  },
+  {
+   "id": "2026-11-15-lo-massie-iran-war-powers",
+   "batch": "2026-11-15",
+   "rank": 7,
+   "category": "World",
+   "title": "Massie seeks Republican support for fourth House vote on Iran war powers",
+   "summary": "Republican congressman Thomas Massie told Fox News Digital that a new resolution to limit President Donald Trump's military action against Iran could reach the House floor within the next few legislative days or around Christmas. It would be the fourth such attempt this year.\n\nRepublican Tom Barrett, who backed an earlier resolution, said he doubted more Republicans would join, according to Fox News, while Republican Jeff Van Drew said one or two might. Armed Services chair Mike Rogers will oppose it. No vote has been scheduled.",
+   "keyFacts": [
+    "Earlier resolutions passed the House with some Republican votes",
+    "Massie is from Kentucky",
+    "No date has been set for a vote"
+   ],
+   "sources": [
+    {
+     "name": "Fox News",
+     "url": "https://www.foxnews.com/politics/anti-trump-republican-courts-other-defectors-house-weighs-another-vote-against-iran-war"
+    }
+   ],
+   "publishedAt": "2026-11-15T01:00:00+11:00",
+   "createdAt": "2026-11-15T06:55:00+11:00",
+   "reason": "Not yet confirmed"
+  },
+  {
+   "id": "2026-11-15-lo-brennan-son-charged",
+   "batch": "2026-11-15",
+   "rank": 8,
+   "category": "Other",
+   "title": "Son of former CIA director John Brennan charged over child abuse images",
+   "summary": "Kyle Brennan, 40, the son of former CIA director John Brennan, has been charged in a federal complaint with transporting child sexual abuse material, Fox News reported. The case began with tips to the National Center for Missing and Exploited Children in 2024, according to the report.\n\nAn FBI analysis of his phone allegedly found about 88 images, Fox News said, citing court documents. The allegations have not been tested in court. Responses from Brennan's lawyer, the Justice Department and the FBI were not included in the report.",
+   "keyFacts": [
+    "The FBI's Washington field office is involved",
+    "Records tied uploads to an address in Warrenton, Virginia, Fox said",
+    "He was due to appear in federal court on Saturday US time"
+   ],
+   "sources": [
+    {
+     "name": "Fox News",
+     "url": "https://www.foxnews.com/politics/former-cia-director-john-brennans-son-arrested-after-fbi-uncovers-dozens-alleged-child-porn-images"
+    }
+   ],
+   "publishedAt": "2026-11-14T07:36:00+11:00",
+   "createdAt": "2026-11-15T06:55:00+11:00",
+   "reason": "Local crime"
+  },
+  {
+   "id": "2026-11-15-lo-menhaden-catch-cut",
+   "batch": "2026-11-15",
+   "rank": 9,
+   "category": "Environment",
+   "title": "US Atlantic regulator cuts menhaden catch limits for 2027 and 2028",
+   "summary": "The Atlantic States Marine Fisheries Commission has voted to cut the East Coast menhaden catch limit by 9 per cent in 2027 and 17 per cent in 2028, adopting a compromise proposed by Maine, according to the Maine Monitor and the Associated Press. The limit falls from 186,840 tonnes in 2026 to 155,000 tonnes in 2028.\n\nThe commission also cut the Chesapeake Bay harvest cap by about a third, the Baltimore Banner reported. More than 48,000 public comments were received, most favouring a deeper cut. Fishing industry groups opposed the cap, while conservation groups said it did not go far enough.",
+   "keyFacts": [
+    "Menhaden are a key food for striped bass and ospreys",
+    "Virginia's delegation opposed the bay cap",
+    "The vote was held earlier in the week"
+   ],
+   "sources": [
+    {
+     "name": "AP (via WRAL)",
+     "url": "https://www.wral.com/news/ap/e6630-fisheries-regulator-cuts-menhaden-catch-limit-adopting-uneasy-compromise-proposed-by-maine/"
+    },
+    {
+     "name": "Baltimore Banner",
+     "url": "https://www.thebanner.com/community/climate-environment/chesapeake-bay-menhaden-V5IZ5OWJNRF67EZPW234LOVONY/"
+    }
+   ],
+   "publishedAt": "2026-11-14T07:13:00+11:00",
+   "createdAt": "2026-11-15T06:55:00+11:00",
+   "reason": "Outside today's window"
+  },
+  {
+   "id": "2026-11-15-lo-scotus-apa-judges",
+   "batch": "2026-11-15",
+   "rank": 10,
+   "category": "World",
+   "title": "Trump administration asks Supreme Court to limit judges' power to void rules nationwide",
+   "summary": "The US Justice Department has asked the Supreme Court to restrict courts' power under the Administrative Procedure Act to set aside federal rules for everyone rather than only for the parties to a case, Reuters reported in an analysis. The appeal stems from a challenge by Texas medical providers to federal surprise-billing rules.\n\nThe administration argues relief should be limited to plaintiffs, while Republican-led states including Texas and Florida say the law is a key check on federal overreach, according to Reuters. The court is expected to decide early next year whether to hear the case.",
+   "keyFacts": [
+    "The 5th Circuit voided parts of the billing rule nationwide in August",
+    "A 2025 ruling limited universal injunctions but not this issue",
+    "The piece is a Reuters analysis"
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via Yahoo News)",
+     "url": "https://www.yahoo.com/news/politics/articles/supreme-court-trump-aims-cut-110219994.html"
+    },
+    {
+     "name": "Reuters (via Arab News)",
+     "url": "https://www.arabnews.com/world/at-the-supreme-court-trump-aims-to-cut-the-power-of-judges-again-3011892"
+    }
+   ],
+   "publishedAt": "2026-11-14T22:02:00+11:00",
+   "createdAt": "2026-11-15T06:55:00+11:00",
+   "reason": "Commentary"
+  },
+  {
+   "id": "2026-11-15-lo-new-orleans-collision",
+   "batch": "2026-11-15",
+   "rank": 11,
+   "category": "World",
+   "title": "All accounted for after tanker strikes river cruise boat in New Orleans",
+   "summary": "Everyone aboard the American Heritage river cruise boat was accounted for after a tanker struck it on the Mississippi River near the Port of New Orleans on Friday, city officials said, according to ABC News in the US. Officials said nearly 200 people were aboard.\n\nAbout 30 passengers and two crew who ended up in the water were taken to hospital with non-critical injuries, ABC News reported. Coast Guard Captain Melanie Burnham said the tanker appeared to have lost steering. The National Transportation Safety Board sent investigators, and part of the river was closed.",
+   "keyFacts": [
+    "The collision happened about 12:30pm local time",
+    "The tanker was the Atlantic Asphalt",
+    "The boat appeared to be docked when struck, CBS said"
+   ],
+   "sources": [
+    {
+     "name": "ABC News (US)",
+     "url": "https://abcnews.com/US/vessel-collision-port-new-orleans-emergency-crews-responding/story?id=138119847"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/news/tanker-cruise-collision-mississippi-river-new-orleans/"
+    }
+   ],
+   "publishedAt": "2026-11-14T05:30:00+11:00",
+   "createdAt": "2026-11-15T06:55:00+11:00",
+   "reason": "Outside today's window"
   }
  ]
 }
