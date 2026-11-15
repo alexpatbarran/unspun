@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15T06:55:00+11:00",
+ "updatedAt": "2026-11-15T17:50:00+11:00",
  "articles": [
   {
    "id": "2026-11-12-mississippi-senate",
@@ -2647,6 +2647,272 @@
    ],
    "publishedAt": "2026-11-15T06:01:00+11:00",
    "createdAt": "2026-11-15T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-15-australia-philippines-dca-signed",
+   "batch": "2026-11-15-pm",
+   "rank": 1,
+   "category": "Australia",
+   "title": "Australia and the Philippines sign updated defence cooperation agreement",
+   "summary": "Australia and the Philippines have signed a defence cooperation agreement in Manila during Prime Minister Anthony Albanese's visit, according to the Manila Times and Rappler. The deal updates a defence arrangement between the two countries that dates from 1995.\n\nRappler and other outlets reported the updated agreement is meant to speed up coordination between the two militaries, including for disaster response. Bloomberg, via the Japan Times, reported the upgrade comes as both countries focus on China's activity in the region. Mr Albanese travels on to the ASEAN summit, where US President Donald Trump is due to attend, AAP reported. Beijing's response was not reported in the sources reviewed.",
+   "keyFacts": [
+    "The agreement updates a 1995 defence arrangement",
+    "It was signed in Manila on 15 November",
+    "The signing was flagged by both governments on 14 November"
+   ],
+   "sources": [
+    {
+     "name": "The Manila Times",
+     "url": "https://www.manilatimes.net/2026/11/15/news/ph-australia-sign-defense-cooperation/2470199"
+    },
+    {
+     "name": "Rappler",
+     "url": "https://www.rappler.com/philippines/australia-defense-cooperation-arrangement-signing-november-2026/"
+    },
+    {
+     "name": "The Japan Times (Bloomberg)",
+     "url": "https://www.japantimes.co.jp/news/2026/11/15/asia-pacific/australia-philippines-defense-upgrade-china/"
+    }
+   ],
+   "publishedAt": "2026-11-15T15:00:00+11:00",
+   "createdAt": "2026-11-15T17:50:00+11:00"
+  },
+  {
+   "id": "2026-11-15-hormuz-three-tankers-fire",
+   "batch": "2026-11-15-pm",
+   "rank": 2,
+   "category": "World",
+   "title": "Iran's navy says three oil tankers hit mines in Hormuz and are on fire",
+   "summary": "Iran's navy has said three oil tankers struck naval mines in the Strait of Hormuz and caught fire, according to Arab News, Middle East Eye and the Manila Times. A day earlier, Iran's Revolutionary Guards had said two oil tankers hit mines in the strait.\n\nThe vessels' names, flags and any casualties were not independently confirmed in the reports reviewed. The incidents follow a series of attacks and explosions involving ships in and near the strait in recent days, which Iran has linked to ships ignoring its warnings. The United Nations said on Saturday at least 25 seafarers had been killed around the strait since February.",
+   "keyFacts": [
+    "Iran says three tankers hit naval mines",
+    "Iran says the ships caught fire",
+    "The claims have not been independently verified"
+   ],
+   "sources": [
+    {
+     "name": "Arab News",
+     "url": "https://www.arabnews.com/middle-east/iran-reports-three-incidents-of-oil-tankers-hit-by-mines-in-hormuz-3011782"
+    },
+    {
+     "name": "Middle East Eye",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-three-tankers-hit-mines-hormuz-fire"
+    }
+   ],
+   "publishedAt": "2026-11-15T11:30:00+11:00",
+   "createdAt": "2026-11-15T17:50:00+11:00"
+  },
+  {
+   "id": "2026-11-15-gaza-hamas-commander-killed",
+   "batch": "2026-11-15-pm",
+   "rank": 3,
+   "category": "World",
+   "title": "Israeli air strike kills senior Hamas commander in southern Gaza",
+   "summary": "An Israeli air strike has killed a senior commander in Hamas's armed wing in southern Gaza, Al Jazeera reported. The Israeli military said it targeted a senior member of the group's military wing, according to Arab News and the Times of Israel.\n\nIndian and regional outlets reported that Hamas confirmed the death of a Rafah-area commander, though the identity was not confirmed across the sources reviewed. The strike follows other Israeli strikes in Gaza this week, including one on Nasser Hospital that the Gaza health ministry said killed six people. Israel's military says it targets militants. Casualty figures from Sunday's strike were not confirmed in the reports reviewed.",
+   "keyFacts": [
+    "The strike was in southern Gaza",
+    "Israel's military says it targeted a senior Hamas military figure",
+    "It follows deadly strikes earlier in the week"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza"
+    },
+    {
+     "name": "Arab News",
+     "url": "https://www.arabnews.com/middle-east/israeli-military-says-it-struck-senior-armed-hamas-commander-3011955"
+    },
+    {
+     "name": "The Times of Israel",
+     "url": "https://timesofisrael.com/liveblog_entry/idf-says-senior-terrorist-in-hamass-military-wing-targeted-in-gaza-strike"
+    }
+   ],
+   "publishedAt": "2026-11-15T12:00:00+11:00",
+   "createdAt": "2026-11-15T17:50:00+11:00"
+  },
+  {
+   "id": "2026-11-15-riyadh-missiles-intercepted",
+   "batch": "2026-11-15-pm",
+   "rank": 4,
+   "category": "World",
+   "title": "Saudi-led coalition says it intercepted missiles and drones aimed at Riyadh",
+   "summary": "The Saudi-led coalition has said it intercepted two missiles and two drones over Riyadh, according to Al Jazeera. Arab News and Pakistan's Express Tribune reported the coalition also said it brought down drones over the kingdom's Eastern Province.\n\nThe coalition attributed the attacks to Yemen's Houthi movement, Arab News reported. Damage or casualties were not reported in the sources reviewed. The Houthis said on Saturday they had fired missiles at Saudi forces in Jazan, as fighting between the two sides has intensified over the past week. Al Jazeera's live coverage reported further drone interceptions later in the day.",
+   "keyFacts": [
+    "Two missiles and two drones were intercepted over Riyadh, the coalition says",
+    "Drones were also downed over the Eastern Province",
+    "The coalition blames the Houthis"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh"
+    },
+    {
+     "name": "Arab News",
+     "url": "https://www.arabnews.com/saudi-arabia/coalition-forces-intercept-2-houthi-missiles-targeting-riyadh-3-drones-in-eastern-province-3011963"
+    },
+    {
+     "name": "The Express Tribune",
+     "url": "https://tribune.com.pk/story/2640417/saudi-led-coalition-intercepts-missiles-towards-riyadh-drones-in-eastern-province"
+    }
+   ],
+   "publishedAt": "2026-11-15T14:00:00+11:00",
+   "createdAt": "2026-11-15T17:50:00+11:00"
+  },
+  {
+   "id": "2026-11-15-iraq-oil-smuggling-sackings",
+   "batch": "2026-11-15-pm",
+   "rank": 5,
+   "category": "World",
+   "title": "Iraq's prime minister sacks nine officials over alleged oil smuggling",
+   "summary": "Iraq's prime minister has dismissed nine officials over alleged oil smuggling in an area regarded as a stronghold of pro-Iran armed groups, according to Al Jazeera, The New Arab and Arab News.\n\nAl Jazeera reported the probe concerns smuggling worth about $US30 million. Al Jazeera described the area as a stronghold of a powerful militia. The officials' names and the specific allegations against them were not detailed in the sources reviewed, and responses from the dismissed officials or the armed groups were not reported. The dismissals were announced on Saturday, local time, according to the reports.",
+   "keyFacts": [
+    "Nine officials were dismissed",
+    "The alleged smuggling was in a pro-Iran group stronghold",
+    "Al Jazeera put the smuggling at about $US30 million"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/15/iraq-pm-sacks-nine-officials-over-oil-smuggling-in-pro-iran-stronghold"
+    },
+    {
+     "name": "The New Arab",
+     "url": "https://www.newarab.com/news/iraq-pm-sacks-officials-over-oil-smuggling-pro-iran-group-bastion"
+    },
+    {
+     "name": "Arab News",
+     "url": "https://www.arabnews.com/middle-east/iraq-pm-sacks-officials-over-oil-smuggling-in-pro-iran-group-bastion-3011926"
+    }
+   ],
+   "publishedAt": "2026-11-15T08:00:00+11:00",
+   "createdAt": "2026-11-15T17:50:00+11:00"
+  },
+  {
+   "id": "2026-11-15-vic-labor-surgery-pledge",
+   "batch": "2026-11-15-pm",
+   "rank": 6,
+   "category": "Politics",
+   "title": "Victorian Labor makes $1 billion surgery plan centrepiece of campaign launch",
+   "summary": "Victorian Labor has made a plan to spend about $1 billion on surgery the main announcement of its state election campaign launch, AAP reported. Premier Jacinta Allan presented the pledge at the party's launch in Melbourne on Sunday, according to AAP and the ABC.\n\nThe ABC reported both major parties held launches on the same day, with Labor focused on health and the Coalition on youth crime. Deputy Premier Ben Carroll also addressed the Labor launch, according to reports. Full costings and timelines for the surgery plan were not detailed in the reports reviewed, and the Coalition's response to the pledge was not reported. Victorians vote on 28 November, and Labor has governed the state since 2014.",
+   "keyFacts": [
+    "The surgery pledge is worth about $1 billion",
+    "It was announced at Labor's campaign launch",
+    "Both major parties launched their campaigns on 15 November"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/bootcamp-plan-for-youth-unveiled-for-election-launch"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-15/labor-liberal-coalition-campaign-launches-health-youth-crime/107387220"
+    }
+   ],
+   "publishedAt": "2026-11-15T13:00:00+11:00",
+   "createdAt": "2026-11-15T17:50:00+11:00"
+  },
+  {
+   "id": "2026-11-15-vic-coalition-youth-bootcamp",
+   "batch": "2026-11-15-pm",
+   "rank": 7,
+   "category": "Politics",
+   "title": "Victorian Coalition pledges regional bootcamp prison for young offenders",
+   "summary": "Victorian Opposition Leader Jess Wilson has announced a Coalition plan for a regional bootcamp-style prison for young offenders, the ABC reported. The facility would be at Dhurringile in northern Victoria, according to the ABC, and the plan was unveiled at the Coalition's campaign launch on Sunday.\n\nAAP reported the bootcamp was a central announcement of the Liberal launch. Ms Wilson said she was taking nothing for granted, according to reports of the launch. Details of cost, capacity and opening date were not set out in the reports reviewed, and Labor's response to the plan was not reported. Victorians vote on 28 November.",
+   "keyFacts": [
+    "The site proposed is Dhurringile",
+    "The plan targets young offenders",
+    "It was announced at the Coalition's campaign launch"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-15/dhurringile-liberals-jess-wilson-crime-bootcamp/107387262"
+    },
+    {
+     "name": "AAP (via Newcastle Herald)",
+     "url": "https://www.newcastleherald.com.au/story/9391716/bootcamp-plan-for-youth-unveiled-for-election-launch/"
+    }
+   ],
+   "publishedAt": "2026-11-15T13:00:00+11:00",
+   "createdAt": "2026-11-15T17:50:00+11:00"
+  },
+  {
+   "id": "2026-11-15-starship-ship-caught",
+   "batch": "2026-11-15-pm",
+   "rank": 8,
+   "category": "Science & Tech",
+   "title": "SpaceX catches Starship upper stage at launch tower for the first time",
+   "summary": "SpaceX has caught the Starship spacecraft with its launch tower's mechanical arms after a flight around Earth, the first time it has recovered the vehicle's upper stage this way, according to Al Jazeera, the ABC and Space.com. The 15th Starship test flight launched from Starbase in Texas.\n\nThe Statesman and other outlets reported the ship completed about 14 orbits before returning. SpaceX has previously caught the Super Heavy booster with the tower, but earlier upper stages splashed down or were lost. The company says catching both stages is key to making the rocket fully reusable, which NASA is relying on for its planned crewed Moon landings.",
+   "keyFacts": [
+    "It was Starship's 15th test flight",
+    "The upper stage was caught by the tower's arms",
+    "SpaceX had previously caught only the booster"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-15/spacex-rocket-returns-to-launch-pad-after-orbitting-earth/107387168"
+    },
+    {
+     "name": "Space.com",
+     "url": "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-14-2026-starship-first-double-landing-attempt"
+    }
+   ],
+   "publishedAt": "2026-11-15T09:00:00+11:00",
+   "createdAt": "2026-11-15T17:50:00+11:00"
+  },
+  {
+   "id": "2026-11-15-netanyahu-unity-government-call",
+   "batch": "2026-11-15-pm",
+   "rank": 9,
+   "category": "World",
+   "title": "Netanyahu calls for unity government with Eisenkot, citing Iran threat",
+   "summary": "Israeli Prime Minister Benjamin Netanyahu has urged opposition figure Gadi Eisenkot to negotiate a national unity government, saying only a broad coalition could deal with Iran's nuclear threat, according to Xinhua and JNS. JNS reported he called for talks without preconditions.\n\nIsrael's new parliament was sworn in last week with no bloc holding a majority. Mr Eisenkot has said Likud must break with far-right partners and accept his principles before joining any government, Ynet reported. Mr Netanyahu's coalition partners and opposition parties have both objected to the unity proposal, according to i24 News. No agreement has been announced.",
+   "keyFacts": [
+    "Netanyahu called for unity talks without preconditions",
+    "He cited the threat from Iran's nuclear program",
+    "No bloc holds a Knesset majority"
+   ],
+   "sources": [
+    {
+     "name": "Xinhua",
+     "url": "https://english.news.cn/20261115/50b67a2bb9f744f88eb473e4c651d67a/c.html"
+    },
+    {
+     "name": "JNS",
+     "url": "https://www.jns.org/news/israel-news/netanyahu-urges-eisenkot-to-negotiate-unity-government-without-preconditions"
+    }
+   ],
+   "publishedAt": "2026-11-15T09:00:00+11:00",
+   "createdAt": "2026-11-15T17:50:00+11:00"
+  },
+  {
+   "id": "2026-11-15-auction-clearance-low",
+   "batch": "2026-11-15-pm",
+   "rank": 10,
+   "category": "Economy",
+   "title": "Home auction clearance rates fall to fresh low, AAP reports",
+   "summary": "Home auction clearance rates fell to a fresh low at the weekend as fewer buyers bid, AAP reported on Sunday. The report was based on preliminary results, which showed a smaller share of homes offered at auction selling than in previous weeks.\n\nFinal results are usually higher than preliminary figures once late reports are counted. The weaker results follow ABS data last week showing new home loan commitments fell 15 per cent in the September quarter, the largest drop on record. MacroBusiness also reported the auction market had reached a new low this month.",
+   "keyFacts": [
+    "AAP says clearance rates hit a fresh low",
+    "Figures are preliminary",
+    "New home lending fell 15 per cent in the September quarter, the ABS said"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/auctions-slump-to-fresh-low-as-home-buyers-walk-away"
+    }
+   ],
+   "publishedAt": "2026-11-15T10:00:00+11:00",
+   "createdAt": "2026-11-15T17:50:00+11:00"
   }
  ],
  "leftOut": [
@@ -3659,54 +3925,6 @@
    "reason": "Commentary"
   },
   {
-   "id": "2026-11-14-lo-lebanon-explosives-truck",
-   "batch": "2026-11-14-pm",
-   "rank": 4,
-   "category": "World",
-   "title": "Lebanon promised investigation after truck carrying explosives was seized",
-   "summary": "Lebanon's Prime Minister Nawaf Salam said in October that authorities would pursue suspected Hezbollah members linked to a truck carrying explosives that was stopped at the Dahr al-Baidar checkpoint, AP reported via The Times of Israel. He called it a criminal operation.\n\nJudicial officials told AP the truck carried about 780 kilograms of explosives. Two people were detained and referred to judicial authorities, and they said they had only been told to move the load from Baalbek to Beirut. Hezbollah declined to comment, according to AP.",
-   "keyFacts": [
-    "About 780kg of explosives seized",
-    "Two detainees referred to judiciary",
-    "Hezbollah declined to comment"
-   ],
-   "sources": [
-    {
-     "name": "AP (via The Times of Israel)",
-     "url": "https://www.timesofisrael.com/lebanon-vows-probe-after-security-forces-seize-truck-packed-with-explosives/"
-    }
-   ],
-   "publishedAt": "2026-10-13T02:45:00+11:00",
-   "createdAt": "2026-11-14T17:53:55+11:00",
-   "reason": "Outside today's window"
-  },
-  {
-   "id": "2026-11-14-lo-israel-soldiers-hezbollah",
-   "batch": "2026-11-14-pm",
-   "rank": 5,
-   "category": "World",
-   "title": "Israel said three soldiers were wounded in attack it blamed on Hezbollah",
-   "summary": "The Israeli military said in August that three soldiers were seriously wounded in an attack near the Lebanese border that it attributed to Hezbollah and described as a ceasefire violation, Anadolu Agency reported via Yeni Şafak. Netanyahu's office made a similar statement, LBCI reported.\n\nIsrael then struck what it called a Hezbollah headquarters in Ansar and said it killed a Radwan Force commander. Lebanese health ministry figures cited in the report said Israeli strikes killed 11 people in southern Lebanon. Hezbollah blamed the escalation on Israeli domestic politics.",
-   "keyFacts": [
-    "Three soldiers seriously wounded, Israel says",
-    "Israel struck site in Ansar",
-    "Hezbollah blamed Israeli politics"
-   ],
-   "sources": [
-    {
-     "name": "Anadolu Agency (via Yeni Şafak)",
-     "url": "https://en.yenisafak.com/world/israel-says-3-soldiers-wounded-in-hezbollah-attack-3721948"
-    },
-    {
-     "name": "LBCI",
-     "url": "https://v7cdn.lbcgroup.tv/news/lebanon-news/952692/netanyahus-office-says-hezbollah-attack-wounded-three-israeli-soldiers/en"
-    }
-   ],
-   "publishedAt": "2026-08-15T16:55:00+10:00",
-   "createdAt": "2026-11-14T17:53:55+11:00",
-   "reason": "Outside today's window"
-  },
-  {
    "id": "2026-11-14-lo-albanese-bowen-hot-mic",
    "batch": "2026-11-14-pm",
    "rank": 6,
@@ -4025,6 +4243,220 @@
    "publishedAt": "2026-11-14T05:30:00+11:00",
    "createdAt": "2026-11-15T06:55:00+11:00",
    "reason": "Outside today's window"
+  },
+  {
+   "id": "2026-11-15-lo-lambie-means-testing",
+   "batch": "2026-11-15-pm",
+   "rank": 1,
+   "category": "Politics",
+   "title": "Lambie says government should consider means testing childcare and EV subsidies",
+   "summary": "Tasmanian senator Jacqui Lambie has said the federal government should consider means testing childcare subsidies and electric vehicle incentives, the ABC reported. She made the comments as debate continues over the budget position and spending on household support.\n\nThe government has defended its childcare reforms as giving families access to subsidised care, and has already moved to limit some tax benefits for electric vehicles from 2027. The Coalition has also questioned the cost of universal childcare. Senator Lambie's comments are a call for policy change rather than a decision, and the government has not indicated it will adopt her proposals.",
+   "keyFacts": [
+    "Lambie raised means testing for childcare subsidies",
+    "She also raised means testing EV incentives",
+    "The government has not adopted the idea"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-15/jacqui-lambie-childcare-subsidy-cuts/107387182"
+    }
+   ],
+   "publishedAt": "2026-11-15T08:00:00+11:00",
+   "createdAt": "2026-11-15T17:50:00+11:00",
+   "reason": "Commentary"
+  },
+  {
+   "id": "2026-11-15-lo-ettalong-lightning",
+   "batch": "2026-11-15-pm",
+   "rank": 2,
+   "category": "Australia",
+   "title": "Man in critical condition after lightning strike at Ettalong Beach",
+   "summary": "A man is in a critical condition after being struck by lightning at Ettalong Beach on the NSW Central Coast, the ABC reported. AAP reported the man was swimming when he was hit, and forecasters warned of further storm risk.\n\nAAP described the event as \"blue sky lightning\", which can strike some distance from a storm. The man was taken to hospital, according to the ABC. Authorities advise people to leave beaches and water when thunder is heard. Further thunderstorms were forecast for parts of NSW and Queensland after storms earlier in the week cut power to tens of thousands of homes.",
+   "keyFacts": [
+    "The man was struck at Ettalong Beach",
+    "He is in a critical condition",
+    "More storms were forecast"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-15/ettalong-lightning-strike-man-in-critical-condition/107387304"
+    },
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/blue-sky-lightning-new-storm-risk-after-swimmer-hit"
+    }
+   ],
+   "publishedAt": "2026-11-15T12:00:00+11:00",
+   "createdAt": "2026-11-15T17:50:00+11:00",
+   "reason": "Human interest"
+  },
+  {
+   "id": "2026-11-15-lo-western-arthur-rescue",
+   "batch": "2026-11-15-pm",
+   "rank": 3,
+   "category": "Australia",
+   "title": "Two bushwalkers rescued from Western Arthur Range in Tasmania",
+   "summary": "Two bushwalkers have been rescued from the Western Arthur Range in Tasmania's south-west, the ABC reported. The range is a remote and rugged part of the Tasmanian Wilderness World Heritage Area.\n\nThe ABC reported the pair were rescued on Sunday. The circumstances that led to the rescue and the condition of the walkers were not detailed beyond the ABC's report. Tasmania Police regularly urge walkers in remote areas to carry a personal locator beacon, register their plans and check weather forecasts before setting out, as conditions in the south-west can change quickly.",
+   "keyFacts": [
+    "Two walkers were rescued",
+    "The rescue was in the Western Arthur Range",
+    "The area is in Tasmania's south-west"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-15/bushwalkers-rescued-from-western-arthur-range-tasmania/107387554"
+    }
+   ],
+   "publishedAt": "2026-11-15T11:00:00+11:00",
+   "createdAt": "2026-11-15T17:50:00+11:00",
+   "reason": "Human interest"
+  },
+  {
+   "id": "2026-11-15-lo-eurovision-asia",
+   "batch": "2026-11-15-pm",
+   "rank": 4,
+   "category": "Other",
+   "title": "Philippines wins first Eurovision Asia song contest in Bangkok",
+   "summary": "The Philippines has won the inaugural Eurovision Asia song contest, held in Bangkok, Thailand, the ABC reported. The event is an Asian spin-off of the long-running European music competition.\n\nThe ABC reported the contest debuted in Bangkok this weekend with entrants from countries across Asia and the Pacific. Australia has competed in the European contest since 2015. Organisers have presented the Asian contest as a way to bring the Eurovision format to new audiences in the region, and the ABC reported the debut event drew entrants from a range of countries.",
+   "keyFacts": [
+    "The Philippines won",
+    "It was the first Eurovision Asia",
+    "The contest was held in Bangkok"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-15/eurovision-asia-2026-song-contest-debuts-in-bangkok-thailand/107381792"
+    }
+   ],
+   "publishedAt": "2026-11-15T09:00:00+11:00",
+   "createdAt": "2026-11-15T17:50:00+11:00",
+   "reason": "Entertainment"
+  },
+  {
+   "id": "2026-11-15-lo-dsa-ocasio-cortez",
+   "batch": "2026-11-15-pm",
+   "rank": 5,
+   "category": "World",
+   "title": "New York Democratic Socialists urge Ocasio-Cortez to run for US president",
+   "summary": "New York members of the Democratic Socialists of America have urged Congresswoman Alexandria Ocasio-Cortez to run for president, Al Jazeera reported. The call follows strong results for socialist candidates in New York in recent elections.\n\nMs Ocasio-Cortez has not announced any decision on a 2028 run. Speculation about her plans has been reported for weeks, with Jacobin reporting in October that the DSA was eyeing a campaign and the Daily Signal and Fox News reporting divisions within the group over an early endorsement. Other Democrats, including California Governor Gavin Newsom, have also said they are weighing presidential bids.",
+   "keyFacts": [
+    "The call came from New York DSA members",
+    "Ocasio-Cortez has not announced a decision",
+    "The next presidential election is in 2028"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/15/new-york-democratic-socialists-urge-ocasio-cortez-to-run-for-us-president"
+    },
+    {
+     "name": "Jacobin",
+     "url": "https://jacobin.com/2026/10/dsa-ocasio-cortez-2028-presidential-campaign"
+    }
+   ],
+   "publishedAt": "2026-11-15T10:00:00+11:00",
+   "createdAt": "2026-11-15T17:50:00+11:00",
+   "reason": "No new development"
+  },
+  {
+   "id": "2026-11-15-lo-swiss-men-march",
+   "batch": "2026-11-15-pm",
+   "rank": 6,
+   "category": "World",
+   "title": "Hundreds of men march in Switzerland against violence against women",
+   "summary": "Hundreds of men have marched in Switzerland to protest against violence against women, Al Jazeera reported. The march was organised to show men's opposition to gendered violence.\n\nAl Jazeera reported the participants marched to call for an end to violence against women. The event comes ahead of the UN's International Day for the Elimination of Violence against Women on 25 November, when rallies are held in many countries. Organisers presented the march as a show of men's support for ending gendered violence.",
+   "keyFacts": [
+    "Hundreds of men took part",
+    "The march was in Switzerland",
+    "It protested violence against women"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women"
+    }
+   ],
+   "publishedAt": "2026-11-15T08:00:00+11:00",
+   "createdAt": "2026-11-15T17:50:00+11:00",
+   "reason": "Human interest"
+  },
+  {
+   "id": "2026-11-15-lo-francophonie-summit",
+   "batch": "2026-11-15-pm",
+   "rank": 7,
+   "category": "World",
+   "title": "Francophone summit opens in Cambodia amid Rwanda–Congo rift",
+   "summary": "The summit of La Francophonie, the international organisation of French-speaking countries, has opened in Cambodia, Al Jazeera reported. The meeting is taking place amid tension between member states Rwanda and the Democratic Republic of Congo.\n\nCambodia is hosting the 20th summit of the organisation. Al Jazeera reported the rift between Kigali and Kinshasa, which have long been at odds over armed groups in eastern Congo, overshadowed the opening. Cambodian outlets reported more than 20 leaders were expected. No major decisions had been announced at the opening session, according to the reports reviewed.",
+   "keyFacts": [
+    "It is the 20th Francophonie summit",
+    "Cambodia is the host",
+    "Rwanda and Congo remain at odds"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/15/francophone-summit-opens-in-cambodia-amid-rwanda-dr-congo-rift"
+    },
+    {
+     "name": "Le Petit Journal",
+     "url": "https://lepetitjournal.com/cambodge/plus-de-20-dirigeants-attendus-phnom-penh-pour-le-sommet-de-la-francophonie-458128"
+    }
+   ],
+   "publishedAt": "2026-11-15T14:00:00+11:00",
+   "createdAt": "2026-11-15T17:50:00+11:00",
+   "reason": "Ceremonial event"
+  },
+  {
+   "id": "2026-11-15-lo-kangaroos-centre-out",
+   "batch": "2026-11-15-pm",
+   "rank": 8,
+   "category": "Sport",
+   "title": "Kangaroos withdraw centre from Rugby League World Cup final with illness",
+   "summary": "Australia's Kangaroos have withdrawn a centre from Sunday's Rugby League World Cup final against New Zealand because of illness, AAP reported. The men's final is part of a double-header in which the Jillaroos also play New Zealand.\n\nThe player's late withdrawal forced a change to the Kangaroos' line-up, AAP reported. SBS reported both Australian sides face New Zealand in finals played on the same day, and the ABC ran live coverage of both matches. Australia has won the men's tournament more often than any other country.",
+   "keyFacts": [
+    "The Kangaroos lost a centre to illness",
+    "Both finals are against New Zealand",
+    "The finals are a double-header"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/kangaroos-strike-centre-out-of-cup-final-with-illness"
+    },
+    {
+     "name": "SBS News",
+     "url": "https://www.sbs.com.au/news/article/rugby-league-world-cup-finals-2026-australia-new-zealand/60rsocbr4"
+    }
+   ],
+   "publishedAt": "2026-11-15T09:00:00+11:00",
+   "createdAt": "2026-11-15T17:50:00+11:00",
+   "reason": "Sport"
+  },
+  {
+   "id": "2026-11-15-lo-warner-sandpaper",
+   "batch": "2026-11-15-pm",
+   "rank": 9,
+   "category": "Sport",
+   "title": "Warner makes further comments on 2018 ball-tampering scandal",
+   "summary": "Former Australian opener David Warner has made further comments about the 2018 ball-tampering scandal, AAP reported. The remarks follow claims this week by former teammate Usman Khawaja that the whole team knew of the plan, which captain Pat Cummins rejected.\n\nAAP reported Mr Warner's latest comments added to the public dispute between former and current players over who knew about the use of sandpaper in Cape Town. Cricket Australia's 2018 investigation found three players responsible. The players involved served bans at the time, and Mr Warner has since retired from international cricket.",
+   "keyFacts": [
+    "Warner commented again on the 2018 scandal",
+    "Khawaja says the whole team knew; Cummins rejects that",
+    "Cricket Australia's 2018 inquiry found three players responsible"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/warner-fires-another-barb-in-sandpaper-scandal"
+    }
+   ],
+   "publishedAt": "2026-11-15T10:00:00+11:00",
+   "createdAt": "2026-11-15T17:50:00+11:00",
+   "reason": "Sport"
   }
  ]
 }
