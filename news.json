@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15T17:50:00+11:00",
+ "updatedAt": "2026-11-16T07:00:00+11:00",
  "articles": [
   {
    "id": "2026-11-12-mississippi-senate",
@@ -2913,6 +2913,219 @@
    ],
    "publishedAt": "2026-11-15T10:00:00+11:00",
    "createdAt": "2026-11-15T17:50:00+11:00"
+  },
+  {
+   "id": "2026-11-16-bahrain-iran-drones-riffa",
+   "batch": "2026-11-16",
+   "rank": 1,
+   "category": "World",
+   "title": "Bahrain says it intercepted Iranian drones; Iran claims hit on US radar at Riffa base",
+   "summary": "Bahrain's military said its air defences intercepted and destroyed several Iranian aerial attacks early on Sunday, after sirens and explosions were reported across the kingdom. Bahrain's Foreign Ministry said it held Iran fully responsible.\n\nIran's Revolutionary Guards said they launched six drones at a US air defence radar at the Riffa base, according to Iranian media cited by Al Jazeera. Neither US nor Bahraini authorities confirmed any radar was hit. The US military had denied an Iranian claim on Friday that a radar in Bahrain was destroyed. Iran's parliamentary speaker told Al Jazeera that Tehran had sent seven conditions for a deal through a Qatari mediator and was awaiting a US reply.",
+   "keyFacts": [
+    "Bahrain says it intercepted several Iranian aerial attacks on Sunday",
+    "IRGC says it sent six drones at a US radar at Riffa",
+    "No confirmation from the US or Bahrain that the radar was hit"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/15/iran-says-it-targets-us-radar-in-bahrain-what-do-we-know"
+    },
+    {
+     "name": "RFE/RL",
+     "url": "https://www.rferl.org/a/bahrain-said-its-air-defenses-intercepted-and-destroyed-several-iranian-aerial-attacks/33898951.html"
+    }
+   ],
+   "publishedAt": "2026-11-15T21:19:00+11:00",
+   "createdAt": "2026-11-16T07:00:00+11:00"
+  },
+  {
+   "id": "2026-11-16-trump-atc-funding-call",
+   "batch": "2026-11-16",
+   "rank": 2,
+   "category": "World",
+   "title": "Trump asks Congress to fund new air traffic control network as US cancellations continue",
+   "summary": "US President Donald Trump on Sunday called on Congress to fund a new air traffic control system, two days after a communications failure forced a nationwide ground stop, UPI reported. Transportation Secretary Sean Duffy said on NBC's Meet the Press that he wants to move the network away from contractor L3Harris, according to UPI.\n\nThe White House said the failure came from overloaded 1980s-era equipment and that there was no evidence of a cyber attack. It said Mr Duffy has asked Congress for $US50 billion in emergency funding. Democratic senator Chris Van Hollen said Congress had already met the administration's request. About 6,700 flights were cancelled on Saturday, and more than 1,800 by midday Sunday, UPI reported, citing FlightAware.",
+   "keyFacts": [
+    "Trump urged Congress to pay for a new air traffic control network",
+    "Duffy has sought $US50 billion in emergency funding, the White House says",
+    "More than 1,800 US flights were cancelled by midday Sunday, per FlightAware"
+   ],
+   "sources": [
+    {
+     "name": "UPI (via Yahoo News)",
+     "url": "https://www.yahoo.com/news/us/articles/trump-calls-congress-fund-air-191556818.html"
+    },
+    {
+     "name": "The White House",
+     "url": "https://www.whitehouse.gov/releases/2026/11/icymi-after-nationwide-ground-stop-trump-administration-prioritizes-safety-calls-for-full-modernization-funding/"
+    }
+   ],
+   "publishedAt": "2026-11-16T06:15:00+11:00",
+   "createdAt": "2026-11-16T07:00:00+11:00"
+  },
+  {
+   "id": "2026-11-16-asean-summit-manila-opens",
+   "batch": "2026-11-16",
+   "rank": 3,
+   "category": "World",
+   "title": "ASEAN leaders open annual summit in Manila; Trump due to arrive on Tuesday",
+   "summary": "Southeast Asian leaders opened their annual summit in Manila on Sunday for three days of talks, with conflicts led by the Middle East war expected to top the agenda, according to AP, which cited draft communiqués. US President Donald Trump is due to arrive on Tuesday near the summit's close.\n\nAFP reported Mr Trump is expected to join a Quad meeting with India, Japan and Australia on the sidelines. Philippine Foreign Secretary Theresa Lazaro said talks on a South China Sea code of conduct were \"80 per cent\" complete, though a regional diplomat told AFP no signing was expected. Philippine President Ferdinand Marcos Jr will hand the rotating chair to Singapore.",
+   "keyFacts": [
+    "Summit opened in Manila on Sunday and runs three days",
+    "Trump expected Tuesday, with a Quad meeting planned, AFP says",
+    "Philippines says South China Sea code talks are 80 per cent done"
+   ],
+   "sources": [
+    {
+     "name": "AP (via Yahoo News)",
+     "url": "https://www.yahoo.com/news/world/articles/southeast-asian-leaders-open-annual-100456430.html"
+    },
+    {
+     "name": "AFP (via The Star)",
+     "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/15/global-powers-converge-on-manila-as-asean-summit-kicks-off"
+    }
+   ],
+   "publishedAt": "2026-11-15T21:04:00+11:00",
+   "createdAt": "2026-11-16T07:00:00+11:00"
+  },
+  {
+   "id": "2026-11-16-albanese-vietnam-tran-hiep",
+   "batch": "2026-11-16",
+   "rank": 4,
+   "category": "Australia",
+   "title": "Albanese raises detained Melbourne activist Tran Hiep with Vietnam's prime minister",
+   "summary": "Prime Minister Anthony Albanese raised consular cases, including that of detained Australian Tran Hiep, with Vietnamese Prime Minister Le Minh Hung at the ASEAN summit in Manila on Sunday, AAP reported, citing an Australian readout.\n\nMr Hiep, a Melbourne democracy activist, has been held in Vietnam since he went missing in Cambodia in September. Vietnam's Ministry of Public Security said he and a Norwegian citizen were detained after allegedly trying to cross the border illegally and had admitted belonging to Viet Tan, which Vietnam lists as a terrorist group. Viet Tan says the men were abducted in Cambodia. The leaders also discussed trade, which reached a record $30 billion in 2025, AAP reported.",
+   "keyFacts": [
+    "Albanese raised Tran Hiep's case with Vietnam's PM on Sunday",
+    "Vietnam says Hiep tried to cross illegally; Viet Tan says he was abducted",
+    "Two-way trade reached a record $30 billion in 2025"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/detained-aussie-tests-relationship-with-asian-partner"
+    }
+   ],
+   "publishedAt": "2026-11-15T20:00:00+11:00",
+   "createdAt": "2026-11-16T07:00:00+11:00"
+  },
+  {
+   "id": "2026-11-16-jordan-church-attack-death-sentences",
+   "batch": "2026-11-16",
+   "rank": 5,
+   "category": "World",
+   "title": "Jordan court sentences three men to death over Karak church attack",
+   "summary": "Jordan's State Security Court on Sunday sentenced three men to death by hanging over the 23 October gun attack on St George's Greek Orthodox church in Karak governorate, according to the military and state news agency Petra.\n\nNine people were killed during a funeral service. Al Jazeera reported 25 people were wounded, while The National put the figure at 34. Authorities said the men, two brothers and a relative by marriage, were arrested three days after the attack following a clash with security forces. They were convicted of terrorist acts causing death, weapons offences and conspiracy, and one of financing terrorism. The National reported the ruling can be appealed and is automatically reviewed.",
+   "keyFacts": [
+    "Three men sentenced to death by Jordan's State Security Court",
+    "Nine people were killed in the 23 October attack",
+    "The ruling can be appealed and is automatically reviewed, The National says"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/15/jordan-sentences-three-men-to-death-by-hanging-after-deadly-church-attack"
+    },
+    {
+     "name": "The National",
+     "url": "https://www.thenationalnews.com/news/mena/2026/11/15/jordan-sentences-three-men-to-death-over-deadly-church-attack/"
+    }
+   ],
+   "publishedAt": "2026-11-15T19:00:00+11:00",
+   "createdAt": "2026-11-16T07:00:00+11:00"
+  },
+  {
+   "id": "2026-11-16-trump-judges-republican-resistance",
+   "batch": "2026-11-16",
+   "rank": 6,
+   "category": "Politics",
+   "title": "Some Republican senators resist Trump judicial picks before Democrats take Senate",
+   "summary": "Some Republican senators have blocked or questioned three of President Donald Trump's judicial nominees from their home states as he seeks to fill seats before Democrats take control of the Senate, Reuters reported. The Senate has confirmed 57 of his second-term judicial nominees.\n\nThe White House withdrew Judge Lee Rudofsky's nomination to the 8th Circuit after Arkansas senators John Boozman and Tom Cotton opposed it, and named state Supreme Court Justice Cody Hiland instead, Reuters said. Retiring Republican Thom Tillis said senators deserved more respect in the selection process. Majority Leader John Thune said confirmations were a top priority, with 23 nominees pending. A White House official said it expects all to be confirmed this year.",
+   "keyFacts": [
+    "57 Trump judicial nominees confirmed in his second term, Reuters says",
+    "Rudofsky's 8th Circuit nomination withdrawn after home-state opposition",
+    "23 nominees pending; White House expects all confirmed this year"
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via The Star)",
+     "url": "https://www.thestar.com.my/news/world/2026/11/15/trump039s-judge-appointment-blitz-faces-republican-resistance"
+    }
+   ],
+   "publishedAt": "2026-11-15T22:04:00+11:00",
+   "createdAt": "2026-11-16T07:00:00+11:00"
+  },
+  {
+   "id": "2026-11-16-us-attorney-warren-letter",
+   "batch": "2026-11-16",
+   "rank": 7,
+   "category": "Politics",
+   "title": "US attorney tells Senator Warren to preserve records over planned probes of Trump allies",
+   "summary": "Aaron Reitz, the US Attorney for the Southern District of Texas, sent Democratic senator Elizabeth Warren a letter on Sunday demanding she preserve records linked to planned congressional investigations of people and companies associated with President Donald Trump, Newsweek and Anadolu reported.\n\nThe letter cites federal civil rights conspiracy laws and argues such inquiries lack a legitimate legislative purpose, according to Anadolu. Mr Reitz pointed to a television interview in which Ms Warren said she planned to investigate technology and Wall Street executives. He sent similar notices earlier to senators Richard Blumenthal and Elissa Slotkin; Mr Blumenthal called the implied threat baseless. Ms Warren had not responded publicly. Newsweek noted a preservation demand is not a subpoena.",
+   "keyFacts": [
+    "Letter sent Sunday by the US Attorney for southern Texas",
+    "Warren given until 23 November to confirm compliance",
+    "Similar notices went to senators Blumenthal and Slotkin"
+   ],
+   "sources": [
+    {
+     "name": "Newsweek",
+     "url": "https://www.newsweek.com/us-attorney-warns-elizabeth-warren-probes-donald-trump-allies-12717572"
+    },
+    {
+     "name": "Anadolu Agency",
+     "url": "https://www.aa.com.tr/en/americas/us-attorney-warns-sen-warren-against-weaponizing-probes-into-trump-associates/4125854"
+    }
+   ],
+   "publishedAt": "2026-11-16T05:51:00+11:00",
+   "createdAt": "2026-11-16T07:00:00+11:00"
+  },
+  {
+   "id": "2026-11-16-illicit-tobacco-market-shrinks",
+   "batch": "2026-11-16",
+   "rank": 8,
+   "category": "Health",
+   "title": "Illicit tobacco market shrinks for first time in five years, commission data show",
+   "summary": "The volume of black-market tobacco in Australia fell 24 per cent over the past financial year, the first fall after five years of growth, according to Illicit Tobacco and E-cigarette Commission data reported by AAP. The commission said the market may have shrunk by up to 1,438 tonnes, though its exact size cannot be measured.\n\nAustralian Border Force seized more than 730 tonnes of illegal tobacco in the first quarter of this financial year, a record, AAP reported. Assistant Customs Minister Julian Hill said enforcement was working. The Coalition and One Nation have proposed cutting tobacco excise by 80 and 75 per cent respectively; the government says that would raise smoking rates.",
+   "keyFacts": [
+    "Illicit tobacco volume fell 24 per cent last financial year",
+    "Border Force seized a record 730-plus tonnes in one quarter",
+    "Coalition and One Nation propose deep excise cuts; government opposes"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/illicit-tobacco-market-shrinks-for-first-time-in-years"
+    }
+   ],
+   "publishedAt": "2026-11-15T21:00:00+11:00",
+   "createdAt": "2026-11-16T07:00:00+11:00"
+  },
+  {
+   "id": "2026-11-16-lowy-ai-risks-poll",
+   "batch": "2026-11-16",
+   "rank": 9,
+   "category": "Science & Tech",
+   "title": "Lowy survey finds two in three Australians think AI risks outweigh benefits",
+   "summary": "Sixty-five per cent of Australians said the risks of artificial intelligence outweigh its benefits in an October survey by the Lowy Institute, unchanged from March and up from 52 per cent in 2024, AAP reported. The share who said benefits outweigh risks fell to 33 per cent.\n\nReport author Charles Lyons-Jones said the concerns sat against a weak economic backdrop, according to AAP. Fewer than a quarter of respondents were comfortable with Australian businesses using Chinese AI, compared with 36 per cent for US-made AI. Lowy's main annual poll, released in June, recorded 64 per cent saying risks outweighed benefits.",
+   "keyFacts": [
+    "65 per cent say AI risks outweigh benefits, Lowy's October survey found",
+    "Up from 52 per cent in 2024",
+    "Under a quarter comfortable with businesses using Chinese AI"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/supporters-become-sceptics-as-aussies-turn-on-ai"
+    },
+    {
+     "name": "Lowy Institute",
+     "url": "https://www.lowyinstitute.org/publications/2026-lowy-institute-poll/artificial-intelligence-majority-say-risks-outweigh-benefits"
+    }
+   ],
+   "publishedAt": "2026-11-15T21:00:00+11:00",
+   "createdAt": "2026-11-16T07:00:00+11:00"
   }
  ],
  "leftOut": [
@@ -4457,6 +4670,120 @@
    "publishedAt": "2026-11-15T10:00:00+11:00",
    "createdAt": "2026-11-15T17:50:00+11:00",
    "reason": "Sport"
+  },
+  {
+   "id": "2026-11-16-lo-gas-reserve-deadline",
+   "batch": "2026-11-16",
+   "rank": 1,
+   "category": "Politics",
+   "title": "Government seeks gas reserve deal before final parliamentary weeks of 2026",
+   "summary": "The federal government could still secure passage of its domestic gas reserve before parliament rises for the year, AAP reported, ahead of a Senate-only sitting starting Monday. The plan would require exporters to set aside up to 20 per cent of exports for local use.\n\nLabor needs Coalition or Greens support. In a Senate inquiry report, the Coalition said it was open to the policy with changes, while Coalition senators Kerrynne Liddle and Susan McDonald said the current design would hurt domestic producers. Eight groups including the Australian Industry Group and the ACTU urged the Senate to pass it, AAP said.",
+   "keyFacts": [
+    "Senate-only sitting begins Monday",
+    "Reserve would cover up to 20 per cent of exports",
+    "Coalition says it is open to the plan with changes"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/end-of-year-deadline-looms-for-gas-reserve-fight"
+    }
+   ],
+   "publishedAt": "2026-11-15T20:00:00+11:00",
+   "createdAt": "2026-11-16T07:00:00+11:00",
+   "reason": "No new development"
+  },
+  {
+   "id": "2026-11-16-lo-rba-minutes-preview",
+   "batch": "2026-11-16",
+   "rank": 2,
+   "category": "Economy",
+   "title": "RBA minutes due Tuesday after split vote on November rate rise",
+   "summary": "Minutes of the Reserve Bank's November meeting are due on Tuesday, after three of nine board members voted against lifting the cash rate to 4.85 per cent on 3 November, AAP reported. It was the bank's fifth increase in a year and took the rate to an 18-year high.\n\nSeptember quarter wage figures are due on Wednesday, with economists expecting annual growth of 3.4 per cent, and October jobs data on Thursday, with unemployment tipped to stay at 4.7 per cent, according to AAP. NAB economist Josh Copeland said he expected employment growth above 20,000.",
+   "keyFacts": [
+    "Three of nine RBA board members opposed the November rise",
+    "Cash rate is 4.85 per cent, an 18-year high",
+    "Wages data due Wednesday and jobs data Thursday"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/fresh-light-to-be-shed-on-split-interest-rate-hike-call"
+    }
+   ],
+   "publishedAt": "2026-11-15T10:00:00+11:00",
+   "createdAt": "2026-11-16T07:00:00+11:00",
+   "reason": "No new development"
+  },
+  {
+   "id": "2026-11-16-lo-lambie-hanson-apology",
+   "batch": "2026-11-16",
+   "rank": 3,
+   "category": "Politics",
+   "title": "Lambie says Hanson has not apologised personally over One Nation cartoon",
+   "summary": "Tasmanian senator Jacqui Lambie said on ABC's Insiders on Sunday that One Nation leader Pauline Hanson had not apologised to her directly over an October online cartoon that mocked her health, AAP reported. The video has since been removed from One Nation's YouTube page.\n\nSenator Lambie said she had no relationship with Senator Hanson and that One Nation's rise in polls reflected financial strain on voters, according to AAP. She urged upper house members to moderate the tone of debate as parliament returns on Monday for a Senate-only sitting week. One Nation had earlier asked the video's creator to amend it.",
+   "keyFacts": [
+    "Lambie spoke on ABC's Insiders on Sunday",
+    "Cartoon removed from One Nation's YouTube page",
+    "Senate sits from Monday"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/no-relationship-no-apology-senator-decries-hanson"
+    }
+   ],
+   "publishedAt": "2026-11-15T11:00:00+11:00",
+   "createdAt": "2026-11-16T07:00:00+11:00",
+   "reason": "Commentary"
+  },
+  {
+   "id": "2026-11-16-lo-zelenskiy-weekly-strikes",
+   "batch": "2026-11-16",
+   "rank": 4,
+   "category": "World",
+   "title": "Zelenskiy says Russia launched more than 2,300 drones at Ukraine in a week",
+   "summary": "Ukrainian President Volodymyr Zelenskiy said on Sunday that Russia launched more than 2,300 attack drones, 1,590 guided bombs and 15 missiles at Ukraine over the past week, hitting energy and rail infrastructure, Kyiv Post reported. At least 16 people were injured.\n\nMr Zelenskiy repeated that speed limits on Starshield satellite terminals stop Ukrainian interceptor drones from chasing jet-powered Shahed drones, and said he had told officials to work with the US government and SpaceX to restore full service, according to Kyiv Post. US senators Jeanne Shaheen and Chris Coons have written to SpaceX seeking compliance by 30 November.",
+   "keyFacts": [
+    "Over 2,300 drones, 1,590 guided bombs and 15 missiles in a week, Zelenskiy says",
+    "At least 16 people injured",
+    "Zelenskiy again raised Starshield speed limits"
+   ],
+   "sources": [
+    {
+     "name": "Kyiv Post",
+     "url": "https://www.kyivpost.com/post/90168"
+    }
+   ],
+   "publishedAt": "2026-11-15T22:25:00+11:00",
+   "createdAt": "2026-11-16T07:00:00+11:00",
+   "reason": "Restatement, nothing new"
+  },
+  {
+   "id": "2026-11-16-lo-indiana-work-based-learning",
+   "batch": "2026-11-16",
+   "rank": 5,
+   "category": "Other",
+   "title": "Indiana launches work-based learning hub to support new high school diploma rules",
+   "summary": "Indiana Governor Mike Braun announced a digital resource hub in October to help schools and employers deliver work-based learning under the state's new high school diploma requirements, Indiana broadcasters WBIW and WISH-TV reported.\n\nThe hub was developed by the Indiana Commission for Higher Education, the state Department of Education and nonprofit Ascend Indiana, and is backed by a $US100,000 grant. Schools must keep a training plan and partnership agreement on file for each student in qualifying work-based learning, though they may use their own format. Education Secretary Katie Jenner said the hub would make such placements more accessible.",
+   "keyFacts": [
+    "Hub announced by Governor Braun on 6 October",
+    "Backed by a $US100,000 state grant to Ascend Indiana",
+    "Schools must keep a training plan for each participating student"
+   ],
+   "sources": [
+    {
+     "name": "WBIW",
+     "url": "https://www.wbiw.com/2026/10/06/governor-braun-strengthens-work-based-learning-opportunities-for-students-through-new-digital-resource-hub/"
+    },
+    {
+     "name": "WISH-TV (via Yahoo News)",
+     "url": "https://www.yahoo.com/news/us/articles/braun-based-learning-hub-opens-145147899.html"
+    }
+   ],
+   "publishedAt": "2026-10-07T00:51:00+11:00",
+   "createdAt": "2026-11-16T07:00:00+11:00",
+   "reason": "Outside today's window"
   }
  ]
 }
