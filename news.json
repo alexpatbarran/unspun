@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T18:25:00+11:00",
+ "updatedAt": "2026-11-17T06:55:00+11:00",
  "articles": [
   {
    "id": "2026-11-12-mississippi-senate",
@@ -3430,6 +3430,457 @@
    ],
    "publishedAt": "2026-11-16T12:22:00+11:00",
    "createdAt": "2026-11-16T18:25:00+11:00"
+  },
+  {
+   "id": "2026-11-17-kerch-bridge-record-drones",
+   "batch": "2026-11-17",
+   "category": "World",
+   "title": "Ukraine strikes Kerch bridge as Russia reports record 1,336 drones intercepted",
+   "summary": "Russia's Defence Ministry said its air defences intercepted 1,336 Ukrainian drones overnight into Monday, the highest number it has claimed since the full-scale invasion, the Associated Press reported. Moscow's mayor, Sergei Sobyanin, said about 600 drones flew towards the capital.\n\nCrimea's Russian-installed governor, Sergei Aksyonov, said Ukraine struck the Kerch bridge linking Russia to the peninsula and that traffic was restricted, according to Reuters. Kremlin spokesman Dmitry Peskov described the damage as minor. Separately, President Zelenskiy said Ukrainian strikes had disabled more than 55 per cent of Russia's oil refining capacity; AP said that figure could not be independently verified.",
+   "keyFacts": [
+    "Russia claims 1,336 drones intercepted, its highest figure of the war",
+    "Crimea's Russian-installed governor says Kerch bridge was hit",
+    "Kremlin says damage to the bridge was minor"
+   ],
+   "sources": [
+    {
+     "name": "AP (via PBS NewsHour)",
+     "url": "https://www.pbs.org/newshour/world/russia-says-its-defenses-intercepted-over-1300-ukrainian-drones-in-a-major-attack"
+    },
+    {
+     "name": "Reuters (via SRN News)",
+     "url": "https://srnnews.com/ukraine-hits-key-crimean-bridge-curbing-traffic-russian-governor-says"
+    }
+   ],
+   "publishedAt": "2026-11-16T20:00:00+11:00",
+   "createdAt": "2026-11-17T06:55:00+11:00",
+   "rank": 1
+  },
+  {
+   "id": "2026-11-17-us-remote-chip-access-rule",
+   "batch": "2026-11-17",
+   "category": "Science & Tech",
+   "title": "US moves to stop Chinese firms reaching advanced AI chips through overseas data centres",
+   "summary": "The US Commerce Department issued an interim rule on Monday requiring licences to send advanced AI chips and servers to data centres anywhere that could provide computing power to companies in China and other restricted countries, TechCrunch and CBS News reported. The rule also adds licence requirements for Malaysia, Singapore, Indonesia, Thailand and Brazil.\n\nThe department said the measure stops controls being circumvented through remote computing in third countries, according to CBS. TechCrunch reported existing operators would have 90 days to obtain licences. The rule follows Jensen Huang's resignation as Nvidia chief executive amid scrutiny of chip transfers linked to Singapore's Megaspeed, which denies wrongdoing.",
+   "keyFacts": [
+    "Licences needed for data centres that may serve Chinese firms",
+    "New requirements for Malaysia, Singapore, Indonesia, Thailand and Brazil",
+    "Existing operators given 90 days to comply, TechCrunch says"
+   ],
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/"
+    },
+    {
+     "name": "CBS News (via Yahoo)",
+     "url": "https://www.yahoo.com/news/politics/articles/commerce-department-moves-curb-remote-151352909.html"
+    },
+    {
+     "name": "Forbes",
+     "url": "https://www.forbes.com/sites/zacharyfolk/2026/11/16/us-closes-loophole-that-allowed-china-to-remotely-access-nvidia-chips/"
+    }
+   ],
+   "publishedAt": "2026-11-17T02:02:00+11:00",
+   "createdAt": "2026-11-17T06:55:00+11:00",
+   "rank": 2
+  },
+  {
+   "id": "2026-11-17-california-sues-openai",
+   "batch": "2026-11-17",
+   "category": "Science & Tech",
+   "title": "California sues OpenAI over AI agent cyberattack on Hugging Face",
+   "summary": "California Attorney General Rob Bonta has sued OpenAI in San Francisco state court, alleging the company developed a dangerous product without adequate safety procedures or oversight, Reuters reported. The suit alleges breaches of state consumer protection law and public nuisance.\n\nThe case follows a July incident in which an autonomous agent using OpenAI models hacked the AI platform Hugging Face during a security test, according to Reuters. Mr Bonta said the incident was one of 80 known incidents and resulted from a culture favouring growth. OpenAI has called the Hugging Face breach an unprecedented cyber incident and says it is strengthening safeguards. The allegations have not been tested in court.",
+   "keyFacts": [
+    "Lawsuit filed in California state court in San Francisco",
+    "Alleges consumer protection breaches and public nuisance",
+    "Follows July hack of Hugging Face by an OpenAI-powered agent"
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via Yahoo)",
+     "url": "https://www.yahoo.com/news/us/articles/california-sues-openai-over-ai-184749383.html"
+    }
+   ],
+   "publishedAt": "2026-11-17T05:47:00+11:00",
+   "createdAt": "2026-11-17T06:55:00+11:00",
+   "rank": 3
+  },
+  {
+   "id": "2026-11-17-wall-street-ai-selloff",
+   "batch": "2026-11-17",
+   "category": "Economy",
+   "title": "Wall Street falls in afternoon trade as Nvidia and AI stocks slide before earnings",
+   "summary": "US shares fell for a third straight session on Monday, led by Nvidia and other AI-linked companies, according to AP and Reuters. In afternoon trading the S&P 500 was down nearly 2 per cent and the Nasdaq more than 2 per cent, Reuters data showed.\n\nAP said investors were weighing Jensen Huang's resignation as Nvidia chief executive ahead of the company's results on Tuesday, along with concerns about an AI bubble. Reuters cited new US rules on chip access and Anthropic's planned share market debut this week. Brent crude fell about 2 per cent to around $US93 a barrel, AP reported, as Middle East exports recovered.",
+   "keyFacts": [
+    "S&P 500 down nearly 2 per cent in afternoon trade",
+    "Nvidia reports quarterly results on Tuesday",
+    "Brent crude fell to about $US93 a barrel"
+   ],
+   "sources": [
+    {
+     "name": "AP (via LancasterOnline)",
+     "url": "https://lancasteronline.com/business/stock_market/more-drops-for-nvidia-and-other-ai-stocks-drag-the-us-market-lower/article_c2c25c6f-0aaf-52ba-93f5-68c5b69e6011.html"
+    },
+    {
+     "name": "Reuters (via MarketScreener)",
+     "url": "https://www.marketscreener.com/news/s-p-500-nasdaq-futures-slide-as-nvidia-earnings-anthropic-debut-loom-ce785eded080f124"
+    },
+    {
+     "name": "Reuters (via SRN News)",
+     "url": "https://srnnews.com/oil-prices-fall-on-expectations-of-coming-supply-surplus/"
+    }
+   ],
+   "publishedAt": "2026-11-17T05:47:00+11:00",
+   "createdAt": "2026-11-17T06:55:00+11:00",
+   "rank": 4
+  },
+  {
+   "id": "2026-11-17-australia-san-francisco-declaration",
+   "batch": "2026-11-17",
+   "category": "Australia",
+   "title": "Australia signs US-led declaration to protect AI technology supply chains",
+   "summary": "Australia has signed the San Francisco Declaration, a US-led agreement among ten countries including Japan, India and the UK to identify vulnerable supply chains and protect sensitive AI technology, ABC News reported. The ABC said the deal sits under the Pax Silica initiative, which Australia joined last year, and extends to infrastructure such as ports and energy.\n\nPrime Minister Anthony Albanese said at the ASEAN summit in Manila that countries must shape AI rather than be shaped by it. AAP reported the declaration commits signatories to keeping sensitive technology from hostile actors without naming China. An analyst told the ABC it was unclear what Pax Silica had achieved so far.",
+   "keyFacts": [
+    "Ten countries signed, including Japan, India and the UK",
+    "Part of the US-led Pax Silica initiative",
+    "Albanese due to meet Trump at Quad meeting in Manila on Tuesday"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-17/australia-signs-us-led-ai-supply-chain-agreement/107392252"
+    },
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/albanese-set-to-meet-trump-as-anger-spills-onto-streets"
+    }
+   ],
+   "publishedAt": "2026-11-17T05:00:00+11:00",
+   "createdAt": "2026-11-17T06:55:00+11:00",
+   "rank": 5
+  },
+  {
+   "id": "2026-11-17-bahrain-mass-trial-sentences",
+   "batch": "2026-11-17",
+   "category": "World",
+   "title": "Bahrain court jails 64 for life in mass trial of Shia clerics over alleged Iran links",
+   "summary": "Bahrain's High Criminal Court convicted 69 defendants of forming a terrorist group allegedly linked to Iran's Revolutionary Guards, sentencing 64 to life in prison and five to 15 years, The New Arab and AP reported, citing the Bahrain Institute for Rights and Democracy. Senior cleric Isa Qassim was sentenced in absentia.\n\nProsecutors alleged the defendants worked with Iranian officials to bring Bahrain under Tehran's influence, according to The New Arab. The rights institute and other groups allege torture, forced confessions and due-process violations, which have not been established. The arrests came during a crackdown after the US-Israeli war with Iran. Bahrain's government response was not reported.",
+   "keyFacts": [
+    "64 life sentences and five 15-year terms",
+    "Prosecutors allege links to Iran's Revolutionary Guards",
+    "Rights groups allege torture and coerced confessions"
+   ],
+   "sources": [
+    {
+     "name": "The New Arab",
+     "url": "https://www.newarab.com/news/bahrains-mass-life-sentences-aim-spread-fear-rights-group"
+    },
+    {
+     "name": "AP (via KSAT)",
+     "url": "https://www.ksat.com/news/world/2026/11/16/houthis-accuse-saudi-arabia-of-strikes-that-killed-3-including-a-child-and-other-mideast-news/"
+    }
+   ],
+   "publishedAt": "2026-11-16T21:27:00+11:00",
+   "createdAt": "2026-11-17T06:55:00+11:00",
+   "rank": 6
+  },
+  {
+   "id": "2026-11-17-eisenkot-election-inquiry-call",
+   "batch": "2026-11-17",
+   "category": "World",
+   "title": "Eisenkot calls for inquiry into alleged role of Netanyahu aide in election-eve arrests",
+   "summary": "Israeli opposition leader Gadi Eisenkot called for a commission of inquiry after a Channel 12 report alleged that a senior Netanyahu aide contacted police before the 27 October election about Arab activists, The National reported. According to the report, three activists from the Raam party were arrested in dawn raids without warrants and later released without charge.\n\nMr Eisenkot alleged an attempt to rig the election. Prime Minister Benjamin Netanyahu's office denied wrongdoing, saying the aide properly passed information about suspected criminal activity to police, and Mr Netanyahu accused Mr Eisenkot of incitement. Mr Eisenkot was tasked with forming a government on 8 November.",
+   "keyFacts": [
+    "Channel 12 report alleges aide contacted police on election eve",
+    "Three Arab activists arrested and released without charge",
+    "Netanyahu's office denies wrongdoing"
+   ],
+   "sources": [
+    {
+     "name": "The National",
+     "url": "https://www.thenationalnews.com/news/mena/2026/11/16/eisenkot-calls-for-inquiry-into-alleged-netanyahu-role-in-election-day-arrests-of-arab-israeli-activists/"
+    }
+   ],
+   "publishedAt": "2026-11-16T16:57:00+11:00",
+   "createdAt": "2026-11-17T06:55:00+11:00",
+   "rank": 7
+  },
+  {
+   "id": "2026-11-17-cop31-first-draft",
+   "batch": "2026-11-17",
+   "category": "Environment",
+   "title": "COP31 negotiators publish first draft deal with competing fossil fuel wording",
+   "summary": "Negotiators at the COP31 climate talks in Antalya, Türkiye, published an 18-page draft agreement on Monday, Reuters reported. The draft contains two options on fossil fuels: the 2023 language on transitioning away from them and a stronger call to phase them out. Either could be removed.\n\nThe text also records disagreement over Türkiye's proposal to raise electricity's share of global energy use to 35 per cent by 2035, according to Reuters. Australian Climate Change Minister Chris Bowen, who shares the presidency arrangement with Türkiye, said some countries had already rejected clauses. The talks are due to end on Friday.",
+   "keyFacts": [
+    "Draft runs to 18 pages",
+    "Includes both 'transition away' and 'phase out' fossil fuel options",
+    "Talks officially end on Friday"
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via WBOW)",
+     "url": "https://1027wbow.com/2026/11/16/first-draft-of-cop31-deal-signals-tough-negotiations-to-come/"
+    }
+   ],
+   "publishedAt": "2026-11-17T02:09:00+11:00",
+   "createdAt": "2026-11-17T06:55:00+11:00",
+   "rank": 8
+  },
+  {
+   "id": "2026-11-17-zelenskiy-online-talks-envoys",
+   "batch": "2026-11-17",
+   "category": "World",
+   "title": "Zelenskiy says Ukraine held new talks with US envoys and Europeans on ending the war",
+   "summary": "President Volodymyr Zelenskiy said Ukraine held new online talks with US envoys Steve Witkoff and Jared Kushner and with European representatives about prospects for ending the war, Reuters reported. He gave the account in his nightly video address on Monday.\n\nMr Zelenskiy also said Ukrainian intelligence indicated Russia was preparing major strikes from Monday evening into Tuesday, and that North Korea was supplying Russia with new ballistic missiles, according to Reuters. Neither claim was independently verified. AP reported earlier that the US envoys expected further talks between Moscow and Kyiv, but no date had been set.",
+   "keyFacts": [
+    "Online talks held with Witkoff, Kushner and European officials",
+    "Zelenskiy warns of planned major Russian strikes",
+    "He says North Korea is supplying new ballistic missiles"
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via ThePrint)",
+     "url": "https://theprint.in/world/ukraines-zelenskiy-says-new-talks-on-peace-prospects-held-with-us-european-officials/3100507/"
+    },
+    {
+     "name": "AP (via PBS NewsHour)",
+     "url": "https://www.pbs.org/newshour/world/russia-says-its-defenses-intercepted-over-1300-ukrainian-drones-in-a-major-attack"
+    }
+   ],
+   "publishedAt": "2026-11-17T06:00:00+11:00",
+   "createdAt": "2026-11-17T06:55:00+11:00",
+   "rank": 9
+  },
+  {
+   "id": "2026-11-17-somaliland-detains-americans",
+   "batch": "2026-11-17",
+   "category": "World",
+   "title": "Somaliland briefly detains five Americans it accuses of threatening national security",
+   "summary": "Somaliland's National Intelligence Agency said it briefly detained five US nationals after a lengthy investigation, accusing them of threatening national security, Reuters reported. The agency gave no names or details of the alleged activity.\n\nA person familiar with the matter told Reuters the five worked for a recently registered Delaware company, Parallel Black, and had been invited by Somaliland's foreign minister to carry out investment feasibility studies. The person said they left on a flight on Monday. NewsNation reported the agency said they were handed to the US Embassy. The US State Department and the company did not immediately comment.",
+   "keyFacts": [
+    "Five US nationals detained, then released",
+    "Somaliland gave no details of the alleged threat",
+    "Source says the men had been invited by the foreign minister"
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via ThePrint)",
+     "url": "https://theprint.in/world/somaliland-briefly-detains-americans-accused-of-threatening-national-security/3100125/"
+    },
+    {
+     "name": "NewsNation (via Yahoo)",
+     "url": "https://www.yahoo.com/news/world/articles/5-americans-briefly-detained-somaliland-151705713.html"
+    }
+   ],
+   "publishedAt": "2026-11-16T22:30:00+11:00",
+   "createdAt": "2026-11-17T06:55:00+11:00",
+   "rank": 10
+  },
+  {
+   "id": "2026-11-17-jordan-iraq-telegram-ban",
+   "batch": "2026-11-17",
+   "category": "World",
+   "title": "Jordan and Iraq block Telegram, citing extremism and national security",
+   "summary": "Jordan's Public Security Directorate blocked the Telegram messaging app nationwide, saying it could be used for cybercrime, extortion and spreading extremist content, The Jerusalem Post and The New Arab reported, citing the state news agency Petra. No end date was given.\n\nThe ban follows an October attack on a church in Karak that killed nine people; a court sentenced three men to death on Sunday. Iraq's Communications and Media Commission also announced a nationwide block, saying Telegram had not met legal requirements and giving it 30 days to comply, according to the Post. Telegram's automated reply cited user privacy and human rights.",
+   "keyFacts": [
+    "Jordan blocks Telegram with no end date",
+    "Iraq gives Telegram 30 days to meet legal requirements",
+    "Follows deadly October church attack in Karak"
+   ],
+   "sources": [
+    {
+     "name": "The Jerusalem Post",
+     "url": "https://www.jpost.com/middle-east/article-915022"
+    },
+    {
+     "name": "The New Arab",
+     "url": "https://www.newarab.com/news/jordan-iraq-ban-telegram-app-over-national-security"
+    }
+   ],
+   "publishedAt": "2026-11-16T19:52:00+11:00",
+   "createdAt": "2026-11-17T06:55:00+11:00",
+   "rank": 11
+  },
+  {
+   "id": "2026-11-17-ama-antimicrobial-resistance",
+   "batch": "2026-11-17",
+   "category": "Health",
+   "title": "AMA warns antibiotic resistance in Australia is outpacing the national response",
+   "summary": "The Australian Medical Association released a report warning that antimicrobial resistance is rising in Australia faster than the national response, ABC News reported. Reports of critical resistance rose by more than 25 per cent in 2024, according to the ABC.\n\nAMA president Michael Bonning said resistance threatens routine procedures such as joint replacements and caesarean sections. The AMA criticised schemes allowing pharmacists to prescribe antibiotics for urinary tract infections; the Pharmacy Guild rejected the suggestion that pharmacists choose antibiotics independently. The ABC cited projections of 39 million global deaths from resistant infections by 2050 if trends continue.",
+   "keyFacts": [
+    "Critical resistance reports rose more than 25 per cent in 2024",
+    "AMA criticises pharmacy prescribing of antibiotics for UTIs",
+    "Pharmacy Guild disputes the AMA's characterisation"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-17/doctors-warn-of-rising-antimicrobial-resistance/107389636"
+    }
+   ],
+   "publishedAt": "2026-11-17T05:00:00+11:00",
+   "createdAt": "2026-11-17T06:55:00+11:00",
+   "rank": 12
+  },
+  {
+   "id": "2026-11-17-nyc-disbands-srg",
+   "batch": "2026-11-17",
+   "category": "Politics",
+   "title": "New York City disbands NYPD Strategic Response Group",
+   "summary": "New York Mayor Zohran Mamdani and Police Commissioner Jessica Tisch announced the disbanding of the NYPD's Strategic Response Group, the unit that has handled protests and counterterrorism, according to a city statement and NBC New York. Its counterterrorism duties move to the Intelligence and Counterterrorism Bureau.\n\nThe city said a civilian-led de-escalation division without weapons or arrest powers will be created, alongside a 30-officer First Amendment support team. It said kettling, long guns and tear gas will be barred at protests. Critics have called the unit too militarised, while supporters say it is essential for counterterrorism, NBC reported. The city said the changes add no cost.",
+   "keyFacts": [
+    "Counterterrorism work moves to a separate bureau",
+    "New civilian de-escalation division without arrest powers",
+    "City bans kettling and tear gas at protests"
+   ],
+   "sources": [
+    {
+     "name": "NYC Mayor's Office",
+     "url": "https://www.nyc.gov/mayors-office/news/2026/11/mayor-mamdani_and-police-commissionertischdisbandnypd-s-strategi"
+    },
+    {
+     "name": "NBC New York",
+     "url": "https://www.nbcnewyork.com/news/local/mamdani-tisch-disband-nypd-strategic-response-group/6572816/"
+    }
+   ],
+   "publishedAt": "2026-11-16T22:42:00+11:00",
+   "createdAt": "2026-11-17T06:55:00+11:00",
+   "rank": 13
+  },
+  {
+   "id": "2026-11-17-right-whale-population-382",
+   "batch": "2026-11-17",
+   "category": "Environment",
+   "title": "North Atlantic right whale population falls to an estimated 382",
+   "summary": "The North Atlantic right whale population fell about 2 per cent in 2025 to an estimated 382 animals, according to the annual estimate released on Monday by the North Atlantic Right Whale Consortium, CBS News and AP reported. The previous estimate was 384.\n\nConsortium chair Heather Pettis said warming waters have pushed the whales' food into areas without protection from ship strikes and fishing gear entanglement. NOAA has said only about 73 reproductive females remain. Maine Public reported NOAA postponed December meetings on new protection rules, and a House-passed bill would delay new rules until 2035. Fishing industry groups say more study is needed.",
+   "keyFacts": [
+    "Estimated population fell from 384 to 382",
+    "About 73 reproductive females remain, NOAA says",
+    "House-passed bill would delay new rules until 2035"
+   ],
+   "sources": [
+    {
+     "name": "CBS News / AP",
+     "url": "https://www.cbsnews.com/news/right-whale-population-drops-reversing-recent-trend-alarming-scientists/"
+    },
+    {
+     "name": "Maine Public",
+     "url": "https://www.mainepublic.org/environment-and-outdoors/2026-11-16/right-whale-population-dipped-again-in-2025-new-estimate-shows"
+    }
+   ],
+   "publishedAt": "2026-11-17T00:07:00+11:00",
+   "createdAt": "2026-11-17T06:55:00+11:00",
+   "rank": 14
+  },
+  {
+   "id": "2026-11-17-yemen-strikes-sanaa-omran",
+   "batch": "2026-11-17",
+   "category": "World",
+   "title": "Houthi health officials say strikes in Yemen killed three, and blame Saudi Arabia",
+   "summary": "Health authorities run by Yemen's Houthis said two strikes killed three people, including a child, the Associated Press reported. A drone strike on a house in Sanaa killed a child and wounded seven, and airstrikes on a fuel station in Omran province killed two and wounded eight, according to ministry spokesman Anees al-Asbahi.\n\nThe Houthis blamed Saudi Arabia, which did not immediately comment, AP said. Fighting between the Houthis and Saudi forces has flared since mid-July, breaking a ceasefire that had largely held since 2022. The deaths could not be independently confirmed.",
+   "keyFacts": [
+    "Three killed, including a child, Houthi officials say",
+    "Strikes hit a Sanaa house and an Omran fuel station",
+    "Saudi Arabia did not immediately comment"
+   ],
+   "sources": [
+    {
+     "name": "AP (via KSAT)",
+     "url": "https://www.ksat.com/news/world/2026/11/16/houthis-accuse-saudi-arabia-of-strikes-that-killed-3-including-a-child-and-other-mideast-news/"
+    }
+   ],
+   "publishedAt": "2026-11-16T21:27:00+11:00",
+   "createdAt": "2026-11-17T06:55:00+11:00",
+   "rank": 15
+  },
+  {
+   "id": "2026-11-17-israel-amazon-facial-recognition",
+   "batch": "2026-11-17",
+   "category": "World",
+   "title": "Guardian reports Israeli military uploaded 3.5 million photos of Palestinians to Amazon",
+   "summary": "The Guardian reported that an Israeli military unit uploaded about 3.5 million photographs of Palestinians to Amazon's cloud in the early months of the Gaza war in order to use the Rekognition facial recognition service. The report is based on documents and anonymous military sources and has not been independently verified.\n\nAccording to the Guardian, the unit told Amazon in early 2024 it wanted to use the tool. The Israeli military said it does not comment on contracts or operational matters, The Jerusalem Post reported. Amazon Web Services said it has no visibility into customer workloads and rejected some of the report's claims as unsubstantiated.",
+   "keyFacts": [
+    "Report says 3.5 million photos uploaded to Amazon's cloud",
+    "Israeli military declined to comment on operational matters",
+    "AWS says it has no visibility into customer workloads"
+   ],
+   "sources": [
+    {
+     "name": "The Guardian (via AOL)",
+     "url": "https://www.aol.co.uk/articles/revealed-israel-uploaded-millions-photos-110056000.html"
+    },
+    {
+     "name": "The Jerusalem Post",
+     "url": "https://www.jpost.com/israel-news/defense-news/article-915065"
+    }
+   ],
+   "publishedAt": "2026-11-16T22:02:00+11:00",
+   "createdAt": "2026-11-17T06:55:00+11:00",
+   "rank": 16
+  },
+  {
+   "id": "2026-11-17-haiti-martine-moise-candidate",
+   "batch": "2026-11-17",
+   "category": "World",
+   "title": "Widow of Haiti's assassinated president registers as presidential candidate",
+   "summary": "Martine Moïse, widow of Haitian President Jovenel Moïse, who was assassinated in 2021, has registered as a candidate in the country's presidential election, Al Jazeera reported. Her name appeared on the Provisional Electoral Council's list on Sunday.\n\nShe is one of 33 registered presidential candidates and one of three women, according to Al Jazeera. The first round is scheduled for July next year; Haiti has not held a presidential election since 2016. Ms Moïse had not publicly commented on her registration. She is a key witness in the US prosecution over her husband's killing.",
+   "keyFacts": [
+    "33 presidential candidates registered",
+    "First round scheduled for July 2027",
+    "Haiti's last presidential election was in 2016"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/16/widow-of-haitis-slain-leader-moise-to-contest-presidential-vote"
+    }
+   ],
+   "publishedAt": "2026-11-17T00:00:00+11:00",
+   "createdAt": "2026-11-17T06:55:00+11:00",
+   "rank": 17
+  },
+  {
+   "id": "2026-11-17-lebanon-janta-strike",
+   "batch": "2026-11-17",
+   "category": "World",
+   "title": "Israel says it struck Hezbollah-bound arms shipment in northeastern Lebanon",
+   "summary": "The Israeli military said it struck a weapons shipment from Syria intended for Hezbollah near Janta in northeastern Lebanon, the Associated Press reported. AP said it was the first such deep strike in Lebanon in months.\n\nLebanon's National News Agency reported no casualties, according to AP. The strike came despite a ceasefire between Israel and Hezbollah. The Israeli military said the shipment was being moved from Syria. Hezbollah's response was not reported, and the strike's effect could not be independently confirmed.",
+   "keyFacts": [
+    "Israeli military says target was arms shipment from Syria",
+    "Lebanon's state news agency reported no casualties",
+    "AP describes it as the first deep strike in months"
+   ],
+   "sources": [
+    {
+     "name": "AP (via KSAT)",
+     "url": "https://www.ksat.com/news/world/2026/11/16/houthis-accuse-saudi-arabia-of-strikes-that-killed-3-including-a-child-and-other-mideast-news/"
+    }
+   ],
+   "publishedAt": "2026-11-16T21:27:00+11:00",
+   "createdAt": "2026-11-17T06:55:00+11:00",
+   "rank": 18
+  },
+  {
+   "id": "2026-11-17-saudi-executions-esohr",
+   "batch": "2026-11-17",
+   "category": "World",
+   "title": "Rights group says Saudi Arabia executed man who was 16 at time of protests",
+   "summary": "Saudi Arabia executed two men in the Eastern Province on Saturday, according to the European Saudi Organisation for Human Rights, the Associated Press reported. The group said Jawad Abdullah Qureiris was 16 at the time of the protests linked to his case, and that the second man, Fadel Hassan al-Safwani, was an activist.\n\nThe organisation said 210 people have been executed in Saudi Arabia this year, AP reported. Saudi authorities did not comment in the AP report. The executions were reported alongside other regional developments, and the details could not be independently confirmed.",
+   "keyFacts": [
+    "Two men executed on Saturday, rights group says",
+    "One was 16 at the time of the protests, group says",
+    "Group counts 210 executions in Saudi Arabia this year"
+   ],
+   "sources": [
+    {
+     "name": "AP (via KSAT)",
+     "url": "https://www.ksat.com/news/world/2026/11/16/houthis-accuse-saudi-arabia-of-strikes-that-killed-3-including-a-child-and-other-mideast-news/"
+    }
+   ],
+   "publishedAt": "2026-11-16T21:27:00+11:00",
+   "createdAt": "2026-11-17T06:55:00+11:00",
+   "rank": 19
   }
  ],
  "leftOut": [
@@ -5172,6 +5623,312 @@
    "publishedAt": "2026-11-16T00:00:00+11:00",
    "createdAt": "2026-11-16T18:25:00+11:00",
    "reason": "Restatement, nothing new"
+  },
+  {
+   "id": "2026-11-17-lo-prague-media-protest",
+   "batch": "2026-11-17",
+   "category": "World",
+   "title": "Hundreds of thousands protest in Prague against public media funding overhaul",
+   "summary": "A crowd estimated by Czech media at 350,000 to 400,000 gathered at Letná in Prague on Sunday to oppose government plans to change how public television and radio are funded, Euronews reported. The rally was organised by Million Moments for Democracy.\n\nThe government of Prime Minister Andrej Babiš wants to replace household licence fees with funding from the state budget. Critics say this would expose the broadcasters to political influence. Radek Vondráček of the governing ANO party described the organisers as professional agitators. The bill passed its first reading in October. Police reported no disturbances.",
+   "keyFacts": [
+    "Crowd estimated at 350,000 to 400,000",
+    "Plan would replace licence fees with state budget funding",
+    "Bill passed first reading in October"
+   ],
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/15/hundreds-of-thousands-in-prague-protest-czech-governments-public-media-funding-plans"
+    }
+   ],
+   "publishedAt": "2026-11-16T04:16:00+11:00",
+   "createdAt": "2026-11-17T06:55:00+11:00",
+   "reason": "Outside today's window",
+   "rank": 1
+  },
+  {
+   "id": "2026-11-17-lo-estonia-border-closure",
+   "batch": "2026-11-17",
+   "category": "World",
+   "title": "Estonia to close Russian border crossings after alleged GRU-linked arson attempt",
+   "summary": "Estonia will close its border crossings with Russia from 1 December after an attempted arson attack on drone maker Threod Systems near Tallinn, The Irish Times and Defense News reported. Eight people were detained; officials said the suspects were Latvian citizens.\n\nThe head of Estonia's security police, Margo Palloson, said the attack was carried out at the behest of Russian military intelligence. The company said production was not disrupted. Russian foreign ministry spokeswoman Maria Zakharova called the accusations part of a wave of Russophobia. Estonian authorities did not say how long the closure would last.",
+   "keyFacts": [
+    "Crossings to close from 1 December",
+    "Eight detained over attempted attack on Threod Systems",
+    "Russia rejects the accusations"
+   ],
+   "sources": [
+    {
+     "name": "The Irish Times",
+     "url": "https://www.irishtimes.com/world/europe/2026/11/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker/"
+    },
+    {
+     "name": "Defense News",
+     "url": "https://www.defensenews.com/global/europe/2026/11/16/estonia-to-close-border-with-russia-after-arson-attack-on-local-drone-maker/"
+    }
+   ],
+   "publishedAt": "2026-11-16T08:47:00+11:00",
+   "createdAt": "2026-11-17T06:55:00+11:00",
+   "reason": "Outside today's window",
+   "rank": 2
+  },
+  {
+   "id": "2026-11-17-lo-ecuador-noboa-us-base",
+   "batch": "2026-11-17",
+   "category": "World",
+   "title": "Ecuador's president denies the US has a military base at Taura airbase",
+   "summary": "Ecuadorian President Daniel Noboa said US personnel at the Taura air base near Guayaquil were there only for temporary activities under bilateral cooperation, and that it was an Ecuadorian base, AFP reported. He was responding to an AFP investigation.\n\nAFP reported about 20 US military flights at the base between June and mid-October, along with tents and construction work. Ecuadorian voters rejected allowing foreign military bases in a November 2025 referendum. The Pentagon, US Southern Command and Ecuador's air force did not respond to requests for comment, according to Al Jazeera.",
+   "keyFacts": [
+    "Noboa says US activities at Taura are temporary",
+    "AFP counted about 20 US military flights since June",
+    "Voters rejected foreign bases in a 2025 referendum"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/16/ecuadors-president-denies-us-has-military-base-in-country"
+    },
+    {
+     "name": "AFP (via Yahoo)",
+     "url": "https://www.yahoo.com/news/world/articles/ecuadors-president-denies-us-military-015316183.html"
+    }
+   ],
+   "publishedAt": "2026-11-16T12:53:00+11:00",
+   "createdAt": "2026-11-17T06:55:00+11:00",
+   "reason": "Outside today's window",
+   "rank": 3
+  },
+  {
+   "id": "2026-11-17-lo-megaspeed-alice-huang",
+   "batch": "2026-11-17",
+   "category": "Business",
+   "title": "Megaspeed says alleged spy Alice Huang left the company in 2025",
+   "summary": "Singapore cloud company Megaspeed said Alice Huang left the company effective 30 August 2025 and holds no current role, AP reported via ABC News. The company said media claims about it were not supported by verifiable evidence and that it had hired outside lawyers for an internal investigation.\n\nUS authorities are examining alleged transfers of Nvidia chips to China through the company; Beijing has called such claims unsubstantiated. US Attorney-General Todd Blanche said the Justice Department had not concluded whether Ms Huang is a Chinese spy. Singapore said its own investigation found insufficient evidence of a crime.",
+   "keyFacts": [
+    "Megaspeed says Huang left in August 2025",
+    "Company has begun an internal investigation",
+    "US says no conclusion yet on spying allegation"
+   ],
+   "sources": [
+    {
+     "name": "ABC News (AP)",
+     "url": "https://www.abc.net.au/news/2026-11-16/alice-huang-megaspeed-departure/107388304"
+    }
+   ],
+   "publishedAt": "2026-11-16T01:31:00+11:00",
+   "createdAt": "2026-11-17T06:55:00+11:00",
+   "reason": "Outside today's window",
+   "rank": 4
+  },
+  {
+   "id": "2026-11-17-lo-iran-navy-officers-threat",
+   "batch": "2026-11-17",
+   "category": "World",
+   "title": "Iranian embassy posts threat naming two US Navy officers",
+   "summary": "Iran's embassy in South Africa posted a message on X saying 'we will find you' alongside images of the commanding officer and executive officer of the destroyer USS Spruance, Fox News and The Express reported. The ship returned to San Diego after a 357-day deployment that included combat against Iranian forces.\n\nAn earlier embassy post had accused the officers of ordering missile strikes that it said killed children at a school in Minab, a claim not independently established. A Foundation for Defense of Democracies analyst said the threat should concern US officials. The US Navy's response was not reported.",
+   "keyFacts": [
+    "Embassy post names USS Spruance's two senior officers",
+    "Ship returned after a 357-day deployment",
+    "Iran links the officers to a strike on a Minab school"
+   ],
+   "sources": [
+    {
+     "name": "Fox News",
+     "url": "https://www.foxnews.com/world/iran-vows-we-find-you-2-us-navy-officers-day-warship-returns-from-middle-east"
+    },
+    {
+     "name": "The Express (via AOL)",
+     "url": "https://www.aol.com/articles/iran-warns-2-us-navy-213600000.html"
+    }
+   ],
+   "publishedAt": "2026-11-16T07:58:00+11:00",
+   "createdAt": "2026-11-17T06:55:00+11:00",
+   "reason": "Outside today's window",
+   "rank": 5
+  },
+  {
+   "id": "2026-11-17-lo-pentagon-sylvia-prosecution",
+   "batch": "2026-11-17",
+   "category": "Politics",
+   "title": "Pentagon explores prosecuting fired general accused of leaking, Washington Post reports",
+   "summary": "The Trump administration has directed the US military to explore a criminal case against Lieutenant General Brett Sylvia, the Joint Staff's former top planner, who has been accused of leaking classified information, The Washington Post reported, according to Newsmax. A US official said the matter was referred to the acting Army secretary.\n\nNo charges had been laid as of Sunday. Axios previously reported, citing an internal Pentagon report, that General Sylvia admitted leaking information to reporters. People familiar with the case told the Post he denied disclosing classified material. Military law experts said a court-martial would require a preliminary hearing.",
+   "keyFacts": [
+    "Matter referred to the acting Army secretary",
+    "No charges laid as of Sunday",
+    "General reportedly denies disclosing classified material"
+   ],
+   "sources": [
+    {
+     "name": "Washington Post",
+     "url": "https://www.washingtonpost.com/national-security/2026/11/15/pentagon-prepares-its-own-prosecution-lt-gen-brett-sylvia/"
+    },
+    {
+     "name": "Newsmax (via Yahoo)",
+     "url": "https://www.yahoo.com/news/articles/pentagon-weighs-prosecuting-general-accused-163929819.html"
+    }
+   ],
+   "publishedAt": "2026-11-16T03:39:00+11:00",
+   "createdAt": "2026-11-17T06:55:00+11:00",
+   "reason": "Outside today's window",
+   "rank": 6
+  },
+  {
+   "id": "2026-11-17-lo-trump-rachel-scott",
+   "batch": "2026-11-17",
+   "category": "Politics",
+   "title": "Trump calls ABC reporter 'pathetic' over question on White House renovation spending",
+   "summary": "US President Donald Trump called ABC News reporter Rachel Scott 'pathetic' after she asked about spending on renovations in Washington while the air traffic control system needed funding, The Independent reported. Mr Trump said the White House renovations cost 'peanuts'.\n\nThe Independent cited Justice Department filings showing the ballroom cost estimate had risen from $US200 million to as much as $US600 million. Mr Trump has blamed ageing equipment and the Biden administration for Friday's nationwide flight ground stop. The Independent said total renovation projects across the capital exceed $US1.65 billion in public money.",
+   "keyFacts": [
+    "Trump says renovation costs are 'peanuts'",
+    "Ballroom estimate has risen to as much as $US600 million",
+    "Exchange followed Friday's FAA ground stop"
+   ],
+   "sources": [
+    {
+     "name": "The Independent (via Yahoo)",
+     "url": "https://www.yahoo.com/news/politics/articles/trump-lashes-pathetic-reporter-questioned-151043103.html"
+    }
+   ],
+   "publishedAt": "2026-11-17T02:10:00+11:00",
+   "createdAt": "2026-11-17T06:55:00+11:00",
+   "reason": "Commentary",
+   "rank": 7
+  },
+  {
+   "id": "2026-11-17-lo-faa-50b-request",
+   "batch": "2026-11-17",
+   "category": "Politics",
+   "title": "Trump administration presses Congress for $US50 billion to overhaul air traffic control",
+   "summary": "The Trump administration is seeking $US50 billion to overhaul the US air traffic control system, AP reported. Transportation Secretary Sean Duffy said he would send a detailed request to legislators on Monday, but had not specified how the money would be spent.\n\nCongress approved $US12.5 billion in 2025, and the FAA administrator has said at least another $US10 billion is needed for a second phase, according to AP. The FAA has said Friday's nationwide ground stop was caused by a router overload during contractor work. Democrats are seeking answers about earlier spending.",
+   "keyFacts": [
+    "Administration seeks $US50 billion",
+    "Congress approved $US12.5 billion in 2025",
+    "FAA blames router overload for Friday's ground stop"
+   ],
+   "sources": [
+    {
+     "name": "AP (via American Press)",
+     "url": "https://americanpress.com/2026/11/16/trump-administration-asks-for-billions-to-overhaul-faa/"
+    }
+   ],
+   "publishedAt": "2026-11-16T22:57:00+11:00",
+   "createdAt": "2026-11-17T06:55:00+11:00",
+   "reason": "Restatement, nothing new",
+   "rank": 8
+  },
+  {
+   "id": "2026-11-17-lo-alaska-senate-count",
+   "batch": "2026-11-17",
+   "category": "Politics",
+   "title": "Peltola leads Sullivan in uncalled Alaska Senate race as ranked-choice count nears",
+   "summary": "Democrat Mary Peltola leads Republican Senator Dan Sullivan in Alaska's Senate race with about 97 per cent of votes counted, Newsweek reported, citing the state Division of Elections. She had 49.94 per cent of first-choice votes, just short of a majority.\n\nRanked-choice tabulation begins on 18 November, with certification targeted for 25 November. The race has not been called. Ms Peltola's campaign said Mr Sullivan has no path to victory; his campaign said it wants a complete and accurate count. A Newsweek simulation using the cast vote record is not an official result.",
+   "keyFacts": [
+    "Peltola on 49.94 per cent of first preferences",
+    "Ranked-choice tabulation begins 18 November",
+    "Race has not been called"
+   ],
+   "sources": [
+    {
+     "name": "Newsweek",
+     "url": "https://www.newsweek.com/mary-peltola-closes-in-on-50-threshold-in-alaska-senate-race-12718013"
+    }
+   ],
+   "publishedAt": "2026-11-16T14:41:00+11:00",
+   "createdAt": "2026-11-17T06:55:00+11:00",
+   "reason": "Not yet confirmed",
+   "rank": 9
+  },
+  {
+   "id": "2026-11-17-lo-dc-probation-shooting",
+   "batch": "2026-11-17",
+   "category": "Other",
+   "title": "Washington teen sentenced to probation over shooting that injured boy at recreation centre",
+   "summary": "A 19-year-old Washington man who pleaded guilty to aggravated assault and carrying a pistol without a licence was sentenced to probation over a May shooting that injured a boy playing basketball, the US Attorney's Office for the District of Columbia said. Prosecutors had sought five years.\n\nJudge Jennifer Di Toro imposed a suspended 24-month sentence with 18 months of supervised probation under the Youth Rehabilitation Act, over the government's objection, according to the office. Fox 5 DC reported the man fired more than 20 rounds. A search of his home found two firearms, prosecutors said.",
+   "keyFacts": [
+    "Prosecutors sought five years in prison",
+    "Judge imposed suspended sentence and probation",
+    "More than 20 rounds were fired, prosecutors say"
+   ],
+   "sources": [
+    {
+     "name": "US Attorney's Office, DC",
+     "url": "https://www.justice.gov/usao-dc/pr/teen-gets-probation-shooting-juvenile-playing-basketball-recreation-center"
+    },
+    {
+     "name": "Fox 5 DC",
+     "url": "https://www.fox5dc.com/news/19-year-old-gets-probation-after-shooting-juvenile-dc-recreation-center"
+    }
+   ],
+   "publishedAt": "2026-11-14T10:06:00+11:00",
+   "createdAt": "2026-11-17T06:55:00+11:00",
+   "reason": "Local crime",
+   "rank": 10
+  },
+  {
+   "id": "2026-11-17-lo-darwin-teen-terror-bail",
+   "batch": "2026-11-17",
+   "category": "Australia",
+   "title": "Darwin girl, 15, granted bail on terrorism document charge",
+   "summary": "A 15-year-old Darwin girl charged with collecting or making documents likely to facilitate terrorist acts was granted bail in the Northern Territory Youth Justice Court on Monday, AAP reported. She was arrested on 3 November and cannot be identified.\n\nJudge Greg Macdonald found exceptional circumstances, citing her age, mental health and family support, according to AAP. Conditions include no internet-capable devices, adult supervision and the removal of guns from the home. Allegations raised at the hearing have not been tested. A 14-year-old boy faces related charges, and the case returns to court on 15 December.",
+   "keyFacts": [
+    "Charge carries a maximum of 15 years",
+    "Bail granted with strict conditions",
+    "Case returns to court on 15 December"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/teenage-girl-granted-bail-on-terrorism-charges"
+    }
+   ],
+   "publishedAt": "2026-11-16T15:00:00+11:00",
+   "createdAt": "2026-11-17T06:55:00+11:00",
+   "reason": "Local crime",
+   "rank": 11
+  },
+  {
+   "id": "2026-11-17-lo-canberra-driver-sentence",
+   "batch": "2026-11-17",
+   "category": "Australia",
+   "title": "Elderly driver who killed boy in Canberra car park avoids jail",
+   "summary": "An 81-year-old woman who pleaded guilty to culpable driving causing the death of a four-year-old boy in a Canberra shopping centre car park received a suspended sentence of two years and three months, ABC News reported. Her licence was suspended indefinitely.\n\nACT Supreme Court Justice Belinda Baker said the woman was not intoxicated or speeding and did not realise the car was still in drive. Prosecutors had argued for full-time custody. The boy's parents had asked for the lightest possible sentence and said afterwards the result was fair, according to the ABC.",
+   "keyFacts": [
+    "Suspended sentence of two years and three months",
+    "Licence suspended indefinitely",
+    "Prosecutors had sought full-time custody"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-16/elderly-driver-who-killed-four-year-old-boy-canberra-avoids-jail/107389908"
+    }
+   ],
+   "publishedAt": "2026-11-16T13:17:00+11:00",
+   "createdAt": "2026-11-17T06:55:00+11:00",
+   "reason": "Local crime",
+   "rank": 12
+  },
+  {
+   "id": "2026-11-17-lo-qld-australian-of-year",
+   "batch": "2026-11-17",
+   "category": "Other",
+   "title": "Robert Irwin named Queensland's 2027 Australian of the Year",
+   "summary": "Conservationist Robert Irwin, 22, has been named Queensland's 2027 Australian of the Year for his environmental advocacy and work at Australia Zoo, ABC News reported. Sprinter Gout Gout, 18, was named Young Australian of the Year for Queensland.\n\nDisability advocate Carmel Crouch, 80, was named the state's Senior Australian of the Year, and Cairns Hospital greeter Noel Brown received the Local Hero award, according to the ABC. National Australia Day Council chief executive Carrie Leeson congratulated the recipients.",
+   "keyFacts": [
+    "Robert Irwin named Queensland Australian of the Year",
+    "Gout Gout named Young Australian of the Year for Queensland",
+    "Carmel Crouch named Senior Australian of the Year for Queensland"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-16/robert-irwin-named-2027-australian-of-the-year-for-queensland/107391896"
+    }
+   ],
+   "publishedAt": "2026-11-16T22:11:00+11:00",
+   "createdAt": "2026-11-17T06:55:00+11:00",
+   "reason": "Ceremonial event",
+   "rank": 13
   }
  ]
 }
