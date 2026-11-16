@@ -20,17 +20,17 @@ self.addEventListener("push", e => {
   let d = {};
   try { d = e.data ? e.data.json() : {}; } catch { d = { body: e.data ? e.data.text() : "" }; }
   e.waitUntil((async () => {
-    let n = null;
-    try { n = await unreadCount(); } catch {}
-    if (n != null && self.navigator && self.navigator.setAppBadge) {
-      try { n ? await self.navigator.setAppBadge(n) : await self.navigator.clearAppBadge(); } catch {}
-    }
+    // show the notification first; a unique tag so each update alerts instead of silently replacing the last one
     await self.registration.showNotification(d.title || "Unspun", {
       body: d.body || "New stories are in.",
       icon: SCOPE + "icons/icon-192.png",
-      tag: "unspun-update",
+      tag: "unspun-" + Date.now(),
       data: { url: SCOPE }
     });
+    try {
+      const n = await unreadCount();
+      if (self.navigator && self.navigator.setAppBadge) n ? await self.navigator.setAppBadge(n) : await self.navigator.clearAppBadge();
+    } catch {}
   })());
 });
 
