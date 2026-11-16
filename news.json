@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T07:00:00+11:00",
+ "updatedAt": "2026-11-16T18:25:00+11:00",
  "articles": [
   {
    "id": "2026-11-12-mississippi-senate",
@@ -520,27 +520,6 @@
    ],
    "publishedAt": "2026-11-12T02:05:00+11:00",
    "createdAt": "2026-11-12T10:35:00+11:00"
-  },
-  {
-   "id": "2026-11-12-rba-ai-speech",
-   "batch": "2026-11-12",
-   "rank": 21,
-   "category": "Economy",
-   "title": "RBA economist says AI investment is adding to demand before productivity gains show",
-   "summary": "Reserve Bank chief economist Sarah Hunter said on Monday that AI is already reshaping the Australian economy through business investment and demand. AAP reports there is so far limited evidence that AI is lifting productivity. RBA staff estimate data centre investment has grown roughly tenfold in three years and project a further $115 billion by the end of 2028.\n\nRBA research found households' exposure to AI-related shares, mostly through super, rose from about 2% of financial wealth in 2022 to 5.3% in June 2026. Staff estimate a 30% fall in those shares would cut household wealth by 1.6%.",
-   "keyFacts": [
-    "Speech delivered 9 November in Sydney",
-    "AI-related memory chip prices rose more than 200% in a year, per RBA research",
-    "The $115 billion projection depends on power, water and construction capacity"
-   ],
-   "sources": [
-    {
-     "name": "AAP (via Canberra Times)",
-     "url": "https://www.canberratimes.com.au/story/9387921/australians-are-tied-to-the-ai-boom-like-it-or-not/"
-    }
-   ],
-   "publishedAt": "2026-11-09T09:30:00+11:00",
-   "createdAt": "2026-11-12T03:30:00+11:00"
   },
   {
    "id": "2026-11-12-vic-liberal-candidate-dumped",
@@ -3126,6 +3105,331 @@
    ],
    "publishedAt": "2026-11-15T21:00:00+11:00",
    "createdAt": "2026-11-16T07:00:00+11:00"
+  },
+  {
+   "id": "2026-11-16-third-carrier-iran-warning",
+   "batch": "2026-11-16-pm",
+   "rank": 1,
+   "category": "World",
+   "title": "Third US carrier arrives in Middle East; Iran says it will not wait to be attacked",
+   "summary": "The USS Theodore Roosevelt carrier strike group entered the area covered by US Central Command on Sunday, joining two other carrier groups already in the region, according to a US official cited by Al Jazeera and Gulf News. Gulf News, citing ABC News in the US, reported more than 20 Navy vessels are supporting a blockade of Iranian ports.\n\nIran's deputy foreign minister Kazem Gharibabadi told state news agency IRNA that Tehran would not wait for the US to strike first, and suggested Washington could be using diplomacy to prepare another attack. Israel National News reported President Donald Trump said in an interview he had no hesitation about renewed strikes, while Reuters reported he was weighing a delay.",
+   "keyFacts": [
+    "USS Theodore Roosevelt is the third US carrier group in the region",
+    "More than 20 US Navy vessels support a blockade of Iranian ports, reports say",
+    "Iran's deputy foreign minister said Tehran will not wait to be attacked"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack"
+    },
+    {
+     "name": "Gulf News",
+     "url": "https://gulfnews.com/world/mena/middle-east-conflict-us-iran-tensions-escalate-as-third-aircraft-carrier-enters-region-1.500748608"
+    },
+    {
+     "name": "Israel National News",
+     "url": "https://www.israelnationalnews.com/news/436265"
+    }
+   ],
+   "publishedAt": "2026-11-16T09:00:00+11:00",
+   "createdAt": "2026-11-16T18:25:00+11:00"
+  },
+  {
+   "id": "2026-11-16-hormuz-supertanker-sinks",
+   "batch": "2026-11-16-pm",
+   "rank": 2,
+   "category": "World",
+   "title": "Iran says supertanker carrying two million barrels sank after hitting mine in Hormuz",
+   "summary": "Iran's Revolutionary Guards said a supertanker carrying more than two million barrels of crude oil sank in the southern Persian Gulf after striking a mine and catching fire in the Strait of Hormuz, AFP reported via RTÉ. The Guards said two tankers travelling on what they called an unauthorised route had hit mines. They did not name the vessels.\n\nThere was no independent confirmation of the sinking, according to RTÉ. The UK Maritime Trade Operations centre said the extent of the damage was unknown but the crew were safe. The US military recently said it had cleared mines from the strait's main shipping routes. Iran has heavily restricted traffic through the strait since the war began in late February.",
+   "keyFacts": [
+    "Iran's Revolutionary Guards say a supertanker with over two million barrels sank",
+    "The sinking has not been independently confirmed",
+    "UKMTO said the crew were safe"
+   ],
+   "sources": [
+    {
+     "name": "RTÉ (AFP)",
+     "url": "https://www.rte.ie/news/middle-east/2026/1115/1599293-iran-tanker-hormuz/"
+    },
+    {
+     "name": "The New Arab",
+     "url": "https://www.newarab.com/news/supertanker-2-million-barrels-oil-sank-gulf-iran-say"
+    }
+   ],
+   "publishedAt": "2026-11-16T02:07:00+11:00",
+   "createdAt": "2026-11-16T18:25:00+11:00"
+  },
+  {
+   "id": "2026-11-16-coles-cyber-incident",
+   "batch": "2026-11-16-pm",
+   "rank": 3,
+   "category": "Business",
+   "title": "Coles investigates cybersecurity incident, says no evidence customer data was taken",
+   "summary": "Supermarket group Coles told the ASX on Monday morning it was investigating a cybersecurity incident, ABC News reported. The company said it had not identified any evidence that customer, staff or supplier data had been compromised or removed, and that stores and operations were continuing.\n\nColes said it was working with global cybersecurity experts to contain and secure its IT systems and would give further updates as appropriate, according to the ABC. It said customers did not need to take any action but should remain vigilant. A small number of customers were having problems with Liquorland click-and-collect orders. Coles did not give details of the nature of the incident.",
+   "keyFacts": [
+    "Coles disclosed the incident in an ASX statement on Monday",
+    "The company says it has found no evidence data was taken",
+    "Some Liquorland click-and-collect orders were affected"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-16/coles-investigates-cybersecurity-breach-but-little-detail/107390824"
+    },
+    {
+     "name": "InDaily",
+     "url": "https://www.indailysa.com.au/news/just-in/2026/11/16/coles-investigates-cyber-attack"
+    }
+   ],
+   "publishedAt": "2026-11-16T09:00:00+11:00",
+   "createdAt": "2026-11-16T18:25:00+11:00"
+  },
+  {
+   "id": "2026-11-16-gaza-aid-four-nations-statement",
+   "batch": "2026-11-16-pm",
+   "rank": 4,
+   "category": "World",
+   "title": "Australia, Canada, Italy and UK urge Israel to let 150,000 tents into Gaza",
+   "summary": "The foreign ministers of Australia, Canada, Italy and the United Kingdom issued a joint statement saying the humanitarian situation in Gaza is dire as winter arrives, according to the text published by Global Affairs Canada. The statement says 150,000 tents and other supplies are being held at the border and prevented from entering.\n\nThe four governments urged Israel to open crossings and allow immediate and unimpeded humanitarian access, and called on all parties to implement the Comprehensive Plan for Gaza and respect the ceasefire. Foreign Minister Penny Wong said severe weather and heavy rain were worsening conditions, ABC News reported. Israel's response was not reported in the sources reviewed.",
+   "keyFacts": [
+    "Joint statement by Australia, Canada, Italy and the UK",
+    "Says 150,000 tents are held at Gaza's border",
+    "Urges Israel to open crossings and parties to respect the ceasefire"
+   ],
+   "sources": [
+    {
+     "name": "Global Affairs Canada",
+     "url": "https://www.canada.ca/en/global-affairs/news/2026/11/joint-foreign-ministers-statement-on-gaza.html"
+    },
+    {
+     "name": "Minister for Foreign Affairs",
+     "url": "https://www.foreignminister.gov.au/minister/penny-wong/media-release/joint-foreign-ministers-statement-gaza"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-16/federal-politics-live-blog-senate-gas-nov-16/107388656"
+    }
+   ],
+   "publishedAt": "2026-11-16T07:00:00+11:00",
+   "createdAt": "2026-11-16T18:25:00+11:00"
+  },
+  {
+   "id": "2026-11-16-china-october-data-miss",
+   "batch": "2026-11-16-pm",
+   "rank": 5,
+   "category": "Economy",
+   "title": "China's factory output and retail sales growth slow more than expected in October",
+   "summary": "China's industrial output rose 4.8 per cent in October from a year earlier, below the 5.3 per cent forecast in a Reuters poll and down from 5.5 per cent in September, according to official data reported by Reuters via The Standard. Retail sales grew 0.4 per cent, against expectations of 0.8 per cent.\n\nFixed-asset investment fell 8.1 per cent in the first ten months of the year, a steeper decline than the 7 per cent forecast, Reuters reported. New home prices fell 2.4 per cent over the year, Investing.com said. The surveyed urban unemployment rate eased to 5.1 per cent. China is Australia's largest trading partner.",
+   "keyFacts": [
+    "Industrial output up 4.8% year on year, below 5.3% forecast",
+    "Retail sales up 0.4%, against 0.8% expected",
+    "Fixed-asset investment down 8.1% in January–October"
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via The Standard)",
+     "url": "https://www.thestandard.com.hk/finance/article/348591/Chinas-economy-falters-in-October-as-factory-output-retail-sales-miss-forecasts"
+    },
+    {
+     "name": "Investing.com (via Yahoo Finance)",
+     "url": "https://sg.finance.yahoo.com/news/china-factory-output-retail-sales-024411325.html"
+    }
+   ],
+   "publishedAt": "2026-11-16T13:00:00+11:00",
+   "createdAt": "2026-11-16T18:25:00+11:00"
+  },
+  {
+   "id": "2026-11-16-japan-q3-gdp-contracts",
+   "batch": "2026-11-16-pm",
+   "rank": 6,
+   "category": "Economy",
+   "title": "Japan's economy contracts in the September quarter",
+   "summary": "Japan's economy shrank at an annualised rate of 0.1 per cent in the July–September quarter, according to preliminary government figures reported by ABC News and ForexLive. Economists had expected growth of about 0.3 per cent, ForexLive reported.\n\nForexLive said weaker exports and consumer spending weighed on the result, while other reports pointed to a rise in imports. The figures were released on Monday, the same day as Chinese data showing slower-than-expected growth in factory output and retail sales. Japan is one of Australia's largest export markets, and the result follows earlier pressure on Japanese households from higher energy costs, reports said.",
+   "keyFacts": [
+    "Japan's GDP fell at an annualised 0.1% in the September quarter",
+    "Forecasts had pointed to growth of about 0.3%",
+    "Exports and consumer spending weighed, reports said"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-16/asx-markets-business-live-news-nov-16/107388134"
+    },
+    {
+     "name": "ForexLive",
+     "url": "https://investinglive.com/news/japan-q3-gdp-shrinks-0-1-annualised-vs-0-3-expected-as-exports-and-consumers-weigh/"
+    }
+   ],
+   "publishedAt": "2026-11-16T10:50:00+11:00",
+   "createdAt": "2026-11-16T18:25:00+11:00"
+  },
+  {
+   "id": "2026-11-16-asx-close-mining-drag",
+   "batch": "2026-11-16-pm",
+   "rank": 7,
+   "category": "Economy",
+   "title": "ASX 200 falls 0.4 per cent for third straight loss as miners decline",
+   "summary": "The S&P/ASX 200 index closed 37.5 points, or 0.4 per cent, lower at 9,044.7 on Monday, its third consecutive daily fall, according to ShareCafe. Mining stocks were the main drag, while real estate and technology shares edged higher.\n\nShareCafe linked continued caution over artificial intelligence stocks to the leadership upheaval at Nvidia. ABC News reported online retailer Adore Beauty fell 36 per cent to a record low after cutting its guidance, and that the Australian dollar traded at about 67.6 US cents. Coles disclosed a cybersecurity incident during the session, and IDP Education rejected a third takeover proposal from Blackstone.",
+   "keyFacts": [
+    "ASX 200 closed down 0.4% at 9,044.7",
+    "Miners led the falls; real estate and tech edged up",
+    "Australian dollar near 67.6 US cents"
+   ],
+   "sources": [
+    {
+     "name": "ShareCafe",
+     "url": "https://www.sharecafe.com.au/2026/11/16/asx-200-slips-as-mining-drags-ai-jitters-persist/"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-16/asx-markets-business-live-news-nov-16/107388134"
+    }
+   ],
+   "publishedAt": "2026-11-16T16:15:00+11:00",
+   "createdAt": "2026-11-16T18:25:00+11:00"
+  },
+  {
+   "id": "2026-11-16-idp-rejects-blackstone",
+   "batch": "2026-11-16-pm",
+   "rank": 8,
+   "category": "Business",
+   "title": "IDP Education rejects Blackstone's third takeover proposal at $3 a share",
+   "summary": "IDP Education's board rejected a third unsolicited proposal from private equity firm Blackstone of $3.00 a share, which valued the international student placement and IELTS testing company at about $835 million, Times Higher Education reported. Investing.com put the value at $US564.5 million.\n\nThe board said the offer substantially undervalued the company and was opportunistic, citing its student placement platform, its co-ownership of IELTS and a cost-cutting program it said was not yet fully realised, according to Times Higher Education. It said granting due diligence would be a distraction. IDP shares traded at about $2.50 on Monday. Blackstone's response was not reported.",
+   "keyFacts": [
+    "Blackstone's third proposal was $3.00 a share",
+    "IDP's board says the bid undervalues the company",
+    "Shares traded near $2.50 on Monday"
+   ],
+   "sources": [
+    {
+     "name": "Times Higher Education",
+     "url": "https://www.timeshighereducation.com/news/idp-rejects-third-takeover-bid"
+    },
+    {
+     "name": "Investing.com",
+     "url": "https://uk.investing.com/news/stock-market-news/idp-education-rejects-blackstones-5645-million-takeover-bid-for-third-time-4983478"
+    }
+   ],
+   "publishedAt": "2026-11-16T09:00:00+11:00",
+   "createdAt": "2026-11-16T18:25:00+11:00"
+  },
+  {
+   "id": "2026-11-16-houthis-free-600-detainees",
+   "batch": "2026-11-16-pm",
+   "rank": 9,
+   "category": "World",
+   "title": "Yemen's Houthis release 600 detainees in largest unilateral release of the war",
+   "summary": "Yemen's Houthi movement released 600 detainees on Sunday, the International Committee of the Red Cross said, according to The New Arab. The ICRC said its teams spoke with each person released to assess their health and needs. Al Jazeera described those freed as war detainees.\n\nAbdelkader al-Mourtada, who heads the Houthis' prisoner affairs committee in Sanaa, called it the largest unilateral release in the conflict and said 2,612 prisoners had been freed previously, The New Arab reported. He accused Saudi Arabia of blocking progress on exchanges; Saudi Arabia's response was not reported. The UN says more than 1,600 people have been killed since fighting resumed in July.",
+   "keyFacts": [
+    "ICRC says Houthis freed 600 detainees on Sunday",
+    "Houthi official calls it the largest unilateral release of the conflict",
+    "UN says over 1,600 killed since fighting resumed in July"
+   ],
+   "sources": [
+    {
+     "name": "The New Arab",
+     "url": "https://www.newarab.com/news/yemens-houthis-free-600-pro-government-fighters-icrc-says"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/yemens-houthis-unilaterally-release-600-war-detainees"
+    }
+   ],
+   "publishedAt": "2026-11-16T03:21:00+11:00",
+   "createdAt": "2026-11-16T18:25:00+11:00"
+  },
+  {
+   "id": "2026-11-16-odesa-mass-drone-attack",
+   "batch": "2026-11-16-pm",
+   "rank": 10,
+   "category": "World",
+   "title": "Russian drone attack on Odesa region cuts power to 41,000 families, officials say",
+   "summary": "Russia launched 132 long-range drones at Ukraine overnight into Sunday, and Ukraine's air force said 106 were intercepted, the Kyiv Independent reported. Odesa regional governor Oleh Kiper described a mass attack on the region that hit an energy facility run by DTEK and temporarily left about 41,000 families without power.\n\nSix people were injured in the Odesa region and homes, a school, a gas pipeline and an administrative building were damaged, according to the Kyiv Independent. Across Ukraine, four people were killed and 69 injured over the previous day, it reported. Ukrinform said the head of Odesa's city military administration reported a further attack later on Sunday that damaged infrastructure. Russia did not comment in the reports reviewed.",
+   "keyFacts": [
+    "Russia launched 132 drones; Ukraine says 106 were downed",
+    "About 41,000 Odesa-region families temporarily lost power",
+    "Four killed and 69 injured across Ukraine over a day"
+   ],
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/russia-launches-mass-attack-on-odesa-oblast-as-strikes-kill-4-injure-69-across-ukraine-over-past-day/"
+    },
+    {
+     "name": "Ukrinform",
+     "url": "https://www.ukrinform.net/rubric-ato/4184892-russians-attack-odesa-damaging-infrastructure.html"
+    }
+   ],
+   "publishedAt": "2026-11-15T19:00:00+11:00",
+   "createdAt": "2026-11-16T18:25:00+11:00"
+  },
+  {
+   "id": "2026-11-16-bird-flu-ey-modelling",
+   "batch": "2026-11-16-pm",
+   "rank": 11,
+   "category": "Economy",
+   "title": "Bird flu outbreak in poultry could cost economy up to $6.2b, EY modelling finds",
+   "summary": "An outbreak of H5N1 bird flu in Australia's commercial poultry industry could reduce real GDP by between $0.7 billion and $6.2 billion over 2026 to 2028, according to EY-Parthenon modelling reported by AAP. It estimated between about 500 and 5,600 full-time jobs could be lost.\n\nThe modelling suggested a $6.40 carton of eggs could rise to about $11.20 and a rotisserie chicken from $13 to about $22.75, AAP reported. H5N1 was first confirmed in Australia on 19 June. As of 12 November there had been more than 730 confirmed detections in wildlife and none in commercial poultry, according to AAP.",
+   "keyFacts": [
+    "EY modelling puts potential GDP loss at $0.7b to $6.2b",
+    "Egg and chicken prices could rise sharply in an outbreak",
+    "No H5N1 detections in commercial poultry so far, AAP says"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/bird-flu-could-cost-billions-send-food-prices-soaring"
+    },
+    {
+     "name": "The Nightly",
+     "url": "https://thenightly.com.au/australia/h5n1-bird-flu-outbreak-in-commercial-poultry-industry-could-cost-billions-send-food-prices-soaring-c-23165787"
+    }
+   ],
+   "publishedAt": "2026-11-16T03:30:00+11:00",
+   "createdAt": "2026-11-16T18:25:00+11:00"
+  },
+  {
+   "id": "2026-11-16-solomons-opposition-ausaid-grants",
+   "batch": "2026-11-16-pm",
+   "rank": 12,
+   "category": "Politics",
+   "title": "Solomon Islands opposition accuses Australia of 'chequebook diplomacy' over MP grants",
+   "summary": "The Solomon Islands opposition has accused Australia of chequebook diplomacy after reports that Prime Minister Matthew Wale's government gave MPs discretionary grants of up to SBD1 million, about $180,000 each, from a bank account labelled AusAID, ABC News reported.\n\nThe ABC said the account belongs to the Solomon Islands government rather than to Australia. The reported grants came from that account, according to the ABC. Responses from the Australian Government and Mr Wale's office to the opposition's claim were not detailed in the reports reviewed. The claim was reported in the ABC's federal politics coverage on Monday, while Prime Minister Anthony Albanese was in Manila for the ASEAN summit.",
+   "keyFacts": [
+    "Opposition alleges 'chequebook diplomacy' by Australia",
+    "MPs reportedly received grants of up to SBD1 million each",
+    "ABC says the 'AusAID' account belongs to the Solomon Islands government"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-16/federal-politics-live-blog-senate-gas-nov-16/107388656"
+    }
+   ],
+   "publishedAt": "2026-11-16T11:19:00+11:00",
+   "createdAt": "2026-11-16T18:25:00+11:00"
+  },
+  {
+   "id": "2026-11-16-ogilvie-integrity-outcome",
+   "batch": "2026-11-16-pm",
+   "rank": 13,
+   "category": "Politics",
+   "title": "Lawyer says public may never learn result of Tasmanian integrity probe into Ogilvie",
+   "summary": "A lawyer for former Tasmanian minister Madeleine Ogilvie told a state parliamentary committee the public may never learn the outcome of the Integrity Commission's investigation into her, ABC News reported. The probe, now nearly five years old, concerns an alleged conflict over a 2021 election commitment to fund a rowing club pontoon.\n\nChris Gunson SC said the Supreme Court ruled last week that the commission cannot table its investigation reports in parliament, according to the ABC. Greens MLC Cassy O'Connor said there was no information in the public domain about the investigation. Ms Ogilvie has previously contested the commission's process in court. The commission's response was not reported.",
+   "keyFacts": [
+    "Integrity Commission probe into Ogilvie began nearly five years ago",
+    "Supreme Court ruled the commission cannot table reports in parliament",
+    "Concerns a 2021 pledge to fund a rowing club pontoon"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-16/madeleine-ogilvie-integrity-commission-investigation-result/107389298"
+    }
+   ],
+   "publishedAt": "2026-11-16T12:22:00+11:00",
+   "createdAt": "2026-11-16T18:25:00+11:00"
   }
  ],
  "leftOut": [
@@ -4760,30 +5064,114 @@
    "reason": "Restatement, nothing new"
   },
   {
-   "id": "2026-11-16-lo-indiana-work-based-learning",
-   "batch": "2026-11-16",
-   "rank": 5,
-   "category": "Other",
-   "title": "Indiana launches work-based learning hub to support new high school diploma rules",
-   "summary": "Indiana Governor Mike Braun announced a digital resource hub in October to help schools and employers deliver work-based learning under the state's new high school diploma requirements, Indiana broadcasters WBIW and WISH-TV reported.\n\nThe hub was developed by the Indiana Commission for Higher Education, the state Department of Education and nonprofit Ascend Indiana, and is backed by a $US100,000 grant. Schools must keep a training plan and partnership agreement on file for each student in qualifying work-based learning, though they may use their own format. Education Secretary Katie Jenner said the hub would make such placements more accessible.",
+   "id": "2026-11-16-lo-haines-discharged",
+   "batch": "2026-11-16-pm",
+   "rank": 1,
+   "category": "Australia",
+   "title": "Independent MP Helen Haines discharged from hospital after Wangaratta attack",
+   "summary": "Independent federal MP Helen Haines has been discharged from The Alfred hospital in Melbourne, ABC News reported on Monday. Dr Haines lost both legs after being struck by a car outside her Wangaratta electorate office on 19 October.\n\nPoliticians from across parliament welcomed the news, according to the ABC's live coverage. A 43-year-old man, Brendan Nugent, has been charged over the incident, the ABC reported. The charges have not been tested in court. Details of Dr Haines's return to parliamentary duties were not reported in the coverage reviewed.",
    "keyFacts": [
-    "Hub announced by Governor Braun on 6 October",
-    "Backed by a $US100,000 state grant to Ascend Indiana",
-    "Schools must keep a training plan for each participating student"
+    "Helen Haines discharged from The Alfred hospital",
+    "She lost both legs after being hit by a car on 19 October",
+    "A 43-year-old man has been charged"
    ],
    "sources": [
     {
-     "name": "WBIW",
-     "url": "https://www.wbiw.com/2026/10/06/governor-braun-strengthens-work-based-learning-opportunities-for-students-through-new-digital-resource-hub/"
-    },
-    {
-     "name": "WISH-TV (via Yahoo News)",
-     "url": "https://www.yahoo.com/news/us/articles/braun-based-learning-hub-opens-145147899.html"
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-16/federal-politics-live-blog-senate-gas-nov-16/107388656"
     }
    ],
-   "publishedAt": "2026-10-07T00:51:00+11:00",
-   "createdAt": "2026-11-16T07:00:00+11:00",
-   "reason": "Outside today's window"
+   "publishedAt": "2026-11-16T12:36:00+11:00",
+   "createdAt": "2026-11-16T18:25:00+11:00",
+   "reason": "Human interest"
+  },
+  {
+   "id": "2026-11-16-lo-ecuador-fishers-lawsuit",
+   "batch": "2026-11-16-pm",
+   "rank": 2,
+   "category": "World",
+   "title": "Ecuadorian fishers who survived US drone strike plan lawsuit against US government",
+   "summary": "Sixteen Ecuadorian fishers who say they survived a US military drone strike on their boat in March are suing the US government, Common Dreams reported. They are represented by lawyer Dan Kovalik in the US District Court for the Western District of Pennsylvania, according to the report.\n\nThe fishers allege the strike on the vessel La Negra Francesca Duarte II was unlawful and that they were later detained in El Salvador, and seek unspecified damages, Common Dreams said. It cited The Guardian as reporting the filing was due on Monday US time. The US government's response was not reported, and the filing had not been confirmed.",
+   "keyFacts": [
+    "16 fishers say a US drone strike sank their boat in March",
+    "Suit to be lodged in the Western District of Pennsylvania",
+    "Filing had not been confirmed at the time of reporting"
+   ],
+   "sources": [
+    {
+     "name": "Common Dreams",
+     "url": "https://www.commondreams.org/news/ecuadorian-fishers-sue-trump"
+    }
+   ],
+   "publishedAt": "2026-11-15T10:00:00+11:00",
+   "createdAt": "2026-11-16T18:25:00+11:00",
+   "reason": "Not yet confirmed"
+  },
+  {
+   "id": "2026-11-16-lo-van-hollen-shutdown-iran",
+   "batch": "2026-11-16-pm",
+   "rank": 3,
+   "category": "Politics",
+   "title": "Van Hollen says he won't back funding for Iran war ahead of December deadline",
+   "summary": "US Democratic senator Chris Van Hollen said he would not vote for any spending bill that funds the war with Iran, Jewish Insider reported, ahead of a 11 December government funding deadline. He said that if President Donald Trump was prepared to shut down the government to continue the war, that would be the president's decision.\n\nSome other Senate Democrats have taken similar positions, according to Jewish Insider. The White House's response to his remarks was not reported. The remarks restate a position Mr Van Hollen first set out earlier in November, and no vote has been scheduled on the funding bills.",
+   "keyFacts": [
+    "Van Hollen says he won't fund the Iran war",
+    "US government funding expires on 11 December",
+    "No vote on the bills has been scheduled"
+   ],
+   "sources": [
+    {
+     "name": "Jewish Insider",
+     "url": "https://jewishinsider.com/2026/11/senate-democrats-funding-fight-government-shutdown-iran-war/"
+    }
+   ],
+   "publishedAt": "2026-11-10T09:00:00+11:00",
+   "createdAt": "2026-11-16T18:25:00+11:00",
+   "reason": "Restatement, nothing new"
+  },
+  {
+   "id": "2026-11-16-lo-bay-of-bengal-cyclone-warning",
+   "batch": "2026-11-16-pm",
+   "rank": 4,
+   "category": "Environment",
+   "title": "India warns Bay of Bengal system could become severe cyclone by 17 November",
+   "summary": "The India Meteorological Department said a depression over the Bay of Bengal was likely to strengthen into a severe cyclonic storm by 17 November and move towards the Andhra Pradesh coast, Business Today reported. A landfall point had not been forecast.\n\nOdisha's disaster management minister Suresh Pujari put all districts on alert, according to the report, after two earlier cyclones in recent weeks. Fishermen were told to return to shore by 16 November, and rain is expected on 18 and 19 November. No damage or casualties had been reported, as the storm had not yet formed.",
+   "keyFacts": [
+    "IMD expects a severe cyclonic storm by 17 November",
+    "Odisha placed all districts on alert",
+    "Fishermen told to return to shore"
+   ],
+   "sources": [
+    {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/india/story/third-cyclone-in-three-weeks-imd-warns-of-severe-storm-by-nov-17-odisha-on-high-alert-567515-2026-11-15"
+    }
+   ],
+   "publishedAt": "2026-11-15T21:41:00+11:00",
+   "createdAt": "2026-11-16T18:25:00+11:00",
+   "reason": "Not yet confirmed"
+  },
+  {
+   "id": "2026-11-16-lo-iran-rejects-german-enrichment-call",
+   "batch": "2026-11-16-pm",
+   "rank": 5,
+   "category": "World",
+   "title": "Iran rejects German demand to halt uranium enrichment",
+   "summary": "Iran's foreign ministry spokesman Esmail Baghaei rejected a German call for Tehran to stop enriching uranium, citing Iran's rights under the Nuclear Non-Proliferation Treaty, the Associated Press reported. He also criticised the International Atomic Energy Agency over speculation about a new facility near Isfahan.\n\nMr Baghaei said the IAEA had lost access during the war with the US and Israel, and that Iran would respond to any attack, according to AP. Germany has said Iran must halt enrichment to ease tensions. The comments repeat Iran's long-stated position on enrichment, and no new nuclear talks were announced.",
+   "keyFacts": [
+    "Iran rejects Germany's call to halt enrichment",
+    "Spokesman cites Iran's rights under the NPT",
+    "Criticised IAEA over Isfahan speculation"
+   ],
+   "sources": [
+    {
+     "name": "AP (via Audacy)",
+     "url": "https://www.audacy.com/knss/news/world/mideast-news-israel-gaza-iran-november-15-2026-3b4adde832dadd333451fd2f7a51908c"
+    }
+   ],
+   "publishedAt": "2026-11-16T00:00:00+11:00",
+   "createdAt": "2026-11-16T18:25:00+11:00",
+   "reason": "Restatement, nothing new"
   }
  ]
 }
