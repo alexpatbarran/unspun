@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T17:50:12+11:00",
+ "updatedAt": "2026-11-18T06:48:30+11:00",
  "articles": [
   {
    "id": "2026-11-12-mississippi-senate",
@@ -57,31 +57,6 @@
     }
    ],
    "publishedAt": "2026-11-12T01:30:00+11:00",
-   "createdAt": "2026-11-12T03:30:00+11:00"
-  },
-  {
-   "id": "2026-11-12-us-cpi",
-   "batch": "2026-11-12",
-   "rank": 3,
-   "category": "Economy",
-   "title": "US inflation comes in higher than forecast, raising odds of a Fed rate rise",
-   "summary": "US consumer prices rose 0.4% in October, the Bureau of Labor Statistics reported, above the 0.3% economists expected. Core prices, which exclude food and energy, rose 0.3% against a forecast of 0.2%. The bureau could not publish annual figures because it collected no data in October 2025, during the government shutdown.\n\nFed Governor Christopher Waller said before the release that a half-point rate rise should be considered in December if core inflation came in around 0.3%. US shares and Treasuries fell after the data, and the ASX was expected to open lower.",
-   "keyFacts": [
-    "Headline CPI +0.4% for the month; core +0.3%",
-    "September's headline rise was 0.6%",
-    "Markets raised the odds of a December rate hike"
-   ],
-   "sources": [
-    {
-     "name": "BLS (official release)",
-     "url": "https://www.bls.gov/news.release/cpi.nr0.htm"
-    },
-    {
-     "name": "CNBC",
-     "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html"
-    }
-   ],
-   "publishedAt": "2026-11-11T00:30:00+11:00",
    "createdAt": "2026-11-12T03:30:00+11:00"
   },
   {
@@ -243,31 +218,6 @@
    "createdAt": "2026-11-12T03:30:00+11:00"
   },
   {
-   "id": "2026-11-12-knesset-sworn-in",
-   "batch": "2026-11-12",
-   "rank": 11,
-   "category": "World",
-   "title": "Israel's new parliament sworn in with no bloc holding a majority",
-   "summary": "Israel's 26th Knesset was sworn in on Tuesday. Neither Prime Minister Benjamin Netanyahu's bloc nor the opposing bloc holds the 61 seats needed to govern. President Isaac Herzog gave opposition leader Gadi Eisenkot the first mandate to form a government on 8 November, giving him 28 days.\n\nNetanyahu called on opposition parties to join a unity government under his leadership. Eisenkot's bloc sought a vote to replace Speaker Amir Ohana of Likud at the opening session. Ohana said such a vote required 61 signatures.",
-   "keyFacts": [
-    "Likud is the largest party with 27 seats",
-    "Eisenkot has 28 days to form a coalition",
-    "ABC reported heckling during Netanyahu's speech"
-   ],
-   "sources": [
-    {
-     "name": "Jerusalem Post",
-     "url": "https://www.jpost.com/israel-election-2026/article-914382"
-    },
-    {
-     "name": "Ynet",
-     "url": "https://www.ynetnews.com/article/bkbp4kkrmg"
-    }
-   ],
-   "publishedAt": "2026-11-11T01:00:00+11:00",
-   "createdAt": "2026-11-12T03:30:00+11:00"
-  },
-  {
    "id": "2026-11-12-gaza-strikes",
    "batch": "2026-11-12",
    "rank": 12,
@@ -297,31 +247,6 @@
    "createdAt": "2026-11-12T04:30:00+11:00"
   },
   {
-   "id": "2026-11-12-us-soldier-uk-arrest",
-   "batch": "2026-11-12",
-   "rank": 13,
-   "category": "World",
-   "title": "Senior US soldier arrested in England on suspicion of aiding Russian intelligence",
-   "summary": "A 41-year-old US Army soldier was arrested near Gloucester, England, on Tuesday on suspicion of offences under the UK's National Security Act, London's Metropolitan Police said. Counter-terrorism officers worked with the FBI and the US military, and searches were carried out at two addresses in Gloucestershire.\n\nThe man has not been named or charged. Brigadier General Sean Stinchon of US Army Counterintelligence Command described him as a senior soldier. FBI Director Kash Patel called it an important arrest. Police said the case is Russia-related and not linked to earlier Iran-related incidents at RAF Fairford.",
-   "keyFacts": [
-    "The suspect is held in custody in London",
-    "The offences relate to two sections of the National Security Act 2023",
-    "Police called it a significant investigation"
-   ],
-   "sources": [
-    {
-     "name": "AP (via PBS NewsHour)",
-     "url": "https://www.pbs.org/newshour/nation/u-s-soldier-arrested-in-britain-accused-of-espionage-linked-to-russia"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage"
-    }
-   ],
-   "publishedAt": "2026-11-11T06:41:00+11:00",
-   "createdAt": "2026-11-12T10:35:00+11:00"
-  },
-  {
    "id": "2026-11-12-global-carbon-budget",
    "batch": "2026-11-12",
    "rank": 14,
@@ -345,31 +270,6 @@
    ],
    "publishedAt": "2026-11-11T10:00:00+11:00",
    "createdAt": "2026-11-12T10:35:00+11:00"
-  },
-  {
-   "id": "2026-11-12-cop31-rooftop-solar",
-   "batch": "2026-11-12",
-   "rank": 15,
-   "category": "Environment",
-   "title": "COP31: rooftop solar declaration unveiled; Australia was first to sign",
-   "summary": "The Global Solar Council unveiled a Global Rooftop Solar Declaration at the COP31 climate talks in Antalya, Turkey. Signatory governments commit to helping double the number of homes with rooftop solar, from about 150 million to 300 million, by 2030. The declaration is voluntary and non-binding.\n\nAustralia became the first country to endorse it in October, when Energy Minister Chris Bowen, who is COP31's president of negotiations, signed at a Pacific pre-COP meeting in Fiji. ABC reports negotiators are split over a separate electrification target.",
-   "keyFacts": [
-    "COP31 runs 9–20 November in Antalya",
-    "Target: 300 million solar homes by 2030",
-    "More than a third of Australian homes have rooftop solar"
-   ],
-   "sources": [
-    {
-     "name": "PV Tech",
-     "url": "https://www.pv-tech.org/global-solar-council-to-unveil-rooftop-solar-declaration-at-cop31-as-governments-commit-to-300m-solar-homes/"
-    },
-    {
-     "name": "pv magazine Australia",
-     "url": "https://www.pv-magazine-australia.com/2026/10/08/australia-backs-goal-of-150-million-new-rooftop-solar-systems-globally-by-2030/"
-    }
-   ],
-   "publishedAt": "2026-11-10T20:00:00+11:00",
-   "createdAt": "2026-11-12T03:30:00+11:00"
   },
   {
    "id": "2026-11-12-albanese-cop31-leaders",
@@ -420,31 +320,6 @@
    ],
    "publishedAt": "2026-11-11T09:00:00+11:00",
    "createdAt": "2026-11-12T10:35:00+11:00"
-  },
-  {
-   "id": "2026-11-12-epstein-oversight-report",
-   "batch": "2026-11-12",
-   "rank": 19,
-   "category": "Politics",
-   "title": "House Republicans' Epstein report says federal government failed survivors",
-   "summary": "Republicans on the US House Oversight Committee released a report on Tuesday concluding their 15-month investigation into Jeffrey Epstein. It found the federal government mishandled criminal investigations into Epstein over decades and failed survivors. It drew on 19 witness interviews and depositions and on documents subpoenaed from the Justice Department, Epstein's estate and two banks.\n\nThe report said the facts uncovered do not suggest President Trump was implicated in Epstein's crimes. It accused committee Democrats of trying to implicate him. It identified two former federal prosecutors whose role in the original case raised concerns, according to Fox News.",
-   "keyFacts": [
-    "Report runs to about 136 pages",
-    "Released by the Republican majority under chair James Comer",
-    "Next steps are left to the Justice Department"
-   ],
-   "sources": [
-    {
-     "name": "NPR",
-     "url": "https://www.npr.org/2026/11/10/nx-s1-6036135/federal-government-failed-to-hold-epstein-accountable-republican-committee-says"
-    },
-    {
-     "name": "Fox News",
-     "url": "https://www.foxnews.com/politics/explosive-house-report-exposes-failures-says-allowed-epsteins-abuse-continue-years"
-    }
-   ],
-   "publishedAt": "2026-11-11T03:00:00+11:00",
-   "createdAt": "2026-11-12T04:30:00+11:00"
   },
   {
    "id": "2026-11-12-europe-school-bomb-hoaxes",
@@ -4011,6 +3886,400 @@
    "publishedAt": "2026-11-17T08:40:00+11:00",
    "createdAt": "2026-11-17T17:50:12+11:00",
    "rank": 8
+  },
+  {
+   "id": "2026-11-18-quad-manila-minerals-exercise",
+   "batch": "2026-11-18",
+   "category": "World",
+   "title": "Quad leaders announce joint patrol exercise and critical minerals deals in Manila",
+   "summary": "Leaders of the US, Australia, India and Japan held their first leader-level Quad meeting in two years on the sidelines of the ASEAN summit in Manila on Tuesday, the ABC reported. Donald Trump announced a joint exercise involving maritime patrol aircraft and new critical minerals agreements, and the group pledged more than $US85 million to widen AI access among Indo-Pacific partners.\n\nTrump said the deals meant no nation would be exposed to coercion by a single supplier, without naming China, according to the ABC. Anthony Albanese said the exercise was not aimed at any one country. Albanese is due to travel to Shenzhen for APEC and is expected to meet Xi Jinping on Friday.",
+   "keyFacts": [
+    "First Quad leaders' meeting in two years",
+    "More than $US85 million pledged for AI access",
+    "Albanese expected to meet Xi on Friday"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-18/quad-meeting-india-japan-usa-anthony-albanese-donald-trump/107396716"
+    },
+    {
+     "name": "AP (via ABC7)",
+     "url": "https://abc7.com/story/trump-arrives-philippines-kick-off-asia-trip-economic-deals-talks-allies/20047637/"
+    }
+   ],
+   "publishedAt": "2026-11-18T00:59:00+11:00",
+   "createdAt": "2026-11-18T06:48:30+11:00",
+   "rank": 1
+  },
+  {
+   "id": "2026-11-18-board-of-peace-gaza-report",
+   "batch": "2026-11-18",
+   "category": "World",
+   "title": "Board of Peace tells UN Security Council the Gaza ceasefire is at risk of collapse",
+   "summary": "The Board of Peace overseeing the Gaza ceasefire delivered its first annual assessment to the UN Security Council on Tuesday, AP reported. The report said the gap between what was agreed and conditions on the ground was the main risk, and warned the truce could collapse without immediate action.\n\nAccording to AP, the report said Israel had not allowed a technocratic Palestinian administration to begin work in Gaza, delaying the deployment of an international stabilisation force. It also cited Israeli strikes, restrictions on aid and continuing Hamas activity, and said both Israel and Hamas must meet their commitments. AP did not report a response from either party.",
+   "keyFacts": [
+    "First annual report delivered to the UN Security Council",
+    "Report says Gaza administration has not started work",
+    "Both Israel and Hamas urged to meet commitments"
+   ],
+   "sources": [
+    {
+     "name": "AP (via WSOC-TV)",
+     "url": "https://www.wsoctv.com/news/world/board-peace-delivers/B3JWRJK74QZGLLMCH5CUGFDRVY/"
+    }
+   ],
+   "publishedAt": "2026-11-18T06:04:00+11:00",
+   "createdAt": "2026-11-18T06:48:30+11:00",
+   "rank": 2
+  },
+  {
+   "id": "2026-11-18-trump-arrives-manila-asean",
+   "batch": "2026-11-18",
+   "category": "World",
+   "title": "Trump arrives in Manila for ASEAN summit and talks with Marcos as protesters rally",
+   "summary": "Donald Trump arrived in Manila on Tuesday afternoon for his first visit to the Philippines in nine years, the first stop on a three-day Asia trip that includes China, AP and the Philippine News Agency reported. He landed as the ASEAN summit was closing and is due to attend an ASEAN-US special summit and meet President Ferdinand Marcos Jr on Wednesday.\n\nAP said Trump was scheduled to sign a trade deal with Thailand. About 1,500 left-wing protesters rallied against his visit and almost 23,000 police were deployed, according to AP. AAP reported protesters called for an end to the Middle East war and opposed the US-led Pax Silica technology initiative.",
+   "keyFacts": [
+    "Trump's first Philippines visit in nine years",
+    "Meeting with Marcos set for Wednesday",
+    "Nearly 23,000 police deployed, AP says"
+   ],
+   "sources": [
+    {
+     "name": "AP (via ABC7)",
+     "url": "https://abc7.com/story/trump-arrives-philippines-kick-off-asia-trip-economic-deals-talks-allies/20047637/"
+    },
+    {
+     "name": "Philippine News Agency",
+     "url": "https://www.pna.gov.ph/article/trump-in-ph-for-asean-summit-bilateral-meet-with-pbbm"
+    },
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/albanese-set-to-meet-trump-as-anger-spills-onto-streets"
+    }
+   ],
+   "publishedAt": "2026-11-17T20:37:00+11:00",
+   "createdAt": "2026-11-18T06:48:30+11:00",
+   "rank": 3
+  },
+  {
+   "id": "2026-11-18-qeshm-explosions-hormuz",
+   "batch": "2026-11-18",
+   "category": "World",
+   "title": "Iran reports US attacks on Qeshm island; LPG tanker struck again near Hormuz",
+   "summary": "Iranian state media said the US carried out several attacks on Qeshm island in the Strait of Hormuz on Tuesday evening, Reuters reported. A deputy provincial governor told IRNA the strikes caused no damage to homes, businesses or infrastructure, and that five to six explosions were heard. Reuters reported no US military comment on Qeshm.\n\nSeparately, the UK Maritime Trade Operations centre said the LPG tanker Tara Gas was struck again, and India's shipping minister said an Indian seafarer was missing, according to Gulf News. Iran's Revolutionary Guards claimed a drone attack on a US radar in Bahrain; US Central Command said drones aimed at Bahrain were intercepted and denied the radar was hit.",
+   "keyFacts": [
+    "Iran says US attacked Qeshm island",
+    "Tara Gas tanker struck again, UKMTO says",
+    "CENTCOM denies Iranian claim of radar hit"
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via Arab News)",
+     "url": "https://www.arabnews.com/middle-east/us-attacks-irans-qeshm-island-in-strait-of-hormuz-official-3012499"
+    },
+    {
+     "name": "Gulf News",
+     "url": "https://gulfnews.com/world/mena/middle-east-conflict-tanker-incident-near-hormuz-as-vance-rules-out-forever-war-1.500749924"
+    }
+   ],
+   "publishedAt": "2026-11-18T00:31:00+11:00",
+   "createdAt": "2026-11-18T06:48:30+11:00",
+   "rank": 4
+  },
+  {
+   "id": "2026-11-18-backpacker-visa-changes-revised",
+   "batch": "2026-11-18",
+   "category": "Australia",
+   "title": "Government revises backpacker visa overhaul, lifting third-year cap to 25,000",
+   "summary": "Home Affairs Minister Tony Burke announced changes to the government's planned overhaul of working holiday visas on Tuesday, the ABC reported. The cap on third-year visas will rise from 5,000 to 25,000 places, while second-year visas will require 120 days of regional work, up from 88. The planned ballot system has been delayed to next year, and the new rules start on 1 March.\n\nBurke said consultation with industry shaped the package, according to the ABC. Opposition Leader Angus Taylor said the Coalition would repeal the changes if elected. The National Farmers' Federation welcomed the changes but sought more detail. UK backpackers remain exempt from regional work rules.",
+   "keyFacts": [
+    "Third-year cap rises from 5,000 to 25,000",
+    "Second-year visas need 120 regional work days",
+    "New rules start on 1 March"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-17/backflip-backpacker-working-holiday-visa-regional-work/107393474"
+    }
+   ],
+   "publishedAt": "2026-11-17T13:13:00+11:00",
+   "createdAt": "2026-11-18T06:48:30+11:00",
+   "rank": 5
+  },
+  {
+   "id": "2026-11-18-gaza-six-killed-tuesday",
+   "batch": "2026-11-18",
+   "category": "World",
+   "title": "Gaza officials say six people killed by Israeli fire, including a six-year-old",
+   "summary": "Gaza's civil defence agency said six people were killed by Israeli fire across the territory on Tuesday, AFP reported. Nasser Hospital said two of the deaths were in Deir el-Balah, including a six-year-old boy, and the civil defence spokesman said two people died in a drone strike near Jabalia.\n\nThe Israeli military told AFP it had struck several militants and was not aware of a six-year-old being killed by its fire. According to an AFP tally based on Gaza health ministry figures, more than 1,600 people have been killed in Gaza since the October 2025 ceasefire took effect.",
+   "keyFacts": [
+    "Six deaths reported by Gaza civil defence",
+    "Israeli military says it struck militants",
+    "More than 1,600 killed since ceasefire, AFP tally says"
+   ],
+   "sources": [
+    {
+     "name": "AFP (via Arab News)",
+     "url": "https://www.arabnews.com/middle-east/gaza-officials-say-israeli-forces-killed-6-in-gaza-including-child-3012515"
+    }
+   ],
+   "publishedAt": "2026-11-18T02:56:00+11:00",
+   "createdAt": "2026-11-18T06:48:30+11:00",
+   "rank": 6
+  },
+  {
+   "id": "2026-11-18-super-emerging-assets-test",
+   "batch": "2026-11-18",
+   "category": "Economy",
+   "title": "Chalmers proposes letting super funds put 5 per cent into housing, energy and startups",
+   "summary": "Treasurer Jim Chalmers on Tuesday proposed changes to the superannuation performance test that would let funds invest up to 5 per cent of portfolios in \"emerging assets\" such as housing, renewable energy and venture capital, the ABC reported. Those investments would be measured against a benchmark of inflation plus a premium. Funds would not be required to use the option.\n\nChalmers said the changes could unlock up to $90 billion, according to the ABC. The Coalition and One Nation oppose the proposal, with Nationals MP Kevin Hogan saying it treats super like a piggy bank. The Association of Superannuation Funds of Australia welcomed it.",
+   "keyFacts": [
+    "Up to 5 per cent of portfolios in emerging assets",
+    "Chalmers says up to $90 billion could be unlocked",
+    "Coalition and One Nation oppose the change"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-17/chalmers-proposes-new-rules-for-super-funds/107396462"
+    }
+   ],
+   "publishedAt": "2026-11-17T22:30:00+11:00",
+   "createdAt": "2026-11-18T06:48:30+11:00",
+   "rank": 7
+  },
+  {
+   "id": "2026-11-18-wall-street-tuesday-ai-slide",
+   "batch": "2026-11-18",
+   "category": "Economy",
+   "title": "US shares fall again as Nvidia swings ahead of results; Dow down 779 points at midday",
+   "summary": "US shares fell in midday trading on Tuesday as Nvidia and other AI-linked stocks swung sharply, AP reported. The S&P 500 was down 1.1 per cent, the Dow Jones Industrial Average 779 points or 1.5 per cent, and the Nasdaq 1.2 per cent.\n\nNvidia fell as much as 3.7 per cent before trimming its loss to 1 per cent, according to AP. The company said it was creating a board committee on national security and trade compliance, and interim chief executive Colette Kress was due to report quarterly results after the close. Brent crude rose 1 per cent to $US93.36 a barrel, and South Korea's Kospi fell 2.6 per cent.",
+   "keyFacts": [
+    "S&P 500 down 1.1 per cent at midday",
+    "Nvidia forms national security board committee",
+    "Brent crude at $US93.36"
+   ],
+   "sources": [
+    {
+     "name": "AP (via KULR-8)",
+     "url": "https://www.kulr8.com/news/national/us-stocks-fall-again-as-ai-companies-keep-swinging/article_c1b656e5-92b6-5928-b40a-cce17b026c37.html"
+    }
+   ],
+   "publishedAt": "2026-11-18T03:43:00+11:00",
+   "createdAt": "2026-11-18T06:48:30+11:00",
+   "rank": 8
+  },
+  {
+   "id": "2026-11-18-huang-willing-to-return",
+   "batch": "2026-11-18",
+   "category": "Business",
+   "title": "Jensen Huang says he would return as Nvidia chief if the board wanted him",
+   "summary": "Former Nvidia chief executive Jensen Huang said in a statement he would return to the role if the board decided it was in shareholders' interests, the ABC reported. Huang resigned under pressure over a relationship with a woman suspected of spying for China, and said he had not lived up to expected standards.\n\nDonald Trump said he would not mind Huang returning, according to the ABC. Supporters said an open letter had more than 190,000 signatures. The ABC, citing Reuters and other agencies, reported the board was not considering his return; Nvidia had not commented officially. The House Foreign Affairs Committee said Huang agreed to answer questions on 1 December.",
+   "keyFacts": [
+    "Huang says he would return if board agreed",
+    "Board reportedly not considering his return",
+    "Huang to answer House committee questions on 1 December"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-18/ex-nvidia-ceo-jensen-huang-says-he-would-be-honoured-to-return/107397042"
+    }
+   ],
+   "publishedAt": "2026-11-18T04:35:00+11:00",
+   "createdAt": "2026-11-18T06:48:30+11:00",
+   "rank": 9
+  },
+  {
+   "id": "2026-11-18-myefo-spending-cuts-flagged",
+   "batch": "2026-11-18",
+   "category": "Economy",
+   "title": "Chalmers says December budget update will include a substantial package of cuts",
+   "summary": "Treasurer Jim Chalmers said the mid-year budget update due in December would contain a substantial package of spending cuts, the ABC reported. Speaking at an ASIC forum on Tuesday, he said the government would cut enough \"but not too much\". No individual cuts have been confirmed.\n\nChalmers also said a deregulation push had produced 400 ideas, of which 140 had been enacted, according to the ABC. The opposition and some economists say government spending is adding to inflation; Chalmers rejects that view. Treasury analysis released by the government said Allegra Spender's capital gains tax model was unlikely to lead to a more productive economy.",
+   "keyFacts": [
+    "Budget update due in December",
+    "No individual cuts confirmed yet",
+    "Opposition links spending to inflation; Chalmers disagrees"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-17/chalmers-says-mid-year-budget-update-to-contain-cuts/107393416"
+    }
+   ],
+   "publishedAt": "2026-11-17T09:42:00+11:00",
+   "createdAt": "2026-11-18T06:48:30+11:00",
+   "rank": 10
+  },
+  {
+   "id": "2026-11-18-greens-trust-tax-red-line",
+   "batch": "2026-11-18",
+   "category": "Politics",
+   "title": "Greens narrow their demands for passing Labor's trust tax and CGT bills",
+   "summary": "The Greens could help pass Labor's minimum tax on trusts and its capital gains tax carve-out for start-ups as early as next week, the ABC reported on Tuesday. The party's main condition is ending the exemption for private schools from the trust tax. It also wants charity reform, but said a public register of trusts is not a red line.\n\nAccording to the ABC, the Greens have no red line on the capital gains change and are unlikely to back independent Allegra Spender's alternative model. Jim Chalmers described the private school issue as a narrow one. Spender said her plan had wide business support and called for a parliamentary inquiry.",
+   "keyFacts": [
+    "Private school exemption is Greens' main condition",
+    "Trust register not a red line",
+    "Spender seeks a parliamentary inquiry"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://abc.net.au/news/2026-11-17/greens-offer-government-path-to-pass-trusts-cgt/107394802"
+    }
+   ],
+   "publishedAt": "2026-11-17T14:58:00+11:00",
+   "createdAt": "2026-11-18T06:48:30+11:00",
+   "rank": 11
+  },
+  {
+   "id": "2026-11-18-bunnings-230-tech-jobs",
+   "batch": "2026-11-18",
+   "category": "Business",
+   "title": "Bunnings to cut about 230 technology jobs as work moves partly to Tata",
+   "summary": "Bunnings will make about 230 permanent technology roles redundant and end 120 contractor arrangements as it moves part of its technology work to Tata Consultancy Services, the ABC reported on Tuesday. About 500 in-house technology staff will remain in Australia.\n\nThe transition will run from December to June, with job losses beginning in the new year, according to the ABC. Managing director Mike Schneider described the move as a necessary change, and the company said it aimed to cut costs and keep pace with online retail. The ABC reported no response from unions or affected staff.",
+   "keyFacts": [
+    "About 230 permanent roles to go",
+    "120 contractor agreements ending",
+    "Transition runs December to June"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-17/bunnings-layoffs-and-offshoring/107394860"
+    }
+   ],
+   "publishedAt": "2026-11-17T14:23:00+11:00",
+   "createdAt": "2026-11-18T06:48:30+11:00",
+   "rank": 12
+  },
+  {
+   "id": "2026-11-18-gender-pay-gap-below-20",
+   "batch": "2026-11-18",
+   "category": "Australia",
+   "title": "National gender pay gap falls below 20 per cent for first time, WGEA data show",
+   "summary": "Australia's total remuneration gender pay gap fell to 19.7 per cent, below 20 per cent for the first time since the Workplace Gender Equality Agency began collecting the data, AAP reported. The agency's 2025–26 figures cover more than six million employees at 9,096 employers. Chief executive Christine Castley said the gap was 27.4 per cent in 2013.\n\nAccording to AAP, women earn about $27,000 a year less than men on average. The private sector gap fell from 21.1 to 20.3 per cent, while the public sector gap was 7.8 per cent. Women hold 24 per cent of chief executive roles. Castley called the result an important milestone.",
+   "keyFacts": [
+    "Total remuneration gap now 19.7 per cent",
+    "Private sector gap 20.3 per cent",
+    "Data cover more than six million employees"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/milestone-reached-australia-s-gender-pay-gap-shrinks"
+    }
+   ],
+   "publishedAt": "2026-11-18T05:00:00+11:00",
+   "createdAt": "2026-11-18T06:48:30+11:00",
+   "rank": 13
+  },
+  {
+   "id": "2026-11-18-asic-2027-priorities",
+   "batch": "2026-11-18",
+   "category": "Business",
+   "title": "ASIC to target cost-of-living harms in 2027 enforcement priorities",
+   "summary": "The Australian Securities and Investments Commission will focus its 2027 enforcement priorities on banks, insurers and superannuation companies, as well as suppliers that break pricing promises, AAP reported. Chair Sarah Court was due to outline the priorities in a speech on Wednesday.\n\nCourt said publishing the priorities allowed company boards to examine their own practices before the regulator intervened, according to AAP. ASIC warned last week of a rise in poor financial advice, including lead generation that steers people into high-risk super funds. AAP reported courts imposed $570 million in civil penalties in ASIC cases during 2026.",
+   "keyFacts": [
+    "Banks, insurers and super funds targeted",
+    "Chair Sarah Court speaking on Wednesday",
+    "$570 million in civil penalties in 2026"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/corporate-watchdog-targets-cost-of-living-rip-offs"
+    }
+   ],
+   "publishedAt": "2026-11-18T05:00:00+11:00",
+   "createdAt": "2026-11-18T06:48:30+11:00",
+   "rank": 14
+  },
+  {
+   "id": "2026-11-18-vic-early-voting-opens",
+   "batch": "2026-11-18",
+   "category": "Politics",
+   "title": "Early voting under way for Victorian election with record 4.7 million enrolled",
+   "summary": "More than 4.7 million Victorians are enrolled to vote in the 28 November state election, the largest number on record, the ABC reported. The Victorian Electoral Commission expects more than half of voters to cast ballots early for the first time, and early voting centres have risen from 150 in 2022 to more than 200.\n\nCommissioner Sven Bluemmel said about 300,000 more people would vote than in 2022, according to the ABC. Group voting tickets have been abolished for the upper house, where voters number at least five boxes above or below the line. Polls close at 6pm on election day, and Bluemmel said accuracy would come before speed.",
+   "keyFacts": [
+    "More than 4.7 million Victorians enrolled",
+    "Over 200 early voting centres",
+    "Group voting tickets abolished in upper house"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-18/logistics-behind-victoria-biggest-election-revealed/107355416"
+    }
+   ],
+   "publishedAt": "2026-11-18T05:26:00+11:00",
+   "createdAt": "2026-11-18T06:48:30+11:00",
+   "rank": 15
+  },
+  {
+   "id": "2026-11-18-png-three-child-proposal",
+   "batch": "2026-11-18",
+   "category": "World",
+   "title": "Papua New Guinea proposes encouraging families to have no more than three children",
+   "summary": "Papua New Guinea's government, led by Prime Minister James Marape, has outlined a proposed national family planning policy that would encourage families to have no more than three children, the ABC reported. The plan is at the proposal stage.\n\nThe official population is about 10.18 million and growing by more than 180,000 a year, according to the ABC, with a fertility rate of 3.6 births per woman. About a quarter of women of reproductive age use modern contraception. Marie Stopes PNG said the policy would not work unless women had more say over family size. The ABC said it had sought comment from the government.",
+   "keyFacts": [
+    "Policy is still a proposal",
+    "Population growing by over 180,000 a year",
+    "Fertility rate of 3.6 births per woman"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-17/png-policy-aims-to-limit-families-to-three-children/107385842"
+    }
+   ],
+   "publishedAt": "2026-11-17T15:45:00+11:00",
+   "createdAt": "2026-11-18T06:48:30+11:00",
+   "rank": 16
+  },
+  {
+   "id": "2026-11-18-bupa-clinic-medicare-billing",
+   "batch": "2026-11-18",
+   "category": "Health",
+   "title": "Bupa GP clinic email urged doctors to lift revenue through higher-paying Medicare items",
+   "summary": "An email from a Bupa-owned GP clinic told doctors to ensure revenue was increasing and encouraged more chronic condition management plans, which pay $160.60 compared with $87.10 for a standard consultation, the ABC reported. The ABC obtained the email, sent in June.\n\nBupa said the email was a reminder to consider preventive care and that patient needs always came first, according to the ABC. Royal Australian College of General Practitioners president Michael Wright said GPs should not be pressured over billing. The Department of Health is spending $147 million over four years on Medicare compliance.",
+   "keyFacts": [
+    "Email sent at one Bupa clinic in June",
+    "Chronic care plans pay $160.60",
+    "Bupa says patient needs come first"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-18/bupa-clinic-urged-gps-to-bill-costly-medicare-items-lift-revenue/106981358"
+    }
+   ],
+   "publishedAt": "2026-11-18T05:00:00+11:00",
+   "createdAt": "2026-11-18T06:48:30+11:00",
+   "rank": 17
+  },
+  {
+   "id": "2026-11-18-paraquat-inquiry-no-hearings",
+   "batch": "2026-11-18",
+   "category": "Politics",
+   "title": "Senate paraquat inquiry votes not to hold public hearings",
+   "summary": "The Senate rural and regional affairs committee examining the regulator's decision on the weedkiller paraquat will hold no public hearings, the ABC reported. Independent senator David Pocock's motion for hearings was defeated with votes from the major parties, and he alleged industry pressure.\n\nNationals senator Ross Cadell, the deputy chair, denied industry influence, according to the ABC. Parkinson's Australia criticised the decision and is appealing the Australian Pesticides and Veterinary Medicines Authority's June decision to the Administrative Review Tribunal. The APVMA said it did not accept that industry pressure shaped its decision.",
+   "keyFacts": [
+    "Pocock's motion for hearings defeated",
+    "Nationals deny industry influence",
+    "Parkinson's Australia appealing APVMA decision"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-18/senate-paraquat-inquiry-forgoes-public-hearing/107393820"
+    }
+   ],
+   "publishedAt": "2026-11-18T05:00:00+11:00",
+   "createdAt": "2026-11-18T06:48:30+11:00",
+   "rank": 18
   }
  ],
  "leftOut": [
@@ -4041,32 +4310,6 @@
    "reason": "Restatement, nothing new"
   },
   {
-   "id": "2026-11-12-lo-duty-of-care",
-   "batch": "2026-11-12",
-   "rank": 2,
-   "category": "Australia",
-   "title": "Digital duty of care bill awaits Senate committee report due 20 November",
-   "summary": "The Online Safety Amendment (Digital Duty of Care) Bill 2026 passed the House of Representatives on 28 October and is now before the Senate. It would place a legal duty on online services, including social media, search engines and generative AI services, to take reasonable steps to keep Australians safe, with extra protections for under-18s.\n\nCompanies that breach the duty could face penalties of up to about $109 million. The government has backed changes aimed at AI chatbots that simulate emotional intimacy with children. The Greens want stronger penalties.",
-   "keyFacts": [
-    "Introduced by Communications Minister Anika Wells",
-    "Passed the House on 28 October",
-    "Senate committee report due 20 November"
-   ],
-   "sources": [
-    {
-     "name": "Startup Daily",
-     "url": "https://www.startupdaily.net/?p=141337"
-    },
-    {
-     "name": "MinterEllison (legal analysis)",
-     "url": "https://www.minterellison.com/articles/australias-new-digital-duty-of-care-what-it-means"
-    }
-   ],
-   "publishedAt": "2026-11-11T06:00:00+11:00",
-   "createdAt": "2026-11-12T04:30:00+11:00",
-   "reason": "No new development"
-  },
-  {
    "id": "2026-11-12-lo-walliams",
    "batch": "2026-11-12",
    "rank": 5,
@@ -4089,32 +4332,6 @@
     }
    ],
    "publishedAt": "2026-11-11T12:00:00+11:00",
-   "createdAt": "2026-11-12T04:30:00+11:00",
-   "reason": "Celebrity"
-  },
-  {
-   "id": "2026-11-12-lo-sussex-brussels",
-   "batch": "2026-11-12",
-   "rank": 7,
-   "category": "Other",
-   "title": "Harry and Meghan speak at European Parliament event on social media harms to children",
-   "summary": "Prince Harry and Meghan attended an event at the European Parliament in Brussels on 10 November. It opened a memorial installation showing images of 50 children who died after harm they suffered on social media. Parliament President Roberta Metsola was also due to speak.\n\nIt was the couple's first public appearance since the allegations against Meghan's father emerged. Harry has campaigned on the risks of social media and AI chatbots for young people.",
-   "keyFacts": [
-    "Event at the European Parliament, Brussels",
-    "The installation is called the Lost Screen Memorial",
-    "Harry spoke on AI chatbots and children in September"
-   ],
-   "sources": [
-    {
-     "name": "AFP (via The Star)",
-     "url": "https://www.thestar.com.my/tech/tech-news/2026/11/05/harry-and-meghan-to-discuss-online-harms-at-eu-parliament-event"
-    },
-    {
-     "name": "Paris Match Belgique",
-     "url": "https://www.parismatch.be/actualites/people/2026/11/05/le-prince-harry-et-meghan-markle-se-rendront-la-semaine-prochaine-a-bruxelles-voici-la-raison-XVH3MNGGCVFYNO72M6ZXM2VKYY/"
-    }
-   ],
-   "publishedAt": "2026-11-11T02:00:00+11:00",
    "createdAt": "2026-11-12T04:30:00+11:00",
    "reason": "Celebrity"
   },
@@ -6191,6 +6408,138 @@
    "createdAt": "2026-11-17T17:50:12+11:00",
    "reason": "Local crime",
    "rank": 8
+  },
+  {
+   "id": "2026-11-18-lo-bowen-cop31-draft",
+   "batch": "2026-11-18",
+   "category": "Environment",
+   "title": "Bowen presents 18-page COP31 draft calling for faster fossil fuel phase-out",
+   "summary": "Climate Change Minister Chris Bowen, president of the COP31 negotiations, released an 18-page draft agreement in Antalya, Türkiye, the ABC reported. The draft draws on submissions from 160 countries, calls for accelerated action to phase out fossil fuels and seeks 35 per cent electrification of global energy by 2035.\n\nIt also proposes tripling adaptation funding to at least $US120 billion by 2035, according to the ABC. Greenpeace described the language as among the strongest in a COP draft. Bowen said not all parties would agree. Critics pointed to Australia's fossil fuel project approvals; Bowen defended exports to countries in transition.",
+   "keyFacts": [
+    "Draft has 144 provisions",
+    "Seeks 35 per cent electrification by 2035",
+    "Bowen says the text is not final"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-17/chris-bowen-launches-bold-climate-agenda-at-cop31/107393394"
+    }
+   ],
+   "publishedAt": "2026-11-17T09:56:00+11:00",
+   "createdAt": "2026-11-18T06:48:30+11:00",
+   "reason": "No new development",
+   "rank": 1
+  },
+  {
+   "id": "2026-11-18-lo-tanimbar-quake-darwin",
+   "batch": "2026-11-18",
+   "category": "Science & Tech",
+   "title": "Magnitude 6.6 earthquake near Indonesia's Tanimbar Islands felt across NT Top End",
+   "summary": "A magnitude 6.6 earthquake struck near Indonesia's Tanimbar Islands at about 6.41am Darwin time on Tuesday, the Bureau of Meteorology said, according to the ABC. Geoscience Australia said it began 42 kilometres beneath the Banda Sea.\n\nMore than 450 people reported feeling the tremor across the Northern Territory's Top End, including Darwin, Palmerston and Katherine, the ABC reported. Most shaking was weak or light. The bureau said there was no tsunami threat to Australia, and no damage was reported.",
+   "keyFacts": [
+    "Quake was 42km below the Banda Sea",
+    "More than 450 felt reports",
+    "No tsunami threat to Australia"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-17/magnitude-6-6-earthquake-indonesia-tremors-felt-in-darwin/107393396"
+    }
+   ],
+   "publishedAt": "2026-11-17T09:06:00+11:00",
+   "createdAt": "2026-11-18T06:48:30+11:00",
+   "reason": "Human interest",
+   "rank": 2
+  },
+  {
+   "id": "2026-11-18-lo-south-west-rocks-storm",
+   "batch": "2026-11-18",
+   "category": "Other",
+   "title": "Bureau says possible tornado damaged homes at South West Rocks",
+   "summary": "The Bureau of Meteorology said it was possible a tornado struck South West Rocks on the NSW Mid North Coast at about 4.45pm on Monday, the ABC reported. The bureau was still assessing radar data and reports.\n\nThree homes lost their roofs, and the SES received more than 30 calls for help, according to the ABC. Elsewhere in north-east NSW, 43 millimetres of rain fell in 30 minutes at Grafton and hailstones up to six centimetres were reported at Lawrence.",
+   "keyFacts": [
+    "Three homes lost roofs",
+    "SES received more than 30 calls",
+    "Bureau still assessing whether it was a tornado"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-17/possible-tornado-south-west-rocks/107393272"
+    }
+   ],
+   "publishedAt": "2026-11-17T09:26:00+11:00",
+   "createdAt": "2026-11-18T06:48:30+11:00",
+   "reason": "Human interest",
+   "rank": 3
+  },
+  {
+   "id": "2026-11-18-lo-hollands-inquest-psychiatrist",
+   "batch": "2026-11-18",
+   "category": "Australia",
+   "title": "Inquest hears Perth teen shot by police consumed extremist material",
+   "summary": "A forensic psychiatrist told the inquest into the death of 16-year-old James Leslie Hollands that he had consumed extremist online content, including beheading videos, the ABC reported. Hollands was shot dead by police at a Willetton Bunnings in May 2024 after stabbing a man.\n\nDr Natalie Pyszora said there was no sign he was planning a terror attack and that his risk had been assessed as low, according to the ABC. The family's lawyer questioned police leading the countering violent extremism program, while a senior detective supported it.",
+   "keyFacts": [
+    "Inquest into May 2024 police shooting",
+    "Psychiatrist saw no sign of attack planning",
+    "Family questions police role in program"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://abc.net.au/news/2026-11-17/james-hollands-enjoyed-extremist-content-inquest-told/107395226"
+    }
+   ],
+   "publishedAt": "2026-11-17T16:19:00+11:00",
+   "createdAt": "2026-11-18T06:48:30+11:00",
+   "reason": "Local crime",
+   "rank": 4
+  },
+  {
+   "id": "2026-11-18-lo-sam-wood-bail-appeal",
+   "batch": "2026-11-18",
+   "category": "Other",
+   "title": "Sam Wood takes bail appeal to Queensland Court of Appeal",
+   "summary": "Fitness personality Sam Wood, charged with assaulting and strangling his wife on the Sunshine Coast in October, has taken his bail application to the Queensland Court of Appeal, the ABC reported. He intends to contest the allegations.\n\nAfter two unsuccessful bail applications, his lawyers argued a Supreme Court judge's refusal was unreasonable and did not consider whether proposed conditions would reduce risk, according to the ABC. The court heard allegations about an argument in which he is accused of grabbing his wife by the throat.",
+   "keyFacts": [
+    "Charged over alleged October assault",
+    "Two earlier bail bids failed",
+    "He intends to contest the charges"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://abc.net.au/news/2026-11-17/sam-wood-court-of-appeal-bail/107390248"
+    }
+   ],
+   "publishedAt": "2026-11-17T11:41:00+11:00",
+   "createdAt": "2026-11-18T06:48:30+11:00",
+   "reason": "Celebrity",
+   "rank": 5
+  },
+  {
+   "id": "2026-11-18-lo-us-thailand-trade-deal",
+   "batch": "2026-11-18",
+   "category": "Economy",
+   "title": "Trump scheduled to sign trade deal with Thailand during Manila visit",
+   "summary": "Donald Trump was scheduled to sign a trade agreement with Thailand during his visit to Manila for the ASEAN summit, AP reported on Tuesday. Trump has said Thailand will eliminate tariffs on US exports under the deal.\n\nAP did not report details of the agreement or confirm that it had been signed. Trump is in Manila for an ASEAN-US special summit and talks with Philippine President Ferdinand Marcos Jr before travelling to China for the APEC meeting in Shenzhen.",
+   "keyFacts": [
+    "Signing scheduled during Manila visit",
+    "Terms not yet published",
+    "Trump travels on to APEC in China"
+   ],
+   "sources": [
+    {
+     "name": "AP (via ABC7)",
+     "url": "https://abc7.com/story/trump-arrives-philippines-kick-off-asia-trip-economic-deals-talks-allies/20047637/"
+    }
+   ],
+   "publishedAt": "2026-11-17T23:16:00+11:00",
+   "createdAt": "2026-11-18T06:48:30+11:00",
+   "reason": "Not yet confirmed",
+   "rank": 6
   }
  ]
 }
