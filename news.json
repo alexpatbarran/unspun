@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T06:55:00+11:00",
+ "updatedAt": "2026-11-17T17:50:12+11:00",
  "articles": [
   {
    "id": "2026-11-12-mississippi-senate",
@@ -133,31 +133,6 @@
    ],
    "publishedAt": "2026-11-11T11:30:00+11:00",
    "createdAt": "2026-11-12T10:35:00+11:00"
-  },
-  {
-   "id": "2026-11-12-qantas-accenture",
-   "batch": "2026-11-12",
-   "rank": 6,
-   "category": "Australia",
-   "title": "Qantas to cut 850 corporate jobs in outsourcing deal with Accenture",
-   "summary": "Qantas told staff on Tuesday it will cut 850 positions after signing an outsourcing deal with consultancy Accenture. The first phase covers finance, procurement, human resources and marketing, with the Sydney headquarters most affected. AAP reports most of Accenture's work for Qantas will be done in India, with some roles staying in Australia.\n\nChief executive Vanessa Hudson linked the move to modernising technology and the impact of AI. The Australian Services Union criticised the cuts as sending skills offshore. Transport Minister Catherine King called the decision extremely disappointing.",
-   "keyFacts": [
-    "850 positions; some reports put the total near 1,000",
-    "Qantas reported a $1.3 billion net profit for 2025/26 in August",
-    "Qantas says it will consult affected staff and redeploy where possible"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/qantas-to-slash-hundreds-of-jobs-send-roles-overseas"
-    },
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-10/850-jobs-to-go-from-qantas-as-airline-moves-roles-overseas/107368120"
-    }
-   ],
-   "publishedAt": "2026-11-10T13:00:00+11:00",
-   "createdAt": "2026-11-12T03:30:00+11:00"
   },
   {
    "id": "2026-11-12-hegseth-house-leaders",
@@ -445,31 +420,6 @@
    ],
    "publishedAt": "2026-11-11T09:00:00+11:00",
    "createdAt": "2026-11-12T10:35:00+11:00"
-  },
-  {
-   "id": "2026-11-12-nvidia-board-probe",
-   "batch": "2026-11-12",
-   "rank": 18,
-   "category": "Business",
-   "title": "Nvidia board investigates reports CEO was target of foreign intelligence effort",
-   "summary": "Nvidia's board said on 8 November it was opening an independent investigation into reports that chief executive Jensen Huang was the target of a foreign intelligence effort. A committee of independent directors with outside counsel will run it. The board said it has no reason to believe national security or company secrets were compromised.\n\nThe New York Times reported in October that US officials concluded Megaspeed executive Alice Huang was passing information to Beijing. China denies this. Jensen Huang told staff he had been unfaithful to his wife. Nvidia shares fell more than 4% on Monday.",
-   "keyFacts": [
-    "Investigation is internal; no charges reported",
-    "Huang remains CEO and says he will cooperate",
-    "Shares closed at US$178.67 on 9 November"
-   ],
-   "sources": [
-    {
-     "name": "Nvidia (official statement)",
-     "url": "https://investor.nvidia.com/news/press-release-details/2026/Statement-from-NVIDIA-Board-of-Directors/"
-    },
-    {
-     "name": "ABC News (US)",
-     "url": "https://www.goodmorningamerica.com/news/story/nvidia-stock-falls-after-company-opens-probe-ceo-137970524"
-    }
-   ],
-   "publishedAt": "2026-11-10T09:00:00+11:00",
-   "createdAt": "2026-11-12T03:30:00+11:00"
   },
   {
    "id": "2026-11-12-epstein-oversight-report",
@@ -3881,6 +3831,186 @@
    "publishedAt": "2026-11-16T21:27:00+11:00",
    "createdAt": "2026-11-17T06:55:00+11:00",
    "rank": 19
+  },
+  {
+   "id": "2026-11-17-rba-minutes-six-three",
+   "batch": "2026-11-17-pm",
+   "category": "Economy",
+   "title": "RBA minutes show six members judged earlier rate rises not clearly sufficient",
+   "summary": "Minutes of the Reserve Bank board's 2–3 November meeting, released on Tuesday, showed six of nine members judged that the year's earlier tightening was not clearly sufficient to deal with inflation risks, Reuters reported. They cited sticky inflation and the possibility of a higher neutral interest rate.\n\nThe three members who dissented were concerned the economy could be close to a materially sharper downturn, with unemployment rising and house prices falling, according to Reuters. The board lifted the cash rate to 4.85 per cent, its fifth increase this year. Unemployment is at a five-year high of 4.7 per cent.",
+   "keyFacts": [
+    "Six of nine board members backed the November rise",
+    "Dissenters warned of risk of a sharper downturn",
+    "Cash rate is 4.85 per cent after five rises this year"
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via AOL)",
+     "url": "https://www.aol.com/articles/rba-board-judges-fifth-rate-003853000.html"
+    },
+    {
+     "name": "investingLive",
+     "url": "https://investinglive.com/central-banks/rba-minutes-6-members-saw-rates-not-clearly-sufficient-3-warned-of-sharper-downturn/"
+    }
+   ],
+   "publishedAt": "2026-11-17T11:30:00+11:00",
+   "createdAt": "2026-11-17T17:50:12+11:00",
+   "rank": 1
+  },
+  {
+   "id": "2026-11-17-hormuz-two-tankers-mines",
+   "batch": "2026-11-17-pm",
+   "category": "World",
+   "title": "Iran's Revolutionary Guards say two more tankers hit mines in Strait of Hormuz",
+   "summary": "Iran's Revolutionary Guards navy said two oil tankers struck naval mines and caught fire while using a route through the southern Strait of Hormuz that Tehran considers unauthorised, Al Jazeera and Reuters reported. The vessels were not named and the claim could not be independently verified. Iran's regular navy separately said another tanker was disabled by a mine.\n\nThe UK Maritime Trade Operations agency reported two attacks on Monday, including a tanker disabled by an engine-room fire about 13 kilometres north of Khasab, Oman. Two security sources told Reuters sirens sounded in Iraq's Kurdistan region after a drone flew over the Khor Mor gas field; no strike was reported.",
+   "keyFacts": [
+    "IRGC says two tankers hit mines and caught fire",
+    "UKMTO reported two attacks on Monday near Oman",
+    "Drone flew over Iraq's Khor Mor gas field, sources said"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field"
+    }
+   ],
+   "publishedAt": "2026-11-17T14:12:00+11:00",
+   "createdAt": "2026-11-17T17:50:12+11:00",
+   "rank": 2
+  },
+  {
+   "id": "2026-11-17-yemen-forces-withdraw-to-aden",
+   "batch": "2026-11-17-pm",
+   "category": "World",
+   "title": "Yemeni government-aligned forces pull back from Bab al-Mandeb to defend Aden",
+   "summary": "The Southern Armed Forces, which are allied with Yemen's Saudi-backed government, said on Sunday they were withdrawing from Dhubab airport and areas around the Bab al-Mandeb Strait to secure Aden, the de facto capital, Al Jazeera and Reuters reported. AFP sources cited by the ABC said Houthi fighters held positions as close as 60 kilometres from Aden.\n\nThe group said reinforcements would also be sent to try to end the Houthi siege of Taiz, according to Al Jazeera. A Yemeni military spokesman described the redeployment as welcome, the ABC reported. The Saudi-led coalition said it shot down two Houthi missiles fired towards Riyadh.",
+   "keyFacts": [
+    "Government-aligned forces left areas around Bab al-Mandeb",
+    "Houthis reported within about 60 km of Aden",
+    "Reinforcements to be sent towards besieged Taiz"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-17/yemen-government-forces-retreat-bab-el-mandeb-strait/107392710"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/15/yemeni-government-forces-redeploy-from-bab-al-mandeb-to-defend-aden"
+    }
+   ],
+   "publishedAt": "2026-11-17T06:26:00+11:00",
+   "createdAt": "2026-11-17T17:50:12+11:00",
+   "rank": 3
+  },
+  {
+   "id": "2026-11-17-su35-parts-china-guilty-pleas",
+   "batch": "2026-11-17-pm",
+   "category": "Australia",
+   "title": "Two Queenslanders plead guilty over bid to supply Russian jet engine parts to China",
+   "summary": "Queensland businessman Alexander Cher pleaded guilty in Brisbane District Court on Monday to arranging the supply of goods on Australia's defence and strategic goods list in 2018, AAP reported. Gold Coast accountant Kim Bowei Lee had earlier pleaded guilty to brokering such supplies; a suppression order kept his case from being reported until Monday.\n\nA Commonwealth prosecutor told the court the group sought parts for Su-35 jet engines and radar for China, and that Lee was the first person convicted of the offence in Australia, according to AAP. Cher was sentenced to 18 months' jail, released on a recognisance order. Lee's lawyer said he had been misled by a man linked to the Chinese government.",
+   "keyFacts": [
+    "Two men pleaded guilty to defence export offences",
+    "Prosecutors said parts were for Su-35 engines and radar",
+    "Cher received 18 months, released on recognisance"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/aussies-tried-to-traffick-fighter-jet-engines-to-china"
+    }
+   ],
+   "publishedAt": "2026-11-17T05:40:00+11:00",
+   "createdAt": "2026-11-17T17:50:12+11:00",
+   "rank": 4
+  },
+  {
+   "id": "2026-11-17-trusts-tax-bill-dispute",
+   "batch": "2026-11-17-pm",
+   "category": "Politics",
+   "title": "Ministers and business groups dispute cost of proposed minimum tax on trusts",
+   "summary": "Senior ministers said a proposed minimum 30 per cent tax on some discretionary trusts would not affect most small businesses, while industry groups said the cost would exceed $1 billion, AAP reported. The government wants the bill passed in the final two sitting weeks of the year and needs Coalition or Greens support.\n\nForeign Minister Penny Wong told the Senate fewer than one in 10 small businesses use trusts. Business Council chief executive Bran Black said Treasury advice to a Senate inquiry put the cost at $1.73 billion a year, and that compliance costs would push the first-year bill to about $4 billion. Greens leader David Shoebridge said his party had an open mind.",
+   "keyFacts": [
+    "Bill sets a minimum 30 per cent tax on some trusts",
+    "Wong says fewer than one in 10 small businesses use trusts",
+    "BCA cites Treasury figure of $1.73 billion a year"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/can-least-afford-it-business-baulks-at-trust-bill"
+    }
+   ],
+   "publishedAt": "2026-11-17T04:40:00+11:00",
+   "createdAt": "2026-11-17T17:50:12+11:00",
+   "rank": 5
+  },
+  {
+   "id": "2026-11-17-spender-cgt-proposal-greens",
+   "batch": "2026-11-17-pm",
+   "category": "Politics",
+   "title": "Greens consider Allegra Spender plan to change Labor's capital gains tax overhaul",
+   "summary": "The Greens are considering backing independent MP Allegra Spender's proposal to amend the government's capital gains tax changes, the ABC reported. Under Labor's plan, the 50 per cent discount is largely replaced by an inflation-based deduction, with a 30 per cent minimum tax on gains.\n\nSpender has proposed a 40 per cent discount for productive assets, which would mean the inflation-based deduction applied mainly to housing, according to the ABC. The Greens, who hold the Senate balance of power, called the idea very interesting. The ABC understands the government is unwilling to adopt it, and Treasurer Jim Chalmers said it was unlikely to be fairer.",
+   "keyFacts": [
+    "Spender proposes 40 per cent discount for productive assets",
+    "Greens hold the balance of power in the Senate",
+    "Chalmers says proposal unlikely to be fairer"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-17/federal-politics-live-blog-senate-albanese-/107391106"
+    }
+   ],
+   "publishedAt": "2026-11-17T06:55:00+11:00",
+   "createdAt": "2026-11-17T17:50:12+11:00",
+   "rank": 6
+  },
+  {
+   "id": "2026-11-17-david-jones-first-creditors-meeting",
+   "batch": "2026-11-17-pm",
+   "category": "Business",
+   "title": "David Jones creditors hold first meeting as administrators seek more time",
+   "summary": "Creditors owed about $320 million by David Jones held their first meeting on Tuesday morning, AAP reported. The department store chain entered voluntary administration on 5 November, and receivers said last week about half of its Australian stores would close by the end of the year.\n\nCreditors had the option of replacing the four McGrathNicol administrators, according to AAP. McGrathNicol will ask a court to push the second creditors' meeting back to April. A Swinburne University governance expert told AAP that unsecured creditors, including small businesses owed up to $250,000, had more at stake than secured lender Hilco Capital.",
+   "keyFacts": [
+    "First creditors' meeting held on Tuesday",
+    "Creditors seeking about $320 million, AAP reports",
+    "Administrators to seek extension to April"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/next-step-on-path-to-decide-david-jones-survival"
+    }
+   ],
+   "publishedAt": "2026-11-17T16:30:00+11:00",
+   "createdAt": "2026-11-17T17:50:12+11:00",
+   "rank": 7
+  },
+  {
+   "id": "2026-11-17-laos-pm-backpacker-deaths",
+   "batch": "2026-11-17-pm",
+   "category": "Australia",
+   "title": "Laos PM tells Albanese those responsible for backpacker deaths will face justice",
+   "summary": "Laos Prime Minister Saleumxay Kommasith told Anthony Albanese that those responsible for the deaths of Melbourne teenagers Bianca Jones and Holly Bowles would face justice, AAP reported. The two met on the sidelines of the ASEAN summit in Manila. The teenagers were among six tourists who died after drinking methanol-laced alcohol in Vang Vieng in November 2024.\n\nA distillery owner has been charged with lesser offences carrying a maximum four-year penalty, according to AAP. Albanese said the families wanted a speedy resolution. Saleumxay said the trial was not complete, acknowledged delays and said evidence-gathering was continuing, including in Thailand, the ABC reported.",
+   "keyFacts": [
+    "Leaders met at the ASEAN summit in Manila",
+    "Six tourists died in the 2024 methanol poisoning",
+    "Distillery owner faces lesser charges"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/laos-pm-vows-justice-for-australian-backpacker-deaths"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-17/federal-politics-live-blog-senate-albanese-/107391106"
+    }
+   ],
+   "publishedAt": "2026-11-17T08:40:00+11:00",
+   "createdAt": "2026-11-17T17:50:12+11:00",
+   "rank": 8
   }
  ],
  "leftOut": [
@@ -3935,32 +4065,6 @@
    "publishedAt": "2026-11-11T06:00:00+11:00",
    "createdAt": "2026-11-12T04:30:00+11:00",
    "reason": "No new development"
-  },
-  {
-   "id": "2026-11-12-lo-pope-argentina",
-   "batch": "2026-11-12",
-   "rank": 3,
-   "category": "World",
-   "title": "Pope Leo draws an estimated 2.5 million to Buenos Aires Mass on first papal visit to Argentina since 1987",
-   "summary": "Pope Leo XIV celebrated an open-air Mass in Buenos Aires on 9 November that officials estimated drew 2.5 million people, the largest gathering of his papacy. The same day he met victims of clergy abuse. He celebrated Mass in Córdoba on 10 November and visited Luján on 11 November.\n\nIt is the first papal visit to Argentina since 1987. The 12-day trip also covers Uruguay and Peru and ends on 17 November.",
-   "keyFacts": [
-    "Argentina leg ran 8–11 November",
-    "The Pope met President Javier Milei during the visit",
-    "Next stop: Peru"
-   ],
-   "sources": [
-    {
-     "name": "Buenos Aires Times",
-     "url": "https://www.batimes.com.ar/news/argentina/pope-leo-celebrates-mass-before-estimated-25-million-people-in-buenos-aires.phtml"
-    },
-    {
-     "name": "EWTN News",
-     "url": "https://www.ewtnnews.com/world/US/pope-leo-xiv-praises-the-christian-family-s-contributions-to-argentina"
-    }
-   ],
-   "publishedAt": "2026-11-10T09:00:00+11:00",
-   "createdAt": "2026-11-12T04:30:00+11:00",
-   "reason": "Ceremonial event"
   },
   {
    "id": "2026-11-12-lo-walliams",
@@ -5559,28 +5663,6 @@
    "reason": "Not yet confirmed"
   },
   {
-   "id": "2026-11-16-lo-van-hollen-shutdown-iran",
-   "batch": "2026-11-16-pm",
-   "rank": 3,
-   "category": "Politics",
-   "title": "Van Hollen says he won't back funding for Iran war ahead of December deadline",
-   "summary": "US Democratic senator Chris Van Hollen said he would not vote for any spending bill that funds the war with Iran, Jewish Insider reported, ahead of a 11 December government funding deadline. He said that if President Donald Trump was prepared to shut down the government to continue the war, that would be the president's decision.\n\nSome other Senate Democrats have taken similar positions, according to Jewish Insider. The White House's response to his remarks was not reported. The remarks restate a position Mr Van Hollen first set out earlier in November, and no vote has been scheduled on the funding bills.",
-   "keyFacts": [
-    "Van Hollen says he won't fund the Iran war",
-    "US government funding expires on 11 December",
-    "No vote on the bills has been scheduled"
-   ],
-   "sources": [
-    {
-     "name": "Jewish Insider",
-     "url": "https://jewishinsider.com/2026/11/senate-democrats-funding-fight-government-shutdown-iran-war/"
-    }
-   ],
-   "publishedAt": "2026-11-10T09:00:00+11:00",
-   "createdAt": "2026-11-16T18:25:00+11:00",
-   "reason": "Restatement, nothing new"
-  },
-  {
    "id": "2026-11-16-lo-bay-of-bengal-cyclone-warning",
    "batch": "2026-11-16-pm",
    "rank": 4,
@@ -5929,6 +6011,186 @@
    "createdAt": "2026-11-17T06:55:00+11:00",
    "reason": "Ceremonial event",
    "rank": 13
+  },
+  {
+   "id": "2026-11-17-lo-albanese-trump-quad-preview",
+   "batch": "2026-11-17-pm",
+   "category": "Australia",
+   "title": "Albanese says he will raise Iran war concerns at Quad meeting with Trump",
+   "summary": "Anthony Albanese said he would raise Australia's concerns about the Iran war when he meets Donald Trump and the leaders of India and Japan in Manila on Tuesday evening, AAP reported. It is the first Quad leaders' meeting since 2024.\n\nProtests led by left-wing groups, students and workers have been held in Manila for four days against Trump's attendance, according to AAP. Albanese said he had a good relationship with Trump and that Australia wanted de-escalation. The meeting had not taken place at the time of this update.",
+   "keyFacts": [
+    "Quad leaders due to meet in Manila on Tuesday evening",
+    "First Quad leaders' meeting since 2024",
+    "Protests in Manila against Trump's attendance"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/albanese-set-to-meet-trump-as-anger-spills-onto-streets"
+    }
+   ],
+   "publishedAt": "2026-11-17T16:40:00+11:00",
+   "createdAt": "2026-11-17T17:50:12+11:00",
+   "reason": "No new development",
+   "rank": 1
+  },
+  {
+   "id": "2026-11-17-lo-ukraine-berlin-talks",
+   "batch": "2026-11-17-pm",
+   "category": "World",
+   "title": "Zelenskiy says Ukraine, US and European officials agreed to meet in Berlin",
+   "summary": "Ukrainian President Volodymyr Zelenskiy said Monday's online talks with US envoys Steve Witkoff and Jared Kushner and European officials were difficult, and that participants agreed to meet in Berlin with the coalition of countries backing Ukraine, Al Jazeera and Reuters reported.\n\nKremlin aide Yuri Ushakov said Russia had not agreed to widen talks beyond existing delegations and no date was set for a next round, according to the report. Kushner said Washington was making progress. Kyiv's mayor said preliminary reports indicated two bridges over the Dnipro were hit.",
+   "keyFacts": [
+    "Online talks held on Monday with US envoys",
+    "Participants agreed to meet in Berlin, Zelenskiy said",
+    "Kremlin says no date set for next round"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/17/ukraine-holds-peace-talks-with-us-europe-as-conflict-escalates"
+    }
+   ],
+   "publishedAt": "2026-11-17T11:45:00+11:00",
+   "createdAt": "2026-11-17T17:50:12+11:00",
+   "reason": "Restatement, nothing new",
+   "rank": 2
+  },
+  {
+   "id": "2026-11-17-lo-iran-dirty-bomb-report",
+   "batch": "2026-11-17-pm",
+   "category": "World",
+   "title": "CNN reports US intelligence suggests Iran drew up options for attack in Washington",
+   "summary": "CNN reported, citing multiple US officials, that new US intelligence suggests Iran has drawn up plans that could target senior Trump administration figures in Washington with a radiological or chemical device, according to the Times of Israel.\n\nThe sources said the intelligence does not point to an imminent attack and describes options rather than operations, the report said. One source doubted Iran had the personnel to carry them out, and officials were divided on the intelligence's credibility. Iran has not responded in the reports, and the claims are attributed to anonymous officials.",
+   "keyFacts": [
+    "Report cites anonymous US officials",
+    "Intelligence does not indicate imminent attack, sources say",
+    "Officials divided on credibility"
+   ],
+   "sources": [
+    {
+     "name": "Times of Israel",
+     "url": "https://www.timesofisrael.com/liveblog-november-17-2026/"
+    }
+   ],
+   "publishedAt": "2026-11-17T12:00:00+11:00",
+   "createdAt": "2026-11-17T17:50:12+11:00",
+   "reason": "Not yet confirmed",
+   "rank": 3
+  },
+  {
+   "id": "2026-11-17-lo-gao-ueland",
+   "batch": "2026-11-17-pm",
+   "category": "Politics",
+   "title": "Senate Republicans move to fill top US audit office post in lame-duck session",
+   "summary": "Senate Homeland Security Committee chairman Rand Paul has moved to speed up the selection of the next comptroller general, who heads the Government Accountability Office, Nextgov and Federal News Network reported. A nomination hearing has been scheduled for next week, though the White House had not publicly named a nominee.\n\nTop congressional Democrats said the selection commission had not interviewed any candidates, according to Federal News Network. Office of Management and Budget deputy director Eric Ueland has reportedly been considered for the post. The position has been filled on an acting basis since Gene Dodaro retired in December 2025.",
+   "keyFacts": [
+    "Nomination hearing scheduled for next week",
+    "Democrats say no candidates were interviewed",
+    "Eric Ueland reportedly considered for the role"
+   ],
+   "sources": [
+    {
+     "name": "Nextgov",
+     "url": "https://www.nextgov.com/people/2026/11/lame-duck-congress-expedites-search-next-gao-leader/417195/"
+    },
+    {
+     "name": "Federal News Network",
+     "url": "https://federalnewsnetwork.com/agency-oversight/2026/11/senate-gop-set-up-lame-duck-effort-to-appoint-new-comptroller-general/"
+    }
+   ],
+   "publishedAt": "2026-11-13T08:10:00+11:00",
+   "createdAt": "2026-11-17T17:50:12+11:00",
+   "reason": "Not yet confirmed",
+   "rank": 4
+  },
+  {
+   "id": "2026-11-17-lo-vic-leaders-debate",
+   "batch": "2026-11-17-pm",
+   "category": "Politics",
+   "title": "Victorian party leaders to take part in single town hall debate before election",
+   "summary": "The leaders of Victoria's four major parties will take part in a town hall-style debate on Tuesday, the only pre-election debate the two major parties agreed to, AAP reported. Victorians vote on 28 November, and there will be no one-on-one debate between Premier Ben Carroll and Opposition Leader Jess Wilson.\n\nWilson accused Carroll of avoiding a head-to-head, while Carroll said Wilson did not want to share a stage with One Nation, according to AAP. A Monash University political scientist told AAP a debate gaffe would be high risk for the major leaders.",
+   "keyFacts": [
+    "Four-leader town hall debate set for Tuesday",
+    "Victorian election is on 28 November",
+    "No head-to-head between Carroll and Wilson"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/high-risk-election-debates-have-become-the-debate"
+    }
+   ],
+   "publishedAt": "2026-11-17T14:40:00+11:00",
+   "createdAt": "2026-11-17T17:50:12+11:00",
+   "reason": "Commentary",
+   "rank": 5
+  },
+  {
+   "id": "2026-11-17-lo-pattinson-bond",
+   "batch": "2026-11-17-pm",
+   "category": "Entertainment",
+   "title": "Robert Pattinson announced as the next James Bond",
+   "summary": "Robert Pattinson, 40, has been announced as the next actor to play James Bond, replacing Daniel Craig, AAP reported. The announcement was made on the official 007 Instagram account, and Pattinson becomes the seventh actor in the role.\n\nDenis Villeneuve will direct the untitled film from a script by Steven Knight, according to AAP. Production is expected in 2027 with release in 2028. It is the first Bond film since Amazon took creative control of the franchise.",
+   "keyFacts": [
+    "Pattinson is the seventh actor to play Bond",
+    "Denis Villeneuve to direct",
+    "Release expected in 2028"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/robert-pattinson-unveiled-as-new-james-bond"
+    }
+   ],
+   "publishedAt": "2026-11-17T16:40:00+11:00",
+   "createdAt": "2026-11-17T17:50:12+11:00",
+   "reason": "Entertainment",
+   "rank": 6
+  },
+  {
+   "id": "2026-11-17-lo-brand-prison-message",
+   "batch": "2026-11-17-pm",
+   "category": "Other",
+   "title": "UK minister criticises Russell Brand's statement from prison",
+   "summary": "Senior UK minister Ed Miliband described a message Russell Brand issued from prison as disgusting, AAP reported. Brand's wife read the statement, in which he said he was not guilty. He was jailed for 10.5 years for raping one woman and sexually assaulting three others.\n\nAAP reported Brand has been moved from HMP Wandsworth to HMP Littlehey, a category C prison. Miliband also said it was time to debate age of consent laws and that he regretted a 2015 interview on Brand's show, according to AAP.",
+   "keyFacts": [
+    "Brand's wife read his statement from prison",
+    "Brand was jailed for 10.5 years",
+    "Brand moved to a category C prison, AAP reports"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/convicted-rapist-russell-brand-moved-to-softer-prison"
+    }
+   ],
+   "publishedAt": "2026-11-17T06:40:00+11:00",
+   "createdAt": "2026-11-17T17:50:12+11:00",
+   "reason": "Celebrity",
+   "rank": 7
+  },
+  {
+   "id": "2026-11-17-lo-russell-island-inquest",
+   "batch": "2026-11-17-pm",
+   "category": "Other",
+   "title": "Mother denies starting fatal Russell Island house fire at coronial inquest",
+   "summary": "Samantha Stephenson denied starting the August 2023 house fire on Russell Island, south-east of Brisbane, which killed her partner and five children aged three to 11, AAP reported. She was the first witness at a Queensland coronial inquest that began on Monday.\n\nCounsel assisting said the fire likely started on the ground floor and deliberate ignition could not be ruled out, according to AAP. The inquest will also examine smoke alarm compliance and emergency resources on the island, where fire and rescue crews were nearly an hour away by barge. Hearings are set to run for two weeks.",
+   "keyFacts": [
+    "Fire killed a man and five children in 2023",
+    "Inquest opened on Monday",
+    "Hearings will run for two weeks"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/not-a-murderer-mum-denies-killing-kids-in-house-fire"
+    }
+   ],
+   "publishedAt": "2026-11-17T05:40:00+11:00",
+   "createdAt": "2026-11-17T17:50:12+11:00",
+   "reason": "Local crime",
+   "rank": 8
   }
  ]
 }
