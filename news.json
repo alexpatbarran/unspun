@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T06:48:30+11:00",
+ "updatedAt": "2026-11-18T17:50:57+11:00",
  "articles": [
   {
    "id": "2026-11-12-mississippi-senate",
@@ -85,60 +85,6 @@
    "createdAt": "2026-11-12T10:35:00+11:00"
   },
   {
-   "id": "2026-11-12-abs-lending-record-fall",
-   "batch": "2026-11-12",
-   "rank": 5,
-   "category": "Economy",
-   "title": "New home loans fall 15 per cent in September quarter, largest drop on record",
-   "summary": "The number of new home loans in Australia fell 15.0 per cent to 111,878 in the September quarter, the Australian Bureau of Statistics said on Wednesday. The value of new loans fell 15.5 per cent to $81.2 billion, the largest quarterly fall since the series began in 2002.\n\nNew investor loans fell 30.6 per cent in number and 32.3 per cent in value, both record falls. ABS head of finance statistics Mish Tan said investor activity reflected more than borrowing costs, including possible tax changes and expectations of lower house prices. Workplace Relations Minister Amanda Rishworth told the ABC the data showed investors moving to new homes.",
-   "keyFacts": [
-    "Owner-occupier loans fell 5.3 per cent",
-    "First home buyer loans fell 8.6 per cent",
-    "It was the third straight quarterly fall in investor loans"
-   ],
-   "sources": [
-    {
-     "name": "Australian Bureau of Statistics",
-     "url": "https://www.abs.gov.au/media-centre/media-releases/largest-quarterly-falls-record-led-loans-investors"
-    },
-    {
-     "name": "ABS Lending indicators",
-     "url": "https://www.abs.gov.au/statistics/economy/finance/lending-indicators/latest-release"
-    }
-   ],
-   "publishedAt": "2026-11-11T11:30:00+11:00",
-   "createdAt": "2026-11-12T10:35:00+11:00"
-  },
-  {
-   "id": "2026-11-12-hegseth-house-leaders",
-   "batch": "2026-11-12",
-   "rank": 7,
-   "category": "Politics",
-   "title": "US House shelves Hegseth impeachment; Jordan to lead Republicans in new Congress",
-   "summary": "The US House voted 211–204 to refer Republican Thomas Massie's impeachment resolution against Defense Secretary Pete Hegseth to the Judiciary Committee, which effectively ends it for now. The articles accuse Hegseth of conducting hostilities against Iran without congressional authorisation. Massie was the only Republican to vote against the referral. Eleven Democrats and seven Republicans did not vote.\n\nSeparately, House Republicans elected Jim Jordan over Steve Scalise, 106–73 according to CBS News sources, to lead them when they become the minority in January.",
-   "keyFacts": [
-    "Vote was on a motion to refer, not on impeachment itself",
-    "11 Democrats were absent; the margin was 7",
-    "Senate Republicans re-elected John Thune as leader"
-   ],
-   "sources": [
-    {
-     "name": "CBS News",
-     "url": "https://www.cbsnews.com/live-updates/congress-today-senate-house-leadership-elections/"
-    },
-    {
-     "name": "Breaking Defense",
-     "url": "https://breakingdefense.com/2026/11/house-opts-to-stall-hegseth-impeachment-vote-sending-resolution-to-judiciary-committee/"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/11/did-democrats-save-pete-hegseth-from-impeachment"
-    }
-   ],
-   "publishedAt": "2026-11-11T10:00:00+11:00",
-   "createdAt": "2026-11-12T03:30:00+11:00"
-  },
-  {
    "id": "2026-11-12-asic-sues-cba",
    "batch": "2026-11-12",
    "rank": 8,
@@ -189,35 +135,6 @@
    "createdAt": "2026-11-12T10:35:00+11:00"
   },
   {
-   "id": "2026-11-12-iran-plots-charges",
-   "batch": "2026-11-12",
-   "rank": 10,
-   "category": "World",
-   "title": "US charges three men over alleged Iran-backed plots in Europe and the US",
-   "summary": "Federal prosecutors in New York unsealed an indictment charging three men over what they describe as a campaign of nearly 20 attacks targeting Jewish communities in Europe and the US, plus a plot against RAF Fairford, a British base used by US forces. Prosecutors allege the men acted for Iran's Revolutionary Guard and the Iraqi militia Kata'ib Hezbollah. Only one of the three, Mohammad Baqer al-Saadi, is in custody.\n\nIran has denied involvement in the Fairford incident. Separately, UK police arrested a US Army soldier on suspicion of assisting Russian intelligence.",
-   "keyFacts": [
-    "Three men charged; only al-Saadi is in custody",
-    "Al-Saadi pleaded not guilty in June to earlier charges",
-    "The UK soldier arrest is a separate case"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-11/us-charges-3-men-with-plotting-terror-attacks/107371492"
-    },
-    {
-     "name": "NPR",
-     "url": "https://npr.org/2026/11/10/nx-s1-6036786/uk-iran-airbase-russia-spy"
-    },
-    {
-     "name": "Washington Post",
-     "url": "https://washingtonpost.com/world/2026/11/11/three-men-backed-by-iran-plotted-attack-british-air-base-us-says"
-    }
-   ],
-   "publishedAt": "2026-11-11T08:10:00+11:00",
-   "createdAt": "2026-11-12T03:30:00+11:00"
-  },
-  {
    "id": "2026-11-12-gaza-strikes",
    "batch": "2026-11-12",
    "rank": 12,
@@ -247,31 +164,6 @@
    "createdAt": "2026-11-12T04:30:00+11:00"
   },
   {
-   "id": "2026-11-12-global-carbon-budget",
-   "batch": "2026-11-12",
-   "rank": 14,
-   "category": "Environment",
-   "title": "Global fossil CO2 emissions projected to fall 0.4 per cent in 2026",
-   "summary": "Carbon dioxide emissions from fossil fuels are projected to fall 0.4 per cent in 2026 to 38.2 billion tonnes, according to the annual Global Carbon Budget released on Tuesday. The researchers said a projected 1.9 per cent fall in oil use was likely a short-term response to the energy shock from the Iran conflict.\n\nIncluding land-use change, total emissions are projected to rise from 42.8 to 43.3 billion tonnes. Lead author Pierre Friedlingstein of the University of Exeter told AAP the fall was partly temporary. The report projects declines in China, the US and the EU, and a rise in India.",
-   "keyFacts": [
-    "Projected changes: China −0.9%, US −1.3%, EU −1.5%, India +4.4%",
-    "The figures are projections, not final data",
-    "Australia's fossil emissions fell 1.2 per cent in 2025, the report found"
-   ],
-   "sources": [
-    {
-     "name": "Global Carbon Budget",
-     "url": "https://globalcarbonbudget.org/fossil-co2-emissions-decrease-in-2026/"
-    },
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/fuel-crisis-forces-emissions-down-but-a-rebound-looms"
-    }
-   ],
-   "publishedAt": "2026-11-11T10:00:00+11:00",
-   "createdAt": "2026-11-12T10:35:00+11:00"
-  },
-  {
    "id": "2026-11-12-albanese-cop31-leaders",
    "batch": "2026-11-12",
    "rank": 16,
@@ -294,31 +186,6 @@
     }
    ],
    "publishedAt": "2026-11-12T06:58:00+11:00",
-   "createdAt": "2026-11-12T10:35:00+11:00"
-  },
-  {
-   "id": "2026-11-12-anthropic-ipo-australia",
-   "batch": "2026-11-12",
-   "rank": 17,
-   "category": "Business",
-   "title": "Anthropic opens IPO share offer to Australian retail investors",
-   "summary": "AI company Anthropic has lodged a prospectus with the Australian Securities and Investments Commission, opening part of its initial public offering to Australian retail investors, AAP and Bloomberg reported. The global offer is for 825 million shares at US$70 to US$78 each, with a Nasdaq listing planned for 20 November.\n\nThe Australian offer opened on Wednesday and closes on 17 November, with CommSec as lead broker. At the midpoint price the raise would be about US$84.6 billion, according to AAP's calculation. The prospectus reports a net loss of US$23.3 billion for the September quarter and says the investment carries a high degree of risk.",
-   "keyFacts": [
-    "Final pricing is due on 19 November",
-    "Anthropic reported almost US$17 billion in September-quarter revenue",
-    "Eight Australian brokers are taking part"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/aussies-have-one-week-to-get-into-red-hot-anthropic-ipo"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-lodges-australian-prospectus-opening-ipo-to-retail"
-    }
-   ],
-   "publishedAt": "2026-11-11T09:00:00+11:00",
    "createdAt": "2026-11-12T10:35:00+11:00"
   },
   {
@@ -4280,61 +4147,322 @@
    "publishedAt": "2026-11-18T05:00:00+11:00",
    "createdAt": "2026-11-18T06:48:30+11:00",
    "rank": 18
+  },
+  {
+   "id": "2026-11-18-wage-price-index-sep-qtr",
+   "batch": "2026-11-18-pm",
+   "rank": 1,
+   "category": "Economy",
+   "title": "Wages rise 1.1 per cent in September quarter, fastest quarterly growth since 2023",
+   "summary": "The Wage Price Index rose 1.1 per cent in the September quarter and 3.5 per cent over the year, seasonally adjusted, the Australian Bureau of Statistics said on Wednesday. The ABS said the quarterly rise was the strongest since the December quarter of 2023.\n\nAnnual private sector wage growth was 3.4 per cent and public sector growth 3.9 per cent, according to the ABS. It said the Fair Work Commission's 4.75 per cent increase to award wages was a key driver of private sector growth. The ABC reported the public sector figure reflected pay rises for nurses, midwives and police.",
+   "keyFacts": [
+    "Annual wage growth was 3.4 per cent a year earlier",
+    "The peak in this cycle was 4.3 per cent in late 2023",
+    "Public sector wages have grown faster than private for seven straight quarters, the ABC reported"
+   ],
+   "sources": [
+    {
+     "name": "Australian Bureau of Statistics",
+     "url": "https://www.abs.gov.au/media-centre/media-releases/highest-quarterly-wage-growth-december-quarter-2023"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-18/asx-markets-business-live-news-nvidia/107396692"
+    }
+   ],
+   "publishedAt": "2026-11-18T11:30:00+11:00",
+   "createdAt": "2026-11-18T17:50:57+11:00"
+  },
+  {
+   "id": "2026-11-18-albanese-lands-china-xi",
+   "batch": "2026-11-18-pm",
+   "rank": 2,
+   "category": "Australia",
+   "title": "Albanese arrives in China ahead of talks with Xi at APEC in Shenzhen",
+   "summary": "Prime Minister Anthony Albanese has arrived in China, where he is due to meet President Xi Jinping on Friday on the sidelines of the APEC summit in Shenzhen, AAP reported. It will be their fifth formal meeting.\n\nAlbanese travelled from Manila, where he attended a Quad leaders' meeting with US President Donald Trump and the leaders of India and Japan. He told reporters he raised the cost-of-living effects of the Iran conflict and said he did not expect any backlash from Beijing, describing the relationship with China as strong. He is also due to hold an annual leaders' meeting with Premier Li Qiang in Beijing.",
+   "keyFacts": [
+    "The Xi meeting is scheduled for Friday",
+    "The Quad leaders' meeting in Manila ran for about 90 minutes, AAP said",
+    "An Australia-China CEO roundtable is planned in Beijing, the ABC reported"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/albanese-expects-no-china-blowback-after-trump-meeting"
+    }
+   ],
+   "publishedAt": "2026-11-18T16:30:00+11:00",
+   "createdAt": "2026-11-18T17:50:57+11:00"
+  },
+  {
+   "id": "2026-11-18-west-bank-sanctions-construction",
+   "batch": "2026-11-18-pm",
+   "rank": 3,
+   "category": "Australia",
+   "title": "Australia sanctions settler leader and construction firm over West Bank settlements",
+   "summary": "Foreign Minister Penny Wong has announced sanctions on three individuals and four organisations over illegal settlement activity in the occupied West Bank, AAP reported. It is the first time Australia has targeted a construction company and its head under these measures.\n\nAccording to AAP, those named include settler leader Daniella Weiss and her organisation Nachala, and Itamar Yehuda Levi and the company Eyal Hari Yehuda Ltd. Wong said the measures responded to a rise in settler attacks recorded by the UN, and urged Israel not to proceed with planned settlement building, the ABC reported. Wong said she had spoken to her Israeli counterpart about the sanctions.",
+   "keyFacts": [
+    "Three individuals and four organisations were sanctioned",
+    "Breaches carry penalties of up to 10 years' jail, the ABC reported",
+    "The UK announced sanctions on Israeli construction firms a day earlier"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/sanctions-first-for-construction-firm-in-west-bank"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-18/federal-politics-live-blog-nov-18/107396066"
+    },
+    {
+     "name": "i24NEWS",
+     "url": "https://www.i24news.tv/en/news/israel/artc-australia-sanctions-three-israelis-and-four-organizations-over-west-bank-settlements-following-uk-sanctions"
+    }
+   ],
+   "publishedAt": "2026-11-18T07:45:00+11:00",
+   "createdAt": "2026-11-18T17:50:57+11:00"
+  },
+  {
+   "id": "2026-11-18-kuwait-drones-qeshm-strike",
+   "batch": "2026-11-18-pm",
+   "rank": 4,
+   "category": "World",
+   "title": "Kuwait says it intercepted drones; US official confirms strike on Qeshm launch site",
+   "summary": "Kuwait's army said explosions heard on Tuesday were its air defences intercepting hostile drones, without saying where they came from, Al Jazeera reported. A US official said a US strike had hit a missile launch site on Iran's Qeshm island.\n\nIran's Revolutionary Guards said they used drones against a US-operated radar at Bahrain's Sheikh Isa air base, citing what they called repeated violations of Iranian airspace. Bahrain said the attack was intercepted, and US Central Command said there was no damage, according to Al Jazeera. An Iranian deputy governor told IRNA residential and commercial areas on Qeshm were not damaged.",
+   "keyFacts": [
+    "Kuwait did not name the source of the drones",
+    "The US confirmation follows Iranian reports of attacks on Qeshm",
+    "Iran said more tankers hit mines in the Strait of Hormuz on Tuesday"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain"
+    }
+   ],
+   "publishedAt": "2026-11-18T10:38:00+11:00",
+   "createdAt": "2026-11-18T17:50:57+11:00"
+  },
+  {
+   "id": "2026-11-18-crimea-bridge-partly-destroyed",
+   "batch": "2026-11-18-pm",
+   "rank": 5,
+   "category": "World",
+   "title": "Ukraine partly destroys Crimea bridge after second strike in two days",
+   "summary": "Ukraine has partly destroyed the 19-kilometre bridge linking Russia to occupied Crimea after striking it twice in two days, AAP reported, citing Reuters. Earlier reports on Monday said traffic had been restricted and the Kremlin had described the damage as minor.\n\nCrimea's Russian-installed governor, Sergei Aksyonov, said two people were killed, according to the report. Kremlin spokesman Dmitry Peskov said a repair plan would be drawn up. President Volodymyr Zelenskiy said Russia strikes Ukrainian infrastructure, including bridges, every day. The bridge was opened by Vladimir Putin in 2018.",
+   "keyFacts": [
+    "What changed: the bridge is now reported partly destroyed after a second strike",
+    "Two people were killed, according to Crimea's Russian-installed governor",
+    "The bridge is about 19 kilometres long"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/us-envoy-says-progress-being-made-on-a-ukraine-deal"
+    }
+   ],
+   "publishedAt": "2026-11-18T13:40:00+11:00",
+   "createdAt": "2026-11-18T17:50:57+11:00"
+  },
+  {
+   "id": "2026-11-18-knesset-speaker-kahana",
+   "batch": "2026-11-18-pm",
+   "rank": 6,
+   "category": "World",
+   "title": "Israel's new parliament elects speaker backed by Netanyahu's opponents",
+   "summary": "Israel's newly elected parliament has chosen a Knesset speaker backed by the bloc led by Gadi Eisenkot, replacing Amir Ohana, an ally of caretaker Prime Minister Benjamin Netanyahu, CNN and the ABC reported. Israel Hayom reported earlier that the bloc had agreed to nominate Matan Kahana for the post.\n\nCNN said the vote weakened Netanyahu's hold on parliament while coalition negotiations continue after the election. The speaker controls the parliamentary agenda, including the timing of votes. Netanyahu has called for a unity government with Eisenkot, citing the threat from Iran.",
+   "keyFacts": [
+    "Amir Ohana held the speakership in the previous Knesset",
+    "No new government has yet been formed",
+    "The speaker sets the Knesset's agenda"
+   ],
+   "sources": [
+    {
+     "name": "CNN",
+     "url": "https://edition.cnn.com/2026/11/17/middleeast/israel-knesset-speaker-netanyahu-intl"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-18/eisenkot-bloc-replaces-netanyahu-ally-as-knesset-speaker/107397646"
+    },
+    {
+     "name": "Israel Hayom",
+     "url": "https://www.israelhayom.com/2026/11/10/change-bloc-agrees-to-name-matan-kahana-knesset-speaker/"
+    }
+   ],
+   "publishedAt": "2026-11-18T05:00:00+11:00",
+   "createdAt": "2026-11-18T17:50:57+11:00"
+  },
+  {
+   "id": "2026-11-18-nvidia-results-no-huang-return",
+   "batch": "2026-11-18-pm",
+   "rank": 7,
+   "category": "Business",
+   "title": "Nvidia beats revenue forecasts as chair rules out reinstating Huang",
+   "summary": "Nvidia reported third-quarter revenue of US$115.8 billion, up 103 per cent on a year earlier, and forecast about US$130 billion for the current quarter, the company said. Analysts had expected a fourth-quarter forecast of about US$125 billion, AAP reported.\n\nWhat changed: chair Harvey Jones said on the earnings call that the board had unanimously accepted Jensen Huang's resignation and did not intend to reinstate him, according to AAP. Huang had said he would be honoured to return. Interim chief executive Colette Kress is running the company while a recruitment firm searches for a permanent leader.",
+   "keyFacts": [
+    "Data centre revenue was US$107.6 billion",
+    "The forecast excludes data centre sales to China",
+    "Huang resigned last week"
+   ],
+   "sources": [
+    {
+     "name": "Nvidia",
+     "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027"
+    },
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/nvidia-s-huang-signals-willingness-to-return-to-top-job"
+    }
+   ],
+   "publishedAt": "2026-11-18T09:24:00+11:00",
+   "createdAt": "2026-11-18T17:50:57+11:00"
+  },
+  {
+   "id": "2026-11-18-wa-gas-reservation-carve-out",
+   "batch": "2026-11-18-pm",
+   "rank": 8,
+   "category": "Economy",
+   "title": "WA agrees with Commonwealth on permanent carve-out from gas reservation scheme",
+   "summary": "WA Premier Roger Cook said his government had agreed with the Commonwealth on changes to the planned national gas reservation scheme that would permanently exempt Western Australia, NCA NewsWire reported. The changes would need to pass the Senate.\n\nThe scheme would require gas exporters to reserve up to 20 per cent of supply for the domestic market. Labor is negotiating with the Coalition on its passage. Opposition resources spokeswoman Susan McDonald criticised the draft legislation and listed the WA carve-out among four Coalition concerns, according to the report. WA already has its own domestic gas reservation policy.",
+   "keyFacts": [
+    "The carve-out needs Senate approval",
+    "Exporters would reserve up to 20 per cent of gas",
+    "The Coalition has raised four concerns with the bill"
+   ],
+   "sources": [
+    {
+     "name": "NCA NewsWire (via Yahoo News)",
+     "url": "https://au.news.yahoo.com/wa-secures-permanent-carve-gas-001701033.html"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-18/asx-markets-business-live-news-nvidia/107396692"
+    }
+   ],
+   "publishedAt": "2026-11-18T11:17:00+11:00",
+   "createdAt": "2026-11-18T17:50:57+11:00"
+  },
+  {
+   "id": "2026-11-18-uk-sanctions-israeli-builders",
+   "batch": "2026-11-18-pm",
+   "rank": 9,
+   "category": "World",
+   "title": "UK sanctions eight Israeli construction firms over West Bank settlements",
+   "summary": "The UK has imposed asset freezes on eight Israeli construction companies over settlement building in the occupied West Bank, Al Jazeera reported, citing Reuters. Firms named include Har Hevron Development Company, Hemdat Shomron and SAG (Velvel) Construction and Development.\n\nThe UK also sanctioned the settler group Tzav 9, which it said repeatedly blocked aid trucks bound for Gaza. Foreign Secretary Ed Miliband told companies not to bid for or build settlement projects, according to the report. The measures came shortly before final tender deadlines for the E1 settlement project east of Jerusalem.",
+   "keyFacts": [
+    "Eight construction firms face asset freezes",
+    "Settler group Tzav 9 was also sanctioned",
+    "Israel's caretaker government is due to decide on E1 this week, the ABC reported"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/17/uk-sanctions-8-israeli-firms-over-occupied-west-bank-settlements-gaza-aid"
+    }
+   ],
+   "publishedAt": "2026-11-18T01:09:00+11:00",
+   "createdAt": "2026-11-18T17:50:57+11:00"
+  },
+  {
+   "id": "2026-11-18-one-nation-refugee-cut",
+   "batch": "2026-11-18-pm",
+   "rank": 10,
+   "category": "Politics",
+   "title": "One Nation proposes cutting refugee intake to 2,000 and scrapping parent visas",
+   "summary": "One Nation has released a policy that would cut Australia's annual refugee intake from 20,000 to 2,000 and end permanent visas for migrants' parents, AAP reported. Leader Pauline Hanson told reporters in Canberra the lower figure was the limit and denied the plan targeted Muslim-majority countries.\n\nAbout 150,000 people are in the queue for parent visas, according to AAP. Foreign Minister Penny Wong called the policy harsh and divisive. Shadow treasurer Tim Wilson said One Nation could not be trusted to deliver an immigration policy.",
+   "keyFacts": [
+    "Current annual refugee intake is 20,000",
+    "About 150,000 people are waiting for parent visas",
+    "The policy was released on Wednesday"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/refugees-parent-visas-on-one-nation-chopping-block"
+    }
+   ],
+   "publishedAt": "2026-11-18T12:40:00+11:00",
+   "createdAt": "2026-11-18T17:50:57+11:00"
+  },
+  {
+   "id": "2026-11-18-nsa-network-outage",
+   "batch": "2026-11-18-pm",
+   "rank": 11,
+   "category": "Science & Tech",
+   "title": "NSA's classified internal network goes down; agency blames routine maintenance",
+   "summary": "The US National Security Agency's classified internal network, NSA Net, went offline on Tuesday, CBS News reported, citing multiple US officials. The agency staggered arrival times at its Fort Meade headquarters and shifted some work to other sites.\n\nAn NSA spokesperson said the network suffered temporary degradation during scheduled maintenance and that mission-critical capabilities remained operational, according to Al Jazeera. CBS said officials had seen no evidence of a cyberattack. President Donald Trump told reporters such things happen. The outage followed a Federal Aviation Administration ground stop and a Microsoft outage in recent days.",
+   "keyFacts": [
+    "The network is known internally as NSA Net",
+    "Officials said there was no sign of a cyberattack",
+    "How long the outage lasted was not reported"
+   ],
+   "sources": [
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/news/nsa-network-down-classified-fort-meade/"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/17/nsas-classified-internal-communications-network-reportedly-faces-outage"
+    }
+   ],
+   "publishedAt": "2026-11-18T04:35:00+11:00",
+   "createdAt": "2026-11-18T17:50:57+11:00"
+  },
+  {
+   "id": "2026-11-18-asx-fifth-day-lower",
+   "batch": "2026-11-18-pm",
+   "rank": 12,
+   "category": "Economy",
+   "title": "ASX 200 falls for fifth straight day as banks and miners decline",
+   "summary": "The S&P/ASX 200 fell 61.4 points, or 0.69 per cent, to 8,821.8 on Wednesday, its fifth consecutive loss, AAP reported. The All Ordinaries fell 64.9 points, or 0.72 per cent, to 8,932.4.\n\nTen of the 11 sectors closed lower, led by financials and materials, while energy rose as coal miners recovered, according to AAP. The report linked the fall to stronger than expected wage figures, which it said left open the possibility of another Reserve Bank rate rise. The ABC reported Lendlease shares fell sharply after a broker downgrade.",
+   "keyFacts": [
+    "ASX 200 closed at 8,821.8",
+    "Ten of 11 sectors fell",
+    "Energy was the only sector to rise"
+   ],
+   "sources": [
+    {
+     "name": "AAP (via Michael West Media)",
+     "url": "https://michaelwest.com.au/aussie-shares-continue-lower-despite-easing-tech-rout-2"
+    },
+    {
+     "name": "Stockhead",
+     "url": "https://stockhead.com.au/news/closing-bell-fifth-straight-loss-as-gold-miners-slide-it-into-reverse/"
+    }
+   ],
+   "publishedAt": "2026-11-18T16:16:00+11:00",
+   "createdAt": "2026-11-18T17:50:57+11:00"
+  },
+  {
+   "id": "2026-11-18-qld-abuse-victims-bill-defeated",
+   "batch": "2026-11-18-pm",
+   "rank": 13,
+   "category": "Politics",
+   "title": "Queensland government votes down bill to let abuse survivors sue institutions",
+   "summary": "The Queensland government has voted down a private member's bill that would have allowed abuse survivors to sue institutions such as churches and sporting clubs, AAP reported. The bill was introduced by shadow attorney-general Meaghan Scanlon.\n\nScanlon said the decision showed the government's support for victims was lip service, according to AAP. A Slater and Gordon lawyer said Victoria, the ACT and Western Australia had already closed the legal gap the bill targeted. AAP said it sought comment from Attorney-General Deb Frecklington and did not report a response.",
+   "keyFacts": [
+    "The bill was a Labor private member's bill",
+    "It targeted claims against unincorporated institutions",
+    "Three other jurisdictions have made similar changes, a lawyer said"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/government-called-cruel-for-rejecting-sex-abuse-bill"
+    },
+    {
+     "name": "AAP (via Yahoo News)",
+     "url": "https://au.news.yahoo.com/government-called-cruel-rejecting-sex-054158439.html"
+    }
+   ],
+   "publishedAt": "2026-11-18T16:41:00+11:00",
+   "createdAt": "2026-11-18T17:50:57+11:00"
   }
  ],
  "leftOut": [
-  {
-   "id": "2026-11-12-lo-iran-uranium",
-   "batch": "2026-11-12",
-   "rank": 1,
-   "category": "World",
-   "title": "Iran repeats it will not send enriched uranium abroad; US keeps focus on sanctions",
-   "summary": "Iran's Supreme National Security Council secretary, Mohsen Rezaei, said again this week that none of Iran's enriched nuclear material will leave the country. He first made the statement publicly on 20 October during a visit by Pakistan's army chief, Asim Munir.\n\nUS Secretary of State Marco Rubio has said economic pressure, including a naval blockade, has reduced the need for major combat. Axios first reported in August that Rubio told allies the US was shifting from strikes to sanctions, without ruling out force if Iran attacks first.",
-   "keyFacts": [
-    "Iran says its enriched material is for use only inside the country",
-    "US strategy: naval blockade plus Treasury sanctions",
-    "Both positions have been stated before"
-   ],
-   "sources": [
-    {
-     "name": "Times of Israel",
-     "url": "https://www.timesofisrael.com/liveblog_entry/irans-security-chief-rejects-moving-any-enriched-uranium-out-of-the-country/"
-    },
-    {
-     "name": "Axios",
-     "url": "https://axios.com/2026/08/25/rubio-iran-war-hormuz-oil"
-    }
-   ],
-   "publishedAt": "2026-11-11T07:00:00+11:00",
-   "createdAt": "2026-11-12T04:30:00+11:00",
-   "reason": "Restatement, nothing new"
-  },
-  {
-   "id": "2026-11-12-lo-walliams",
-   "batch": "2026-11-12",
-   "rank": 5,
-   "category": "Other",
-   "title": "David Walliams faces further allegations; he denies wrongdoing",
-   "summary": "Comedian and children's author David Walliams faced further allegations this week of inappropriate behaviour towards young women, in reporting by The Guardian and ITV. HarperCollins dropped him in December 2025 after an internal investigation, and in September 2026 it stopped publishing his back catalogue.\n\nWalliams strongly denies behaving inappropriately. His spokesperson has said he was never told of the allegations or given a chance to respond to the publisher's investigation.",
-   "keyFacts": [
-    "HarperCollins dropped him in December 2025",
-    "His back catalogue was dropped in September 2026",
-    "He denies all allegations"
-   ],
-   "sources": [
-    {
-     "name": "AFP (via Malay Mail)",
-     "url": "https://www.malaymail.com/news/showbiz/2026/09/19/uk-publisher-harpercollins-drops-little-britain-star-david-walliams-entire-back-catalogue-after-harassment-allegations/235737"
-    },
-    {
-     "name": "ITV News",
-     "url": "https://www.itv.com/news/2025-12-22/david-walliams-dropped-from-childrens-book-festival"
-    }
-   ],
-   "publishedAt": "2026-11-11T12:00:00+11:00",
-   "createdAt": "2026-11-12T04:30:00+11:00",
-   "reason": "Celebrity"
-  },
   {
    "id": "2026-11-12-lo-bessent-base",
    "batch": "2026-11-12",
@@ -6540,6 +6668,256 @@
    "createdAt": "2026-11-18T06:48:30+11:00",
    "reason": "Not yet confirmed",
    "rank": 6
+  },
+  {
+   "id": "2026-11-18-lo-trump-philippines-deal-claim",
+   "batch": "2026-11-18-pm",
+   "rank": 1,
+   "category": "Economy",
+   "title": "Trump says US has concluded trade deal with Philippines; no details released",
+   "summary": "Donald Trump said at a state luncheon in Manila that the US had concluded a large trade deal with the Philippines, Reuters reported. He did not give details, and Manila did not announce an agreement.\n\nThe office of President Ferdinand Marcos Jr had no immediate comment, according to Reuters. Trump also said Thailand would remove tariffs on US goods under a deal expected in the coming weeks. Marcos said separately that no agreement on the US-led Pax Silica technology initiative would be signed during the visit, The Chronicle reported.",
+   "keyFacts": [
+    "No terms have been published",
+    "Philippine officials have not confirmed the deal",
+    "Trump travels on to APEC in China"
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via Yahoo News)",
+     "url": "https://www.yahoo.com/news/politics/articles/trump-says-us-concluded-very-055810463.html"
+    },
+    {
+     "name": "The Chronicle",
+     "url": "https://thechronicle.com.ph/no-pax-silica-agreement-will-be-signed-during-trumps-visit-marcos/"
+    }
+   ],
+   "publishedAt": "2026-11-18T16:59:00+11:00",
+   "createdAt": "2026-11-18T17:50:57+11:00",
+   "reason": "Not yet confirmed"
+  },
+  {
+   "id": "2026-11-18-lo-trump-xi-putin-thursday",
+   "batch": "2026-11-18-pm",
+   "rank": 2,
+   "category": "World",
+   "title": "Trump, Xi and Putin due to hold three-way meeting in China on Thursday",
+   "summary": "US President Donald Trump is due to hold a three-way meeting with Chinese President Xi Jinping and Russian President Vladimir Putin in China on Thursday, Al Jazeera reported. The White House and the Kremlin announced the plan last week, according to The Washington Post.\n\nThe meeting is set for the sidelines of the APEC summit in Shenzhen. No agenda has been published. The talks were first reported several days ago, and no new details were released on Wednesday.",
+   "keyFacts": [
+    "Meeting due on Thursday",
+    "Held on the sidelines of APEC in Shenzhen",
+    "Announced by the White House and Kremlin"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain"
+    },
+    {
+     "name": "The Washington Post",
+     "url": "https://www.washingtonpost.com/business/2026/11/13/trump-xi-putin-summit-china/3558fd80-dfbc-11f1-912c-4fbb80d73f7f_story.html"
+    }
+   ],
+   "publishedAt": "2026-11-18T10:38:00+11:00",
+   "createdAt": "2026-11-18T17:50:57+11:00",
+   "reason": "No new development"
+  },
+  {
+   "id": "2026-11-18-lo-albanese-lavrov-photo",
+   "batch": "2026-11-18-pm",
+   "rank": 3,
+   "category": "Politics",
+   "title": "Ukrainian community group criticises Albanese over summit photo with Lavrov",
+   "summary": "Prime Minister Anthony Albanese appeared alongside Russian Foreign Minister Sergei Lavrov in the East Asia Summit family photo in Manila on Tuesday, AAP reported. Kateryna Argyrou, who chairs the Australian Federation of Ukrainian Organisations, told AAP the image was deeply disappointing.\n\nAlbanese did not rule out appearing in a photo with Vladimir Putin at APEC in China, according to AAP. In his summit address, he condemned Russia's war against Ukraine as unprovoked and unjustified.",
+   "keyFacts": [
+    "The photo was taken at the East Asia Summit in Manila",
+    "Lavrov represented Russia at the summit",
+    "Albanese condemned the war in his address"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/albanese-s-family-photo-with-russian-foreign-minister"
+    }
+   ],
+   "publishedAt": "2026-11-18T01:40:00+11:00",
+   "createdAt": "2026-11-18T17:50:57+11:00",
+   "reason": "Commentary"
+  },
+  {
+   "id": "2026-11-18-lo-austrac-criminal-economy-speech",
+   "batch": "2026-11-18-pm",
+   "rank": 4,
+   "category": "Australia",
+   "title": "AUSTRAC chief says some Australians turn a blind eye to money laundering",
+   "summary": "AUSTRAC chief executive Brendan Thomas said in a Sydney speech that some ordinary business people are helping criminals launder money, AAP reported. He said he was concerned by how willing some members of the public were to ignore financial crime.\n\nThomas said businesses newly covered by anti-money laundering rules since July had filed more than 1,000 reports, according to AAP. He also pointed to illicit tobacco, crypto ATMs, bookkeepers offering laundering services and scam bots built with artificial intelligence.",
+   "keyFacts": [
+    "New rules took effect in July",
+    "Newly regulated businesses have filed more than 1,000 reports",
+    "Thomas spoke in Sydney on Wednesday"
+   ],
+   "sources": [
+    {
+     "name": "AAP (via Yahoo News)",
+     "url": "https://au.news.yahoo.com/aussies-blind-criminal-economy-watchdog-033902957.html"
+    }
+   ],
+   "publishedAt": "2026-11-18T14:39:00+11:00",
+   "createdAt": "2026-11-18T17:50:57+11:00",
+   "reason": "Commentary"
+  },
+  {
+   "id": "2026-11-18-lo-nadella-ai-caution",
+   "batch": "2026-11-18-pm",
+   "rank": 5,
+   "category": "Science & Tech",
+   "title": "Microsoft's Nadella urges Australian firms to treat some AI models as insider risks",
+   "summary": "Microsoft chief executive Satya Nadella told an AI event in Sydney that businesses adopting artificial intelligence should do so with high ambition, but treat some models as an insider risk, AAP reported. He said much more work was needed on AI safety.\n\nNadella spoke in a pre-recorded conversation with Commonwealth Bank chief executive Matt Comyn. AAP reported the Australian Cyber Security Centre issued more than 4,400 warnings of potential malicious activity last financial year, up 80 per cent. CBA announced a free cybersecurity tool called CodeCheck.",
+   "keyFacts": [
+    "Nadella spoke in a pre-recorded session",
+    "Cyber warnings rose 80 per cent last financial year",
+    "CBA launched a free tool called CodeCheck"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/aussie-firms-cautioned-on-artificial-intelligence"
+    }
+   ],
+   "publishedAt": "2026-11-18T12:30:00+11:00",
+   "createdAt": "2026-11-18T17:50:57+11:00",
+   "reason": "Commentary"
+  },
+  {
+   "id": "2026-11-18-lo-vic-leaders-debate-poll",
+   "batch": "2026-11-18-pm",
+   "rank": 6,
+   "category": "Politics",
+   "title": "Undecided voters rate Wilson ahead of Carroll in Victorian leaders' debate",
+   "summary": "Opposition Leader Jess Wilson was rated best by 39 per cent of 100 undecided voters at Tuesday night's Victorian leaders' debate, AAP reported. Premier Ben Carroll was rated best by 7 per cent, Greens leader Ellen Sandell by 25 per cent and One Nation leader Warren Pickering by 16 per cent.\n\nWilson and Carroll exchanged remarks about former premiers, according to AAP. A Redbridge survey published in the Australian Financial Review put the Coalition on 31 per cent, Labor 23, One Nation 22 and the Greens 15. Carroll said he was focused on the vote on 28 November.",
+   "keyFacts": [
+    "The audience was 100 undecided voters",
+    "Election day is 28 November",
+    "Early voting began on Wednesday"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/say-their-names-spectre-of-ex-premiers-haunts-debate"
+    }
+   ],
+   "publishedAt": "2026-11-18T08:00:00+11:00",
+   "createdAt": "2026-11-18T17:50:57+11:00",
+   "reason": "Commentary"
+  },
+  {
+   "id": "2026-11-18-lo-hobart-stadium-cost",
+   "batch": "2026-11-18-pm",
+   "rank": 7,
+   "category": "Australia",
+   "title": "Tasmanian premier signals possible cost rise for Hobart AFL stadium",
+   "summary": "Tasmanian Premier Jeremy Rockliff told parliament it would be no surprise if costs for the Macquarie Point stadium in Hobart increased, AAP reported. The 23,000-seat roofed stadium was last estimated at $1.13 billion, up from an initial budget of $715 million.\n\nRockliff did not say whether the government would keep its $875 million funding cap or seek parliament's approval for more money, according to AAP. Greens leader Rosalie Woodruff and independent Meg Webb called for transparency. A cost update is due by 23 November.",
+   "keyFacts": [
+    "Current estimate is $1.13 billion",
+    "The federal government is contributing $240 million",
+    "A cost update is due by 23 November"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/all-signs-point-to-hobart-afl-stadium-cost-increase"
+    }
+   ],
+   "publishedAt": "2026-11-18T17:20:00+11:00",
+   "createdAt": "2026-11-18T17:50:57+11:00",
+   "reason": "Not yet confirmed"
+  },
+  {
+   "id": "2026-11-18-lo-lamarre-condon-ballistics",
+   "batch": "2026-11-18-pm",
+   "rank": 8,
+   "category": "Australia",
+   "title": "Court releases ballistics videos in murder trial of former NSW police officer",
+   "summary": "The NSW Supreme Court has released police ballistics reconstruction videos from the murder trial of former senior constable Beau Lamarre-Condon, AAP reported. He has pleaded not guilty to murdering Jesse Baird and Luke Davies in Paddington in February 2024.\n\nThe Crown alleges Baird was shot twice and Davies once, according to AAP. Lamarre-Condon says he shot Baird once in self-defence and that the second shot and Davies's death were accidental. Closing submissions are due to begin on Thursday.",
+   "keyFacts": [
+    "The accused has pleaded not guilty",
+    "Evidence in the trial closed on Monday",
+    "Closing submissions begin Thursday"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/dramatic-videos-show-bullet-paths-from-killer-cop-s-gun"
+    }
+   ],
+   "publishedAt": "2026-11-18T15:40:00+11:00",
+   "createdAt": "2026-11-18T17:50:57+11:00",
+   "reason": "Local crime"
+  },
+  {
+   "id": "2026-11-18-lo-crawford-trial-closing",
+   "batch": "2026-11-18-pm",
+   "rank": 9,
+   "category": "Australia",
+   "title": "Defence calls Crown case weak in trial of former RAAF pilot accused of murder",
+   "summary": "Defence barrister Saul Holt KC told a Brisbane jury the prosecution case against former RAAF pilot Robert John Crawford was one of the weakest circumstantial cases a court would see, AAP reported. Crawford is accused of killing his wife Frances at their property west of Brisbane in July 2024 and staging a lawnmower accident.\n\nIn his closing address, Holt disputed the Crown's description of the couple's marriage and pointed to a late-night text message from Frances, according to AAP. The Crown is due to begin its closing on Thursday.",
+   "keyFacts": [
+    "Crawford is a former RAAF pilot",
+    "The alleged death occurred on 30 July 2024",
+    "Crown closing begins Thursday"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/murder-cover-up-claim-panned-as-weakest-case-ever"
+    }
+   ],
+   "publishedAt": "2026-11-18T13:40:00+11:00",
+   "createdAt": "2026-11-18T17:50:57+11:00",
+   "reason": "Local crime"
+  },
+  {
+   "id": "2026-11-18-lo-so-you-are-remains",
+   "batch": "2026-11-18-pm",
+   "rank": 10,
+   "category": "Sport",
+   "title": "Vet practice apologises after Melbourne Cup runner's remains filmed in skip bin",
+   "summary": "A veterinary practice has apologised after footage showed the body of Melbourne Cup runner So You Are in a skip bin at a waste facility in Sydney, AAP reported. The horse, which finished eighth in the Cup, was euthanised on Monday after colic.\n\nREC Equine Specialists said it did not carry out the burial but had chosen the provider, and had stopped using it, according to AAP. Trainer Bjorn Baker said he was deeply distressed. Racing NSW said it would take action if its investigation found wrongdoing.",
+   "keyFacts": [
+    "The horse ran eighth in the Melbourne Cup",
+    "Footage was filmed at Lucas Heights",
+    "Racing NSW is investigating"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/hospital-sorry-for-cup-runner-s-skip-bin-body-dumping"
+    }
+   ],
+   "publishedAt": "2026-11-18T14:40:00+11:00",
+   "createdAt": "2026-11-18T17:50:57+11:00",
+   "reason": "Human interest"
+  },
+  {
+   "id": "2026-11-18-lo-aria-awards-40th",
+   "batch": "2026-11-18-pm",
+   "rank": 11,
+   "category": "Other",
+   "title": "40th ARIA Awards held in Sydney with Genesis Owusu and Tame Impala leading nominations",
+   "summary": "The 40th ARIA Music Awards are being held at Sydney's Hordern Pavilion, AAP reported. Genesis Owusu and Tame Impala lead the nominations with eight each, followed by Ecca Vandal with seven.\n\nOcean Alley guitarist Mitch Galbraith used the red carpet to criticise proposed federal laws he said would favour AI companies over Australian artists, according to AAP. Wiggles member John Pearce said he agreed. The ceremony is hosted by Melanie Bracewell and Tim McDonald.",
+   "keyFacts": [
+    "This is the 40th ARIA Awards",
+    "Two acts lead with eight nominations",
+    "Held at the Hordern Pavilion"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/music-stars-light-up-red-carpet-ahead-of-aria-awards"
+    }
+   ],
+   "publishedAt": "2026-11-18T17:10:00+11:00",
+   "createdAt": "2026-11-18T17:50:57+11:00",
+   "reason": "Entertainment"
   }
  ]
 }
