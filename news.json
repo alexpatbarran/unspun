@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T17:50:57+11:00",
+ "updatedAt": "2026-11-19T06:52:35+11:00",
  "articles": [
   {
    "id": "2026-11-12-mississippi-senate",
@@ -29,35 +29,6 @@
    ],
    "publishedAt": "2026-11-12T10:08:00+11:00",
    "createdAt": "2026-11-12T10:35:00+11:00"
-  },
-  {
-   "id": "2026-11-12-abu-dhabi-talks",
-   "batch": "2026-11-12",
-   "rank": 2,
-   "category": "World",
-   "title": "Russia and Ukraine agree to large prisoner swap; no breakthrough on ending the war",
-   "summary": "Two days of US-mediated talks between Russian and Ukrainian delegations in Abu Dhabi ended on Wednesday with agreement on a large exchange of prisoners of war. Russia's chief negotiator, Vladimir Medinsky, said both sides had agreed to the swap. Ukraine's delegation was led by Rustem Umerov.\n\nNo ceasefire was agreed. US envoy Jared Kushner said territorial issues would be the hardest to settle but that progress was made on a post-war security framework. He said he and Steve Witkoff would travel to Moscow to brief Vladimir Putin and then meet Volodymyr Zelensky in Dublin.",
-   "keyFacts": [
-    "Final prisoner numbers had not been set when the talks ended",
-    "Russian state agency TASS said the exchange should happen within two to three weeks",
-    "It was the first meeting between the two delegations in about nine months"
-   ],
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/11/russia-ukraine-talks-in-abu-dhabi-end-with-prisoner-exchange-agreement"
-    },
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-12/ukraine-russia-agree-prisoner-swap-abu-dhabi-talks/107375462"
-    },
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/large-scale-prisoner-exchange-agreed-as-2nd-day-of-abu-dhabi-talks-concludes-umerov-says/"
-    }
-   ],
-   "publishedAt": "2026-11-12T01:30:00+11:00",
-   "createdAt": "2026-11-12T03:30:00+11:00"
   },
   {
    "id": "2026-11-12-nab-underpayment-undertaking",
@@ -110,60 +81,6 @@
    "createdAt": "2026-11-12T10:35:00+11:00"
   },
   {
-   "id": "2026-11-12-spain-general-strike",
-   "batch": "2026-11-12",
-   "rank": 9,
-   "category": "World",
-   "title": "Spain holds first general strike since 2012 over housing; unions claim four million joined",
-   "summary": "Spain's two largest unions, UGT and CCOO, held a 24-hour general strike on Wednesday over housing costs and wages, the first general strike in the country since 2012. The unions said four million workers took part, according to Reuters reporting carried by ABC News. That figure has not been independently confirmed.\n\nPolice reported 40 arrests across 476 incidents by midday. Unions said they would file a criminal complaint over what they called a disproportionate police response. Employer group CEOE said the strike was counterproductive. Prime Minister Pedro Sánchez faces a general election on 29 November.",
-   "keyFacts": [
-    "Spain's central bank estimates a housing shortfall of about 750,000 homes",
-    "A BBVA Research economist estimated a 0.1–0.2 per cent hit to annual GDP",
-    "Basque broadcaster EITB reported 32 arrests in the early hours"
-   ],
-   "sources": [
-    {
-     "name": "ABC News (Reuters)",
-     "url": "https://www.abc.net.au/news/2026-11-12/spain-protests-housing-election/107375816"
-    },
-    {
-     "name": "EITB",
-     "url": "https://www.eitb.eus/en/news/detail/986025/spain-general-strike--thirty-two-people-arrested-early-hours/"
-    }
-   ],
-   "publishedAt": "2026-11-12T05:03:00+11:00",
-   "createdAt": "2026-11-12T10:35:00+11:00"
-  },
-  {
-   "id": "2026-11-12-gaza-strikes",
-   "batch": "2026-11-12",
-   "rank": 12,
-   "category": "World",
-   "title": "Israeli strikes kill at least 10 in Gaza over two days, health officials say",
-   "summary": "Israeli forces killed at least seven Palestinians in Gaza on Tuesday, including a father and his 13-year-old son, local health officials told Reuters. Medics said the two were killed when an airstrike hit the roof of a displacement shelter in Gaza City's Zeitoun neighbourhood. On Wednesday, strikes killed three more people, including two brothers at a tent for displaced people.\n\nThe Israeli military said it struck militants in the areas, without giving details. Gaza's Health Ministry says more than 1,600 Palestinians have been killed since the ceasefire began in October 2025.",
-   "keyFacts": [
-    "At least 7 killed Tuesday and 3 Wednesday, per local health officials",
-    "The Israeli military says it targeted militants",
-    "The ceasefire took effect in October 2025"
-   ],
-   "sources": [
-    {
-     "name": "Reuters (via Al-Monitor)",
-     "url": "https://www.al-monitor.com/originals/2026/11/israeli-fire-kills-seven-including-father-and-son-gaza-medics-say"
-    },
-    {
-     "name": "Reuters (via Arab News)",
-     "url": "https://www.arabnews.pk/world/israeli-strikes-kill-three-people-including-two-brothers-in-gaza-medics-say-3006758"
-    },
-    {
-     "name": "AP (via KSAT)",
-     "url": "https://www.ksat.com/news/world/2026/11/10/overnight-strikes-in-yemen-kill-at-least-1-person-and-wound-9-and-other-mideast-news/"
-    }
-   ],
-   "publishedAt": "2026-11-12T03:00:00+11:00",
-   "createdAt": "2026-11-12T04:30:00+11:00"
-  },
-  {
    "id": "2026-11-12-albanese-cop31-leaders",
    "batch": "2026-11-12",
    "rank": 16,
@@ -186,31 +103,6 @@
     }
    ],
    "publishedAt": "2026-11-12T06:58:00+11:00",
-   "createdAt": "2026-11-12T10:35:00+11:00"
-  },
-  {
-   "id": "2026-11-12-europe-school-bomb-hoaxes",
-   "batch": "2026-11-12",
-   "rank": 20,
-   "category": "World",
-   "title": "Hundreds of Italian schools evacuated after emailed bomb threats",
-   "summary": "At least 300 schools in Italy were evacuated on Wednesday after emailed bomb warnings, Reuters reported in a story carried by ABC News. Schools in Scotland, Northern Ireland and Ireland received similar emails, which authorities classed as hoaxes and which did not disrupt classes.\n\nItalian Defence Minister Guido Crosetto said the threats were intended to spread fear. No group has been confirmed as responsible. Russia denied involvement, and Iran called accusations against it baseless. The emails follow similar waves of hoax threats sent to schools in Europe in October and early November.",
-   "keyFacts": [
-    "No explosives were reported found",
-    "Italian postal police have investigated earlier emails",
-    "France separately summoned Iran's ambassador over an alleged cyberattack"
-   ],
-   "sources": [
-    {
-     "name": "ABC News (Reuters)",
-     "url": "https://www.abc.net.au/news/2026-11-12/european-bomb-hoaxes-italy-uk/107375742"
-    },
-    {
-     "name": "Orizzonte Scuola",
-     "url": "https://www.orizzontescuola.it/psicosi-bomba-nelle-scuole-di-mezza-europa-allarmi-via-e-mail-e-decine-di-evacuazioni-da-nord-a-sud-italia-fino-al-regno-unito/"
-    }
-   ],
-   "publishedAt": "2026-11-12T02:05:00+11:00",
    "createdAt": "2026-11-12T10:35:00+11:00"
   },
   {
@@ -364,31 +256,6 @@
    "createdAt": "2026-11-12T17:50:00+11:00"
   },
   {
-   "id": "2026-11-12-hormuz-didamar-tanker",
-   "batch": "2026-11-12-pm",
-   "rank": 4,
-   "category": "World",
-   "title": "Iran says it hit navigation systems on Omani island; tanker reported on fire in Hormuz",
-   "summary": "Three sources told Reuters that Iran attacked shipping navigation systems on Oman's Didamar island in the Strait of Hormuz. Iranian state media said the Revolutionary Guards destroyed what it called enemy navigation systems there. Reuters could not confirm whether anything was destroyed, and shipping sources said the effect on commercial traffic was likely to be limited.\n\nSeparately, Iran's army said on Wednesday an oil tanker hit a mine and caught fire after entering a restricted area. The UK Maritime Trade Operations agency said it had a report of an incident involving a tanker, with damage and crew condition unknown. US Central Command and Oman did not comment.",
-   "keyFacts": [
-    "It is unclear whether the two tanker reports refer to the same ship",
-    "Iran has restricted Hormuz traffic since the war began in late February",
-    "The US says mines in the area have been cleared"
-   ],
-   "sources": [
-    {
-     "name": "Reuters (via Arab News)",
-     "url": "https://www.arabnews.com/middle-east/ukmto-reports-tanker-incident-in-strait-of-hormuz-3011095"
-    },
-    {
-     "name": "Middle East Eye",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-army-says-oil-tanker-ablaze-hormuz-strait-after-hitting-mine"
-    }
-   ],
-   "publishedAt": "2026-11-12T05:20:00+11:00",
-   "createdAt": "2026-11-12T17:50:00+11:00"
-  },
-  {
    "id": "2026-11-12-qld-cfmeu-interim-report",
    "batch": "2026-11-12-pm",
    "rank": 5,
@@ -460,31 +327,6 @@
    "createdAt": "2026-11-12T17:50:00+11:00"
   },
   {
-   "id": "2026-11-12-congo-ebola-11000",
-   "batch": "2026-11-12-pm",
-   "rank": 8,
-   "category": "Health",
-   "title": "Congo's Ebola outbreak passes 11,000 cases, government data show",
-   "summary": "Ebola cases in the Democratic Republic of Congo have passed 11,000, according to government health data reported by Reuters and AP. The figures show 11,042 infections and 5,387 deaths since the outbreak was declared in mid-May. It is caused by the Bundibugyo virus, for which there is no approved vaccine or treatment.\n\nThe outbreak has spread to eight of Congo's 26 provinces, with Ituri and North Kivu the main hotspots, and cases have been reported in Uganda, Kenya and Nigeria. Reuters said delayed detection, conflict and strained health services have helped it spread. Only the 2014-16 West African outbreak has been larger.",
-   "keyFacts": [
-    "Deaths are close to half of recorded infections",
-    "The outbreak was declared in mid-May 2026",
-    "AP reported attacks on health workers and facilities"
-   ],
-   "sources": [
-    {
-     "name": "Reuters (via CNBC Africa)",
-     "url": "https://www.cnbcafrica.com/2026/congos-ebola-cases-surpass-11000-government-data-show"
-    },
-    {
-     "name": "AP (via KPBS)",
-     "url": "https://www.kpbs.org/news/health/2026/11/11/ebola-tops-11-000-cases-in-congos-deadliest-outbreak"
-    }
-   ],
-   "publishedAt": "2026-11-11T19:54:00+11:00",
-   "createdAt": "2026-11-12T17:50:00+11:00"
-  },
-  {
    "id": "2026-11-12-anz-ceo-inquiry",
    "batch": "2026-11-12-pm",
    "rank": 9,
@@ -503,27 +345,6 @@
     }
    ],
    "publishedAt": "2026-11-12T15:09:00+11:00",
-   "createdAt": "2026-11-12T17:50:00+11:00"
-  },
-  {
-   "id": "2026-11-12-q-fever-vaccine-shortage",
-   "batch": "2026-11-12-pm",
-   "rank": 10,
-   "category": "Health",
-   "title": "Australia expected to run out of Q fever vaccine this week",
-   "summary": "Australia is expected to run out of Q-VAX, its only Q fever vaccine, this week, ABC Rural reported. Supplier CSL Seqirus said it expects a short, temporary stock-out until the end of the year. It said the next two batches have been sped up and are expected in late December.\n\nThe company blamed raw material supply problems and equipment faults on its filling lines, which meant three or four batches could not be released. Each batch takes about nine months to make. Farmers told the ABC they had been unable to vaccinate staff for months. The Health Department said CSL Seqirus manages supply under a 10-year, $1 billion arrangement.",
-   "keyFacts": [
-    "991 Q fever cases were recorded last year, a record",
-    "Q fever spreads from livestock to people",
-    "Supply is expected to improve early next year"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-12/q-fever-vaccine-shortage-in-australia/107374986"
-    }
-   ],
-   "publishedAt": "2026-11-12T06:29:00+11:00",
    "createdAt": "2026-11-12T17:50:00+11:00"
   },
   {
@@ -4460,53 +4281,411 @@
    ],
    "publishedAt": "2026-11-18T16:41:00+11:00",
    "createdAt": "2026-11-18T17:50:57+11:00"
+  },
+  {
+   "id": "2026-11-19-gaza-central-ground-operation",
+   "batch": "2026-11-19",
+   "rank": 1,
+   "category": "World",
+   "title": "Israel sends tanks into central Gaza in first ground push since ceasefire",
+   "summary": "Israeli forces began a ground operation in central Gaza on Wednesday beyond the so-called Yellow Line, according to Al Jazeera and Euronews. The military said it was targeting Hamas infrastructure and acting to remove a threat to its troops. Tanks were reported east of Nuseirat camp and north of Bureij, and families fled parts of Nuseirat.\n\nHospital officials said three Palestinians were killed in the operation, Al Jazeera reported. Hamas called it a clear violation of the ceasefire. COGAT told aid groups to stay out of the area. An AFP tally based on Gaza health ministry figures puts deaths since the October 2025 ceasefire above 1,600; Israel says seven soldiers have been killed in that time.",
+   "keyFacts": [
+    "It is the first Israeli ground push since the ceasefire began",
+    "Hospital officials reported three people killed",
+    "Israel says it controls more than 60 per cent of Gaza"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/18/palestinians-flee-refugee-camp-as-israel-begins-operation-in-central-gaza"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/18/israeli-military-launches-new-operation-on-central-gaza-despite-ceasefire"
+    }
+   ],
+   "publishedAt": "2026-11-19T01:39:00+11:00",
+   "createdAt": "2026-11-19T06:52:35+11:00"
+  },
+  {
+   "id": "2026-11-19-peltola-wins-alaska-senate",
+   "batch": "2026-11-19",
+   "rank": 2,
+   "category": "Politics",
+   "title": "Democrat Mary Peltola defeats Senator Dan Sullivan in Alaska, AP reports",
+   "summary": "Democrat Mary Peltola has defeated two-term Republican Senator Dan Sullivan in Alaska, according to AP. It was the last US Senate race of the 2026 midterms to be decided. AP said the result gives Democrats a 56-44 majority in the Senate after they flipped nine Republican-held seats.\n\nPeltola said voters had sent a message that the status quo in Washington was not working for Alaska. AP said Sullivan's spokesperson did not respond to a request for comment. A federal judge dismissed a Justice Department lawsuit over the race, and the department has appealed, AP reported. Peltola led Sullivan 49.5 per cent to 41.4 per cent in the August primary.",
+   "keyFacts": [
+    "Alaska was the last undecided Senate race",
+    "Democrats will hold 56 of 100 Senate seats, AP said",
+    "The Justice Department is appealing the dismissal of its lawsuit"
+   ],
+   "sources": [
+    {
+     "name": "AP (via PBS NewsHour)",
+     "url": "https://www.pbs.org/newshour/politics/democrat-mary-peltola-wins-alaska-senate-seat-beating-republican-incumbent-dan-sullivan"
+    }
+   ],
+   "publishedAt": "2026-11-19T01:25:00+11:00",
+   "createdAt": "2026-11-19T06:52:35+11:00"
+  },
+  {
+   "id": "2026-11-19-trump-shenzhen-putin-bilateral",
+   "batch": "2026-11-19",
+   "rank": 3,
+   "category": "World",
+   "title": "Trump arrives in Shenzhen and plans separate meeting with Putin",
+   "summary": "US President Donald Trump arrived in Shenzhen for the APEC summit, where Chinese President Xi Jinping greeted him at the airport, Euronews reported. A first three-way meeting between Trump, Xi and Russian President Vladimir Putin is scheduled for Thursday.\n\nA US official told AP that Trump also plans a separate meeting with Putin on Thursday, their first talks since last year's Alaska summit; the timing was unclear. Trump said the joint meeting would cover limiting nuclear weapons and ending the war in Ukraine, AP reported. Trump also said he was very close to a deal on Ukraine and would not raise Taiwan himself, according to Euronews. Putin told a business forum that sanctions and tariffs had outlived their usefulness.",
+   "keyFacts": [
+    "The trilateral meeting is set for Thursday",
+    "A US official told AP of a separate Trump-Putin meeting",
+    "It would be their first talks since Alaska last year"
+   ],
+   "sources": [
+    {
+     "name": "AP (via PBS NewsHour)",
+     "url": "https://www.pbs.org/newshour/world/trump-plans-to-meet-separately-with-putin-on-his-china-trip-in-addition-to-their-3-way-talks-with-xi"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/18/trump-arrives-in-china-for-unprecedented-trilateral-encounter-with-xi-and-putin"
+    }
+   ],
+   "publishedAt": "2026-11-19T03:57:00+11:00",
+   "createdAt": "2026-11-19T06:52:35+11:00"
+  },
+  {
+   "id": "2026-11-19-xi-apec-free-trade-pledge",
+   "batch": "2026-11-19",
+   "rank": 4,
+   "category": "Economy",
+   "title": "Xi tells APEC business forum China will cut tariffs and widen market access",
+   "summary": "Chinese President Xi Jinping told business leaders at the APEC summit in Shenzhen that China supports free and open trade, according to Al Jazeera. He criticised unilateralism and protectionism, without naming the United States.\n\nXi said China would lower tariffs and expand market access in manufacturing and services, and would offer global companies a more stable and predictable environment, Al Jazeera reported. He said the World Trade Organization should remain at the centre of the trading system. An analyst quoted by Al Jazeera noted Xi did not mention US export controls or Nvidia. The speech came before Xi's meetings with US President Donald Trump and Russian President Vladimir Putin.",
+   "keyFacts": [
+    "Xi spoke at the APEC CEO summit in Shenzhen",
+    "He pledged lower tariffs and wider market access",
+    "He said the WTO should stay central to world trade"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/18/xis-pitch-for-free-trade-amid-trumps-global-trade-disruptions"
+    }
+   ],
+   "publishedAt": "2026-11-18T19:05:00+11:00",
+   "createdAt": "2026-11-19T06:52:35+11:00"
+  },
+  {
+   "id": "2026-11-19-jeffries-nominated-speaker",
+   "batch": "2026-11-19",
+   "rank": 5,
+   "category": "Politics",
+   "title": "House Democrats nominate Hakeem Jeffries as Speaker for new Congress",
+   "summary": "House Democrats have nominated Hakeem Jeffries for Speaker in a closed-door vote of 251 to 11, NPR and Al Jazeera reported. Jeffries ran unopposed. If elected by the full House on 3 January, he would be the first Black Speaker of the House.\n\nAl Jazeera said seven of the 11 members who voted against him were newly elected Democrats who cited unmet commitments on issues including Medicare for All and Gaza. NPR reported Democrats are set to control at least 257 seats in the new House. Jeffries said Democrats would deliver change. NPR said some Democrats have publicly questioned whether Chuck Schumer should remain Senate leader.",
+   "keyFacts": [
+    "The caucus vote was 251 to 11",
+    "The full House votes on 3 January",
+    "Democrats are set to hold at least 257 House seats, NPR said"
+   ],
+   "sources": [
+    {
+     "name": "NPR (via KPBS)",
+     "url": "https://www.kpbs.org/news/politics/2026/11/18/democrats-formally-nominate-hakeem-jeffries-for-speaker-of-the-house"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/18/hakeem-jeffries-becomes-first-black-nominee-for-us-house-speaker"
+    }
+   ],
+   "publishedAt": "2026-11-19T02:56:00+11:00",
+   "createdAt": "2026-11-19T06:52:35+11:00"
+  },
+  {
+   "id": "2026-11-19-overton-fda-nomination-withdrawn",
+   "batch": "2026-11-19",
+   "rank": 6,
+   "category": "Health",
+   "title": "White House withdraws Heidi Overton's nomination to lead the FDA",
+   "summary": "The White House has withdrawn Heidi Overton's nomination as commissioner of the US Food and Drug Administration, shortly before a Senate health committee vote, Drug Topics reported, citing The New York Times. Two people familiar with the decision said the White House concluded she lacked the votes, as she needed every Republican on the committee.\n\nCommittee chair Bill Cassidy disputed that, saying on social media he believed she would have advanced and that she had been abandoned. Overton was the third person put forward for the role since Marty Makary left in May. Her role in an August executive order on splitting the MMR vaccine had drawn scrutiny. It is unclear who will be nominated next.",
+   "keyFacts": [
+    "The withdrawal came before a scheduled committee vote",
+    "Senator Cassidy said she would have advanced",
+    "She was the third pick since Makary's May departure"
+   ],
+   "sources": [
+    {
+     "name": "Drug Topics",
+     "url": "https://www.drugtopics.com/view/white-house-withdraws-heidi-overton-s-nomination-as-fda-commissioner"
+    }
+   ],
+   "publishedAt": "2026-11-19T02:00:00+11:00",
+   "createdAt": "2026-11-19T06:52:35+11:00"
+  },
+  {
+   "id": "2026-11-19-fed-minutes-december-hike",
+   "batch": "2026-11-19",
+   "rank": 7,
+   "category": "Economy",
+   "title": "Fed minutes show nearly all officials expect a rate rise in December",
+   "summary": "Minutes of the US Federal Reserve's 27–28 October meeting show nearly all officials expected to raise interest rates by a quarter point in December, AP reported. Some officials supported a rise in October, and governors Lisa Cook and Beth Hammack dissented in favour of a higher rate.\n\nThe Fed held its benchmark rate at 3.9 per cent in October after raising it in September. AP said futures markets put the chance of a December rise near 95 per cent. Governor Christopher Waller told CNBC he backed a half-point rise, while New York Fed president John Williams argued against a move that large, according to AP.",
+   "keyFacts": [
+    "The minutes cover the 27–28 October meeting",
+    "Two governors dissented in favour of a rise",
+    "Markets priced a December rise at about 95 per cent, AP said"
+   ],
+   "sources": [
+    {
+     "name": "AP (via KSAT)",
+     "url": "https://www.ksat.com/business/2026/11/18/fed-minutes-higher-interest-rates-needed-in-december-as-inflation-worries-mount/"
+    }
+   ],
+   "publishedAt": "2026-11-19T06:09:00+11:00",
+   "createdAt": "2026-11-19T06:52:35+11:00"
+  },
+  {
+   "id": "2026-11-19-uk-inflation-october",
+   "batch": "2026-11-19",
+   "rank": 8,
+   "category": "Economy",
+   "title": "UK inflation rises to 3.6 per cent in October as fuel prices climb",
+   "summary": "UK consumer prices rose 3.6 per cent in the year to October, up from 3.5 per cent in September, the Office for National Statistics said. The CPIH measure, which includes owner-occupier housing costs, rose 3.7 per cent.\n\nThe ONS said transport, particularly motor fuel, made the largest upward contribution. Fuel prices were 33.2 per cent higher than a year earlier, the biggest annual rise since July 2022. Average diesel reached 199.5p a litre, the highest since records began in 1996. Core inflation, which excludes energy, food, alcohol and tobacco, was 2.8 per cent. Restaurants and hotels made the largest downward contribution.",
+   "keyFacts": [
+    "Annual CPI inflation was 3.6 per cent",
+    "Motor fuel prices rose 33.2 per cent over the year",
+    "Core inflation was 2.8 per cent"
+   ],
+   "sources": [
+    {
+     "name": "Office for National Statistics",
+     "url": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/october2026"
+    }
+   ],
+   "publishedAt": "2026-11-18T18:00:00+11:00",
+   "createdAt": "2026-11-19T06:52:35+11:00"
+  },
+  {
+   "id": "2026-11-19-us-venezuela-military-ties",
+   "batch": "2026-11-19",
+   "rank": 9,
+   "category": "World",
+   "title": "Hegseth says US and Venezuela have signed deal to restore military ties",
+   "summary": "US Defence Secretary Pete Hegseth said during a visit to Caracas that the United States and Venezuela had signed an agreement to re-establish military ties, covering areas from training to intelligence sharing, AP reported. The Pentagon did not release further details.\n\nHegseth described Venezuela as a compliant security partner since US forces captured Nicolás Maduro in January and praised cooperation with interim President Delcy Rodríguez, according to AP. Rodríguez said she hoped cooperation would reach the highest possible level. AP noted that her court-sanctioned term expired in July, she remains head of state, and no date has been set for a presidential election.",
+   "keyFacts": [
+    "The agreement covers training and intelligence sharing",
+    "The Pentagon gave no further details",
+    "No date is set for Venezuela's next presidential election"
+   ],
+   "sources": [
+    {
+     "name": "AP (via CP24)",
+     "url": "https://www.cp24.com/news/world/2026/11/18/hegseth-visiting-venezuela-says-the-nations-have-signed-a-deal-to-re-establish-military-ties/"
+    }
+   ],
+   "publishedAt": "2026-11-19T05:44:00+11:00",
+   "createdAt": "2026-11-19T06:52:35+11:00"
+  },
+  {
+   "id": "2026-11-19-anthropic-ipo-record-sale",
+   "batch": "2026-11-19",
+   "rank": 10,
+   "category": "Business",
+   "title": "Anthropic set to debut on Nasdaq after share sale of up to $US90 billion",
+   "summary": "AI company Anthropic is due to begin trading on Nasdaq on Thursday US time under the ticker ANT, CBS News reported. Its filing offers 825 million shares at $US70 to $US78, which would raise up to about $US64 billion, plus about $US26 billion from a private placement involving companies including Nvidia and Google.\n\nCity AM reported orders reached almost seven times the shares available and that pricing was expected on Wednesday evening, with bankers reportedly guiding to the top of the range. The expected valuation is about $US1.4 trillion. City AM said the company had an annualised revenue run rate of $US81 billion at the end of October and an operating loss of $US567 million in the September quarter.",
+   "keyFacts": [
+    "The offer covers 825 million shares",
+    "The price range is $US70 to $US78",
+    "The expected valuation is about $US1.4 trillion"
+   ],
+   "sources": [
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/news/anthropic-ipo-ai-boom-nasdaq-debut/"
+    },
+    {
+     "name": "City AM",
+     "url": "https://www.cityam.com/anthropic-set-for-record-ipo-despite-ai-stock-sell-off/"
+    }
+   ],
+   "publishedAt": "2026-11-19T03:28:00+11:00",
+   "createdAt": "2026-11-19T06:52:35+11:00"
+  },
+  {
+   "id": "2026-11-19-sudan-army-kordofan-un-drones",
+   "batch": "2026-11-19",
+   "rank": 11,
+   "category": "World",
+   "title": "Sudan's army advances in Kordofan as UN reports most civilian deaths from drones",
+   "summary": "Sudan's army has captured the town of Al Khuway and advanced to within about 60km of the RSF-held city of Al Nuhud in West Kordofan, The National reported, citing the conflict monitor ACLED. ACLED said the army and allies had retaken more than 30 towns and villages since early November.\n\nA UN report said more than 1,630 civilians were killed in drone strikes from January to October, about 73 per cent of 2,230 verified civilian deaths, according to The National. Kordofan accounted for more than two-thirds of casualties. A lawyers' group said an army air strike killed at least 13 people in Abu Qalb. Aid groups say the war has killed at least 59,000 people since April 2023.",
+   "keyFacts": [
+    "Drone strikes caused about 73 per cent of verified civilian deaths, the UN said",
+    "The army is about 60km from Al Nuhud",
+    "A lawyers' group blamed an army air strike for 13 deaths"
+   ],
+   "sources": [
+    {
+     "name": "The National",
+     "url": "https://www.thenationalnews.com/news/mena/2026/11/18/al-burhans-forces-push-towards-rsf-stronghold-as-un-warns-of-sudan-drone-toll/"
+    }
+   ],
+   "publishedAt": "2026-11-19T00:38:00+11:00",
+   "createdAt": "2026-11-19T06:52:35+11:00"
+  },
+  {
+   "id": "2026-11-19-amnesty-el-obeid-drone-strikes",
+   "batch": "2026-11-19",
+   "rank": 12,
+   "category": "World",
+   "title": "Amnesty says RSF drone strikes on El Obeid should be investigated as war crimes",
+   "summary": "Amnesty International said drone strikes by Sudan's Rapid Support Forces on El Obeid in North Kordofan should be investigated as war crimes. It said it examined nine strikes between June and August that killed 37 civilians and injured 10, including attacks on a power plant, fuel stations and the main market.\n\nAmnesty said it found no military targets near the sites. Secretary-General Agnès Callamard called for the Darfur arms embargo to be extended across Sudan and to cover drones. Amnesty said the RSF replied in October denying responsibility and blaming the Sudanese army, without providing evidence. The RSF and the army have been at war since April 2023.",
+   "keyFacts": [
+    "Amnesty examined nine strikes from June to August",
+    "It said 37 civilians were killed",
+    "The RSF denied responsibility, Amnesty said"
+   ],
+   "sources": [
+    {
+     "name": "Amnesty International",
+     "url": "https://www.amnesty.org/en/latest/news/2026/11/sudan-devastating-rsf-drone-strikes-on-civilians-in-el-obeid-should-be-investigated-as-war-crimes/"
+    }
+   ],
+   "publishedAt": "2026-11-18T15:23:00+11:00",
+   "createdAt": "2026-11-19T06:52:35+11:00"
+  },
+  {
+   "id": "2026-11-19-tio-complaints-telstra-outage",
+   "batch": "2026-11-19",
+   "rank": 13,
+   "category": "Business",
+   "title": "Telstra outage drives 72 per cent rise in outage complaints to telco ombudsman",
+   "summary": "More than 13,000 Australians lodged complaints with the Telecommunications Industry Ombudsman in the September quarter, the ABC reported. A 12-hour Telstra outage on 8 July drove a 72 per cent rise in complaints that mentioned outages.\n\nTelcos paid $1.9 million in compensation to 2,267 people who complained, according to the ABC. FTI Consulting estimated the Telstra outage cost the economy $552 million. Consumer group ACCAN said the figures understated the problem and called for automatic compensation. Ombudsman Cynthia Gebert urged telcos to act quickly and fairly. Telstra said 99 per cent of complaints made directly to it had been resolved.",
+   "keyFacts": [
+    "More than 13,000 complaints were lodged in the quarter",
+    "Outage-related complaints rose 72 per cent",
+    "Telcos paid $1.9 million in compensation"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-19/telstra-outage-drives-surge-in-telco-outage-complaints/107400558"
+    }
+   ],
+   "publishedAt": "2026-11-19T00:03:00+11:00",
+   "createdAt": "2026-11-19T06:52:35+11:00"
+  },
+  {
+   "id": "2026-11-19-act-surgery-waitlist-whistleblower",
+   "batch": "2026-11-19",
+   "rank": 14,
+   "category": "Health",
+   "title": "Whistleblower alleges Canberra patients removed from surgery lists to cut wait times",
+   "summary": "Independent ACT MLA Thomas Emerson told the Legislative Assembly that a whistleblower alleged Canberra Health Services clerks were told to remove elective surgery patients who had waited more than 500 days, without consulting doctors, the ABC reported. The alleged aim was to improve average wait-time figures, and staff who refused were allegedly threatened.\n\nCanberra Health Services chief executive Janet Zagari called the allegations extremely disturbing and said no policy allowed removal without clinical review, according to the ABC. The service will commission an independent audit. Health Minister Marisa Paterson said the allegations were being treated with the utmost seriousness. The claims have not been tested.",
+   "keyFacts": [
+    "The allegations were raised during annual report hearings",
+    "They concern patients waiting more than 500 days",
+    "An independent audit will be commissioned"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-19/whistleblower-says-patients-removed-from-lists-to-improve-times/107400512"
+    }
+   ],
+   "publishedAt": "2026-11-19T06:35:00+11:00",
+   "createdAt": "2026-11-19T06:52:35+11:00"
+  },
+  {
+   "id": "2026-11-19-voyager-1-one-light-day",
+   "batch": "2026-11-19",
+   "rank": 15,
+   "category": "Science & Tech",
+   "title": "Voyager 1 reaches one light-day from Earth, 49 years after launch",
+   "summary": "NASA's Voyager 1 spacecraft was due to reach one light-day from Earth on 18 November, about 26 billion kilometres away, according to NASA and Space.com. At that distance a radio signal takes 24 hours to travel each way, so a command and its reply take two days.\n\nSpace.com said the milestone was expected at 10:16 GMT, or 9:16pm AEDT. Voyager 1 launched in September 1977 and in 2012 became the first human-made spacecraft to enter interstellar space, NASA said. It travels at about 61,000km/h. Its twin, Voyager 2, is expected to reach the same distance in November 2035, according to Space.com.",
+   "keyFacts": [
+    "One light-day is about 26 billion kilometres",
+    "Signals take 24 hours each way",
+    "Voyager 2 is expected to reach the mark in 2035"
+   ],
+   "sources": [
+    {
+     "name": "NASA",
+     "url": "https://svs.gsfc.nasa.gov/15120"
+    },
+    {
+     "name": "Space.com",
+     "url": "https://www.space.com/space-exploration/voyager/what-exactly-is-a-light-day-heres-what-voyager-1s-latest-milestone-means-for-the-interstellar-probe"
+    }
+   ],
+   "publishedAt": "2026-11-18T21:16:00+11:00",
+   "createdAt": "2026-11-19T06:52:35+11:00"
+  },
+  {
+   "id": "2026-11-19-woolworths-store-expansion",
+   "batch": "2026-11-19",
+   "rank": 16,
+   "category": "Business",
+   "title": "Woolworths plans 100 to 125 new supermarkets over five years",
+   "summary": "Woolworths plans to open 20 to 25 new stores a year over the next three to five years, adding 100 to 125 supermarkets over five years, AAP reported. The company opened 127 stores in the past decade.\n\nChief executive Amanda Bardwell told an investor briefing on Wednesday that new stores support the company's online growth, according to AAP. About two-thirds of its 1,130 Australian supermarkets have been renewed, and 60 to 85 more will be refitted each year. AAP said scan-and-go trolleys are in 100 stores, with a wider rollout planned before Christmas.",
+   "keyFacts": [
+    "Woolworths has 1,130 Australian supermarkets",
+    "It plans 20 to 25 openings a year",
+    "It opened 127 stores in the past decade"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/woolworths-plans-big-expansion-of-store-network"
+    }
+   ],
+   "publishedAt": "2026-11-18T16:40:00+11:00",
+   "createdAt": "2026-11-19T06:52:35+11:00"
+  },
+  {
+   "id": "2026-11-19-tran-hiep-vietnam-detention",
+   "batch": "2026-11-19",
+   "rank": 17,
+   "category": "Australia",
+   "title": "Wife of Melbourne activist held in Vietnam urges stronger push for his release",
+   "summary": "The wife of Melbourne activist Tran Hiep, who has been detained in Vietnam since September, has urged the federal government to press harder for his release, AAP reported. Vietnamese authorities say he is accused of terrorism and forging documents; he was taken from Cambodia.\n\nPrime Minister Anthony Albanese raised the case with Vietnam's prime minister at the ASEAN summit on Sunday, according to AAP. Chloe Dang welcomed that but said her husband's case should not be treated like criminal cases. His lawyer said normal diplomacy was not working. Vietnamese authorities said detained men admitted membership of Viet Tan, which Vietnam lists as a terrorist group. A consular visit is set for 20 November.",
+   "keyFacts": [
+    "Tran Hiep, 51, is held in Ho Chi Minh City",
+    "Albanese raised the case at the ASEAN summit",
+    "A consular visit is scheduled for 20 November"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/jailed-activist-s-wife-urges-stronger-pm-release-push"
+    }
+   ],
+   "publishedAt": "2026-11-18T13:40:00+11:00",
+   "createdAt": "2026-11-19T06:52:35+11:00"
+  },
+  {
+   "id": "2026-11-19-rubio-outages-no-malign-actor",
+   "batch": "2026-11-19",
+   "rank": 18,
+   "category": "World",
+   "title": "Rubio says no evidence recent US outages were caused by a hostile actor",
+   "summary": "US Secretary of State Marco Rubio said there was zero evidence that recent outages affecting Microsoft, the Federal Aviation Administration, JPMorgan Chase and the National Security Agency were linked or caused by rival countries or criminals, AP reported.\n\nThe outages have disrupted US flights, business services and the NSA's classified internal network in recent days. The NSA has attributed its outage to routine maintenance, and Microsoft said its outage was caused by an earlier network capacity upgrade. Rubio made the comments while travelling with President Donald Trump in Asia, according to AP.",
+   "keyFacts": [
+    "Rubio cited outages at four organisations",
+    "He said there was no sign of a malign actor",
+    "The NSA blamed its outage on maintenance"
+   ],
+   "sources": [
+    {
+     "name": "AP (via PBS NewsHour)",
+     "url": "https://www.pbs.org/newshour/world/trump-plans-to-meet-separately-with-putin-on-his-china-trip-in-addition-to-their-3-way-talks-with-xi"
+    },
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/hours-long-microsoft-outage-hits-companies-governments"
+    }
+   ],
+   "publishedAt": "2026-11-19T03:57:00+11:00",
+   "createdAt": "2026-11-19T06:52:35+11:00"
   }
  ],
  "leftOut": [
-  {
-   "id": "2026-11-12-lo-bessent-base",
-   "batch": "2026-11-12",
-   "rank": 8,
-   "category": "World",
-   "title": "Treasury Secretary Bessent moved to military base over Iranian threats, sources say",
-   "summary": "US Treasury Secretary Scott Bessent has been moved to live on a military base because of threats from Iran, ABC News (US) reported on Wednesday, citing multiple unnamed sources familiar with the situation. He had reportedly been living in Washington's Georgetown area.\n\nThe report said Defence Secretary Pete Hegseth and Secretary of State Marco Rubio also live on military bases while in Washington. The Secret Service, which protects Bessent, did not immediately respond to a request for comment. The move has not been officially confirmed.",
-   "keyFacts": [
-    "The report relies on unnamed sources",
-    "ABC News (US) described the story as developing",
-    "No official statement had been issued"
-   ],
-   "sources": [
-    {
-     "name": "ABC News (US)",
-     "url": "https://abcnews.com/Politics/treasury-secretary-scott-bessent-moved-military-base-sources/story?id=138044885"
-    }
-   ],
-   "publishedAt": "2026-11-12T01:33:00+11:00",
-   "createdAt": "2026-11-12T10:35:00+11:00",
-   "reason": "Not yet confirmed"
-  },
-  {
-   "id": "2026-11-12-lo-ukraine-strikes-nov11",
-   "batch": "2026-11-12",
-   "rank": 9,
-   "category": "World",
-   "title": "Russian strikes kill several people and cut power in eight Ukrainian regions",
-   "summary": "Russian attacks on 10 and 11 November killed at least four people and injured more than 20 across several Ukrainian regions, according to regional officials cited by Ukrainian news agency UNN. Zaporizhzhia's governor Ivan Fedorov reported one death and 15 injuries, and Donetsk officials reported two deaths.\n\nUNN reported power outages in eight regions, with emergency cuts in Kharkiv after a missile strike damaged garages and cars there. The attacks came as Russian and Ukrainian delegations met for US-mediated talks in Abu Dhabi, which ended with a prisoner exchange agreement.",
-   "keyFacts": [
-    "Odesa's governor said a 70-year-old woman died of her injuries",
-    "Donetsk officials reported 661 evacuations",
-    "Zhytomyr reported damage to energy and transport sites"
-   ],
-   "sources": [
-    {
-     "name": "UNN",
-     "url": "https://unn.ua/en/news/russias-attack-on-ukraine-on-november-11-there-are-fatalities-and-casualties-in-a-number-of-regions-as-well-as-problems-with-electricity"
-    }
-   ],
-   "publishedAt": "2026-11-11T17:55:00+11:00",
-   "createdAt": "2026-11-12T10:35:00+11:00",
-   "reason": "Outside today's window"
-  },
   {
    "id": "2026-11-12-lo-lane-cove-remains",
    "batch": "2026-11-12-pm",
@@ -5064,28 +5243,6 @@
    "publishedAt": "2026-11-12T20:00:00+11:00",
    "createdAt": "2026-11-13T17:50:59+11:00",
    "reason": "Restatement, nothing new"
-  },
-  {
-   "id": "2026-11-13-lo-rubio-europe-talks",
-   "batch": "2026-11-13-pm",
-   "rank": 13,
-   "category": "World",
-   "title": "Rubio says UK and European nations should be part of Ukraine peace talks",
-   "summary": "US Secretary of State Marco Rubio said at a G7 foreign ministers' meeting in Paris that the UK and other European countries should have a place at negotiations to end the war in Ukraine, AAP reported. He described the Abu Dhabi talks as productive but said much work remained.\n\nUkraine's president called the talks constructive and substantive, the first since February. Russia's foreign minister Sergei Lavrov said he favoured a broader European security framework being agreed first.",
-   "keyFacts": [
-    "The remarks were made at the G7 in Paris",
-    "The Abu Dhabi talks were the first since February",
-    "Lavrov wants a wider security framework first"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/ukraine-calls-uae-talks-with-russia-quite-substantive"
-    }
-   ],
-   "publishedAt": "2026-11-11T20:00:00+11:00",
-   "createdAt": "2026-11-13T17:50:59+11:00",
-   "reason": "Outside today's window"
   },
   {
    "id": "2026-11-13-lo-lamarre-condon-trial",
@@ -6244,28 +6401,6 @@
    "rank": 8
   },
   {
-   "id": "2026-11-17-lo-alaska-senate-count",
-   "batch": "2026-11-17",
-   "category": "Politics",
-   "title": "Peltola leads Sullivan in uncalled Alaska Senate race as ranked-choice count nears",
-   "summary": "Democrat Mary Peltola leads Republican Senator Dan Sullivan in Alaska's Senate race with about 97 per cent of votes counted, Newsweek reported, citing the state Division of Elections. She had 49.94 per cent of first-choice votes, just short of a majority.\n\nRanked-choice tabulation begins on 18 November, with certification targeted for 25 November. The race has not been called. Ms Peltola's campaign said Mr Sullivan has no path to victory; his campaign said it wants a complete and accurate count. A Newsweek simulation using the cast vote record is not an official result.",
-   "keyFacts": [
-    "Peltola on 49.94 per cent of first preferences",
-    "Ranked-choice tabulation begins 18 November",
-    "Race has not been called"
-   ],
-   "sources": [
-    {
-     "name": "Newsweek",
-     "url": "https://www.newsweek.com/mary-peltola-closes-in-on-50-threshold-in-alaska-senate-race-12718013"
-    }
-   ],
-   "publishedAt": "2026-11-16T14:41:00+11:00",
-   "createdAt": "2026-11-17T06:55:00+11:00",
-   "reason": "Not yet confirmed",
-   "rank": 9
-  },
-  {
    "id": "2026-11-17-lo-dc-probation-shooting",
    "batch": "2026-11-17",
    "category": "Other",
@@ -6918,6 +7053,186 @@
    "publishedAt": "2026-11-18T17:10:00+11:00",
    "createdAt": "2026-11-18T17:50:57+11:00",
    "reason": "Entertainment"
+  },
+  {
+   "id": "2026-11-19-lo-england-odi-series",
+   "batch": "2026-11-19",
+   "rank": 1,
+   "category": "Sport",
+   "title": "England beat Australia by 97 runs in Hobart to win ODI series 2-1",
+   "summary": "England beat Australia by 97 runs in the third one-day international in Hobart on Wednesday to win the series 2-1, the ABC reported. England had lost the first match in Perth.\n\nBen Duckett scored 133 from 115 balls as England made 328, according to the ABC. Australia were bowled out for 231 in the 47th over. Cameron Green was struck on the helmet by a bouncer and left the field. Matt Renshaw took three wickets for Australia and Sonny Baker took four for England.",
+   "keyFacts": [
+    "England won by 97 runs",
+    "Duckett scored 133",
+    "England took the series 2-1"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-18/australia-vs-england-third-odi-hobart/107399944"
+    }
+   ],
+   "publishedAt": "2026-11-18T18:57:00+11:00",
+   "createdAt": "2026-11-19T06:52:35+11:00",
+   "reason": "Sport"
+  },
+  {
+   "id": "2026-11-19-lo-sandpapergate-uk-press",
+   "batch": "2026-11-19",
+   "rank": 2,
+   "category": "Sport",
+   "title": "English press turns on Cummins after Khawaja book revives ball-tampering affair",
+   "summary": "English newspapers have criticised Australian Test captain Pat Cummins after claims about the 2018 ball-tampering affair in Usman Khawaja's autobiography, the ABC reported. Columnists in the Daily Mail and The Telegraph said his credibility had been damaged.\n\nCameron Bancroft, one of three players banned over the affair, published a long article in The West Australian claiming the whole team knew about the sandpaper, according to the ABC. Cummins's management says he had no knowledge of the plan. Cricket Australia has announced a forum for players and staff.",
+   "keyFacts": [
+    "The claims stem from Khawaja's autobiography",
+    "Bancroft says the team knew",
+    "Cummins's management denies he knew"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-19/sandpapergate-cameron-bancroft-article-makes-headlines-in-uk/107401658"
+    }
+   ],
+   "publishedAt": "2026-11-19T06:26:00+11:00",
+   "createdAt": "2026-11-19T06:52:35+11:00",
+   "reason": "Sport"
+  },
+  {
+   "id": "2026-11-19-lo-festival-accessibility",
+   "batch": "2026-11-19",
+   "rank": 3,
+   "category": "Other",
+   "title": "People with disability call for more accessible music festivals",
+   "summary": "Music fans with disability say festivals need to do more to include them, the ABC reported ahead of the International Day of People with Disability. A 2022 Creative Australia survey found 40 per cent of people with disability attend festivals, compared with 45 per cent of others.\n\nRapper MC Wheels said a lack of accessible toilets was a major barrier, according to the ABC. Ability Fest, founded in 2018, was cited as Australia's first inclusive festival. A researcher said exclusion was often created by environments and systems rather than impairment.",
+   "keyFacts": [
+    "40 per cent of people with disability attend festivals, a survey found",
+    "Accessible toilets were named as a key barrier",
+    "Ability Fest began in 2018"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-19/people-with-disability-seek-better-music-festival-accessibility/107377402"
+    }
+   ],
+   "publishedAt": "2026-11-19T05:30:00+11:00",
+   "createdAt": "2026-11-19T06:52:35+11:00",
+   "reason": "Human interest"
+  },
+  {
+   "id": "2026-11-19-lo-speers-us-alliance",
+   "batch": "2026-11-19",
+   "rank": 4,
+   "category": "Politics",
+   "title": "ABC analysis says Australia keeps moving closer to US despite Trump's volatility",
+   "summary": "ABC political editor David Speers wrote that Donald Trump's meeting with Xi Jinping and Vladimir Putin in Shenzhen is awkward for US allies including Australia. He pointed to Australia signing the US-led declaration on AI supply chains and the Quad's agreement in Manila on maritime surveillance and a first joint exercise next year.\n\nSpeers argued that Australia is still drawing closer to the United States despite Prime Minister Anthony Albanese's cautious tone towards Trump. He noted Albanese said he would raise concerns about the Iran war with the US President.",
+   "keyFacts": [
+    "The piece is an analysis column",
+    "It cites the Quad maritime surveillance plan",
+    "It cites Australia's signing of the AI declaration"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-19/david-speers-trump-quad-apec-ally/107398518"
+    }
+   ],
+   "publishedAt": "2026-11-19T05:00:00+11:00",
+   "createdAt": "2026-11-19T06:52:35+11:00",
+   "reason": "Commentary"
+  },
+  {
+   "id": "2026-11-19-lo-trilateral-preview",
+   "batch": "2026-11-19",
+   "rank": 5,
+   "category": "World",
+   "title": "ABC previews what Trump, Putin and Xi want from Shenzhen meeting",
+   "summary": "The ABC's China correspondent previewed the first three-way meeting of Donald Trump, Xi Jinping and Vladimir Putin, due on the sidelines of APEC in Shenzhen. The White House listed nuclear arms control, the wars in Ukraine and Iran, trade and AI as topics.\n\nAnalysts quoted were sceptical of concrete outcomes, and no joint press conference or communique is expected, the ABC reported. The New START treaty lapsed in February. A White House spokeswoman said Trump viewed nuclear proliferation as very dangerous, while a Kremlin aide pointed to the meeting's symbolism.",
+   "keyFacts": [
+    "The meeting is the first of its kind",
+    "No joint communique is expected",
+    "New START lapsed in February"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-19/what-trump-putin-xi-want-when-they-meet/107390546"
+    }
+   ],
+   "publishedAt": "2026-11-19T05:41:00+11:00",
+   "createdAt": "2026-11-19T06:52:35+11:00",
+   "reason": "Commentary"
+  },
+  {
+   "id": "2026-11-19-lo-awa-sighting-brazil",
+   "batch": "2026-11-19",
+   "rank": 6,
+   "category": "World",
+   "title": "About 20 isolated Awá people sighted near village in Brazil's Maranhão",
+   "summary": "Around 20 isolated Awá people were sighted on Monday in the Arariboia Indigenous territory in Brazil's Maranhão state, according to Brazil's Ministry of Indigenous Peoples, AAP reported. The ministry said the information was preliminary.\n\nSurvival International said the group asked a government team for yams and took them back into the forest, according to AAP. It estimates about 100 Awá remain uncontacted. Officials activated an emergency response because of disease risk, and Indigenous affairs agency and health staff are in the area.",
+   "keyFacts": [
+    "About 20 people were sighted",
+    "Survival estimates about 100 uncontacted Awá",
+    "Officials activated an emergency response"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/alarm-at-rare-encounter-with-isolated-indigenous-people"
+    }
+   ],
+   "publishedAt": "2026-11-18T15:40:00+11:00",
+   "createdAt": "2026-11-19T06:52:35+11:00",
+   "reason": "Human interest"
+  },
+  {
+   "id": "2026-11-19-lo-eu-ukraine-loan",
+   "batch": "2026-11-19",
+   "rank": 7,
+   "category": "World",
+   "title": "Von der Leyen presses EU states on €45 billion Ukraine loan for 2027",
+   "summary": "European Commission President Ursula von der Leyen is seeking support for a €45 billion loan to Ukraine for 2027, backed by joint EU borrowing, Euronews reported. It would be split into €25 billion for military needs and €20 billion for budget support, covering about two-thirds of Kyiv's expected shortfall.\n\nUkraine would repay only once Russia pays reparations, according to Euronews. The plan needs unanimous backing before next week's EU summit, and Hungary, Slovakia, Czechia and Bulgaria are resisting. The Commission first proposed the loan in late October.",
+   "keyFacts": [
+    "The loan totals €45 billion",
+    "€25 billion is for military needs",
+    "It needs unanimous support from 27 members"
+   ],
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://euronews.com/2026/11/18/europe-tonight-eu-proposes-45bn-ukraine-loan-as-trump-xi-and-putin-meet"
+    }
+   ],
+   "publishedAt": "2026-11-19T04:00:00+11:00",
+   "createdAt": "2026-11-19T06:52:35+11:00",
+   "reason": "Restatement, nothing new"
+  },
+  {
+   "id": "2026-11-19-lo-electoral-funding-amendments",
+   "batch": "2026-11-19",
+   "rank": 8,
+   "category": "Politics",
+   "title": "Crossbench MPs oppose Labor's late changes to electoral funding laws",
+   "summary": "Special Minister of State Don Farrell tabled late amendments to federal electoral funding laws that take effect on 1 January, AAP and Guardian Australia reported. The government described the changes as technical. The opposition said it would support them.\n\nThe amendments would let parties grow investment funds without the interest counting toward donation caps, Guardian Australia reported. Independent MP Kate Chaney called it a major-party stitch-up, and Senator David Pocock said uncapped money could flow to major parties. Farrell said the reforms aim to end a donations arms race. Zoe Daniel and Rex Patrick are challenging the caps in the High Court.",
+   "keyFacts": [
+    "The laws take effect on 1 January 2027",
+    "The opposition will support the amendments",
+    "A High Court challenge is under way"
+   ],
+   "sources": [
+    {
+     "name": "AAP (via Yahoo News)",
+     "url": "https://au.news.yahoo.com/last-minute-electoral-law-tweak-061712863.html"
+    },
+    {
+     "name": "Guardian Australia (via AOL)",
+     "url": "https://www.aol.co.uk/articles/line-own-coffers-independent-mps-085038000.html"
+    }
+   ],
+   "publishedAt": "2026-11-17T17:17:00+11:00",
+   "createdAt": "2026-11-19T06:52:35+11:00",
+   "reason": "Outside today's window"
   }
  ]
 }
