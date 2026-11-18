@@ -13,7 +13,8 @@ async function unreadCount(){
   ]);
   const j = await r.json();
   const read = saved ? await saved.json() : {};
-  return (j.articles || []).filter(a => a && a.id && !read[a.id]).length;
+  const blocked = a => /grand\s*theft\s*auto|\bgta\s*-?\s*(6|vi|six)\b/i.test([a.title, a.summary, ...(a.keyFacts || [])].join(" "));
+  return (j.articles || []).filter(a => a && a.id && !read[a.id] && !blocked(a)).length;
 }
 
 self.addEventListener("push", e => {

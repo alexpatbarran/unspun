@@ -11,6 +11,9 @@ try { cfg = JSON.parse(raw); } catch { console.error("UNSPUN_PUSH isn't a valid 
 const [owner, repo] = (process.env.GITHUB_REPOSITORY || "alexpatbarran/unspun").split("/");
 const site = `https://${owner.toLowerCase()}.github.io/${repo}/`;
 const now = JSON.parse(readFileSync("news.json", "utf8"));
+// stories the app hides (GTA 6 spoiler block) don't count
+const blocked = a => /grand\s*theft\s*auto|\bgta\s*-?\s*(6|vi|six)\b/i.test([a.title, a.summary, ...(a.keyFacts || [])].join(" "));
+for (const k of ["articles", "leftOut"]) now[k] = (now[k] || []).filter(a => a && !blocked(a));
 const ids = arr => new Set((arr || []).map(a => a && a.id).filter(Boolean));
 
 let title, body;

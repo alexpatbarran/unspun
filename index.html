@@ -470,7 +470,9 @@
     if (!r.ok) throw new Error("HTTP " + r.status);
     const j = await r.json();
     updatedAt = j.updatedAt || null;
-    const clean = arr => (Array.isArray(arr) ? arr : []).filter(a => a && a.id && a.title);
+    // never show anything about GTA 6 (spoiler block), even if the update task slips up
+    const blocked = a => /grand\s*theft\s*auto|\bgta\s*-?\s*(6|vi|six)\b/i.test([a.title, a.summary, ...(a.keyFacts || [])].join(" "));
+    const clean = arr => (Array.isArray(arr) ? arr : []).filter(a => a && a.id && a.title && !blocked(a));
     return { main: clean(j.articles), lo: clean(j.leftOut) };
   }
 
