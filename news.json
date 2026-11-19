@@ -1,6 +1,302 @@
 {
- "updatedAt": "2026-11-19T17:47:45+11:00",
+ "updatedAt": "2026-11-20T06:48:18+11:00",
  "articles": [
+  {
+   "id": "2026-11-20-trump-xi-putin-declaration",
+   "batch": "2026-11-20",
+   "category": "World",
+   "title": "Trump, Xi and Putin issue joint declaration after first three-way meeting",
+   "summary": "Donald Trump, Xi Jinping and Vladimir Putin met for about 90 minutes on the sidelines of APEC in Shenzhen on Thursday evening and released a joint statement, the ABC reported. According to AAP and the ABC, it commits the three to UN reform, higher oil product supply and lower nuclear risk, and says bodies such as the International Criminal Court should not abuse their jurisdiction.\n\nThe statement does not mention the wars in Ukraine or Iran, the ABC and AAP said. Trump said Ukraine was discussed. Xi described the talks as constructive, AAP reported. Polish Prime Minister Donald Tusk criticised the meeting in a social media post.",
+   "keyFacts": [
+    "Meeting lasted about 90 minutes in Shenzhen",
+    "Statement covers UN reform, oil supply and nuclear risk",
+    "Text does not mention Ukraine or Iran"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-19/albanese-tells-putin-to-end-ukraine-war-now/107406348"
+    },
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/superpowers-agree-on-oil-supply-rise-world-peace-aim"
+    }
+   ],
+   "publishedAt": "2026-11-19T20:36:00+11:00",
+   "rank": 1,
+   "createdAt": "2026-11-20T06:48:18+11:00"
+  },
+  {
+   "id": "2026-11-20-putin-bridge-response",
+   "batch": "2026-11-20",
+   "category": "World",
+   "title": "Putin rules out partial truce and vows response to Crimean Bridge strikes",
+   "summary": "Russian President Vladimir Putin said after his talks with Donald Trump and Xi Jinping that Russia would not make agreements following Ukraine's strikes on the Crimean Bridge, according to TASS as reported by the Kyiv Post. He said Moscow's response would be more painful than the damage to the bridge, IBTimes reported.\n\nPutin said he had asked Russia's Security Council to reconsider a possible halt to strikes on energy and maritime targets. Ukraine's defence ministry said Neptune missiles hit the bridge's rail section, the third strike in a week. Russian Deputy Prime Minister Marat Khusnullin said some sections could reopen within one to two months.",
+   "keyFacts": [
+    "Bridge struck three times in a week",
+    "Putin dropped a possible energy and maritime truce",
+    "Some sections may reopen in one to two months"
+   ],
+   "sources": [
+    {
+     "name": "Kyiv Post",
+     "url": "https://www.kyivpost.com/post/90611"
+    },
+    {
+     "name": "IBTimes",
+     "url": "https://www.ibtimes.com/putin-rejects-halt-strikes-after-crimea-bridge-attacks-3809955"
+    }
+   ],
+   "publishedAt": "2026-11-20T02:02:00+11:00",
+   "rank": 2,
+   "createdAt": "2026-11-20T06:48:18+11:00"
+  },
+  {
+   "id": "2026-11-20-cop31-second-draft",
+   "batch": "2026-11-20",
+   "category": "Environment",
+   "title": "Second COP31 draft drops fossil fuel transition and adaptation finance figure",
+   "summary": "A revised draft of the main COP31 decision released in Antalya on Thursday no longer refers to transitioning away from fossil fuels, AAP and Climate Home News reported. The text was cut from 18 pages to nine and also removed a proposed adaptation finance figure of at least $US120 billion a year by 2035 and a reference to the Pacific Resilience Facility, AAP said.\n\nThe draft keeps targets to raise electricity to 35 per cent of final energy use by 2035 and to triple renewable capacity. Chris Bowen, the COP31 president of negotiations, said it used the strongest terms likely to win approval. Environment groups including Greenpeace and the Australian Conservation Foundation criticised the changes.",
+   "keyFacts": [
+    "Draft halved from 18 to nine pages",
+    "Fossil fuel transition wording removed",
+    "35 per cent electrification target retained"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/fossil-fuel-plan-pacific-fund-dropped-from-cop31-draft"
+    },
+    {
+     "name": "Climate Home News",
+     "url": "https://www.climatechangenews.com/2026/11/19/cop31-antalya-turkiye-australia-ministers-agremeent-fossil-fuels-electrification/"
+    }
+   ],
+   "publishedAt": "2026-11-20T00:38:00+11:00",
+   "rank": 3,
+   "createdAt": "2026-11-20T06:48:18+11:00"
+  },
+  {
+   "id": "2026-11-20-anthropic-nasdaq-debut",
+   "batch": "2026-11-20",
+   "category": "Business",
+   "title": "Anthropic shares open 34 per cent above IPO price in Nasdaq debut",
+   "summary": "Anthropic shares opened at $US111.50 on the Nasdaq on Thursday, about 34 per cent above the $US83 IPO price, according to Forbes and AAP. AAP said the company's market value briefly reached about $US2.1 trillion. The shares later eased and were up about 19 per cent at $US98.56 in early afternoon trade, AP reported.\n\nAnthropic sold 980 million shares, raising about $US81.3 billion, which Forbes said is the largest IPO on record. Chief executive Dario Amodei told CNBC the company hoped to become investment grade, AAP reported. One fund manager quoted by AAP said the company needed to reach profitability soon.",
+   "keyFacts": [
+    "Opened at $US111.50 versus $US83 IPO price",
+    "IPO raised about $US81.3 billion",
+    "Trades under the ticker ANT"
+   ],
+   "sources": [
+    {
+     "name": "Forbes",
+     "url": "https://www.forbes.com/sites/fionariley/2026/11/19/anthropic-ipo-live-shares-pop-34-to-open-at-11150/"
+    },
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/anthropic-valued-above-us2-trillion-in-nasdaq-debut"
+    },
+    {
+     "name": "AP (via Philadelphia Tribune)",
+     "url": "https://www.phillytrib.com/ap/business/a-strong-debut-for-anthropics-stock-is-not-enough-to-carry-wall-street-and-indexes/article_522a872b-b011-5b50-abf0-0125cc29628f.html"
+    }
+   ],
+   "publishedAt": "2026-11-20T03:30:00+11:00",
+   "rank": 4,
+   "createdAt": "2026-11-20T06:48:18+11:00"
+  },
+  {
+   "id": "2026-11-20-wall-street-sixth-loss",
+   "batch": "2026-11-20",
+   "category": "Economy",
+   "title": "Wall Street falls as S&P 500 heads for sixth straight loss",
+   "summary": "US shares fell on Thursday despite Anthropic's debut, with the S&P 500 down 1.1 per cent in early afternoon trade after an early gain of 1.3 per cent, AP reported. The Dow Jones index was down 766 points, or 1.5 per cent, and the Nasdaq was down 1 per cent at 12.45pm New York time, AP said.\n\nNvidia reversed an early gain of 4.7 per cent to trade lower, and Micron and CoreWeave also turned down, according to AP. Williams-Sonoma fell 13.9 per cent. The US 10-year Treasury yield eased to 5.06 per cent. Benzinga reported the S&P 500 was on track for a sixth consecutive daily loss.",
+   "keyFacts": [
+    "S&P 500 down 1.1 per cent in afternoon trade",
+    "Dow down 766 points at 12.45pm ET",
+    "10-year Treasury yield at 5.06 per cent"
+   ],
+   "sources": [
+    {
+     "name": "AP (via Philadelphia Tribune)",
+     "url": "https://www.phillytrib.com/ap/business/a-strong-debut-for-anthropics-stock-is-not-enough-to-carry-wall-street-and-indexes/article_522a872b-b011-5b50-abf0-0125cc29628f.html"
+    },
+    {
+     "name": "Benzinga",
+     "url": "https://www.benzinga.com/markets/equities/26/11/63446162/stock-market-today-anthropic-ipo-debut-sp-500-sixth-loss-november-19"
+    }
+   ],
+   "publishedAt": "2026-11-20T04:54:00+11:00",
+   "rank": 5,
+   "createdAt": "2026-11-20T06:48:18+11:00"
+  },
+  {
+   "id": "2026-11-20-gaza-tank-raid-ends",
+   "batch": "2026-11-20",
+   "category": "World",
+   "title": "Israel says it has ended tank raid in central Gaza",
+   "summary": "Israel's military said on Thursday it had concluded a tank raid in central Gaza aimed at destroying a suspected Hamas tunnel, Reuters reported. Reuters described it as the most prominent ground incursion across the ceasefire's yellow line since the October 2025 truce. The military said the main Salahudeen road had reopened.\n\nResidents told Reuters sporadic gunfire could still be heard and the road remained dangerous. The Hamas-run Gaza media office said about 6,000 people fled the area on Wednesday. Gaza health authorities say at least 1,600 Palestinians have been killed by Israeli strikes since the ceasefire, while Israel's military says five soldiers have been killed in that time.",
+   "keyFacts": [
+    "Raid targeted a suspected Hamas tunnel",
+    "About 6,000 people fled, Gaza media office said",
+    "Salahudeen road reopened, military said"
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via Al-Monitor)",
+     "url": "https://www.al-monitor.com/originals/2026/11/israel-says-it-concludes-gaza-tank-raid"
+    },
+    {
+     "name": "Reuters (via CP24)",
+     "url": "https://cp24.com/news/world/2026/11/19/israel-says-it-concludes-gaza-tank-raid"
+    }
+   ],
+   "publishedAt": "2026-11-20T00:25:00+11:00",
+   "rank": 6,
+   "createdAt": "2026-11-20T06:48:18+11:00"
+  },
+  {
+   "id": "2026-11-20-riyadh-pif-tower-damaged",
+   "batch": "2026-11-20",
+   "category": "World",
+   "title": "Riyadh tower housing Saudi wealth fund damaged during Houthi missile attack",
+   "summary": "The Public Investment Fund tower in Riyadh's King Abdullah Financial District was damaged on Thursday, Reuters reported citing three sources, according to The National. The Saudi-led coalition said it dealt with a missile threat towards Riyadh and that falling debris caused material damage. It did not say whether the missile was intercepted.\n\nThe coalition said it also destroyed a cruise missile, intercepted four ballistic missiles and destroyed a launch platform in Yemen's Saada province, The National reported. Gulf News said the building is 80 storeys tall. The extent of damage and any casualties were not immediately known.",
+   "keyFacts": [
+    "Tower is in the King Abdullah Financial District",
+    "Coalition blamed falling debris for damage",
+    "Casualties not immediately known"
+   ],
+   "sources": [
+    {
+     "name": "The National",
+     "url": "https://www.thenationalnews.com/news/gulf/2026/11/19/saudi-sovereign-wealth-fund-tower-in-riyadh-damaged-in-houthi-strike/"
+    },
+    {
+     "name": "Gulf News",
+     "url": "https://gulfnews.com/world/mena/middle-east-war-riyadh-skyscraper-damaged-tanker-hit-near-oman-as-trump-weighs-fresh-iran-strikes-1.500752996"
+    }
+   ],
+   "publishedAt": "2026-11-19T18:04:00+11:00",
+   "rank": 7,
+   "createdAt": "2026-11-20T06:48:18+11:00"
+  },
+  {
+   "id": "2026-11-20-colby-nato-walkout",
+   "batch": "2026-11-20",
+   "category": "World",
+   "title": "Pentagon official leaves Ukraine meeting after criticising Kyiv's long-range strikes",
+   "summary": "US Under Secretary for Policy Elbridge Colby told a Ukraine Defence Contact Group meeting in Brussels that Ukraine's long-range strikes on Russia had little military value, then left before a classified Ukrainian briefing, the Kyiv Post reported, citing The Telegraph.\n\nGerman Defence Minister Boris Pistorius reportedly called the remarks \"stupid\", according to the Kyiv Post and The Independent. British Defence Secretary Wes Streeting said the strikes had degraded Russia's war capacity. Britain pledged 1,000 long-range drones to Ukraine, the Kyiv Post said. The Pentagon's account of the meeting was not included in the reports.",
+   "keyFacts": [
+    "Meeting was held in Brussels",
+    "Colby left before a Ukrainian briefing",
+    "Britain pledged 1,000 long-range drones"
+   ],
+   "sources": [
+    {
+     "name": "Kyiv Post",
+     "url": "https://www.kyivpost.com/post/90599"
+    },
+    {
+     "name": "The Independent (via Yahoo News UK)",
+     "url": "https://uk.news.yahoo.com/ukraine-russia-war-latest-kyiv-045443290.html"
+    }
+   ],
+   "publishedAt": "2026-11-20T00:13:00+11:00",
+   "rank": 8,
+   "createdAt": "2026-11-20T06:48:18+11:00"
+  },
+  {
+   "id": "2026-11-20-israel-responds-sanctions",
+   "batch": "2026-11-20",
+   "category": "Australia",
+   "title": "Israeli ambassador says Israel will respond to Australia's settler sanctions",
+   "summary": "Israel's ambassador to Australia, Hillel Newman, said Israel would respond to Australia's new sanctions over West Bank settlement activity, AAP reported. He described the move as megaphone diplomacy. An Israeli government spokesman said responses were being considered and would be announced at the appropriate time.\n\nForeign Minister Penny Wong on Wednesday sanctioned three people and four organisations, including for the first time a construction company and its owner, AAP said. Settler leader Daniela Weiss and her organisation Nachala were also listed. A DFAT spokesperson said the measures support a two-state solution.",
+   "keyFacts": [
+    "Sanctions cover three people and four organisations",
+    "A construction firm was listed for the first time",
+    "Israel has not said what its response will be"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/retaliation-for-settler-sanctions-israeli-ambassador"
+    }
+   ],
+   "publishedAt": "2026-11-19T17:57:00+11:00",
+   "rank": 9,
+   "createdAt": "2026-11-20T06:48:18+11:00"
+  },
+  {
+   "id": "2026-11-20-vic-labor-how-to-vote-cards",
+   "batch": "2026-11-20",
+   "category": "Politics",
+   "title": "Greens accuse Victorian Labor over how-to-vote cards putting Greens first",
+   "summary": "Victorian Labor volunteers handed out how-to-vote cards at early voting centres that list the Greens first and Labor second, AAP reported. In Point Cook and Tarneit, where the Greens are running open tickets, the cards leave the rest of the ballot blank. The Greens say the cards are designed to mislead voters.\n\nPremier Ben Carroll did not directly explain the cards and told voters to put Labor first, AAP said. Point Cook MP Mathew Hilakari defended them. Transparency International Australia said Victoria has no truth-in-advertising law for campaigns. The ABC separately reported an independent's card in Prahran closely resembles the Greens design.",
+   "keyFacts": [
+    "Cards authorised by Labor state secretary Steve Staikos",
+    "Issue raised in Point Cook and Tarneit",
+    "State election is on November 28"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/dirty-tricks-labor-accused-of-duping-early-voters"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-19/victorian-election-live-early-voting-second-day/107402202"
+    }
+   ],
+   "publishedAt": "2026-11-20T03:30:00+11:00",
+   "rank": 10,
+   "createdAt": "2026-11-20T06:48:18+11:00"
+  },
+  {
+   "id": "2026-11-20-vec-richmond-votes-isolated",
+   "batch": "2026-11-20",
+   "category": "Politics",
+   "title": "VEC isolates about 700 early votes after unauthorised person worked at Richmond centre",
+   "summary": "The Victorian Electoral Commission isolated sealed boxes holding about 700 votes after an unauthorised person gained access to the Richmond early voting centre on the first day of early voting, AAP and news.com.au's News24 reported. AAP said the person had posed as a VEC casual worker.\n\nElectoral Commissioner Sven Bluemmel said the integrity of the vote had not been compromised, according to AAP. The VEC has not said publicly what will happen to the isolated ballots. Early voting continues ahead of the November 28 state election.",
+   "keyFacts": [
+    "About 700 votes isolated in sealed boxes",
+    "Incident happened on first day of early voting",
+    "Commissioner says integrity not compromised"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/dirty-tricks-labor-accused-of-duping-early-voters"
+    },
+    {
+     "name": "News24 (news.com.au)",
+     "url": "https://www.news24.com.au/latest/victorias-electoral-commission-quarantines-700-richmond-votes-after-unauthorised-campaigner-mistakenly-works-inside-booth/news-story/12f3eef1bd30741a484c626cb167151b?nk=5d15cbf08e226357252370d6c4bafe7a-1795094438"
+    }
+   ],
+   "publishedAt": "2026-11-20T03:30:00+11:00",
+   "rank": 11,
+   "createdAt": "2026-11-20T06:48:18+11:00"
+  },
+  {
+   "id": "2026-11-20-pc-reporting-red-tape",
+   "batch": "2026-11-20",
+   "category": "Economy",
+   "title": "Productivity Commission proposes cutting business non-financial reporting",
+   "summary": "A Productivity Commission interim report requested by Treasurer Jim Chalmers recommends winding back some non-financial reporting rules for businesses, AAP reported. It says mandatory climate-risk reporting should not be extended to medium-sized companies with revenue of $50 million or more from 2027.\n\nThe report also says some emissions reporting imposes unnecessarily high costs and that employers performing well on gender equality could report less often, AAP said. Commissioner Angela Jackson said reporting adds to a large regulatory load. The commission is also considering removing six-monthly payment-time reporting for small suppliers. Its final report is due by February.",
+   "keyFacts": [
+    "Interim report released on Friday",
+    "Climate reporting extension to mid-sized firms opposed",
+    "Final report due by February"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/call-to-wind-back-reporting-to-ease-business-red-tape"
+    }
+   ],
+   "publishedAt": "2026-11-20T05:00:00+11:00",
+   "rank": 12,
+   "createdAt": "2026-11-20T06:48:18+11:00"
+  },
   {
    "id": "2026-11-19-unemployment-4-9",
    "batch": "2026-11-19-pm",
@@ -311,244 +607,6 @@
    "createdAt": "2026-11-19T17:47:45+11:00"
   },
   {
-   "id": "2026-11-13-nvidia-huang-resigns",
-   "batch": "2026-11-13",
-   "rank": 1,
-   "category": "Business",
-   "title": "Jensen Huang resigns as Nvidia chief executive; CFO Colette Kress named interim CEO",
-   "summary": "Nvidia's board said on Thursday US time that co-founder Jensen Huang had resigned as president, chief executive and director, effective immediately. Chief financial officer Colette Kress will serve as interim CEO while the board searches for a permanent replacement, and former Synopsys chief Harvey Jones becomes the company's first board chair. The company's statement gave no reason.\n\nThe move follows a board investigation into reports, first published by The New York Times, about Huang's personal relationships and possible foreign intelligence interest, according to AP and ABC News. China denies the spying claims. AP reported President Trump suggested former Apple CEO Tim Cook as a successor. Nvidia shares fell about 5 per cent by midday.",
-   "keyFacts": [
-    "Huang led Nvidia for 33 years",
-    "Nvidia reports quarterly results on 17 November",
-    "A proposed class action alleges shareholders were misled; the claim is untested"
-   ],
-   "sources": [
-    {
-     "name": "Nvidia",
-     "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"
-    },
-    {
-     "name": "AP (via KSAT)",
-     "url": "https://www.ksat.com/business/2026/11/12/what-we-know-after-jensen-huang-resigns-as-nvidias-ceo/"
-    },
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-13/nvidia-founder-jensen-huang-resigns/107376470"
-    }
-   ],
-   "publishedAt": "2026-11-13T00:00:00+11:00",
-   "createdAt": "2026-11-13T06:55:00+11:00"
-  },
-  {
-   "id": "2026-11-13-putin-envoys-moscow-talks",
-   "batch": "2026-11-13",
-   "rank": 2,
-   "category": "World",
-   "title": "Kremlin says Putin's talks with US envoys were constructive; trilateral talks to continue",
-   "summary": "Russian President Vladimir Putin met US envoys Steve Witkoff and Jared Kushner in Moscow on Thursday to discuss ending the war in Ukraine, Kremlin aide Yuri Ushakov said, according to Reuters and Ukrainian agency UNN. Ushakov described the talks as substantive and useful and said the sides agreed to continue three-way negotiations with Ukraine.\n\nUshakov said the envoys supported a humanitarian mission in Kostiantynivka. The US side had not released its own account in the reports reviewed. The envoys were next due to meet Ukrainian President Volodymyr Zelenskyy in Dublin. Russian Deputy Foreign Minister Sergei Ryabkov said it was too soon to say trust had been restored after this week's Abu Dhabi talks.",
-   "keyFacts": [
-    "The Moscow meeting followed two days of talks in Abu Dhabi",
-    "The Kremlin's description has not been independently confirmed",
-    "No date has been announced for the Dublin meeting"
-   ],
-   "sources": [
-    {
-     "name": "UNN",
-     "url": "https://unn.ua/en/news/putin-was-concerned-by-zelenskyy-and-his-greetings-to-trump-what-else-the-russian-dictator-discussed-with-witkoff-and-kushner"
-    },
-    {
-     "name": "Reuters (via Jerusalem Post)",
-     "url": "https://www.jpost.com/international/internationalrussia-ukraine-war/article-914670"
-    }
-   ],
-   "publishedAt": "2026-11-13T03:11:00+11:00",
-   "createdAt": "2026-11-13T06:55:00+11:00"
-  },
-  {
-   "id": "2026-11-13-hormuz-four-tankers",
-   "batch": "2026-11-13",
-   "rank": 3,
-   "category": "World",
-   "title": "Iran says four tankers hit by explosions in Strait of Hormuz after ignoring warnings",
-   "summary": "Iran's military said on Thursday that four oil tankers had been struck by explosions in the Strait of Hormuz after entering restricted areas, Reuters reported. The Revolutionary Guards navy said two supertankers were disabled on Wednesday, and Iran's army later said two more hit mines in the eastern part of the strait on Thursday afternoon.\n\nReuters said it could not immediately verify Iran's account. Separately, the UK Maritime Trade Operations centre said a vessel was hit by an unidentified projectile about 14 nautical miles north-west of Ras Al-Khaimah on Wednesday, causing an engine-room fire; the crew were evacuated. Iranian state media said vessels had struck naval mines.",
-   "keyFacts": [
-    "Iran says the ships used an unauthorised route",
-    "At least 10 ships were hit in the first 10 days of November, per the Washington Institute",
-    "October had 37 recorded attacks, the most of any month in the conflict"
-   ],
-   "sources": [
-    {
-     "name": "Reuters (via Yahoo News)",
-     "url": "https://www.yahoo.com/news/articles/four-tankers-struck-explosions-strait-162708977.html"
-    }
-   ],
-   "publishedAt": "2026-11-13T03:27:00+11:00",
-   "createdAt": "2026-11-13T06:55:00+11:00"
-  },
-  {
-   "id": "2026-11-13-counter-terrorism-online-centre",
-   "batch": "2026-11-13",
-   "rank": 5,
-   "category": "Australia",
-   "title": "ASIO and AFP open $76m online counter-terrorism centre in Sydney",
-   "summary": "A new Counter Terrorism Online Centre combining ASIO and the Australian Federal Police opens in Sydney on Friday, Home Affairs Minister Tony Burke said, according to ABC News and AAP. The centre, funded in the May federal budget, will monitor online radicalisation and act as a single contact point for overseas agencies.\n\nBurke said ASIO had found an Australian Discord server with more than 1,000 members spreading extremist ideology. AFP Commissioner Krissy Barrett described the centre as an early-warning system. ASIO director-general Mike Burgess said his agency and partners needed to be online too. ABC reported children make up 40 per cent of this year's counter-terrorism caseload.",
-   "keyFacts": [
-    "ABC put the cost at $76 million; AAP reported $74 million",
-    "It builds on existing cybercrime and child exploitation hubs",
-    "A 17-year-old NSW boy was charged with a terrorism offence the day before"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-13/sydney-counterterrorism-hub-targets-youth-extremism/107380242"
-    },
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/new-intelligence-hub-tackling-online-radicalisation"
-    }
-   ],
-   "publishedAt": "2026-11-13T05:00:00+11:00",
-   "createdAt": "2026-11-13T06:55:00+11:00"
-  },
-  {
-   "id": "2026-11-13-microsoft-outlook-outage",
-   "batch": "2026-11-13",
-   "rank": 6,
-   "category": "Science & Tech",
-   "title": "Microsoft Outlook, Teams and 365 hit by global outage",
-   "summary": "Microsoft confirmed an outage on Thursday US time that left many users unable to reach their Outlook inboxes, TechCrunch reported. The problem was first reported in the Americas and Microsoft later said it could affect any region. Users also reported problems with Teams, Copilot and wider Microsoft 365 services, according to Euronews and ABC News.\n\nMicrosoft said part of its infrastructure was under higher than normal load and that it was redistributing traffic. It did not give a cause. Downdetector recorded more than 130,000 Outlook reports at the peak, Euronews said, though such counts may not match the number of people affected. Microsoft said Teams had been restored in North America.",
-   "keyFacts": [
-    "Exchange Online mailboxes could not be reached",
-    "Microsoft had a days-long 365 outage in September",
-    "No cause has been given"
-   ],
-   "sources": [
-    {
-     "name": "TechCrunch",
-     "url": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/12/microsoft-outage-hits-outlook-teams-and-copilot-disrupting-thousands"
-    },
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-13/microsoft-outlook-outage/107380958"
-    }
-   ],
-   "publishedAt": "2026-11-13T06:03:00+11:00",
-   "createdAt": "2026-11-13T06:55:00+11:00"
-  },
-  {
-   "id": "2026-11-13-cop31-pacific-resilience-facility",
-   "batch": "2026-11-13",
-   "rank": 7,
-   "category": "Environment",
-   "title": "Pacific leaders press for climate finance as Albanese meets them at COP31",
-   "summary": "Prime Minister Anthony Albanese met Pacific leaders at the COP31 climate summit in Turkey on Thursday, as the Pacific Resilience Facility reached US$200 million towards a US$500 million target, AAP reported. Businessman Andrew Forrest announced a US$5 million contribution.\n\nPalau President Surangel Whipps Jr called for funding rather than promises. Climate Minister Chris Bowen said only 0.2 per cent of global climate finance reaches small island states. Greenpeace Australia Pacific called on Australia to commit to ending new fossil fuel projects. Asked about criticism from activist Greta Thunberg, Albanese said she was entitled to her views. Australia is co-hosting the summit with Turkey.",
-   "keyFacts": [
-    "The facility is a Pacific-run fund for climate resilience",
-    "It has raised US$200 million of a US$500 million goal",
-    "Australia leads COP31 negotiations while Turkey hosts"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/australia-under-fire-as-pacific-seeks-climate-lifeline"
-    }
-   ],
-   "publishedAt": "2026-11-13T02:00:00+11:00",
-   "createdAt": "2026-11-13T06:55:00+11:00"
-  },
-  {
-   "id": "2026-11-13-medicine-shortages-analysis",
-   "batch": "2026-11-13",
-   "rank": 8,
-   "category": "Health",
-   "title": "ABC analysis finds 40 medicines in critical shortage, 13 of them repeatedly",
-   "summary": "An ABC News analysis of Therapeutic Goods Administration data going back to 2015 found 40 medicines are currently in critical shortage in Australia, and 13 of those have been critically short more than once. The penicillin injection Bicillin L-A has been in critical shortage since April 2025, which its supplier attributes to manufacturing problems.\n\nThe pancreatic enzyme treatment Creon has been short for more than a year amid higher demand, the ABC reported. Professor John Saunders of the Royal Australasian College of Physicians said doctors were frustrated. The TGA said it cannot force companies to supply medicines. Australia is also expected to run out of Q fever vaccine this week.",
-   "keyFacts": [
-    "Analysis covers TGA shortage records since 2015",
-    "40 medicines are in critical shortage",
-    "The TGA says it has no power to compel supply"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-13/repeated-critical-medicine-shortages-new-analysis/107242432"
-    }
-   ],
-   "publishedAt": "2026-11-13T05:00:00+11:00",
-   "createdAt": "2026-11-13T06:55:00+11:00"
-  },
-  {
-   "id": "2026-11-13-macquarie-harbour-salmon-deaths",
-   "batch": "2026-11-13",
-   "rank": 9,
-   "category": "Environment",
-   "title": "Released EPA data show 1,907 tonnes of farmed salmon died in Macquarie Harbour",
-   "summary": "Tasmanian Environment Protection Authority data released under right-to-information laws show 1,907 tonnes of farmed salmon died in Macquarie Harbour between October 2024 and December 2025, ABC News reported. The data were obtained by Environment Tasmania and released after salmon companies sought reviews of the decision.\n\nEnvironment Tasmania's Jess Coughlan described the death rates as very high. Salmon Tasmania chief John Whittington said fewer than 8 per cent of fish held had died and that tonnage could not be used as a mortality rate. The harbour farms' environmental licences expired almost a year ago; the companies have applied for renewal and can keep operating while applications are assessed.",
-   "keyFacts": [
-    "Covers October 2024 to December 2025",
-    "Industry says under 8 per cent of fish died",
-    "Licence renewals are still being assessed"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-13/salmon-deaths-macquarie-harbour-tasmania-rti/107379706"
-    }
-   ],
-   "publishedAt": "2026-11-13T06:00:00+11:00",
-   "createdAt": "2026-11-13T06:55:00+11:00"
-  },
-  {
-   "id": "2026-11-13-horizon-europe-agreement",
-   "batch": "2026-11-13",
-   "rank": 11,
-   "category": "Science & Tech",
-   "title": "Australia signs agreement to join EU's Horizon Europe research program",
-   "summary": "Industry and Science Minister Tim Ayres signed an agreement in Brussels with EU research commissioner Ekaterina Zaharieva for Australia to join Horizon Europe, the EU's main research funding program, AAP reported. Australian researchers will be able to take part from 1 January.\n\nThe government says the program is worth about $155 billion. The federal government contributed $20 million, matched by the Group of Eight universities, AAP said. Treaty negotiations were concluded earlier this year, according to Ayres' office. Canada, New Zealand and the UK are among more than 20 associated countries. Ayres said the deal links Australian researchers with leading international expertise.",
-   "keyFacts": [
-    "Participation begins on 1 January 2027",
-    "Federal funding of $20m is matched by the Group of Eight",
-    "More than 20 countries are associated"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/aussie-scientists-tap-into-multibillion-dollar-fund"
-    },
-    {
-     "name": "Minister for Industry and Science",
-     "url": "https://www.minister.industry.gov.au/ministers/timayres/media-releases/access-worlds-largest-research-fund-horizon"
-    }
-   ],
-   "publishedAt": "2026-11-12T20:00:00+11:00",
-   "createdAt": "2026-11-13T06:55:00+11:00"
-  },
-  {
-   "id": "2026-11-13-vic-labor-open-ticket",
-   "batch": "2026-11-13",
-   "rank": 12,
-   "category": "Politics",
-   "title": "Victorian Labor to run open preference tickets in Prahran and Caulfield",
-   "summary": "Victorian Labor will not recommend preferences after its own candidates in the seats of Prahran and Caulfield at the 28 November state election, AAP reported. Greens leader Ellen Sandell said the decision would help conservative candidates and called it unforgivable.\n\nPrahran is held by Liberal MP Rachel Westaway, who won it from the Greens at a 2025 by-election that Labor did not contest. Opposition Leader Jess Wilson said the Liberals would put Labor, the Greens and the Victorian Socialists last, with decisions made seat by seat. A Resolve poll in The Age put the Coalition on 30 per cent of the primary vote, One Nation on 23, Labor on 22 and the Greens on 13.",
-   "keyFacts": [
-    "The election is on 28 November",
-    "Open tickets give no preference recommendation",
-    "Liberals will set preferences seat by seat"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/unforgivable-greens-cry-labor-preference-hypocrisy"
-    }
-   ],
-   "publishedAt": "2026-11-12T18:00:00+11:00",
-   "createdAt": "2026-11-13T06:55:00+11:00"
-  },
-  {
    "id": "2026-11-13-iran-bahrain-radar",
    "batch": "2026-11-13-pm",
    "rank": 1,
@@ -567,31 +625,6 @@
     }
    ],
    "publishedAt": "2026-11-13T14:17:00+11:00",
-   "createdAt": "2026-11-13T17:50:59+11:00"
-  },
-  {
-   "id": "2026-11-13-trump-iran-no-deal-needed",
-   "batch": "2026-11-13-pm",
-   "rank": 2,
-   "category": "World",
-   "title": "Trump says US does not need Iran deal, tells Vance to focus on Democratic-run cities",
-   "summary": "US President Donald Trump said the United States does not need a deal with Iran and directed Vice-President JD Vance to give his full attention to what Trump described as crime and corruption in Democratic-run cities and states, Reuters reported via the ABC. Trump wrote that the US held large sums of Iranian money and controlled the Strait of Hormuz.\n\nThe Wall Street Journal had reported that Vance was considering face-to-face talks with a senior Iranian security official; Reuters did not confirm this. Vance's office did not respond to requests for comment. Oil prices rose after the remarks, according to AAP.",
-   "keyFacts": [
-    "Trump said a deal with Iran was not needed",
-    "Vance had been leading US contacts on Iran",
-    "Brent crude rose to about US$96 a barrel"
-   ],
-   "sources": [
-    {
-     "name": "ABC News (Reuters)",
-     "url": "https://www.abc.net.au/news/2026-11-13/trump-says-us-does-not-need-iran-deal/107380892"
-    },
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/australian-shares-dip-as-risk-sentiment-sours-again"
-    }
-   ],
-   "publishedAt": "2026-11-13T06:01:00+11:00",
    "createdAt": "2026-11-13T17:50:59+11:00"
   },
   {
@@ -712,31 +745,6 @@
    "createdAt": "2026-11-13T17:50:59+11:00"
   },
   {
-   "id": "2026-11-13-apra-ai-stress-tests",
-   "batch": "2026-11-13-pm",
-   "rank": 8,
-   "category": "Economy",
-   "title": "APRA to run AI stress tests, says financial disruption is likely",
-   "summary": "Australian Prudential Regulation Authority chair John Lonsdale said it was safe to assume artificial intelligence would cause interruptions and problems for banks, insurers and super funds, the ABC reported. APRA plans AI-focused stress tests of hypothetical severe scenarios from next year, and Lonsdale said major institutions were not yet adequately prepared.\n\nAPRA's System Risk Outlook, released on Thursday, placed AI at the centre of risks to the financial system, according to the ABC. In April, APRA wrote to industry leaders about cyber threats from frontier AI models, and in August APRA and ASIC jointly urged firms to move from awareness to action.",
-   "keyFacts": [
-    "Stress tests are planned from next year",
-    "APRA's System Risk Outlook was released Thursday",
-    "ASIC and APRA issued a joint warning in August"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-13/regulator-apra-warns-of-interruptions-as-frontier-ai-evolves/107378944"
-    },
-    {
-     "name": "ASIC",
-     "url": "https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-201mr-asic-and-apra-warn-frontier-ai-awareness-must-turn-to-action/"
-    }
-   ],
-   "publishedAt": "2026-11-13T05:00:00+11:00",
-   "createdAt": "2026-11-13T17:50:59+11:00"
-  },
-  {
    "id": "2026-11-13-asx-midday-dip",
    "batch": "2026-11-13-pm",
    "rank": 9,
@@ -800,27 +808,6 @@
    "createdAt": "2026-11-13T17:50:59+11:00"
   },
   {
-   "id": "2026-11-13-bowen-cop31-final-week",
-   "batch": "2026-11-13-pm",
-   "rank": 12,
-   "category": "Environment",
-   "title": "Bowen says coal and gas exports do not weaken Australia's role as COP31 negotiator",
-   "summary": "Climate Change Minister Chris Bowen, who is presiding over COP31 negotiations in Türkiye, told the ABC that Australia's coal and gas exports had not undermined its standing as a negotiator and that countries needed a pragmatic energy transition. He said his role was to reach the most ambitious outcome that consensus would allow.\n\nBowen rejected criticism from activist Greta Thunberg and from Opposition Leader Angus Taylor, who has questioned the summit's costs. Australia is promoting a target to raise electricity's share of global energy use from about 23 per cent to 35 per cent by 2035; critics note it does not require renewables.",
-   "keyFacts": [
-    "More than 190 countries are negotiating",
-    "The electrification target is 35 per cent by 2035",
-    "Negotiations intensify next week"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-13/chris-bowen-seeks-pragmatic-consensus-nto-inal-cop31-talks/107380860"
-    }
-   ],
-   "publishedAt": "2026-11-13T05:50:00+11:00",
-   "createdAt": "2026-11-13T17:50:59+11:00"
-  },
-  {
    "id": "2026-11-13-nsw-gun-laws-inquiry",
    "batch": "2026-11-13-pm",
    "rank": 13,
@@ -881,27 +868,6 @@
     }
    ],
    "publishedAt": "2026-11-13T16:29:00+11:00",
-   "createdAt": "2026-11-13T17:50:59+11:00"
-  },
-  {
-   "id": "2026-11-13-seq-storms",
-   "batch": "2026-11-13-pm",
-   "rank": 18,
-   "category": "Environment",
-   "title": "Storms with gusts up to 120km/h cut power to 25,500 homes south of Brisbane",
-   "summary": "Thunderstorms with wind gusts of up to 120km/h struck south of Brisbane on Thursday, AAP reported. Energex said about 25,500 homes were without power by mid-afternoon, with hundreds of powerlines down, and 14 properties were left temporarily uninhabitable.\n\nThe SES received more than 300 calls for help, almost 240 of them in Logan, and more than 20 schools and several roads were closed. The Bureau of Meteorology said further thunderstorms and flash flooding were possible into the weekend.",
-   "keyFacts": [
-    "Up to 100mm of rain fell in places",
-    "More than 300 calls were made to the SES",
-    "More storms are forecast into the weekend"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/roads-and-power-cut-as-region-reels-from-wild-weather"
-    }
-   ],
-   "publishedAt": "2026-11-12T18:00:00+11:00",
    "createdAt": "2026-11-13T17:50:59+11:00"
   },
   {
@@ -1186,31 +1152,6 @@
     }
    ],
    "publishedAt": "2026-11-13T08:20:00+11:00",
-   "createdAt": "2026-11-14T06:54:58+11:00"
-  },
-  {
-   "id": "2026-11-14-ai-halt-lawsuit",
-   "batch": "2026-11-14",
-   "rank": 11,
-   "category": "Science & Tech",
-   "title": "US nonprofits sue OpenAI, Anthropic, Google, Meta and SpaceX to halt frontier AI work",
-   "summary": "Four US nonprofit groups have filed a civil lawsuit in San Francisco Superior Court seeking to stop OpenAI, Anthropic, Google, Meta and SpaceX's AI division from developing their most advanced AI models, according to Al Jazeera and Reuters. The groups are the Irreplaceable Education Fund, Public Citizen, Heat Initiative and the Alliance for Secure AI.\n\nThe suit relies on California's unfair competition law and cites catastrophic risks, including AI-driven cyber attacks, Al Jazeera reported. It seeks a freeze on training and deployment and an emergency injunction. Meta declined to comment and the other companies did not respond to Reuters. Florida and eight other states have separately sued OpenAI.",
-   "keyFacts": [
-    "Filed in San Francisco Superior Court",
-    "Brought under California unfair competition law",
-    "Seeks a freeze on training and deployment"
-   ],
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/12/us-nonprofits-sue-tech-giants-to-halt-ai-development"
-    },
-    {
-     "name": "Reuters (via The Daily Record)",
-     "url": "https://thedailyrecord.com/2026/11/12/nonprofits-sue-openai-google-anthropic-halt-frontier-ai/"
-    }
-   ],
-   "publishedAt": "2026-11-13T06:06:00+11:00",
    "createdAt": "2026-11-14T06:54:58+11:00"
   },
   {
@@ -4524,6 +4465,138 @@
  ],
  "leftOut": [
   {
+   "id": "2026-11-20-lo-walkley-awards",
+   "batch": "2026-11-20",
+   "category": "Other",
+   "title": "ABC wins scoop of the year at 71st Walkley Awards",
+   "summary": "The ABC won seven awards at the 71st Walkley Awards for journalism, held in Sydney on Thursday night across 30 categories, the ABC reported. Scoop of the Year went to an ABC Investigations team for reporting on what ASIO knew before the Bondi attack.\n\nOther ABC winners included Foreign Correspondent's Gaza Children of War in the international category and Four Corners' Brutal Force in current affairs, according to the ABC. Walkley Foundation chief executive Shona Martyn said public interest journalism was in good hands. Other outlets' winners were not detailed in the ABC report.",
+   "keyFacts": [
+    "71st Walkley Awards held in Sydney",
+    "ABC won seven of 30 categories",
+    "Scoop of the Year for Bondi ASIO reporting"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-20/2026-walkley-awards-winners-scoop-of-the-year-bondi/107406420"
+    }
+   ],
+   "publishedAt": "2026-11-20T00:01:00+11:00",
+   "reason": "Ceremonial event",
+   "rank": 1,
+   "createdAt": "2026-11-20T06:48:18+11:00"
+  },
+  {
+   "id": "2026-11-20-lo-afl-draft-first-round",
+   "batch": "2026-11-20",
+   "category": "Sport",
+   "title": "Port Adelaide takes Dougie Cochrane at No.1 in AFL draft",
+   "summary": "Port Adelaide selected Dougie Cochrane with the first pick of the AFL national draft after matching an Essendon bid, AAP reported. Essendon took Ethan Drevers at No.2 and Carlton took father-son prospect Cody Walker at No.3.\n\nSydney took Brisbane academy player Caylen Murray at pick nine after Brisbane fell three points short of the draft value needed to match the bid, AAP said. Nineteen players were picked on the first night at Marvel Stadium, including five Indigenous players in the first round. The draft resumes on Friday night.",
+   "keyFacts": [
+    "Cochrane taken at pick one",
+    "19 players picked on opening night",
+    "Draft resumes Friday night"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/tears-trades-as-swans-shake-up-afl-draft-first-round"
+    }
+   ],
+   "publishedAt": "2026-11-19T22:30:00+11:00",
+   "reason": "Sport",
+   "rank": 2,
+   "createdAt": "2026-11-20T06:48:18+11:00"
+  },
+  {
+   "id": "2026-11-20-lo-foord-afc-award",
+   "batch": "2026-11-20",
+   "category": "Sport",
+   "title": "Caitlin Foord named AFC international women's player of the year",
+   "summary": "Matildas and Arsenal striker Caitlin Foord was named the Asian Football Confederation's international women's player of the year at a ceremony in Bangkok, AAP reported. She previously won the AFC youth award in 2011 and the women's player award in 2016.\n\nFoord is the second Australian to win the international award, after Ellie Carpenter in 2024, AAP said. She has 152 caps and 42 goals. Iranian goalkeeper Alireza Beiranvand won the men's player award, the first goalkeeper to do so, and North Korea's Kim Kyong-yong won the women's award.",
+   "keyFacts": [
+    "Awards held in Bangkok",
+    "Foord has 152 caps and 42 goals",
+    "Beiranvand first goalkeeper to win men's award"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/matildas-ace-lands-major-honour-in-asian-soccer-awards"
+    }
+   ],
+   "publishedAt": "2026-11-20T01:00:00+11:00",
+   "reason": "Sport",
+   "rank": 3,
+   "createdAt": "2026-11-20T06:48:18+11:00"
+  },
+  {
+   "id": "2026-11-20-lo-walk-against-family-violence",
+   "batch": "2026-11-20",
+   "category": "Australia",
+   "title": "Melbourne walk against family violence to begin 16 days of activism",
+   "summary": "The 18th annual Walk Against Family Violence is scheduled in Melbourne on Friday, starting at 10am from Birrarung Marr, AAP reported. Organisers say it marks the start of 16 days of activism against gender-based violence and coincides with Transgender Day of Remembrance.\n\nAAP spoke with survivors and advocates taking part, including a woman who now works with perpetrators of family violence. The report listed support services including 1800 RESPECT. No new government policy was announced in connection with the event.",
+   "keyFacts": [
+    "18th annual walk held in Melbourne",
+    "Marks start of 16 days of activism",
+    "Starts at Birrarung Marr at 10am"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/trapped-in-a-cage-thousands-to-walk-against-violence"
+    }
+   ],
+   "publishedAt": "2026-11-20T05:00:00+11:00",
+   "reason": "Human interest",
+   "rank": 4,
+   "createdAt": "2026-11-20T06:48:18+11:00"
+  },
+  {
+   "id": "2026-11-20-lo-economists-recession-risk",
+   "batch": "2026-11-20",
+   "category": "Economy",
+   "title": "Economists put recession risk higher after rise in unemployment",
+   "summary": "Economists said the rise in unemployment to 4.9 per cent in October increased the risk of an Australian recession, AAP reported. AMP chief economist Shane Oliver put the risk at about 40 per cent and cited five Reserve Bank rate rises in 2026.\n\nIndependent economist Saul Eslake said unemployment could reach the RBA's 5 per cent forecast as early as 2027, AAP said. He said a recession indicator known as the Sahm rule could be triggered in early 2027 if unemployment keeps rising at its recent pace. October inflation figures are due on Wednesday.",
+   "keyFacts": [
+    "Unemployment rose to 4.9 per cent in October",
+    "Oliver puts recession risk near 40 per cent",
+    "October inflation data due Wednesday"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/risk-is-high-recession-warning-after-jobless-spike"
+    }
+   ],
+   "publishedAt": "2026-11-20T03:30:00+11:00",
+   "reason": "Commentary",
+   "rank": 5,
+   "createdAt": "2026-11-20T06:48:18+11:00"
+  },
+  {
+   "id": "2026-11-20-lo-albanese-xi-business-access",
+   "batch": "2026-11-20",
+   "category": "Australia",
+   "title": "Businesses seek wider China market access before Albanese meets Xi",
+   "summary": "Prime Minister Anthony Albanese is due to meet Chinese President Xi Jinping in Shenzhen on Friday before travelling to Beijing for talks with Premier Li Qiang, the ABC reported. Executives from companies including BHP, Rio Tinto and ANZ are due to meet Chinese counterparts in Beijing.\n\nThe Business Council of Australia is seeking greater access for beef, rice, medical technology, resources and agricultural technology, according to the ABC. Business Council president Geoff Culbert is expected to say business confidence depends on trust and predictability. No outcomes from the meeting have been announced.",
+   "keyFacts": [
+    "Albanese due to meet Xi on Friday",
+    "Talks with Li Qiang to follow in Beijing",
+    "Business Council seeks wider market access"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-20/albanese-to-meet-xi-for-trade/107406222"
+    }
+   ],
+   "publishedAt": "2026-11-20T06:37:00+11:00",
+   "reason": "No new development",
+   "rank": 6,
+   "createdAt": "2026-11-20T06:48:18+11:00"
+  },
+  {
    "id": "2026-11-19-lo-elton-john-ai-copyright",
    "batch": "2026-11-19-pm",
    "category": "Other",
@@ -4620,76 +4693,6 @@
    "createdAt": "2026-11-19T17:47:45+11:00"
   },
   {
-   "id": "2026-11-13-lo-dc-gym-shooting",
-   "batch": "2026-11-13",
-   "rank": 1,
-   "category": "World",
-   "title": "One killed, four injured in shooting at Washington DC gym; gunman dead",
-   "summary": "A gunman shot five people at and near a gym in Washington DC's Logan Circle neighbourhood on Thursday morning local time, killing one, police said, according to Al Jazeera and CBS News. The area is about 1.6 kilometres north of the White House.\n\nPolice said the suspect later died of a self-inflicted gunshot wound after a standoff. Interim Police Chief Jeffery Carroll said the shooting appeared to stem from a dispute with a condominium homeowners association. Nearby schools and apartment buildings were locked down during the search. A local councillor named a suspect, but police had not formally confirmed the identity in the reports reviewed.",
-   "keyFacts": [
-    "The shooting began about 8am local time",
-    "Federal ATF agents assisted DC police",
-    "Police point to a residential dispute as a motive"
-   ],
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/12/what-to-know-about-the-logan-circle-shooting-in-washington-dc"
-    },
-    {
-     "name": "CBS News",
-     "url": "https://www.cbsnews.com/news/washington-dc-shooting-gym-vida/"
-    }
-   ],
-   "publishedAt": "2026-11-13T00:30:00+11:00",
-   "createdAt": "2026-11-13T06:55:00+11:00",
-   "reason": "Local crime"
-  },
-  {
-   "id": "2026-11-13-lo-vic-australian-of-year",
-   "batch": "2026-11-13",
-   "rank": 5,
-   "category": "Other",
-   "title": "Pancreatic cancer advocate Cherie Dear named Victorian Australian of the Year",
-   "summary": "Cherie Dear, who co-founded pancreatic cancer charity Dare to Hope with her late husband, former Hawthorn player Paul Dear, has been named Victoria's 2027 Australian of the Year, ABC News reported.\n\nThe other Victorian winners are autism researcher Wenn Lawson as Senior Australian of the Year, Ryan Brigham of Health in Focus as Young Australian of the Year, and Gavin Hynam, who has donated 19 cars to people in need, as Local Hero. The four will join other state and territory recipients in Canberra, where the national winners will be announced on 25 January.",
-   "keyFacts": [
-    "Four Victorian award recipients were named",
-    "National awards are on 25 January",
-    "State winners become national finalists"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-13/australian-of-the-year-victorian-winners/107379768"
-    }
-   ],
-   "publishedAt": "2026-11-13T06:27:00+11:00",
-   "createdAt": "2026-11-13T06:55:00+11:00",
-   "reason": "Ceremonial event"
-  },
-  {
-   "id": "2026-11-13-lo-golden-boot",
-   "batch": "2026-11-13",
-   "rank": 6,
-   "category": "Sport",
-   "title": "Kalyn Ponga and Stacey Waaka win rugby league's Golden Boot awards",
-   "summary": "New Zealand's Kalyn Ponga has won the men's International Rugby League Golden Boot for 2026 and compatriot Stacey Waaka won the women's award, AAP reported. The awards were presented at Suncorp Stadium in Brisbane on Thursday night.\n\nPonga broke his forearm in New Zealand's 24-20 World Cup loss to Australia and returned 23 days later. Waaka scored nine tries in four World Cup matches. England's Rob Hawkins won the wheelchair Golden Boot. AAP said voting did not include Sunday's World Cup final.",
-   "keyFacts": [
-    "Ponga is 28",
-    "Waaka scored nine World Cup tries",
-    "Rob Hawkins won the wheelchair award"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/new-zealand-double-act-scoops-golden-boot-awards"
-    }
-   ],
-   "publishedAt": "2026-11-12T21:00:00+11:00",
-   "createdAt": "2026-11-13T06:55:00+11:00",
-   "reason": "Sport"
-  },
-  {
    "id": "2026-11-13-lo-rory-amon-verdict",
    "batch": "2026-11-13-pm",
    "rank": 1,
@@ -4782,28 +4785,6 @@
    "reason": "Local crime"
   },
   {
-   "id": "2026-11-13-lo-vic-online-ad-spending",
-   "batch": "2026-11-13-pm",
-   "rank": 5,
-   "category": "Politics",
-   "title": "Analysis estimates Victorian Labor has outspent Liberals sixfold on online ads",
-   "summary": "An analysis by digital campaign platform Populares estimates Victorian Labor and its candidates have spent $3.1 million on online advertising since August, compared with just over $500,000 by the Liberals and about $21,000 by One Nation, the ABC reported. The figures are upper-range estimates from platform disclosures and exclude other media.\n\nThe ABC said Labor, the Liberals and the Greens did not respond. An Australia Institute representative said the campaign had seen unprecedented use of AI content and deepfakes.",
-   "keyFacts": [
-    "Labor spending estimated at $3.1 million",
-    "Liberal spending just over $500,000",
-    "Figures exclude TV and print"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-13/political-ads-vic-election-ai-social-media-use/107378416"
-    }
-   ],
-   "publishedAt": "2026-11-13T05:54:00+11:00",
-   "createdAt": "2026-11-13T17:50:59+11:00",
-   "reason": "Commentary"
-  },
-  {
    "id": "2026-11-13-lo-us-myanmar-rare-earths",
    "batch": "2026-11-13-pm",
    "rank": 6,
@@ -4890,28 +4871,6 @@
    "publishedAt": "2026-11-13T16:45:00+11:00",
    "createdAt": "2026-11-13T17:50:59+11:00",
    "reason": "Human interest"
-  },
-  {
-   "id": "2026-11-13-lo-ukraine-starshield",
-   "batch": "2026-11-13-pm",
-   "rank": 12,
-   "category": "World",
-   "title": "Zelenskyy says Starshield satellite service speeds again restricted",
-   "summary": "Ukrainian President Volodymyr Zelenskyy said speed restrictions on Starshield, the military version of the Starlink satellite service, were again hampering Ukraine's interception of Russian jet-powered drones, AAP reported.\n\nThe report also restated that Abu Dhabi talks earlier in the week agreed a large prisoner exchange, which Russia's TASS said could happen within two to three weeks. Ukraine said it shot down 89 of 123 drones overnight, and one person was killed in Kyiv. The figures could not be independently verified.",
-   "keyFacts": [
-    "Zelenskyy posted the claim on Thursday",
-    "TASS said a swap could come within weeks",
-    "Ukraine said 89 of 123 drones were downed"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/russia-and-ukraine-agree-to-large-prisoners-of-war-swap"
-    }
-   ],
-   "publishedAt": "2026-11-12T20:00:00+11:00",
-   "createdAt": "2026-11-13T17:50:59+11:00",
-   "reason": "Restatement, nothing new"
   },
   {
    "id": "2026-11-13-lo-bank-hearings-preview",
