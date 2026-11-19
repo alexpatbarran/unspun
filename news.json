@@ -1,393 +1,314 @@
 {
- "updatedAt": "2026-11-19T06:52:35+11:00",
+ "updatedAt": "2026-11-19T17:47:45+11:00",
  "articles": [
   {
-   "id": "2026-11-12-mississippi-senate",
-   "batch": "2026-11-12",
+   "id": "2026-11-19-unemployment-4-9",
+   "batch": "2026-11-19-pm",
+   "category": "Economy",
+   "title": "Unemployment rises to 4.9 per cent as employment falls by 43,500 in October",
+   "summary": "Australia's seasonally adjusted unemployment rate rose to 4.9 per cent in October from 4.7 per cent in September, according to ABS figures reported by the ABC and SBS. Employment fell by about 43,500 and the labour force shrank by 30,400, the ABC reported. Economists had expected the rate to hold steady, SBS said.\n\nThe ABC said it is the highest rate since the pandemic. BetaShares economist David Bassanese said the result strengthened the case for the Reserve Bank to hold rates in December. Moody's analysts said most of the fall was in part-time jobs. Opposition Leader Angus Taylor said Australia was in an \"economic crisis\", according to the ABC.",
+   "keyFacts": [
+    "Unemployment rate rose from 4.7 to 4.9 per cent",
+    "Employment fell by about 43,500 in October",
+    "Youth unemployment rose to 11.3 per cent"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://abc.net.au/news/2026-11-19/unemployment-rate-jumps-in-october-in-australia/107399076"
+    },
+    {
+     "name": "SBS News",
+     "url": "https://www.sbs.com.au/news/article/australias-unemployment-figures-high/pnwz5e8jz"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-19/federal-politics-live-blog-migrant-workers/107400850"
+    }
+   ],
+   "publishedAt": "2026-11-19T11:30:00+11:00",
    "rank": 1,
+   "createdAt": "2026-11-19T17:47:45+11:00"
+  },
+  {
+   "id": "2026-11-19-trump-putin-shenzhen-talks",
+   "batch": "2026-11-19-pm",
    "category": "World",
-   "title": "Democrat Scott Colom wins Mississippi US Senate seat, AP projects",
-   "summary": "Democrat Scott Colom has won Mississippi's US Senate race, defeating Republican incumbent Cindy Hyde-Smith, according to projections by the Associated Press and other outlets on Wednesday US time. The result came after more than a week of counting in a race that had been too close to call since the 3 November election.\n\nAP figures reported by WDAM put Colom on 49.2 per cent of the vote. Hyde-Smith has held the seat since 2018. Her response to the projection was not included in the AP report carried by WDAM.",
+   "title": "Trump and Putin meet on APEC sidelines in Shenzhen; no joint statement issued",
+   "summary": "US President Donald Trump and Russian President Vladimir Putin met on the sidelines of the APEC summit in Shenzhen, according to the ABC and ANI. The ABC reported that Trump greeted Putin with a handshake and said the pair would meet a second time later in the day.\n\nKremlin aide Yuri Ushakov said the leaders discussed the war in Ukraine and bilateral relations and issued no joint statement, Ukrainian outlet UA.NEWS reported. Ushakov said no major announcements were made because both sides were preparing for the three-way meeting with Chinese President Xi Jinping. The US side had not released its own account in the reports reviewed.",
    "keyFacts": [
-    "Colom is a district attorney from Columbus, Mississippi",
-    "The race stayed too close to call for more than a week after polling day",
-    "The winner serves a six-year term"
-   ],
-   "sources": [
-    {
-     "name": "NBC News",
-     "url": "https://www.nbcnews.com/politics/2026-election/scott-colom-mississippi-senate-election-win-democrat-hyde-smith-rcna605729"
-    },
-    {
-     "name": "NPR",
-     "url": "https://www.npr.org/2026/11/11/g-s1-151688/mississippi-senate-race-scott-colom"
-    },
-    {
-     "name": "AP (via WDAM)",
-     "url": "https://www.wdam.com/2026/11/11/colom-claims-us-senate-seat-ending-hyde-smiths-8-year-tenure/"
-    }
-   ],
-   "publishedAt": "2026-11-12T10:08:00+11:00",
-   "createdAt": "2026-11-12T10:35:00+11:00"
-  },
-  {
-   "id": "2026-11-12-nab-underpayment-undertaking",
-   "batch": "2026-11-12",
-   "rank": 4,
-   "category": "Business",
-   "title": "NAB to repay $169m to 66,000 underpaid workers under Fair Work undertaking",
-   "summary": "National Australia Bank has signed an enforceable undertaking with the Fair Work Ombudsman over underpayments affecting 65,999 current and former staff between 2012 and 2026, the regulator announced on Thursday. NAB will pay $127 million in wages, $34 million in interest and $8 million in superannuation.\n\nThe bank will also make a $2 million contrition payment to the Commonwealth, which the regulator described as the largest under such an undertaking. NAB self-reported the problems in late 2019. Fair Work Ombudsman Anna Booth criticised the bank's failure to build compliant payroll systems. The undertaking requires an independent payroll audit and reporting to the board.",
-   "keyFacts": [
-    "Individual amounts range from under $5 to more than $87,000",
-    "NAB says it has already paid at least $155 million",
-    "No court penalty applies under an enforceable undertaking"
-   ],
-   "sources": [
-    {
-     "name": "HRD Australia",
-     "url": "https://www.hcamag.com/au/specialisation/employment-law/nab-signs-undertaking-over-127m-underpayments/597051"
-    },
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-12/asx-markets-business-news-live-updates-thursday-12-november/107374826"
-    }
-   ],
-   "publishedAt": "2026-11-12T08:04:00+11:00",
-   "createdAt": "2026-11-12T10:35:00+11:00"
-  },
-  {
-   "id": "2026-11-12-asic-sues-cba",
-   "batch": "2026-11-12",
-   "rank": 8,
-   "category": "Business",
-   "title": "ASIC sues Commonwealth Bank, alleging $8.5m in undisclosed business fees",
-   "summary": "The Australian Securities and Investments Commission has started civil penalty proceedings against Commonwealth Bank over fees on its CommBiz business banking platform, according to ABC News and AAP. ASIC alleges about 42,000 business customers were overcharged about $8.5 million for direct debits and credits between November 2020 and May 2025.\n\nASIC alleges the platform's terms misled customers about fees from its 2006 launch, and that complaints began in 2015. Commissioner Alan Kirkland said the regulator alleges the bank broke a basic promise. CBA stopped the fees in 2025 and has paid $26.4 million in remediation to about 93,000 customers. CBA had not commented when the reports were published.",
-   "keyFacts": [
-    "The claims are allegations and have not been tested in court",
-    "No case management hearing had been listed",
-    "ASIC says a 2016 internal audit flagged the issue"
+    "First in-person talks since the 2025 Alaska summit",
+    "Kremlin says Ukraine and bilateral ties were discussed",
+    "Three-way meeting with Xi was due later on Thursday"
    ],
    "sources": [
     {
      "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-12/asic-sues-commonwealth-bank-alleges-overcharged-millions-in-fees/107376156"
+     "url": "https://www.abc.net.au/news/2026-11-19/trump-xi-putin-meeting-live-blog-apec-summit/107394202"
     },
     {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/top-bank-accused-of-overcharging-thousands-of-firms"
-    }
-   ],
-   "publishedAt": "2026-11-12T09:00:00+11:00",
-   "createdAt": "2026-11-12T10:35:00+11:00"
-  },
-  {
-   "id": "2026-11-12-albanese-cop31-leaders",
-   "batch": "2026-11-12",
-   "rank": 16,
-   "category": "Australia",
-   "title": "Albanese meets Erdoğan and Norway's Støre at COP31 leaders' summit",
-   "summary": "Prime Minister Anthony Albanese has held talks with Turkish President Recep Tayyip Erdoğan, Norwegian Prime Minister Jonas Gahr Støre and Finnish President Alexander Stubb at the COP31 climate summit in Antalya, Türkiye, ABC News reported. Government readouts said the talks covered clean energy, AI, the Middle East and Ukraine.\n\nAt the leaders' summit, Albanese called for action to protect Pacific nations. UN Secretary-General António Guterres called for no new fossil fuel infrastructure. Critics accused Australia of continuing to expand coal and gas. Australia is leading the negotiations at COP31 under an arrangement with host Türkiye.",
-   "keyFacts": [
-    "The Erdoğan meeting covered COP31 leadership and defence",
-    "The Støre meeting covered online and AI safety",
-    "Australia was the first to sign COP31's rooftop solar declaration"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-12/federal-politics-live-blog-albanese-cop31-nov-2/107375902"
+     "name": "UA.NEWS",
+     "url": "https://ua.news/en/world/tramp-i-putin-zavershili-zustrich-u-shenchzheni-bez-spilnoyi-zaiavi-dlia-presi"
     },
     {
-     "name": "Prime Minister of Australia",
-     "url": "https://www.pm.gov.au/media/cop-be-hosted-turkiye-australia-leading-negotiations"
+     "name": "ANI (via The Tribune)",
+     "url": "https://www.tribuneindia.com/news/world/russia-strikes-ukraine-as-putin-holds-talks-with-trump-in-shenzen-ahead-of-key-trilateral-with-xi"
     }
    ],
-   "publishedAt": "2026-11-12T06:58:00+11:00",
-   "createdAt": "2026-11-12T10:35:00+11:00"
-  },
-  {
-   "id": "2026-11-12-vic-liberal-candidate-dumped",
-   "batch": "2026-11-12",
-   "rank": 22,
-   "category": "Politics",
-   "title": "Victorian Liberals withdraw Williamstown candidate over comments on Indigenous people",
-   "summary": "The Victorian Liberal Party has withdrawn its endorsement of Paul Lindemann, its candidate for the seat of Williamstown, over comments he made about Indigenous Australians, ABC News reported on Thursday. The party said it had not previously been aware of the comments.\n\nLiberal leader Jess Wilson told ABC News Breakfast the comments were deeply offensive and that the party's vetting process had not detected them. The ABC said it had tried to contact Lindemann. Campaigning resumed on Thursday after a pause for Remembrance Day, ahead of the state election on 28 November.",
-   "keyFacts": [
-    "Williamstown is in Melbourne's west",
-    "Wilson said she was disappointed by the vetting failure",
-    "Lindemann's response had not been reported"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-12/victoria-election-blog/107374690"
-    }
-   ],
-   "publishedAt": "2026-11-12T09:49:00+11:00",
-   "createdAt": "2026-11-12T10:35:00+11:00"
-  },
-  {
-   "id": "2026-11-12-quantum-dc-tungkillo-pause",
-   "batch": "2026-11-12",
-   "rank": 23,
-   "category": "Business",
-   "title": "Developer pauses 1,200MW AI data centre plan in Adelaide Hills",
-   "summary": "Quantum DC has paused its proposal for a 1,200-megawatt AI data centre at Tungkillo in South Australia's Adelaide Hills, ABC News reported on Thursday. The company said it would not seek development approval this year but has not ruled out proceeding later.\n\nChief executive Alby Tomassi said in a statement the company had misread the strength of local feeling. More than 350 people contacted the company and residents submitted 432 questions. Planned community sessions have been cancelled, and the company said an independent expert panel would review its specialist studies.",
-   "keyFacts": [
-    "Two earlier consultation sessions were postponed",
-    "The proposal included an energy hub",
-    "A community meeting was earlier cancelled over a bomb threat, Data Center Dynamics reported"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-12/quantum-dc-pauses-tungkillo-ai-data-centre/107376052"
-    },
-    {
-     "name": "Data Center Dynamics",
-     "url": "https://www.datacenterdynamics.com/en/news/quantum-dc-cancels-australian-data-center-community-meeting-over-credible-bomb-threat/"
-    }
-   ],
-   "publishedAt": "2026-11-12T08:14:00+11:00",
-   "createdAt": "2026-11-12T10:35:00+11:00"
-  },
-  {
-   "id": "2026-11-12-alcohol-liver-disease-report",
-   "batch": "2026-11-12",
-   "rank": 24,
-   "category": "Health",
-   "title": "Report finds alcohol-related hepatitis rose in Victoria and remains elevated",
-   "summary": "Hospital admissions for alcohol-associated hepatitis in Victoria rose sharply during the COVID-19 pandemic and remain elevated, according to a Burnet Institute report commissioned by the Foundation for Alcohol Research and Education (FARE), ABC News reported.\n\nLead author Professor Jessica Howell said about 40 per cent of admissions between 2017 and 2024 were people under 45. About 13 per cent of patients were admitted to intensive care, and the mortality rate was about 4 per cent. Women made up about one in three cases. The study was retrospective and drew on two Victorian patient databases.",
-   "keyFacts": [
-    "FARE is an alcohol-harm advocacy group",
-    "The study covered 2017 to 2024",
-    "An independent hepatologist commented on the findings to the ABC"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/health/2026-11-12/alcohol-related-liver-disease-in-victoria/107364604"
-    },
-    {
-     "name": "Scimex",
-     "url": "https://www.scimex.org/newsfeed/alcohol-related-liver-diseases-are-sending-more-aussies-to-hospital"
-    }
-   ],
-   "publishedAt": "2026-11-12T07:39:00+11:00",
-   "createdAt": "2026-11-12T10:35:00+11:00"
-  },
-  {
-   "id": "2026-11-12-nvidia-board-huang-meeting",
-   "batch": "2026-11-12-pm",
-   "rank": 1,
-   "category": "Business",
-   "title": "Nvidia board meets on Jensen Huang's future after reports it may remove him",
-   "summary": "Nvidia's board met on Wednesday, US time, to consider chief executive Jensen Huang's future, Reuters reported, citing a source. The Wall Street Journal first reported the board was preparing to remove him, and CBS News said two sources gave the same account. Nvidia had not commented, and no decision had been announced by Thursday evening Sydney time.\n\nThis is new since the board opened its investigation on 8 November. The New York Times has since reported, citing five people, that Huang had a relationship with Kimberly Powell, an Nvidia vice-president. That followed earlier reports about his ties to Alice Huang, whom US officials suspect of working for Beijing. China denies this. Shares fell about 8 per cent after hours.",
-   "keyFacts": [
-    "Nvidia has not confirmed the reports that the board plans to remove him",
-    "Shares fell about 8% in after-hours trade on Wednesday",
-    "A House committee chair said he may subpoena Huang"
-   ],
-   "sources": [
-    {
-     "name": "Reuters (via Yahoo Finance)",
-     "url": "https://finance.yahoo.com/news/nvidia-preparing-oust-ceo-jensen-223546395.html"
-    },
-    {
-     "name": "CBS News",
-     "url": "https://www.cbsnews.com/news/nvidia-board-ceo-jensen-huang-china/"
-    },
-    {
-     "name": "ABC News (US)",
-     "url": "https://abcnews.com/US/nvidia-board-reportedly-preparing-oust-ceo-jensen-huang/story?id=138062059"
-    }
-   ],
-   "publishedAt": "2026-11-12T10:32:00+11:00",
-   "createdAt": "2026-11-12T17:50:00+11:00"
-  },
-  {
-   "id": "2026-11-12-russia-ukraine-capitals-envoys-moscow",
-   "batch": "2026-11-12-pm",
+   "publishedAt": "2026-11-19T15:55:00+11:00",
    "rank": 2,
-   "category": "World",
-   "title": "Russia and Ukraine trade strikes on capitals as US envoys arrive in Moscow",
-   "summary": "Russia and Ukraine attacked each other's capitals early on Thursday, a day after US-mediated talks in Abu Dhabi ended, Reuters reported. A Reuters witness heard explosions in Kyiv. Russia's defence ministry said it hit military and energy sites and a munitions store in Kyiv. Moscow's mayor said five drones heading for the city were shot down.\n\nUS envoys Jared Kushner and Steve Witkoff landed in Moscow for a meeting with Vladimir Putin and were greeted by Kremlin envoy Kirill Dmitriev. They then plan to fly to Ireland to meet Volodymyr Zelensky. US mediators say the two sides still disagree on major issues, including territory.",
+   "createdAt": "2026-11-19T17:47:45+11:00"
+  },
+  {
+   "id": "2026-11-19-anthropic-ipo-priced-83",
+   "batch": "2026-11-19-pm",
+   "category": "Business",
+   "title": "Anthropic prices IPO at $US83 a share, raising about $US81 billion",
+   "summary": "AI company Anthropic priced its initial public offering at $US83 a share, above its expected range of $US70 to $US78, AP reported. The company said on X that the price was set and that trading on Nasdaq was expected to begin on Thursday US time under the ticker ANT.\n\nAP said the sale of 980 million shares, up from 825 million planned, raised about $US81 billion and valued the company at about $US1.5 trillion. AP said that was more than the roughly $US75 billion raised by SpaceX in June. The company's filings describe $US6.2 billion in debt and computing commitments of about $US900 billion, according to AP.",
    "keyFacts": [
-    "Kyiv Independent reported explosions in Kyiv at about 1am local time",
-    "Officials in Rivne region reported damage to energy infrastructure",
-    "Kushner said European partners must take part in the talks"
+    "What changed: priced at $US83, above the $US70-$US78 range",
+    "Share sale enlarged to 980 million shares",
+    "AP reports a valuation of about $US1.5 trillion"
    ],
    "sources": [
     {
-     "name": "Reuters (via ThePrint)",
-     "url": "https://theprint.in/world/russia-ukraine-exchange-attacks-on-capitals-as-us-envoys-land-in-moscow/3096665"
+     "name": "AP (via PBS NewsHour)",
+     "url": "https://www.pbs.org/newshour/economy/anthropic-prices-its-ipo-at-83-per-share-valuing-the-ai-giant-at-1-5-trillion"
     },
+    {
+     "name": "Anthropic",
+     "url": "https://x.com/AnthropicAI/status/2123196808675405860"
+    }
+   ],
+   "publishedAt": "2026-11-19T11:54:00+11:00",
+   "rank": 3,
+   "createdAt": "2026-11-19T17:47:45+11:00"
+  },
+  {
+   "id": "2026-11-19-trump-weighs-iran-strikes-nyt",
+   "batch": "2026-11-19-pm",
+   "category": "World",
+   "title": "Trump weighing new strikes on Iran as Israel presses for campaign, NYT reports",
+   "summary": "US President Donald Trump is considering another round of major strikes on Iran but has not decided, The New York Times reported, citing US and Israeli officials, according to i24NEWS and The Times of Israel. Israeli Prime Minister Benjamin Netanyahu has urged a four- to seven-day air campaign, the reports said.\n\nIsrael's Mossad chief Roman Gofman met US officials in Washington last week with intelligence that Iran is advancing chemical and biological weapons work, according to the reports. Axios reported some US officials believe the intelligence is driven by an agenda. Trump told Fox News there was an indication Iran was looking at gas. Iran has not responded to the reports.",
+   "keyFacts": [
+    "The NYT says Trump has not made a decision",
+    "Israel is reported to favour a four- to seven-day campaign",
+    "US officials are reported to be divided on the intelligence"
+   ],
+   "sources": [
+    {
+     "name": "i24NEWS",
+     "url": "https://www.i24news.tv/en/news/israel/defense/artc-netanyahu-urges-trump-to-join-four-to-seven-day-air-campaign-against-iran-report-says-report"
+    },
+    {
+     "name": "The Times of Israel",
+     "url": "https://www.timesofisrael.com/liveblog_entry/trump-said-weighing-another-iran-offensive-as-netanyahu-pushes-a-4-to-7-day-campaign/"
+    }
+   ],
+   "publishedAt": "2026-11-19T15:30:00+11:00",
+   "rank": 4,
+   "createdAt": "2026-11-19T17:47:45+11:00"
+  },
+  {
+   "id": "2026-11-19-crimea-bridge-hit-again",
+   "batch": "2026-11-19-pm",
+   "category": "World",
+   "title": "Crimea bridge hit again overnight as rail traffic halted",
+   "summary": "The bridge linking Russia to occupied Crimea was hit again just after midnight local time on Thursday, its Moscow-installed head Sergei Aksyonov said, according to the Kyiv Independent. Russia's Transport Ministry said rail traffic was temporarily suspended after a drone attack and no one was hurt, ANI reported, citing TASS.\n\nThe strike follows a Ukrainian missile attack on Tuesday that dropped part of the bridge into the Kerch Strait. The Kyiv Independent said it could not independently verify the extent of the latest damage. Aksyonov said general traffic was paused while damage was assessed. Ukraine had not commented on the latest strike in the reports reviewed.",
+   "keyFacts": [
+    "What changed: a further strike overnight on Thursday",
+    "Rail traffic suspended, according to Russia",
+    "No injuries reported by Russian officials"
+   ],
+   "sources": [
     {
      "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/russia-attacks-kyiv-with-ballistic-missiles-hours-after-peace-talks-end/"
-    }
-   ],
-   "publishedAt": "2026-11-12T17:00:00+11:00",
-   "createdAt": "2026-11-12T17:50:00+11:00"
-  },
-  {
-   "id": "2026-11-12-gaza-nasser-hospital-strike",
-   "batch": "2026-11-12-pm",
-   "rank": 3,
-   "category": "World",
-   "title": "Israeli strike on Gaza's Nasser Hospital kills six, health ministry says",
-   "summary": "An Israeli airstrike hit Nasser Hospital in Khan Younis, southern Gaza, early on Thursday, killing six people and wounding at least 12, according to Gaza's Health Ministry. The ministry said the strike hit the surgery department and that a doctor was among those killed. An AP journalist at the scene said parts of the second floor were destroyed.\n\nThe Israeli military said it targeted a senior Hamas militant and others, without giving evidence. Israel accuses Hamas of using hospitals as cover, which Hamas denies. Nasser is one of the few hospitals still working in Gaza.",
-   "keyFacts": [
-    "Casualty figures come from Gaza's Health Ministry",
-    "The Israeli military said the target was a senior Hamas figure",
-    "The strike follows two days of deadly strikes reported earlier this week"
-   ],
-   "sources": [
-    {
-     "name": "AP (via ClickOnDetroit)",
-     "url": "https://www.clickondetroit.com/news/world/2026/11/12/israeli-strike-on-a-gaza-hospital-kills-6-people-health-authorities-say/"
+     "url": "https://kyivindependent.com/ukrainian-forces-once-more-hit-russias-crimean-bridge-days-after-devastating-strike/"
     },
     {
-     "name": "Al Jazeera",
-     "url": "https://aljazeera.com/news/liveblog/2026/11/12/iran-war-live-tehran-warns-of-wider-retaliation-israel-kills-in-gaza"
+     "name": "ANI (via The Tribune)",
+     "url": "https://www.tribuneindia.com/news/world/russia-strikes-ukraine-as-putin-holds-talks-with-trump-in-shenzen-ahead-of-key-trilateral-with-xi"
     }
    ],
-   "publishedAt": "2026-11-12T16:47:00+11:00",
-   "createdAt": "2026-11-12T17:50:00+11:00"
-  },
-  {
-   "id": "2026-11-12-qld-cfmeu-interim-report",
-   "batch": "2026-11-12-pm",
+   "publishedAt": "2026-11-19T11:04:00+11:00",
    "rank": 5,
+   "createdAt": "2026-11-19T17:47:45+11:00"
+  },
+  {
+   "id": "2026-11-19-senate-electoral-bill-guillotine",
+   "batch": "2026-11-19-pm",
    "category": "Politics",
-   "title": "Queensland CFMEU inquiry calls for building code; Miles apologises for Labor policy",
-   "summary": "The commission of inquiry into the Queensland CFMEU released an interim report early, citing an urgent need for change, the ABC reported. Commissioner Stuart Wood KC recommended a new construction industry code and a dedicated regulator, with exclusion from government-funded work as the main penalty. He found Labor's Best Practice Industry Conditions policy raised costs by at least 20 per cent on three major projects.\n\nOn Thursday, Opposition Leader Steven Miles apologised for the 2018 policy, saying it was misused and he would not bring it back. Deputy Premier Jarrod Bleijie said the apology did not go far enough. He said the government was considering the report and had already committed to a code.",
+   "title": "Labor and Coalition block Senate inquiry into electoral funding bill",
+   "summary": "Labor and the Coalition voted down independent senator David Pocock's motion to refer the government's electoral reform bill to a Senate committee, the ABC reported. The bill changes political donation and disclosure rules. South Australian Liberal senator Andrew McLachlan crossed the floor to back the referral with the Greens, One Nation and crossbench.\n\nSenate government business manager Katy Gallagher then moved to suspend standing orders to set time limits on debate for five bills, including the electoral bill and a defence bases bill, with votes from 1pm, according to the ABC. Labor's gas reservation, trust tax and capital gains tax bills were not included.",
    "keyFacts": [
-    "The cost finding covers Cross River Rail, Centenary Bridge and Gold Coast Light Rail",
-    "The final report is now due in December 2027",
-    "The Crisafulli government suspended the policy in 2024"
+    "Pocock's referral motion was defeated",
+    "One Liberal senator crossed the floor",
+    "Five bills listed for a guillotine"
    ],
    "sources": [
     {
      "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-11/queensland-cfmeu-inquiry-interim-report/107375078"
-    },
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-12/qld-cfmeu-inquiry-report-response/107376800"
+     "url": "https://www.abc.net.au/news/2026-11-19/federal-politics-live-blog-migrant-workers/107400850"
     }
    ],
-   "publishedAt": "2026-11-12T11:19:00+11:00",
-   "createdAt": "2026-11-12T17:50:00+11:00"
-  },
-  {
-   "id": "2026-11-12-vic-pre-election-budget-update",
-   "batch": "2026-11-12-pm",
+   "publishedAt": "2026-11-19T12:04:00+11:00",
    "rank": 6,
-   "category": "Economy",
-   "title": "Victorian pre-election budget update forecasts wider deficit and slower growth",
-   "summary": "Victoria's Department of Treasury and Finance released its pre-election budget update on Thursday, ahead of the 28 November state election, AAP reported. It forecasts the cash deficit widening by $3 billion over four years compared with the May budget, and net debt reaching $196.2 billion by mid-2030.\n\nThe update forecasts economic growth slowing to 1 per cent this financial year, down from 1.5 per cent in May, and unemployment rising to 5.25 per cent. It cites higher interest rates, persistent inflation and federal migration cuts. Premier Ben Carroll said he would cut spending, while Opposition Leader Jess Wilson has set a goal of a cash surplus by 2032.",
-   "keyFacts": [
-    "Operating surplus forecast at $700 million for 2026-27, down $400 million",
-    "Prepared by the public service under caretaker rules",
-    "Victorians vote on 28 November"
-   ],
-   "sources": [
-    {
-     "name": "AAP (via Macleay Argus)",
-     "url": "https://www.macleayargus.com.au/story/9390186/debt-blowout-slower-growth-pain-in-pre-poll-forecast/"
-    }
-   ],
-   "publishedAt": "2026-11-12T12:52:00+11:00",
-   "createdAt": "2026-11-12T17:50:00+11:00"
+   "createdAt": "2026-11-19T17:47:45+11:00"
   },
   {
-   "id": "2026-11-12-david-jones-19-stores",
-   "batch": "2026-11-12-pm",
-   "rank": 7,
-   "category": "Business",
-   "title": "David Jones to close 19 of its 38 stores under receivers' plan",
-   "summary": "Receivers for David Jones announced on Wednesday plans to close 19 of the department store chain's 38 stores, the ABC reported. Chief executive Erica Berchtold told suppliers in an email that the store network was no longer the right shape for the business. She said the stores were expected to trade through the Christmas period, with final trading days later in the year.\n\nDavid Jones went into voluntary administration last week, with McGrath Nicol appointed administrator. Employment Minister Amanda Rishworth urged the company to redeploy affected staff. The number of jobs affected has not been announced.",
+   "id": "2026-11-19-xi-putin-shenzhen-talks",
+   "batch": "2026-11-19-pm",
+   "category": "World",
+   "title": "Xi and Putin hold talks in Shenzhen before meeting Trump",
+   "summary": "Chinese President Xi Jinping and Russian President Vladimir Putin held about two hours of talks in Shenzhen before the APEC summit, the BBC reported. Xi said the relationship was stable and the two countries would keep moving forward, according to the BBC.\n\nXinhua quoted Xi describing a constructive and stable strategic relationship based on respect and equality, the BBC said. Newsweek reported that Xi said the two countries must advance a multipolar world. Putin was greeted at the airport by senior official Cai Qi, while Xi personally greeted US President Donald Trump, according to Newsweek. No agreements from the talks were reported.",
    "keyFacts": [
-    "The store network covers Australia and New Zealand",
-    "FTI Consulting is receiver for lender Hilco",
-    "Exact closing dates have not been set"
+    "Talks lasted about two hours, the BBC said",
+    "Held before Trump's arrival in Shenzhen",
+    "No agreements announced"
    ],
    "sources": [
     {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-12/david-jones-suppliers-react-to-store-closures/107374298"
+     "name": "BBC (via Yahoo News)",
+     "url": "https://www.yahoo.com/news/politics/articles/trump-shakes-hands-putin-xi-123931899.html"
+    },
+    {
+     "name": "Newsweek (via Yahoo News)",
+     "url": "https://www.yahoo.com/news/politics/articles/trump-putin-xi-meet-first-101506889.html"
+    }
+   ],
+   "publishedAt": "2026-11-18T23:39:00+11:00",
+   "rank": 7,
+   "createdAt": "2026-11-19T17:47:45+11:00"
+  },
+  {
+   "id": "2026-11-19-port-of-darwin-landbridge",
+   "batch": "2026-11-19-pm",
+   "category": "Australia",
+   "title": "Marles says government still wants Port of Darwin back as Landbridge refuses to sell",
+   "summary": "Acting Prime Minister Richard Marles said the government remains committed to returning the Port of Darwin to Australian hands, but gave no timeline, the ABC and news.com.au reported. Marles said the government wanted operator Landbridge to sell its interest.\n\nLandbridge, a Chinese-owned company that signed a 99-year, $506 million lease in 2015, said it is not a willing seller and that forced divestment would breach international law, news.com.au reported. The ABC said the company has taken international legal action, calling the move discriminatory under the Australia-China free trade agreement. Prime Minister Anthony Albanese is due to meet President Xi Jinping on Friday.",
+   "keyFacts": [
+    "Lease signed in 2015 for 99 years",
+    "Landbridge says it is not a willing seller",
+    "No timeline given for the buyback"
+   ],
+   "sources": [
+    {
+     "name": "news.com.au (via Yahoo News)",
+     "url": "https://au.news.yahoo.com/port-darwin-rears-head-albo-014355165.html"
     },
     {
      "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-12/federal-politics-live-blog-albanese-cop31-nov-2/107375902"
+     "url": "https://www.abc.net.au/news/2026-11-19/federal-politics-live-blog-migrant-workers/107400850"
     }
    ],
-   "publishedAt": "2026-11-12T14:42:00+11:00",
-   "createdAt": "2026-11-12T17:50:00+11:00"
+   "publishedAt": "2026-11-19T12:43:00+11:00",
+   "rank": 8,
+   "createdAt": "2026-11-19T17:47:45+11:00"
   },
   {
-   "id": "2026-11-12-anz-ceo-inquiry",
-   "batch": "2026-11-12-pm",
-   "rank": 9,
-   "category": "Economy",
-   "title": "ANZ chief tells parliament inquiry global markets are in a 'dangerous situation'",
-   "summary": "ANZ chief executive Nuno Matos told a parliamentary inquiry in Canberra on Thursday that record share prices combined with high interest rates were a dangerous mix for the world, the ABC reported. He linked strong competition for capital to spending on AI and data centres, government spending and persistent inflation.\n\nMatos said he expected the Australian economy to slow noticeably but not go into recession. He said a sudden halt in AI spending would cause major global problems, but he did not expect one. He also called for rules on AI, citing fraud risks. The other major bank chiefs are due to appear before the committee.",
+   "id": "2026-11-19-ndis-plan-management-panel",
+   "batch": "2026-11-19-pm",
+   "category": "Health",
+   "title": "Government sets up NDIS plan management panel to tighten oversight",
+   "summary": "NDIS Minister Jenny McAllister announced a Plan Management Panel to strengthen oversight of providers who manage participants' funds and to target fraud, the ABC reported. The government expects its broader NDIS changes to save $1.4 billion over the forward estimates.\n\nBetween July and September, the National Disability Insurance Agency rejected 3,600 claims worth $5.8 million over suspected fraud, misuse or non-compliance, according to the ABC. The ABC report did not include responses from disability advocates or plan managers. Details of how providers will be selected for the panel were not given in the report.",
    "keyFacts": [
-    "The inquiry is chaired by Labor MP Ed Husic",
-    "Matos reported a $7.59 billion cash profit for ANZ",
-    "NAB and CBA chiefs are due to appear on Friday"
+    "Panel to oversee plan management providers",
+    "3,600 claims worth $5.8m rejected July-September",
+    "Overhaul expected to save $1.4 billion"
    ],
    "sources": [
     {
      "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-12/anz-boss-says-global-markets-in-dangerous-situation/107377392"
+     "url": "https://www.abc.net.au/news/2026-11-19/federal-politics-live-blog-migrant-workers/107400850"
     }
    ],
-   "publishedAt": "2026-11-12T15:09:00+11:00",
-   "createdAt": "2026-11-12T17:50:00+11:00"
+   "publishedAt": "2026-11-19T08:09:00+11:00",
+   "rank": 9,
+   "createdAt": "2026-11-19T17:47:45+11:00"
   },
   {
-   "id": "2026-11-12-yemen-houthi-saudi-fighting",
-   "batch": "2026-11-12-pm",
+   "id": "2026-11-19-bupa-gp-clinics-closed",
+   "batch": "2026-11-19-pm",
+   "category": "Health",
+   "title": "Bupa closed two GP clinics months after buying them, ABC reports",
+   "summary": "Health insurer Bupa closed GP clinics in Belrose in Sydney and Southport on the Gold Coast shortly after buying them, and converted a Seaforth clinic into a mental health centre, the ABC reported. Bupa runs 33 medical clinics and has approval to buy 68 more from Partnered Health.\n\nBupa said the closures followed a review of local needs, staff were offered redeployment and a hotline was set up to transfer patients, according to the ABC. A former patient and a former receptionist said services declined after the takeover; Bupa rejected claims it neglected the Belrose clinic. RACGP president Michael Wright said practices would become more corporatised.",
+   "keyFacts": [
+    "Belrose clinic closed 15 months after purchase",
+    "Bupa has approval to buy 68 Partnered Health clinics",
+    "Bupa says patients were helped to transfer"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-19/health-insurer-bupa-shuts-some-gp-clinics-after-buying-up-chains/106982854"
+    }
+   ],
+   "publishedAt": "2026-11-19T06:00:00+11:00",
+   "rank": 10,
+   "createdAt": "2026-11-19T17:47:45+11:00"
+  },
+  {
+   "id": "2026-11-19-wilson-gas-exploration-pledge",
+   "batch": "2026-11-19-pm",
+   "category": "Politics",
+   "title": "Jess Wilson pledges gas exploration process within 60 days if elected",
+   "summary": "Victorian Opposition Leader Jess Wilson said she would seek expressions of interest for gas exploration within 60 days if she became premier, the ABC reported. Wilson ruled out changing Victoria's fracking laws.\n\nThe Coalition has also promised to lift the payroll tax threshold to $1.2 million, according to the ABC. Neither major party has pledged to return land tax to 2023 levels. Victorian Electoral Commission figures show 211,461 people voted at early voting centres on Wednesday. Labor's response to the gas pledge was not included in the ABC report. Early voting for the state election began this week.",
+   "keyFacts": [
+    "Expressions of interest within 60 days",
+    "Fracking laws would not change",
+    "211,461 early votes cast on Wednesday"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-19/victorian-election-live-early-voting-second-day/107402202"
+    }
+   ],
+   "publishedAt": "2026-11-19T10:58:00+11:00",
    "rank": 11,
-   "category": "World",
-   "title": "Yemen fighting intensifies as Saudi Arabia and Houthis trade missile and drone claims",
-   "summary": "The Saudi-led coalition said it intercepted three cruise missiles aimed at Riyadh and drones aimed at Mecca and southern Saudi Arabia, Al Jazeera reported. Saudi civil defence said debris from intercepted missiles fell in a village in Mecca province. A Houthi spokesperson denied targeting Mecca and said the group struck a pumping station in Yanbu and targeted Riyadh's airport.\n\nThe WHO said that as of 8 November the fighting had caused 11,755 casualties, including 2,098 deaths. It said more than 320,000 people had been displaced since 1 August. Yemen's government-aligned army said at least 138 Houthi fighters were killed or wounded; this has not been independently verified.",
-   "keyFacts": [
-    "Casualty and displacement figures are from the WHO",
-    "Each side's claims about the strikes have not been independently confirmed",
-    "More than 2,000 casualties were recorded in nine days"
-   ],
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/12/fighting-intensifies-in-yemen-as-houthis-deny-targeting-mecca"
-    }
-   ],
-   "publishedAt": "2026-11-12T15:41:00+11:00",
-   "createdAt": "2026-11-12T17:50:00+11:00"
+   "createdAt": "2026-11-19T17:47:45+11:00"
   },
   {
-   "id": "2026-11-12-taiwan-apec-equal-basis",
-   "batch": "2026-11-12-pm",
-   "rank": 12,
-   "category": "World",
-   "title": "Taiwan says it is attending China-hosted APEC summit on an 'equal basis'",
-   "summary": "Taiwan's President Lai Ching-te said on Thursday that Taiwan is taking part in next week's APEC leaders' summit in Shenzhen, China, on an equal basis with other members, Reuters reported. His government had earlier asked Beijing for a written guarantee. Lai named Acer founder Stan Shih as Taiwan's envoy.\n\nChina's foreign ministry said it handles the participation of what it calls the Taiwan region under the one-China principle and APEC's agreed rules. It said Taiwan's representatives can attend as normal if those practices are followed. US President Donald Trump is expected to meet Xi Jinping in Shenzhen.",
+   "id": "2026-11-19-family-first-disendorses-candidate",
+   "batch": "2026-11-19-pm",
+   "category": "Politics",
+   "title": "Family First disendorses Bendigo West candidate over online posts",
+   "summary": "Family First has disendorsed its Bendigo West candidate for the Victorian election, Christos Harisopoulos, over online content the party described as unacceptable, the ABC reported. A post attributed to him made claims about land sales to China by the major parties.\n\nParty national director Lyle Shelton said Family First is a small party with limited resources, according to the ABC. The party disendorsed him on Wednesday afternoon. The ABC said he was the latest candidate in the campaign dropped over social media posts. Harisopoulos' response was not included in the report.",
    "keyFacts": [
-    "Shih was also Taiwan's envoy at the 2007 APEC summit in Sydney",
-    "Taiwan usually sends business leaders or former officials to APEC",
-    "Beijing refuses to talk to Lai and claims Taiwan as its territory"
+    "Candidate disendorsed on Wednesday",
+    "Party cited unacceptable online content",
+    "Shelton cited limited party resources"
    ],
    "sources": [
     {
-     "name": "Reuters (via Yahoo News)",
-     "url": "https://www.yahoo.com/news/articles/taiwan-taking-part-apec-china-032230030.html"
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-19/victorian-election-live-early-voting-second-day/107402202"
     }
    ],
-   "publishedAt": "2026-11-12T14:22:00+11:00",
-   "createdAt": "2026-11-12T17:50:00+11:00"
+   "publishedAt": "2026-11-19T09:40:00+11:00",
+   "rank": 12,
+   "createdAt": "2026-11-19T17:47:45+11:00"
+  },
+  {
+   "id": "2026-11-19-gaza-central-raid-deaths",
+   "batch": "2026-11-19-pm",
+   "category": "World",
+   "title": "Medics report three killed as Israeli raid continues in central Gaza",
+   "summary": "Palestinian medics said an Israeli airstrike near an Israeli ground raid in central Gaza killed one person, and two others were killed by Israeli fire in Deir al-Balah and Gaza City on Thursday, SBS reported, citing Reuters. The Israeli military said it struck a militant in Gaza City and knew of no incident in Deir al-Balah.\n\nThe military said troops were dismantling a tunnel west of the ceasefire line. Hamas said the raid and displacement violated the ceasefire. The US-backed body overseeing the truce accused both Israel and Hamas of failing to meet commitments, according to the report. Gaza health authorities say at least 1,600 people have been killed since the ceasefire.",
+   "keyFacts": [
+    "What changed: medics report three deaths on Thursday",
+    "Israel says it is dismantling a tunnel",
+    "Hamas says the raid violates the ceasefire"
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via SBS News)",
+     "url": "https://www.sbs.com.au/news/article/israeli-ground-raid-displacement-central-gaza/hawq68s1r"
+    }
+   ],
+   "publishedAt": "2026-11-19T13:46:00+11:00",
+   "rank": 13,
+   "createdAt": "2026-11-19T17:47:45+11:00"
   },
   {
    "id": "2026-11-13-nvidia-huang-resigns",
@@ -462,27 +383,6 @@
     }
    ],
    "publishedAt": "2026-11-13T03:27:00+11:00",
-   "createdAt": "2026-11-13T06:55:00+11:00"
-  },
-  {
-   "id": "2026-11-13-israel-iran-attack-preparations",
-   "batch": "2026-11-13",
-   "rank": 4,
-   "category": "World",
-   "title": "Israeli cabinet reportedly orders military to prepare for possible Iran strike",
-   "summary": "Israel's security cabinet, chaired by Prime Minister Benjamin Netanyahu, ordered the military to step up preparations for a possible attack on Iran, Israeli broadcaster KAN reported on Wednesday evening, according to Al Jazeera. The Israeli government had not confirmed the report.\n\nIranian security chief Mohsen Rezaei said any base used in a new US war would be a legitimate target. President Trump has said he is prepared to resume the war if a Qatar-backed diplomatic track fails. Israeli opposition figure Gadi Eisenkot urged against action without a direct and immediate threat. Al Jazeera said Tehran had rejected a US proposal to move its highly enriched uranium to a third country.",
-   "keyFacts": [
-    "The report came from Israeli public broadcaster KAN",
-    "Brent crude settled at US$92.76 a barrel on Wednesday",
-    "Iran rejects sending enriched uranium abroad"
-   ],
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack"
-    }
-   ],
-   "publishedAt": "2026-11-12T14:50:00+11:00",
    "createdAt": "2026-11-13T06:55:00+11:00"
   },
   {
@@ -600,27 +500,6 @@
     }
    ],
    "publishedAt": "2026-11-13T06:00:00+11:00",
-   "createdAt": "2026-11-13T06:55:00+11:00"
-  },
-  {
-   "id": "2026-11-13-minns-subpoena-protest-policing",
-   "batch": "2026-11-13",
-   "rank": 10,
-   "category": "Australia",
-   "title": "NSW Premier and ministers subpoenaed in Herzog protest policing case",
-   "summary": "Lawyers for protesters charged after clashes with police at a February rally in Sydney against Israeli President Isaac Herzog's visit have subpoenaed NSW Premier Chris Minns, Police Minister Yasmin Catley, Tourism Minister Steve Kamper and Police Commissioner Mal Lanyon, AAP reported on Thursday.\n\nSolicitor Nick Hanna, who represents 16 people, said he would argue the policing was unlawful. Spokespeople declined to comment because the matter is before the courts. The Law Enforcement Conduct Commission is still investigating. AAP said the charges are under review after the Court of Appeal ruled protest restrictions in place at the time unconstitutional. The allegations against police have not been tested.",
-   "keyFacts": [
-    "The rally was at Sydney Town Hall on 9 February",
-    "16 clients are represented by one lawyer",
-    "The LECC investigation is ongoing"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/senior-ministers-could-face-court-over-protest-policing"
-    }
-   ],
-   "publishedAt": "2026-11-12T16:00:00+11:00",
    "createdAt": "2026-11-13T06:55:00+11:00"
   },
   {
@@ -981,48 +860,6 @@
     }
    ],
    "publishedAt": "2026-11-13T07:06:00+11:00",
-   "createdAt": "2026-11-13T17:50:59+11:00"
-  },
-  {
-   "id": "2026-11-13-pm-golf-club-inquiry",
-   "batch": "2026-11-13-pm",
-   "rank": 15,
-   "category": "Politics",
-   "title": "Senate inquiry told PM's honorary golf club membership was worth $1,100 a year",
-   "summary": "Marrickville Golf Club president Andrew Tighe told a Senate inquiry on Thursday that Prime Minister Anthony Albanese had held an honorary membership since 2012, with privileges valued at $1,100 in 2026, AAP reported. Albanese has said it was worth about $5. MPs must declare gifts over $750, and the membership was not declared.\n\nClub records show Albanese resigned the membership in September. The club received a $6 million grant from a $560 million invitation-only program. Opposition Leader Angus Taylor accused the Prime Minister of lying; the club's general manager described the valuation as an estimate.",
-   "keyFacts": [
-    "The membership dated from 2012",
-    "The gift declaration threshold is $750",
-    "The club received a $6 million grant"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/leaders-of-pm-s-local-golf-club-face-senate-grilling"
-    }
-   ],
-   "publishedAt": "2026-11-12T17:00:00+11:00",
-   "createdAt": "2026-11-13T17:50:59+11:00"
-  },
-  {
-   "id": "2026-11-13-vic-royal-commission-documents",
-   "batch": "2026-11-13-pm",
-   "rank": 16,
-   "category": "Politics",
-   "title": "Big Build royal commission told state authority withheld Andrews-linked documents",
-   "summary": "Counsel assisting Victoria's Big Build royal commission, Chris Young KC, said on Thursday that the Victorian Infrastructure Delivery Authority had produced documents late and incompletely, AAP reported. Text messages referring to former premier Daniel Andrews' office were provided only on Tuesday, and handwritten notes by a former Rail Projects Victoria chief were heavily redacted until repeated requests.\n\nYoung said state entities engaged only when compelled. The commission will seek evidence from two further witnesses. The hearings come ahead of the 28 November state election.",
-   "keyFacts": [
-    "Texts were provided only on Tuesday",
-    "Notes were redacted until repeated requests",
-    "Two further witnesses will be sought"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/premier-linked-documents-withheld-from-royal-commission"
-    }
-   ],
-   "publishedAt": "2026-11-12T17:00:00+11:00",
    "createdAt": "2026-11-13T17:50:59+11:00"
   },
   {
@@ -4687,70 +4524,100 @@
  ],
  "leftOut": [
   {
-   "id": "2026-11-12-lo-lane-cove-remains",
-   "batch": "2026-11-12-pm",
-   "rank": 13,
-   "category": "Australia",
-   "title": "Human remains found in sofa dumped in Sydney bushland at Lane Cove North",
-   "summary": "NSW Police said a man found human remains inside a storage sofa dumped in bushland off Avian Crescent, Lane Cove North, on Wednesday afternoon, the ABC reported. A forensic examination found they were the torso of an adult man. Police said the remains had been there for at least a couple of days.\n\nSuperintendent Paul Devaney said police were working to identify the man and find out how he died. He said there was no sign of foul play in Lane Cove and residents were not under threat. Police used a cadaver dog, a line search and aerial surveillance.",
+   "id": "2026-11-19-lo-elton-john-ai-copyright",
+   "batch": "2026-11-19-pm",
+   "category": "Other",
+   "title": "Elton John urges government to protect Australian artists from AI",
+   "summary": "Singer Elton John used a recorded address to the ARIA Awards to urge the federal government to protect Australian artists and their work from artificial intelligence, the ABC reported. The government is consulting on changes to copyright law.\n\nActing Prime Minister Richard Marles told News24 he understood the concern and that creative workers should be fully compensated, according to the ABC. The government has not announced the outcome of its copyright consultation. The ACTU separately welcomed recently announced mandatory AI guardrails, the ABC reported.",
    "keyFacts": [
-    "The man has not been formally identified",
-    "A post-mortem examination will be held",
-    "Police are checking the missing persons register"
+    "Message delivered at the ARIA Awards",
+    "Government is consulting on copyright changes",
+    "Marles said creators should be compensated"
    ],
    "sources": [
     {
      "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-12/human-remains-torso-found-in-sofa-in-sydney-bushland-lane-cove/107376074"
+     "url": "https://www.abc.net.au/news/2026-11-19/federal-politics-live-blog-migrant-workers/107400850"
     }
    ],
-   "publishedAt": "2026-11-12T07:58:00+11:00",
-   "createdAt": "2026-11-12T17:50:00+11:00",
-   "reason": "Local crime"
+   "publishedAt": "2026-11-19T07:55:00+11:00",
+   "reason": "Celebrity",
+   "rank": 1,
+   "createdAt": "2026-11-19T17:47:45+11:00"
   },
   {
-   "id": "2026-11-12-lo-stephen-roche",
-   "batch": "2026-11-12-pm",
-   "rank": 14,
-   "category": "Australia",
-   "title": "Man who drove fugitive Hussein Chamas across Australia faces sentencing in Darwin",
-   "summary": "Irish national Stephen Roche faced a sentencing hearing in the NT Supreme Court on Thursday after pleading guilty to attempting to pervert the course of justice, the ABC reported. He drove fugitive Hussein Chamas about 4,680 kilometres in a rented van before Chamas was intercepted by Border Force in the Arafura Sea.\n\nThe prosecution said jail was the only appropriate penalty. Roche's lawyer argued that 123 days already spent on remand was enough, citing his health and remorse. The court heard Roche was to be paid $30,000.",
+   "id": "2026-11-19-lo-tatarstan-oil-station-drones",
+   "batch": "2026-11-19-pm",
+   "category": "World",
+   "title": "Ukrainian drones reported to hit oil pumping station in Tatarstan",
+   "summary": "Ukrainian drones struck the Kaleykino oil pumping station near Almetyevsk in Russia's Tatarstan republic overnight, the Kyiv Independent reported, citing a Ukrainian monitoring channel and eyewitness accounts of a fire. Neither Russian nor Ukrainian officials had confirmed the strike in the report.\n\nThe Kyiv Independent also cited Reuters reporting that Ukrainian attacks over 20 days had disrupted or halted operations at 15 of Russia's 35 major refineries, according to two industry sources. Ukraine's General Staff confirmed separate strikes on two refineries in Krasnodar Krai earlier in the week.",
    "keyFacts": [
-    "Sentence is due on 1 December",
-    "Chamas was jailed in August on drug charges",
-    "Roche was arrested in January 2025"
+    "Strike reported by a Telegram monitoring channel",
+    "Not confirmed by officials on either side",
+    "Site is about 380km north of Kazakhstan"
    ],
    "sources": [
     {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-12/stephen-roche-fugitive-hussein-chamas-drug-trafficking-driver/107375264"
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/ukrainian-drones-reportedly-target-oil-hub-in-russias-tatarstan/"
     }
    ],
-   "publishedAt": "2026-11-12T15:39:00+11:00",
-   "createdAt": "2026-11-12T17:50:00+11:00",
-   "reason": "Local crime"
+   "publishedAt": "2026-11-19T15:46:00+11:00",
+   "reason": "Not yet confirmed",
+   "rank": 2,
+   "createdAt": "2026-11-19T17:47:45+11:00"
   },
   {
-   "id": "2026-11-12-lo-gippsland-teen-found",
-   "batch": "2026-11-12-pm",
-   "rank": 15,
-   "category": "Australia",
-   "title": "Missing teenager found alive after six nights in Gippsland bush",
-   "summary": "A 17-year-old who went missing while camping at Walhalla East in Victoria's Gippsland was found alive on Thursday morning, Victoria Police said, according to the ABC. A police helicopter crew spotted him in a dry riverbed about two kilometres east of Stoney Creek.\n\nPolice said he had fallen down a steep embankment two days earlier and could not walk. He had cuts and severe sunburn and was taken to Latrobe Regional Hospital. More than 80 volunteers had joined the search, along with police divers, the dog squad and helicopters.",
+   "id": "2026-11-19-lo-marles-defends-apec-photo",
+   "batch": "2026-11-19-pm",
+   "category": "Politics",
+   "title": "Marles defends Albanese's appearance in APEC photo with Putin",
+   "summary": "Acting Prime Minister Richard Marles said Prime Minister Anthony Albanese's appearance in the APEC leaders' photo with Russian President Vladimir Putin was part of respecting the host, the ABC and SBS reported. Marles said Australia's position on Ukraine could not be clearer.\n\nAlbanese said he would respect the wishes of the host and make Australia's position on Ukraine clear, according to SBS. Greens leader David Shoebridge called for tougher sanctions on Russia and an end to Russian oil imports, the ABC reported. Criticism of the photo was reported on Wednesday.",
    "keyFacts": [
-    "He went missing on 6 November",
-    "Walhalla East is about 180 km east of Melbourne",
-    "He is being monitored in hospital"
+    "Photo taken at a leaders' banquet in Shenzhen",
+    "Marles said it reflected respect for the host",
+    "Greens called for tougher Russia sanctions"
+   ],
+   "sources": [
+    {
+     "name": "SBS News",
+     "url": "https://www.sbs.com.au/news/article/albanese-putin-photo-apec-trump-china-2026/qhxs35kye"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-19/federal-politics-live-blog-migrant-workers/107400850"
+    }
+   ],
+   "publishedAt": "2026-11-19T07:26:00+11:00",
+   "reason": "Restatement, nothing new",
+   "rank": 3,
+   "createdAt": "2026-11-19T17:47:45+11:00"
+  },
+  {
+   "id": "2026-11-19-lo-defence-heritage-sites",
+   "batch": "2026-11-19-pm",
+   "category": "Politics",
+   "title": "Marles restates plan to keep four defence heritage sites in public hands",
+   "summary": "Defence Minister Richard Marles said four of the 67 defence sites earmarked for sale, including Victoria Barracks in Sydney and Melbourne, Fort Queenscliff and RAAF Williams Point Cook, would be retained and moved to the finance department, the ABC reported. Marles said the government could not afford to maintain unused bases.\n\nThe decision to keep the four sites was announced by Prime Minister Anthony Albanese on 8 November, Defence Connect reported. Opposition Leader Angus Taylor said the Coalition had forced the change and would keep campaigning to save other sites.",
+   "keyFacts": [
+    "Four of 67 sites will be retained",
+    "Sites move from Defence to Finance",
+    "Decision first announced on 8 November"
    ],
    "sources": [
     {
      "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-12/missing-teenager-william-found-gippsland-bush/107372518"
+     "url": "https://www.abc.net.au/news/2026-11-19/federal-politics-live-blog-migrant-workers/107400850"
+    },
+    {
+     "name": "Defence Connect",
+     "url": "https://www.defenceconnect.com.au/land/19098-vacated-but-retained-government-backflips-on-victoria-barracks-sydney-and-melbourne-divestment-plans"
     }
    ],
-   "publishedAt": "2026-11-12T12:04:00+11:00",
-   "createdAt": "2026-11-12T17:50:00+11:00",
-   "reason": "Human interest"
+   "publishedAt": "2026-11-19T11:13:00+11:00",
+   "reason": "Restatement, nothing new",
+   "rank": 4,
+   "createdAt": "2026-11-19T17:47:45+11:00"
   },
   {
    "id": "2026-11-13-lo-dc-gym-shooting",
@@ -4775,72 +4642,6 @@
     }
    ],
    "publishedAt": "2026-11-13T00:30:00+11:00",
-   "createdAt": "2026-11-13T06:55:00+11:00",
-   "reason": "Local crime"
-  },
-  {
-   "id": "2026-11-13-lo-perth-inquest-triple-zero",
-   "batch": "2026-11-13",
-   "rank": 2,
-   "category": "Australia",
-   "title": "Perth inquest hears triple-zero call before 2024 double murder was wrongly graded",
-   "summary": "A WA coronial inquest has heard that a triple-zero call made before the May 2024 shooting deaths of Jennifer Petelczyc and her daughter Gretl at their Perth home was graded priority two rather than priority one, AAP reported. Counsel assisting said Mark Bombara shot both women and then himself.\n\nWA Police Commander Jason Longhorn told the inquest he believed the priority two grading was incorrect. Superintendent Andrew Wilson said officers had not assessed the risk correctly and that eight officers were disciplined. A lawyer for the family said the women had been targeted as proxies for Bombara's family. The inquest is continuing.",
-   "keyFacts": [
-    "The killings occurred on 24 May 2024",
-    "Eight officers were disciplined",
-    "The inquest continues"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/double-murder-emergency-calls-not-given-top-priority"
-    }
-   ],
-   "publishedAt": "2026-11-12T16:00:00+11:00",
-   "createdAt": "2026-11-13T06:55:00+11:00",
-   "reason": "Local crime"
-  },
-  {
-   "id": "2026-11-13-lo-politician-threats-charges",
-   "batch": "2026-11-13",
-   "rank": 3,
-   "category": "Australia",
-   "title": "AFP charges two men over alleged threats to federal politicians",
-   "summary": "The Australian Federal Police charged two men with using a carriage service to menace, harass or cause offence over alleged threats to politicians, AAP reported. A 43-year-old man was arrested in the Moreton Bay area north of Brisbane on Thursday, and a 67-year-old man was arrested in Melbourne on Wednesday and faces three counts.\n\nBoth men were granted conditional bail and are due in court in January and February. AFP Commissioner Krissy Barrett said police charge about one person a week for threatening parliamentarians. The allegations have not been tested in court, and neither man had entered a plea in the reports reviewed.",
-   "keyFacts": [
-    "One man was charged in Queensland, one in Victoria",
-    "Both were granted conditional bail",
-    "The AFP says it charges about one person a week over such threats"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/two-men-charged-over-allegedly-threatening-politicians"
-    }
-   ],
-   "publishedAt": "2026-11-12T17:00:00+11:00",
-   "createdAt": "2026-11-13T06:55:00+11:00",
-   "reason": "Local crime"
-  },
-  {
-   "id": "2026-11-13-lo-quambatook-murder-trial",
-   "batch": "2026-11-13",
-   "rank": 4,
-   "category": "Australia",
-   "title": "Trial begins over alleged murder of Quambatook woman in dispute over pool work",
-   "summary": "Brian Robert Barnes, 68, has pleaded not guilty in the Victorian Supreme Court to murdering 70-year-old Merril Kelly at her home in Quambatook, in north-west Victoria, in January 2025, AAP reported.\n\nCrown prosecutor Patrick Bourke KC alleged Barnes was angry about unpaid pool work and attacked Kelly before taking her body to a cemetery and setting it alight. He said an autopsy showed she died before the fire. Defence barrister David Cronin SC told the jury Barnes did not cause her death and that someone else may have inflicted the fatal injuries. The trial before Justice James Elliott is continuing.",
-   "keyFacts": [
-    "Barnes has pleaded not guilty",
-    "Prosecutors allege a dispute over pool work",
-    "The trial is continuing"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/man-accused-of-killing-elderly-woman-over-pool-payment"
-    }
-   ],
-   "publishedAt": "2026-11-12T15:00:00+11:00",
    "createdAt": "2026-11-13T06:55:00+11:00",
    "reason": "Local crime"
   },
@@ -4887,94 +4688,6 @@
    "publishedAt": "2026-11-12T21:00:00+11:00",
    "createdAt": "2026-11-13T06:55:00+11:00",
    "reason": "Sport"
-  },
-  {
-   "id": "2026-11-13-lo-socceroos-jordan",
-   "batch": "2026-11-13",
-   "rank": 7,
-   "category": "Sport",
-   "title": "Players' union asks for Socceroos friendly in Jordan to be moved over safety",
-   "summary": "Professional Footballers Australia has asked Football Australia to reschedule or relocate the Socceroos' planned friendly against Jordan in Amman because of security concerns, AAP reported. PFA chief executive Beau Busch said players overwhelmingly supported the request.\n\nAustralia are due to play Qatar in Doha before travelling to Amman four days later. Indonesia has cancelled its 13 November friendly in Amman. AAP said the Asian Cup was postponed after an attack on Riyadh airport attributed to the Houthis. Winger Awer Mabil said he would travel if selected. The squad announcement has been delayed to the weekend.",
-   "keyFacts": [
-    "The PFA wants the match moved or rescheduled",
-    "Indonesia cancelled its game in Amman",
-    "Football Australia had not announced a decision"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/my-hand-is-up-socceroo-happy-to-go-to-middle-east"
-    }
-   ],
-   "publishedAt": "2026-11-12T17:00:00+11:00",
-   "createdAt": "2026-11-13T06:55:00+11:00",
-   "reason": "Sport"
-  },
-  {
-   "id": "2026-11-13-lo-perth-bears-burton",
-   "batch": "2026-11-13",
-   "rank": 8,
-   "category": "Sport",
-   "title": "Perth Bears say they are confident of signing Matt Burton",
-   "summary": "Perth Bears general manager Gareth Holmes said on Thursday he was hopeful of signing Canterbury and NSW State of Origin player Matt Burton within days, AAP reported. Burton had not confirmed any move.\n\nHolmes spoke at the launch of the new NRL club's away jumper at North Sydney Oval and said Burton had decisions to make. Burton visited the club this week. AAP said the Bears can offer a salary-cap allowance of 20 per cent granted by Australian Rugby League Commission chair Peter V'landys in August.",
-   "keyFacts": [
-    "The signing is not confirmed",
-    "Burton visited the club this week",
-    "The Bears join the NRL as an expansion team"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/confident-perth-bears-upbeat-about-signing-burton"
-    }
-   ],
-   "publishedAt": "2026-11-12T16:00:00+11:00",
-   "createdAt": "2026-11-13T06:55:00+11:00",
-   "reason": "Sport"
-  },
-  {
-   "id": "2026-11-13-lo-david-jones-staff",
-   "batch": "2026-11-13",
-   "rank": 9,
-   "category": "Business",
-   "title": "David Jones staff and union react to planned closure of 19 stores",
-   "summary": "Thousands of David Jones' 6,000 staff are affected by receivers FTI Consulting's plan, announced on Wednesday, for 19 stores in Australia and New Zealand to trade only until the end of December, AAP reported.\n\nNSW retail union secretary Bernie Smith blamed management decisions for the collapse. Charles Lloyd Jones, a member of the founding family, told AAP that retailers without a distinctive offer were forced to compete on price. The retailer lost $95.5 million in 2024-25. The store closures were reported in an earlier update; this report adds reactions but no new decisions.",
-   "keyFacts": [
-    "19 stores will close after December",
-    "The chain employs about 6,000 people",
-    "It lost $95.5m in 2024-25"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/david-jones-family-member-mourns-race-to-the-bottom"
-    }
-   ],
-   "publishedAt": "2026-11-12T15:00:00+11:00",
-   "createdAt": "2026-11-13T06:55:00+11:00",
-   "reason": "No new development"
-  },
-  {
-   "id": "2026-11-13-lo-victoria-business-mood",
-   "batch": "2026-11-13",
-   "rank": 10,
-   "category": "Economy",
-   "title": "Victorian business conditions weakest of any state ahead of election, NAB survey shows",
-   "summary": "NAB's monthly business survey showed business conditions in Victoria fell to minus 6 in October, the lowest of any state and below the national reading of minus 1, AAP reported. NAB senior economist Gareth Spence linked part of the fall to uncertainty before the 28 November state election.\n\nAAP also cited the Westpac-Melbourne Institute consumer confidence index, which fell 2.7 per cent to a four-year low. Westpac's Matthew Hassan pointed to petrol prices near $2.40 a litre, inflation of 4.3 per cent and the RBA's rate rise to 4.85 per cent. Both surveys were released earlier in the week.",
-   "keyFacts": [
-    "Victorian conditions index: minus 6",
-    "National conditions index: minus 1",
-    "Consumer confidence is at a four-year low"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/mood-sours-for-business-consumers-amid-uncertainty"
-    }
-   ],
-   "publishedAt": "2026-11-12T14:00:00+11:00",
-   "createdAt": "2026-11-13T06:55:00+11:00",
-   "reason": "Restatement, nothing new"
   },
   {
    "id": "2026-11-13-lo-rory-amon-verdict",
@@ -5179,50 +4892,6 @@
    "reason": "Human interest"
   },
   {
-   "id": "2026-11-13-lo-hegseth-tomb",
-   "batch": "2026-11-13-pm",
-   "rank": 10,
-   "category": "World",
-   "title": "Guard at Tomb of the Unknown Soldier reprimands Hegseth's group during photos",
-   "summary": "A video shows a sentinel at the Tomb of the Unknown Soldier at Arlington National Cemetery asking Defence Secretary Pete Hegseth's group to maintain silence and respect while they were laughing during photographs on Veterans Day, Al Jazeera reported.\n\nPentagon spokesperson Sean Parnell said the sentinel had responded correctly and that the department honours the military's sacrifices. The incident came a day after House Republicans blocked a vote on articles of impeachment against Hegseth.",
-   "keyFacts": [
-    "The incident was on 11 November",
-    "The Pentagon said the guard acted correctly",
-    "House Republicans blocked an impeachment vote"
-   ],
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/12/hegseth-entourage-reprimanded-by-guard-at-tomb-of-the-unknown-soldier"
-    }
-   ],
-   "publishedAt": "2026-11-12T11:42:00+11:00",
-   "createdAt": "2026-11-13T17:50:59+11:00",
-   "reason": "Ceremonial event"
-  },
-  {
-   "id": "2026-11-13-lo-westpac-construction-lending",
-   "batch": "2026-11-13-pm",
-   "rank": 11,
-   "category": "Economy",
-   "title": "Westpac says it is financing 30 per cent fewer housing construction projects",
-   "summary": "Westpac chief executive Anthony Miller told a parliamentary inquiry on Thursday that the bank was financing 30 per cent fewer housing construction projects than 18 months ago, and that each dollar lent was delivering fewer homes, AAP reported. He said replacing staff with AI was not the bank's focus.\n\nANZ chief Nuno Matos said he could not guarantee there would be no job losses from AI. ABS data released on Wednesday showed investor home loans fell a record 30.6 per cent.",
-   "keyFacts": [
-    "Westpac's construction financing is down 30 per cent",
-    "CBA and NAB appeared on Friday",
-    "Investor loans fell a record 30.6 per cent"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/bank-bosses-face-inquiry-over-ai-and-offshore-job-cuts"
-    }
-   ],
-   "publishedAt": "2026-11-12T17:00:00+11:00",
-   "createdAt": "2026-11-13T17:50:59+11:00",
-   "reason": "Restatement, nothing new"
-  },
-  {
    "id": "2026-11-13-lo-ukraine-starshield",
    "batch": "2026-11-13-pm",
    "rank": 12,
@@ -5243,28 +4912,6 @@
    "publishedAt": "2026-11-12T20:00:00+11:00",
    "createdAt": "2026-11-13T17:50:59+11:00",
    "reason": "Restatement, nothing new"
-  },
-  {
-   "id": "2026-11-13-lo-lamarre-condon-trial",
-   "batch": "2026-11-13-pm",
-   "rank": 14,
-   "category": "Australia",
-   "title": "Former police officer denies desperation in Paddington murder trial evidence",
-   "summary": "Former NSW police officer Beau Lamarre-Condon, who has pleaded not guilty to murdering Jesse Baird and Luke Davies in February 2024 and claims self-defence, continued his evidence on Thursday, AAP reported.\n\nUnder cross-examination about a long message he sent to Baird claiming a cancer diagnosis, he acknowledged parts were untrue but denied being desperate or obsessed. He also admitted posting a false image online about a relationship. The trial continues.",
-   "keyFacts": [
-    "He has pleaded not guilty",
-    "Thursday was his sixth day of evidence",
-    "The deaths occurred on 19 February 2024"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/killer-cop-denies-ex-dating-another-man-made-him-angry"
-    }
-   ],
-   "publishedAt": "2026-11-12T17:00:00+11:00",
-   "createdAt": "2026-11-13T17:50:59+11:00",
-   "reason": "Local crime"
   },
   {
    "id": "2026-11-13-lo-bank-hearings-preview",
