@@ -1,6 +1,412 @@
 {
- "updatedAt": "2026-11-20T06:48:18+11:00",
+ "updatedAt": "2026-11-20T17:50:46+11:00",
  "articles": [
+  {
+   "id": "2026-11-20-icj-myanmar-genocide",
+   "batch": "2026-11-20-pm",
+   "category": "World",
+   "title": "UN's top court rules Myanmar committed genocide against the Rohingya",
+   "summary": "The International Court of Justice ruled on Thursday that Myanmar committed genocide against the Rohingya in northern Rakhine state in 2017, Al Jazeera reported. Court President Yuji Iwasawa said the judges decided 9-6. Al Jazeera said it is the first time the court has held a state responsible for genocide. The court ordered Myanmar to make reparations, including help for Rohingya to return safely and voluntarily.\n\nThe Gambia, which brought the case in 2019, called it a historic day for international justice, according to Reuters reporting carried by Al Jazeera. The reports included no response from Myanmar's military government. The opposition National Unity Government said it respected the court's authority. The US said it was studying the decision.",
+   "keyFacts": [
+    "Judges ruled 9-6 that Myanmar committed genocide",
+    "First ICJ finding of state responsibility for genocide",
+    "More than 730,000 Rohingya fled to Bangladesh in 2017"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/19/un-top-court-finds-myanmar-killed-10000-rohingya-as-it-rules-on-genocide"
+    },
+    {
+     "name": "Reuters (via Al Jazeera)",
+     "url": "https://www.aljazeera.com/news/2026/11/19/world-reacts-to-icj-finding-myanmar-guilty-of-genocide-against-rohingya"
+    }
+   ],
+   "publishedAt": "2026-11-19T21:31:00+11:00",
+   "rank": 1,
+   "createdAt": "2026-11-20T17:50:46+11:00"
+  },
+  {
+   "id": "2026-11-20-albanese-xi-shenzhen-talks",
+   "batch": "2026-11-20-pm",
+   "category": "Australia",
+   "title": "Xi tells Albanese China-Australia ties have seen a 'full turnaround'",
+   "summary": "Prime Minister Anthony Albanese met Chinese President Xi Jinping in Shenzhen on Friday on the sidelines of APEC, their fifth formal meeting, AAP reported. According to AAP, Xi congratulated Albanese for leading a \"full turnaround\" in relations. Xinhua's readout said ties were developing steadily, AFP reported.\n\nAlbanese said both countries had worked to stabilise the relationship and would not be defined by their differences, according to AFP. AAP said no agreements were reported. Albanese is due in Beijing for talks with Premier Li Qiang and a business roundtable, where Australian firms are seeking wider market access, including for beef, which faces a 55 per cent tariff above China's quota, AAP said.",
+   "keyFacts": [
+    "Fifth formal meeting between Albanese and Xi",
+    "No agreements reported from the Shenzhen talks",
+    "Talks with Premier Li Qiang to follow in Beijing"
+   ],
+   "sources": [
+    {
+     "name": "AAP (via Canberra Daily)",
+     "url": "https://canberradaily.com.au/xi-lauds-pm-for-full-turnaround-in-china-relationship/"
+    },
+    {
+     "name": "AFP (via Yahoo News)",
+     "url": "https://www.yahoo.com/news/world/articles/australia-pm-says-talks-chinas-050723411.html"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-20/albanese-to-meet-xi-for-trade/107406222"
+    }
+   ],
+   "publishedAt": "2026-11-20T14:20:00+11:00",
+   "rank": 2,
+   "createdAt": "2026-11-20T17:50:46+11:00"
+  },
+  {
+   "id": "2026-11-20-trump-iran-decision-next-year",
+   "batch": "2026-11-20-pm",
+   "category": "World",
+   "title": "Trump says decision on new Iran strikes can wait until next year",
+   "summary": "US President Donald Trump indicated he would not decide on renewed major strikes on Iran until next year, Reuters reported on Thursday (US time). He told Reuters he would discuss it after the start of the year and told Fox News, \"We'll see what happens after January 1\". He told Axios and Israel's Channel 12 he was not rushing.\n\nIran's Foreign Ministry said US claims that Iran was developing chemical and biological weapons were an attempt to justify military action, Reuters said. Gulf News, citing Axios, said options under discussion for a joint US-Israeli operation included strikes on suspected nuclear sites. A Pentagon official put the war's cost at $US48.3 billion as of 13 November.",
+   "keyFacts": [
+    "Trump points to a decision after 1 January",
+    "Iran rejects US claims about weapons programs",
+    "Pentagon puts war cost at $US48.3 billion"
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via ThePrint)",
+     "url": "https://theprint.in/world/trump-says-no-rush-on-iran-decision-looks-to-next-year/3103750/"
+    },
+    {
+     "name": "Gulf News",
+     "url": "https://gulfnews.com/world/americas/will-us-strike-iran-again-trump-says-decision-can-wait-until-2027-1.500754568"
+    }
+   ],
+   "publishedAt": "2026-11-20T09:00:00+11:00",
+   "rank": 3,
+   "createdAt": "2026-11-20T17:50:46+11:00"
+  },
+  {
+   "id": "2026-11-20-asx-seventh-loss-week",
+   "batch": "2026-11-20-pm",
+   "category": "Economy",
+   "title": "ASX 200 falls for seventh straight day, down about 5 per cent for the week",
+   "summary": "Australian shares fell for a seventh consecutive session on Friday, with all 11 sectors lower, AAP reported. At lunchtime the S&P/ASX 200 was down 1.17 per cent at 8,625.2, according to AAP. IBTimes reported the index at 8,594.2 in the afternoon, down 1.56 per cent and about 5.4 per cent for the week. AAP said it was likely the worst week since early 2020.\n\nAnalysts cited weakness on Wall Street and in AI-related stocks, which Anthropic's share debut did not reverse, AAP said. Technology shares fell about 5 per cent and gold was near a 14-month low. Monash IVF fell more than 20 per cent after a trading update, AAP reported. The Australian dollar was near 66.5 US cents.",
+   "keyFacts": [
+    "Seventh straight daily fall for the ASX 200",
+    "Weekly loss of about 5 per cent",
+    "Technology sector down about 5 per cent on Friday"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/aussie-share-market-on-track-for-worst-week-in-years"
+    },
+    {
+     "name": "IBTimes Australia",
+     "url": "https://www.ibtimes.com.au/asx-200-falls-ai-selloff-seven-session-losing-streak-1878977"
+    }
+   ],
+   "publishedAt": "2026-11-20T14:34:00+11:00",
+   "rank": 4,
+   "createdAt": "2026-11-20T17:50:46+11:00"
+  },
+  {
+   "id": "2026-11-20-us-senate-iran-war-powers",
+   "batch": "2026-11-20-pm",
+   "category": "Politics",
+   "title": "US Senate rejects resolution to end US involvement in Iran war, 51-48",
+   "summary": "The US Senate on Thursday voted 51-48 against a war powers resolution that would have directed President Trump to withdraw US forces from hostilities with Iran, Reuters reported via Al Jazeera. The House passed a similar measure 220-204 in September. Republicans Susan Collins, Lisa Murkowski and Rand Paul voted in favour and Democrat John Fetterman voted against.\n\nDemocratic Senator Tim Kaine said the 3 November midterm results showed the war was unpopular. Republicans who opposed the measure restated their support for the military campaign, according to the report. Republicans control the Senate until 3 January, when the new Congress, in which Democrats won both chambers, begins, Reuters said.",
+   "keyFacts": [
+    "Senate vote was 51-48 against the resolution",
+    "Three Republicans backed it; one Democrat opposed",
+    "New Congress begins on 3 January"
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via Al Jazeera)",
+     "url": "https://www.aljazeera.com/news/2026/11/19/senate-republicans-in-us-reject-measure-to-limit-trumps-war-powers-in-iran"
+    },
+    {
+     "name": "Reuters (via ThePrint)",
+     "url": "https://theprint.in/world/trump-says-no-rush-on-iran-decision-looks-to-next-year/3103750/"
+    }
+   ],
+   "publishedAt": "2026-11-20T07:30:00+11:00",
+   "rank": 5,
+   "createdAt": "2026-11-20T17:50:46+11:00"
+  },
+  {
+   "id": "2026-11-20-berlin-ukraine-coalition-meeting",
+   "batch": "2026-11-20-pm",
+   "category": "World",
+   "title": "European leaders meet in Berlin on Ukraine after Shenzhen summit",
+   "summary": "Germany, France and the UK hosted a meeting on Ukraine at the Chancellery in Berlin on Thursday, hours after the Trump-Xi-Putin meeting in Shenzhen, Al Jazeera reported. German Chancellor Friedrich Merz called the Shenzhen meeting a \"photo op\" and said any deal made without Europe and Ukraine would fail.\n\nUK Prime Minister Andy Burnham said Europe was ready to enter negotiations but a Ukraine-Russia agreement must come first, according to the report. French President Emmanuel Macron called for faster delivery of air defence interceptors. US envoy Jared Kushner, who attended with Steve Witkoff, said Trump wanted to make a deal with Europe by his side. Ukrainian President Volodymyr Zelenskyy said Europe had new sanctions ready.",
+   "keyFacts": [
+    "Meeting hosted by Germany, France and the UK",
+    "Merz says deals without Europe will fail",
+    "US envoys Kushner and Witkoff attended"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/19/european-leaders-unite-in-berlin-to-reaffirm-support-for-ukraine"
+    }
+   ],
+   "publishedAt": "2026-11-20T06:40:00+11:00",
+   "rank": 6,
+   "createdAt": "2026-11-20T17:50:46+11:00"
+  },
+  {
+   "id": "2026-11-20-us-ai-chip-licences-china",
+   "batch": "2026-11-20-pm",
+   "category": "Business",
+   "title": "US approved licences for about 879,000 AI chips to China, House data shows",
+   "summary": "The US Commerce Department approved exports of about 879,000 advanced Nvidia and AMD chips to Chinese companies between December 2025 and May 2026, according to licensing data released by the House Foreign Affairs Committee, Reuters reported. Approvals included 150,000 chips for Tencent and 75,000 for Alibaba. Companies had sought to ship 3.4 million chips. It is unclear how many shipments took place.\n\nFormer US official Chris McGuire said more than 30 per cent went to firms the Pentagon lists as Chinese military companies, raising questions about the security review. Nvidia said approvals carried strict conditions and limited volumes and that it has stopped shipping H200 chips to China. AMD did not respond, Reuters said.",
+   "keyFacts": [
+    "About 879,000 chip export licences approved",
+    "Committee chair Brian Mast released the data",
+    "Nvidia says it has stopped H200 shipments to China"
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via Al Jazeera)",
+     "url": "https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months"
+    }
+   ],
+   "publishedAt": "2026-11-20T08:58:00+11:00",
+   "rank": 7,
+   "createdAt": "2026-11-20T17:50:46+11:00"
+  },
+  {
+   "id": "2026-11-20-nikkei-falls-ai-selloff",
+   "batch": "2026-11-20-pm",
+   "category": "Economy",
+   "title": "Japan's Nikkei drops more than 4 per cent as AI share sell-off spreads",
+   "summary": "Japan's Nikkei 225 fell more than 4 per cent in early trading on Friday, following overnight losses on Wall Street, Xinhua and Reuters reported. Xinhua said that at 10am Tokyo time the index was down 2,505.50 points, or 4.21 per cent, at 56,938.71, while the broader Topix was down 1.76 per cent.\n\nXinhua said concern about AI-related stocks continued to weigh on sentiment. Reuters reported the Nikkei down 4.28 per cent at 56,899.52 at one point, with technology stocks tracking declines in the US. On Wall Street on Thursday, Nvidia fell 3.3 per cent and AMD 7.7 per cent, according to Reuters reporting carried by Al Jazeera.",
+   "keyFacts": [
+    "Nikkei down about 4.2 per cent in early trade",
+    "Topix down 1.76 per cent",
+    "Losses followed falls in US tech shares"
+   ],
+   "sources": [
+    {
+     "name": "Xinhua",
+     "url": "https://english.news.cn/20261120/f85e5166f6c8466291b089743b39d6a7/c.html"
+    },
+    {
+     "name": "Reuters (via MarketScreener)",
+     "url": "https://www.marketscreener.com/news/japan-s-nikkei-falls-more-than-4-as-tech-stocks-track-wall-street-declines-ce785ed2de8bf727"
+    }
+   ],
+   "publishedAt": "2026-11-20T12:10:00+11:00",
+   "rank": 8,
+   "createdAt": "2026-11-20T17:50:46+11:00"
+  },
+  {
+   "id": "2026-11-20-tps-venezuelans-appeals-court",
+   "batch": "2026-11-20-pm",
+   "category": "Politics",
+   "title": "US appeals court lets Trump end deportation protections for Venezuelans",
+   "summary": "A US appeals court has allowed the Trump administration, for now, to end Temporary Protected Status for Venezuelans, which covers about 600,000 people, Al Jazeera reported, citing Reuters and AP. The status shields holders from deportation. The decision does not end the underlying legal challenges, and the administration has also filed an emergency request with the Supreme Court.\n\nThe administration says the protection was always meant to be temporary and that conditions in Venezuela have improved since the US operation in January that removed Nicolás Maduro. Rights advocates say his government remains largely in place, according to the report. The US State Department continues to advise against travel to Venezuela.",
+   "keyFacts": [
+    "About 600,000 Venezuelans hold TPS",
+    "Ruling lets the protections lapse for now",
+    "Underlying legal challenges continue"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/19/us-appeals-court-lets-trump-end-tps-deportation-protections-for-venezuelans"
+    }
+   ],
+   "publishedAt": "2026-11-20T08:11:00+11:00",
+   "rank": 9,
+   "createdAt": "2026-11-20T17:50:46+11:00"
+  },
+  {
+   "id": "2026-11-20-denmark-greenland-us-deal",
+   "batch": "2026-11-20-pm",
+   "category": "World",
+   "title": "Danish parliament approves security deal with Greenland and the US",
+   "summary": "Denmark's parliament on Thursday approved a security agreement with Greenland and the United States, with all 109 members present voting in favour, Al Jazeera reported, citing AFP and Reuters. The deal, signed in New York on 22 September, supplements a 1951 accord on the US military presence and allows the US to build two military bases in Greenland.\n\nIt also bars countries outside the EU and NATO from strategic sectors and remains in force if Greenland becomes independent, according to the report. Greenland's parliament approved it earlier in November. The agreement does not need a US Senate vote and takes effect once Denmark notifies Washington by diplomatic note.",
+   "keyFacts": [
+    "Passed with all 109 members present in favour",
+    "Allows the US to build two bases in Greenland",
+    "Bars non-EU, non-NATO states from strategic sectors"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/19/denmark-parliament-approves-security-deal-with-greenland-and-us"
+    }
+   ],
+   "publishedAt": "2026-11-19T22:09:00+11:00",
+   "rank": 10,
+   "createdAt": "2026-11-20T17:50:46+11:00"
+  },
+  {
+   "id": "2026-11-20-south-korea-han-retrial",
+   "batch": "2026-11-20-pm",
+   "category": "World",
+   "title": "South Korea's Supreme Court orders retrial of ex-PM Han over martial law",
+   "summary": "South Korea's Supreme Court has overturned the 15-year prison sentence of former prime minister Han Duck-soo over his role in the 2024 martial law declaration and sent the case back to the Seoul High Court, Al Jazeera reported, citing Reuters and AP. The majority found shortcomings in the lower court's assessment of his actions.\n\nThe justices said it was difficult to establish that Han intended to undermine the constitution, according to the report. Han has denied wrongdoing apart from one perjury charge. The special prosecution team said it respected the ruling. Former president Yoon Suk Yeol was sentenced to life in February for insurrection and is appealing.",
+   "keyFacts": [
+    "Han's 15-year sentence overturned",
+    "Case returned to the Seoul High Court",
+    "Prosecutors say they respect the ruling"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/19/south-korean-court-orders-retrial-for-ex-pm-han-over-martial-law-attempt"
+    }
+   ],
+   "publishedAt": "2026-11-20T00:22:00+11:00",
+   "rank": 11,
+   "createdAt": "2026-11-20T17:50:46+11:00"
+  },
+  {
+   "id": "2026-11-20-vic-one-nation-climate-vni",
+   "batch": "2026-11-20-pm",
+   "category": "Politics",
+   "title": "One Nation pledges to scrap Victoria's climate department and VNI West",
+   "summary": "One Nation would abolish the climate change section of Victoria's energy and environment department if it formed government, Barnaby Joyce said while campaigning in Kerang on Friday, the ABC reported. He said a royal commission would examine renewable energy deals and refer any suspected corruption to prosecutors.\n\nJoyce also said One Nation would seek to revoke approved permits for the VNI West transmission line and build new coal-fired power stations, according to the ABC. Energy Minister Jaclyn Symes has previously said the government could have worked more closely with affected communities on the line, the ABC said. Victorians vote on 28 November.",
+   "keyFacts": [
+    "Pledge to abolish the climate change department",
+    "Royal commission into renewable energy deals proposed",
+    "Party would seek to revoke VNI West permits"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-20/victorian-election-live-campaign-liberal-labor/107407614"
+    }
+   ],
+   "publishedAt": "2026-11-20T14:38:00+11:00",
+   "rank": 12,
+   "createdAt": "2026-11-20T17:50:46+11:00"
+  },
+  {
+   "id": "2026-11-20-trump-nyt-penguin-suit-proceeds",
+   "batch": "2026-11-20-pm",
+   "category": "Politics",
+   "title": "Judge lets Trump's defamation suit against NYT and Penguin Random House proceed",
+   "summary": "A federal judge in Tampa, Florida, ruled on Thursday that Donald Trump's defamation lawsuit against The New York Times and Penguin Random House can go ahead, Reuters reported via Al Jazeera. Judge Steven Merryday dismissed two of Trump's claims but found the rest plausibly alleged defamation.\n\nThe suit cites statements in a book by Peter Baker and articles by Susanne Craig and Russ Buettner, which Trump says were false and aimed at harming his 2024 campaign. The Times and Penguin deny defaming him and argued that some statements were opinion and that the suit was legally flawed, according to the report. Press freedom groups have criticised Trump's lawsuits against media outlets.",
+   "keyFacts": [
+    "Judge Steven Merryday allowed most claims to proceed",
+    "Two of Trump's claims were dismissed",
+    "Defendants deny defamation"
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via Al Jazeera)",
+     "url": "https://www.aljazeera.com/economy/2026/11/19/trumps-case-against-nyt-and-penguin-random-house-may-proceed-judge"
+    }
+   ],
+   "publishedAt": "2026-11-20T07:32:00+11:00",
+   "rank": 13,
+   "createdAt": "2026-11-20T17:50:46+11:00"
+  },
+  {
+   "id": "2026-11-20-kirkland-free-legal-work",
+   "batch": "2026-11-20-pm",
+   "category": "Politics",
+   "title": "Democrats say law firm gave Trump administration $US11.8m in free legal work",
+   "summary": "Democratic lawmakers Jamie Raskin, Richard Blumenthal and Adam Schiff said law firm Kirkland & Ellis has provided at least $US11.8 million in free legal services to the Trump administration, Reuters reported via Al Jazeera. They said the work went to agencies including the Commerce and Defense departments and called it evidence of coercion of major law firms.\n\nKirkland said in a November letter, obtained by Reuters, that its agreement with the White House had had little impact on its pro bono work. Its lawyer did not respond to Reuters. The Democrats said they had sought records from nine other firms. The three are due to lead investigations when the new Congress begins on 3 January.",
+   "keyFacts": [
+    "Democrats cite at least $US11.8m in free services",
+    "Kirkland says the deal had little impact on pro bono work",
+    "Records sought from nine other firms"
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via Al Jazeera)",
+     "url": "https://www.aljazeera.com/news/2026/11/20/democrats-say-law-firm-gave-11-8m-worth-of-service-to-trump-administration"
+    }
+   ],
+   "publishedAt": "2026-11-20T12:10:00+11:00",
+   "rank": 14,
+   "createdAt": "2026-11-20T17:50:46+11:00"
+  },
+  {
+   "id": "2026-11-20-bangladesh-yunus-home-fire",
+   "batch": "2026-11-20-pm",
+   "category": "World",
+   "title": "Fire set at family home of Bangladesh's former interim leader Yunus",
+   "summary": "The ancestral home of Muhammad Yunus, Bangladesh's former interim leader, was set on fire in Chittagong late on Wednesday, police said, according to AFP and AP reporting carried by Al Jazeera. A police patrol put out the flames, which damaged a disused ground-floor storeroom. No one was hurt and those responsible have not been identified.\n\nThe report said 22 Grameen Bank branches had been targeted by arson in recent days, during protests by supporters of former prime minister Sheikh Hasina. Hasina, sentenced to death in absentia last year, says she plans to return in December. Police said 107 people had been arrested since Wednesday.",
+   "keyFacts": [
+    "Police say fire was deliberately lit",
+    "No injuries; investigation under way",
+    "107 arrests reported since Wednesday"
+   ],
+   "sources": [
+    {
+     "name": "AFP/AP (via Al Jazeera)",
+     "url": "https://www.aljazeera.com/news/2026/11/19/home-of-bangladeshs-former-leader-muhammad-yunus-set-on-fire"
+    }
+   ],
+   "publishedAt": "2026-11-19T23:21:00+11:00",
+   "rank": 15,
+   "createdAt": "2026-11-20T17:50:46+11:00"
+  },
+  {
+   "id": "2026-11-20-hegseth-colombia-visit",
+   "batch": "2026-11-20-pm",
+   "category": "World",
+   "title": "Hegseth visits Colombia; both sides deny report of rejected military deal",
+   "summary": "US Defense Secretary Pete Hegseth visited Bogota on Wednesday and said the US and Colombia were \"completely on the same page\", Al Jazeera reported. He met Colombian Defence Minister Jorge Mora and presented a C-130 aircraft to the air force. No new funding was announced.\n\nThe New York Times reported that President Abelardo de la Espriella rejected direct US intervention against drug traffickers and that Hegseth shortened his visit over a declined military agreement. Both Hegseth and de la Espriella said the report was false, according to Al Jazeera. De la Espriella said direct intervention would need congressional approval. Hegseth travelled on to Ecuador and Honduras.",
+   "keyFacts": [
+    "Hegseth met Colombia's defence minister in Bogota",
+    "Both governments deny NYT report of a rejected deal",
+    "Colombia likely to host next year's AC3 meeting"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/19/on-the-same-page-hegseth-hails-us-ties-with-colombias-de-la-espriella"
+    }
+   ],
+   "publishedAt": "2026-11-20T06:53:00+11:00",
+   "rank": 16,
+   "createdAt": "2026-11-20T17:50:46+11:00"
+  },
+  {
+   "id": "2026-11-20-senegal-migrant-boat-capsizes",
+   "batch": "2026-11-20-pm",
+   "category": "World",
+   "title": "Four dead after migrant boat capsizes off Senegal as Canaries arrivals rise",
+   "summary": "Four bodies were recovered after a migrant boat capsized near Yenne, south of Dakar, Boubacar Seye of the group Horizons Sans Frontieres told Reuters, as reported by Al Jazeera. A local official said at least 50 people were on board. Searches continued and the number missing was unclear.\n\nSpain's Interior Ministry said 24,364 migrants reached the Canary Islands between 1 January and 15 November, up from 14,690 a year earlier, including 11,037 in the first half of November. The UN refugee agency says nearly 600 people have died this year trying to reach the islands. Senegal's President Faye has asked for an assessment of irregular migration.",
+   "keyFacts": [
+    "At least 50 people were reportedly on board",
+    "Canaries arrivals up about two-thirds this year",
+    "UNHCR reports nearly 600 deaths on the route in 2026"
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via Al Jazeera)",
+     "url": "https://www.aljazeera.com/news/2026/11/20/four-bodies-recovered-after-senegal-boat-capsizes-amid-migration-surge"
+    }
+   ],
+   "publishedAt": "2026-11-20T11:10:00+11:00",
+   "rank": 17,
+   "createdAt": "2026-11-20T17:50:46+11:00"
+  },
+  {
+   "id": "2026-11-20-tbilisi-gas-explosion",
+   "batch": "2026-11-20-pm",
+   "category": "World",
+   "title": "Six killed in suspected gas explosion at Tbilisi apartment building",
+   "summary": "Six people, including a child, were killed when a suspected gas explosion partly collapsed a five-storey apartment building in Tbilisi, Georgia, on Thursday morning, AFP reported via Al Jazeera. A three-year-old girl was rescued alive after several hours.\n\nGeorgia's Interior Minister Sulkhan Tamazashvili said preliminary findings pointed to a blast on the fifth floor when a resident tried to switch on a gas heater. Supplier Tbilisi Energy said the apartment was registered as unoccupied and had used no gas for a year. Prosecutors have opened a criminal investigation into possible safety breaches, and 28 families are being moved to hotels, according to the report.",
+   "keyFacts": [
+    "Six dead, including a child",
+    "Preliminary finding points to a gas heater",
+    "Criminal investigation opened into safety breaches"
+   ],
+   "sources": [
+    {
+     "name": "AFP (via Al Jazeera)",
+     "url": "https://www.aljazeera.com/news/2026/11/19/six-killed-in-suspected-gas-explosion-at-georgia-apartment-building"
+    }
+   ],
+   "publishedAt": "2026-11-20T10:09:00+11:00",
+   "rank": 18,
+   "createdAt": "2026-11-20T17:50:46+11:00"
+  },
   {
    "id": "2026-11-20-trump-xi-putin-declaration",
    "batch": "2026-11-20",
@@ -607,312 +1013,6 @@
    "createdAt": "2026-11-19T17:47:45+11:00"
   },
   {
-   "id": "2026-11-13-iran-bahrain-radar",
-   "batch": "2026-11-13-pm",
-   "rank": 1,
-   "category": "World",
-   "title": "Iran says it struck US early-warning radar in Bahrain",
-   "summary": "Iran's Islamic Revolutionary Guard Corps said it targeted a US early-warning radar site in Bahrain, describing the strike as retaliation for an air attack on a telecommunications tower in Hormozgan province, Al Jazeera reported. Iranian state media said the port city of Sirik was hit on Thursday. The IRGC-affiliated Fars agency said the radar was destroyed.\n\nThe United States and Bahrain had not commented. Reuters said it was the first attack on US military assets in a Gulf country claimed by Iran since early September. US Central Command said its naval blockade of Iranian ports remained in force.",
-   "keyFacts": [
-    "The IRGC called the strike a warning",
-    "Neither Washington nor Manama commented",
-    "The US blockade of Iranian ports continues"
-   ],
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain"
-    }
-   ],
-   "publishedAt": "2026-11-13T14:17:00+11:00",
-   "createdAt": "2026-11-13T17:50:59+11:00"
-  },
-  {
-   "id": "2026-11-13-microsoft-outage-restored",
-   "batch": "2026-11-13-pm",
-   "rank": 3,
-   "category": "Science & Tech",
-   "title": "Microsoft services recovering; company says no sign outage was a cyber attack",
-   "summary": "Microsoft said there was no indication that Friday's global outage of Outlook, Teams and other services was caused by a cyber attack, and reported a gradual recovery from about 10am AEDT, the ABC reported. Microsoft said a process that sets up secure connections on affected servers became overloaded and that it was reviewing recent configuration changes.\n\nThe AFP, ASIO, NSW Parliament, Service NSW and Queensland Health were among those affected, according to AAP. Home Affairs Minister Tony Burke said an agreement with Microsoft to prioritise Australian recovery had been activated. The ABC reported a senior Home Affairs official had warned in August about the impact of a Microsoft outage.",
-   "keyFacts": [
-    "The outage began just after 3am AEDT",
-    "National Cyber Security Coordinator is examining it",
-    "Government agencies including AFP and ASIO were affected"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-13/microsoft-outage-teams-outlook-copilot/107381196"
-    },
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-13/microsoft-reliance-national-security-risk/107382100"
-    },
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/organisations-scrambling-after-major-microsoft-outage"
-    }
-   ],
-   "publishedAt": "2026-11-13T12:56:00+11:00",
-   "createdAt": "2026-11-13T17:50:59+11:00"
-  },
-  {
-   "id": "2026-11-13-finland-russian-warship-strike",
-   "batch": "2026-11-13-pm",
-   "rank": 4,
-   "category": "World",
-   "title": "Finland detects strike on Russian warship in Gulf of Finland; Ukraine claims attack",
-   "summary": "Finland's military said it detected a strike on a Russian warship in the Gulf of Finland area and that Finland faced no immediate military threat, Al Jazeera reported, citing Reuters. Finland gave no details on the location or source. Finnish broadcaster Yle reported that Ukraine's Security Service said it carried out the attack.\n\nLocal media said the vessel was a small navy ship that returned to St Petersburg; casualties were unclear. US envoys Steve Witkoff and Jared Kushner met Ukrainian President Volodymyr Zelenskyy in Ireland after talks with Vladimir Putin in Moscow. Kushner said the US was working towards the war's largest prisoner exchange.",
-   "keyFacts": [
-    "Finland said it faced no immediate threat",
-    "Ukraine's SBU claimed the attack, according to Yle",
-    "Russia said it intercepted 146 drones over Leningrad region"
-   ],
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/13/finland-detects-strike-on-russian-warship-as-zelenskyy-meets-us-envoys"
-    }
-   ],
-   "publishedAt": "2026-11-13T13:35:00+11:00",
-   "createdAt": "2026-11-13T17:50:59+11:00"
-  },
-  {
-   "id": "2026-11-13-trump-cuba-force",
-   "batch": "2026-11-13-pm",
-   "rank": 5,
-   "category": "World",
-   "title": "Trump says he would consider military force against Cuba before leaving office",
-   "summary": "US President Donald Trump said in a radio interview with host Hugh Hewitt that he would consider using military force against Cuba and wanted to resolve the issue before his term ends in 2029, Al Jazeera reported. Politico reported it was the first time Trump had given a timeframe for a possible operation. Trump said Secretary of State Marco Rubio would support it.\n\nA US oil blockade of Cuba has been in place since January. Cuban officials have called it collective punishment, and the island has faced nationwide blackouts and shortages. In March, the head of US Southern Command told senators US troops were not rehearsing an invasion.",
-   "keyFacts": [
-    "Trump's term ends in January 2029",
-    "A US oil blockade has applied since January",
-    "The US has sanctioned President Díaz-Canel"
-   ],
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/13/trump-moots-toppling-cuba-authorities-before-leaving-office"
-    }
-   ],
-   "publishedAt": "2026-11-13T13:33:00+11:00",
-   "createdAt": "2026-11-13T17:50:59+11:00"
-  },
-  {
-   "id": "2026-11-13-backpacker-visa-rethink",
-   "batch": "2026-11-13-pm",
-   "rank": 6,
-   "category": "Politics",
-   "title": "Government reconsidering planned backpacker visa changes, Burke indicates",
-   "summary": "Home Affairs Minister Tony Burke indicated the government is reworking its planned changes to working holiday visas, the ABC reported. Burke said Australia still needed to reduce numbers and that the overall migration figure he announced could not change, but described the adjustments as tweaks and said a resolution was close.\n\nHome Affairs data show British working holiday arrivals rose from 47,238 in 2023-24 to 79,412 in 2024-25, after a free trade deal removed specified work requirements for UK citizens. The ACCI said businesses needed certainty. Albanese raised the scheme with UK Prime Minister Andy Burnham at COP31, according to AAP.",
-   "keyFacts": [
-    "Applications from 24 countries were paused in August",
-    "Labor targets net migration of 225,000 by 2028",
-    "UK citizens can stay up to three years"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-13/backpacker-working-holiday-visa-immigration-uk-rethink/107381884"
-    },
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/world-leaders-urged-not-to-overlook-pacific-plight"
-    }
-   ],
-   "publishedAt": "2026-11-13T13:45:00+11:00",
-   "createdAt": "2026-11-13T17:50:59+11:00"
-  },
-  {
-   "id": "2026-11-13-un-rapporteur-youth-detention",
-   "batch": "2026-11-13-pm",
-   "rank": 7,
-   "category": "Australia",
-   "title": "UN Indigenous rights envoy says youth detention is creating a new Stolen Generation",
-   "summary": "The UN Special Rapporteur on the Rights of Indigenous Peoples, Albert Barume, said at the end of his visit to Australia that the detention of Aboriginal children amounted to a new Stolen Generation, AAP reported. He said he was refused access to Darwin's Holtze and Queensland's Cleveland youth detention centres, and called on Prime Minister Anthony Albanese to show leadership.\n\nA Senate report found that in the June 2025 quarter, 60 per cent of children in detention were Indigenous, compared with 6.6 per cent of the population. Barume is due to report to the UN Human Rights Council in September 2027.",
-   "keyFacts": [
-    "Barume's visit ended on Friday",
-    "He said he was denied access to two centres",
-    "His report is due in September 2027"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/un-warns-australia-is-creating-a-new-stolen-generation"
-    }
-   ],
-   "publishedAt": "2026-11-13T12:00:00+11:00",
-   "createdAt": "2026-11-13T17:50:59+11:00"
-  },
-  {
-   "id": "2026-11-13-asx-midday-dip",
-   "batch": "2026-11-13-pm",
-   "rank": 9,
-   "category": "Economy",
-   "title": "ASX falls nearly 1 per cent at midday; Australian dollar at lowest since January",
-   "summary": "The S&P/ASX 200 was down 83.4 points, or 0.91 per cent, at 9,063.4 at midday on Friday, AAP reported, with financials down more than 1 per cent. A Capital.com analyst said Nvidia's leadership upheaval had slowed a recovery in technology shares.\n\nBrent crude rose to about US$96 a barrel after President Trump's comments on Iran talks, while gold fell to a 13-month low near US$3,883 an ounce and copper reached its lowest level since July. The Australian dollar traded at 68.02 US cents, its lowest since January, according to AAP.",
-   "keyFacts": [
-    "ASX 200 at midday: 9,063.4",
-    "Gold at a 13-month low",
-    "Australian dollar: 68.02 US cents"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/australian-shares-dip-as-risk-sentiment-sours-again"
-    }
-   ],
-   "publishedAt": "2026-11-13T12:30:00+11:00",
-   "createdAt": "2026-11-13T17:50:59+11:00"
-  },
-  {
-   "id": "2026-11-13-brooklyn-building-collapse",
-   "batch": "2026-11-13-pm",
-   "rank": 10,
-   "category": "World",
-   "title": "Death toll from Brooklyn building collapse rises to at least eight",
-   "summary": "At least eight people, including two children, died when a three-storey building collapsed into a neighbouring construction site in the Flatbush area of Brooklyn, New York Mayor Zohran Mamdani said, according to Al Jazeera. At least 18 people were taken to hospital, four in a critical condition, and about 250 firefighters attended.\n\nThe Fire Department said the cause was under investigation. City records cited in the report show a stop-work order was issued for the adjacent site in March, work resumed in violation in April, and it was allowed to continue in May. The architect, owner and contractor did not respond to AP.",
-   "keyFacts": [
-    "The collapse happened on Wednesday afternoon local time",
-    "At least 18 people were hospitalised",
-    "A stop-work order was issued in March"
-   ],
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/12/building-collapse-in-brooklyn-kills-two-injures-more-than-a-dozen"
-    }
-   ],
-   "publishedAt": "2026-11-13T08:16:00+11:00",
-   "createdAt": "2026-11-13T17:50:59+11:00"
-  },
-  {
-   "id": "2026-11-13-spain-far-right-group-suspended",
-   "batch": "2026-11-13-pm",
-   "rank": 11,
-   "category": "World",
-   "title": "Spanish court suspends far-right group Núcleo Nacional in hate crime probe",
-   "summary": "A judge in the northern Spanish city of Gijón suspended the activities of the far-right group Núcleo Nacional on Thursday, ordering its office closed and its social media and bank accounts blocked as part of an investigation into alleged hate crimes and illegal association, Al Jazeera reported, citing Reuters.\n\nFourteen members were arrested last week on suspicion of inciting hatred, and police said they seized more than 20 firearms from the group's Madrid headquarters. A representative of the group said in a video that it faced political persecution. Spain holds a general election on 29 November.",
-   "keyFacts": [
-    "14 members were arrested last week",
-    "Police seized more than 20 firearms",
-    "Spain votes on 29 November"
-   ],
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/13/spanish-court-suspends-far-right-group-over-alleged-hate-crimes"
-    }
-   ],
-   "publishedAt": "2026-11-13T13:52:00+11:00",
-   "createdAt": "2026-11-13T17:50:59+11:00"
-  },
-  {
-   "id": "2026-11-13-nsw-gun-laws-inquiry",
-   "batch": "2026-11-13-pm",
-   "rank": 13,
-   "category": "Australia",
-   "title": "NSW inquiry hears from Bondi attack survivor and gun sellers on firearm law repeal bill",
-   "summary": "Bondi terror attack survivor Leon Elski told a NSW parliamentary inquiry into a bill to repeal the state's new gun restrictions that he supported the reforms and stronger licence checks, AAP reported. He said the existing system had failed despite several layers of checks.\n\nGun retailers told the inquiry the changes, including a cap on firearms per person and a buyback, were damaging their businesses. The Shooters Union and the Australian Jewish Association backed repeal. Premier Chris Minns introduced the restrictions after the 14 December 2025 attack, in which 15 people were killed.",
-   "keyFacts": [
-    "The inquiry is examining a repeal bill",
-    "Reforms include a per-person firearms cap",
-    "The Bondi attack killed 15 people"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/something-has-failed-bondi-survivor-backs-gun-laws"
-    }
-   ],
-   "publishedAt": "2026-11-13T14:00:00+11:00",
-   "createdAt": "2026-11-13T17:50:59+11:00"
-  },
-  {
-   "id": "2026-11-13-sa-gas-data-centres",
-   "batch": "2026-11-13-pm",
-   "rank": 14,
-   "category": "Environment",
-   "title": "SA energy minister supports gas helping power proposed AI data centres",
-   "summary": "South Australian Energy Minister Tom Koutsantonis told the ABC he was comfortable with gas being used to firm power supply for proposed AI data centres when solar and wind output is low. The state's data centre strategy, released about five months ago, focused on renewable energy.\n\nSA Greens leader Rob Simms called the position a reversal and proposed a moratorium, which a government spokesperson rejected. The Conservation Council called gas a step backwards, while Data Centres Australia defended its use. Developer Quantum DC paused its 1,200-megawatt Tungkillo proposal on 12 November.",
-   "keyFacts": [
-    "Quantum DC estimated 20 per cent gas use",
-    "Iren has proposed an 800MW site at Bundey",
-    "The Greens want a data centre moratorium"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-13/sa-gives-green-light-for-gas-to-power-data-centres/107364606"
-    }
-   ],
-   "publishedAt": "2026-11-13T07:06:00+11:00",
-   "createdAt": "2026-11-13T17:50:59+11:00"
-  },
-  {
-   "id": "2026-11-13-newcastle-harbour-protest-ruling",
-   "batch": "2026-11-13-pm",
-   "rank": 17,
-   "category": "Australia",
-   "title": "NSW Supreme Court allows Rising Tide flotilla on Newcastle Harbour",
-   "summary": "NSW Supreme Court Justice Edward Muston dismissed a police application to prohibit Rising Tide's anti-coal flotilla on Newcastle Harbour, finding the public interest in political expression outweighed the commissioner's safety concerns, the ABC reported. The protest is capped at 785 watercraft and will block the shipping channel for 30 to 40 minutes.\n\nPolice argued the risk of collision, capsize and drowning was serious. Rising Tide's barrister pointed to safety teams and mandatory life jackets, and an organiser said there would be no civil disobedience.",
-   "keyFacts": [
-    "The ruling was made on Friday",
-    "Up to 785 watercraft may take part",
-    "The channel will be blocked for up to 40 minutes"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-13/newcastle-harbour-protest-court-decision/107376804"
-    }
-   ],
-   "publishedAt": "2026-11-13T16:29:00+11:00",
-   "createdAt": "2026-11-13T17:50:59+11:00"
-  },
-  {
-   "id": "2026-11-13-tas-premier-christmas-apology",
-   "batch": "2026-11-13-pm",
-   "rank": 19,
-   "category": "Politics",
-   "title": "Tasmanian Premier apologises for effect of post about school Christmas events",
-   "summary": "Tasmanian Premier Jeremy Rockliff apologised for the effect of an October Facebook post that said Christmas references were being removed from school celebrations, the ABC reported. The school concerned was identified online, called security over abuse, and its acting principal took leave.\n\nThe Australian Education Union had passed a no-confidence motion in Rockliff and barred politicians from school events until he apologised. The Education Department secretary had written to Rockliff on the day of the post saying Christmas remained important. Rockliff said he stood by his expectations and did not retract the claim.",
-   "keyFacts": [
-    "The post was made on 14 October",
-    "The AEU passed a no-confidence motion",
-    "Rockliff did not withdraw the claim"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-13/tasmanian-premier-jeremy-rockliff-apology-for-christmas-post/107383244"
-    }
-   ],
-   "publishedAt": "2026-11-13T17:12:00+11:00",
-   "createdAt": "2026-11-13T17:50:59+11:00"
-  },
-  {
-   "id": "2026-11-13-factcheck-albanese-allan-feud",
-   "batch": "2026-11-13-pm",
-   "rank": 20,
-   "category": "Politics",
-   "title": "AAP FactCheck finds overseas-run pages invented Albanese–Allan feud",
-   "summary": "AAP FactCheck found false a claim that former Victorian premier Jacinta Allan publicly called for Prime Minister Anthony Albanese to be removed. The posts came from a Facebook page that Meta's transparency data shows is run from Vietnam.\n\nAAP said there was no record of such a statement. It also found no Hansard record of a claimed exchange between Bob Katter and Fatima Payman, and said a reported on-air clash between Albanese and Michael Rowland did not occur; Rowland left the ABC in February. Similar claims appeared on other pages ahead of the 28 November Victorian election.",
-   "keyFacts": [
-    "The page is run from Vietnam, Meta data show",
-    "Allan lost the Labor leadership in July",
-    "Images showed signs of AI generation"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/disinformation-pages-invent-feud-between-anthony-albanese-and-jacinta-allan"
-    }
-   ],
-   "publishedAt": "2026-11-13T10:00:00+11:00",
-   "createdAt": "2026-11-13T17:50:59+11:00"
-  },
-  {
    "id": "2026-11-14-scotus-asylum-ban",
    "batch": "2026-11-14",
    "rank": 1,
@@ -1080,31 +1180,6 @@
    "createdAt": "2026-11-14T06:54:58+11:00"
   },
   {
-   "id": "2026-11-14-poland-permanent-us-base",
-   "batch": "2026-11-14",
-   "rank": 8,
-   "category": "World",
-   "title": "Poland says Pentagon backs permanent US troop base; White House to decide in December",
-   "summary": "Poland's Defence Minister Władysław Kosiniak-Kamysz said the Pentagon had given a green light to a permanent US troop presence in Poland, with a final White House decision expected in early December, according to Military Times and Breaking Defense. He spoke after meeting US Defence Secretary Pete Hegseth on 10 November.\n\nThe Pentagon's readout of the meeting did not mention a base. Warsaw has proposed four possible sites, Bydgoszcz, Poznań, Szczecin and Wrocław, for about 5,000 US troops, and has offered to fund infrastructure estimated at up to US$4.4 billion, Breaking Defense reported. Poland hosts about 10,000 mostly rotational US soldiers.",
-   "keyFacts": [
-    "Final decision expected from White House in early December",
-    "Base proposed for about 5,000 US troops",
-    "Pentagon readout did not mention a base"
-   ],
-   "sources": [
-    {
-     "name": "Military Times",
-     "url": "https://www.militarytimes.com/news/pentagon-congress/2026/11/12/pentagon-greenlit-permanent-presence-of-us-troops-in-poland-official-says/"
-    },
-    {
-     "name": "Breaking Defense",
-     "url": "https://breakingdefense.com/2026/11/poland-says-pentagon-supports-permanent-us-base-with-decision-expected-in-december/"
-    }
-   ],
-   "publishedAt": "2026-11-13T08:22:00+11:00",
-   "createdAt": "2026-11-14T06:54:58+11:00"
-  },
-  {
    "id": "2026-11-14-dutch-coalition-crisis-talks",
    "batch": "2026-11-14",
    "rank": 9,
@@ -1127,31 +1202,6 @@
     }
    ],
    "publishedAt": "2026-11-14T05:26:00+11:00",
-   "createdAt": "2026-11-14T06:54:58+11:00"
-  },
-  {
-   "id": "2026-11-14-binance-theft-seizure",
-   "batch": "2026-11-14",
-   "rank": 10,
-   "category": "World",
-   "title": "US moves to seize $1.2b in crypto stolen from Binance, blames North Korea",
-   "summary": "The US Justice Department said it had obtained court authorisation to seize or restrain more than US$1.2 billion in cryptocurrency stolen from the Binance exchange in late October. The FBI attributes the theft, of more than US$6 billion, to a North Korea-linked group it calls TraderTraitor.\n\nGovernment and private-sector efforts have frozen more than US$2.7 billion in total, the department said. It also said it had seized cloud infrastructure used in a separate scheme, called FaceStealer, which it says stole more than US$400 million over 18 months. CBS News reported that a judge would later decide who has a legitimate claim to recovered funds.",
-   "keyFacts": [
-    "More than US$6 billion was taken from Binance",
-    "US$2.7 billion frozen in total, officials said",
-    "Separate FaceStealer scheme blamed for US$400m theft"
-   ],
-   "sources": [
-    {
-     "name": "US Department of Justice",
-     "url": "https://www.justice.gov/opa/pr/justice-department-announces-actions-disrupt-north-koreas-massive-theft-cryptocurrency"
-    },
-    {
-     "name": "CBS News",
-     "url": "https://www.cbsnews.com/news/fbi-cryptocurrency-1-2-billion-binance/"
-    }
-   ],
-   "publishedAt": "2026-11-13T08:20:00+11:00",
    "createdAt": "2026-11-14T06:54:58+11:00"
   },
   {
@@ -1297,27 +1347,6 @@
    "createdAt": "2026-11-14T06:54:58+11:00"
   },
   {
-   "id": "2026-11-14-pakistan-74-militants",
-   "batch": "2026-11-14",
-   "rank": 18,
-   "category": "World",
-   "title": "Pakistan army says 74 militants killed in raids since 3 November",
-   "summary": "Pakistan's military media wing said security forces had killed at least 74 militants since 3 November in operations in Khyber Pakhtunkhwa and Balochistan provinces, Arab News Pakistan reported. It said 35 were killed in Mir Ali and eight in Orakzai in the previous 48 hours, and that weapons and explosives were recovered.\n\nThe military described militants in Balochistan as backed by India, which New Delhi denies. Pakistan also accuses Afghanistan of sheltering Pakistani Taliban fighters, which Kabul denies. The military said operations would continue. The figures could not be independently verified.",
-   "keyFacts": [
-    "43 killed in Khyber Pakhtunkhwa in 48 hours",
-    "India and Afghanistan deny Pakistan's accusations",
-    "Military says operations will continue"
-   ],
-   "sources": [
-    {
-     "name": "Arab News Pakistan",
-     "url": "https://www.arabnews.pk/pakistan/pakistan-says-74-militants-killed-since-nov-3-in-balochistan-khyber-pakhtunkhwa-security-operations-3006913"
-    }
-   ],
-   "publishedAt": "2026-11-13T17:42:00+11:00",
-   "createdAt": "2026-11-14T06:54:58+11:00"
-  },
-  {
    "id": "2026-11-14-guinea-gold-clashes",
    "batch": "2026-11-14",
    "rank": 19,
@@ -1336,27 +1365,6 @@
     }
    ],
    "publishedAt": "2026-11-13T21:53:00+11:00",
-   "createdAt": "2026-11-14T06:54:58+11:00"
-  },
-  {
-   "id": "2026-11-14-kansas-governor-holscher",
-   "batch": "2026-11-14",
-   "rank": 20,
-   "category": "Politics",
-   "title": "Democrat Cindy Holscher wins Kansas governor's race, AP declares",
-   "summary": "Democrat Cindy Holscher has won the Kansas governorship, defeating Republican state Senate president Ty Masterson, according to an AP race call reported by PBS NewsHour. She succeeds term-limited Democratic Governor Laura Kelly.\n\nHolscher campaigned on halting construction of new AI data centres, AP reported. Republicans outspent Democrats by more than three to one, with the Republican Governors Association spending US$19 million on advertising, according to AdImpact data cited by AP. In other Kansas races, Democrats won a US Senate seat for the first time since 1932 and Chris Mann defeated Attorney General Kris Kobach.",
-   "keyFacts": [
-    "Holscher succeeds Democrat Laura Kelly",
-    "Republicans outspent Democrats three to one",
-    "Democrats also won a US Senate seat in Kansas"
-   ],
-   "sources": [
-    {
-     "name": "AP (via PBS NewsHour)",
-     "url": "https://www.pbs.org/newshour/politics/cindy-holscher-wins-election-for-kansas-governor-extending-democrats-wave-of-victories"
-    }
-   ],
-   "publishedAt": "2026-11-13T10:15:00+11:00",
    "createdAt": "2026-11-14T06:54:58+11:00"
   },
   {
@@ -1561,31 +1569,6 @@
     }
    ],
    "publishedAt": "2026-11-14T09:21:00+11:00",
-   "createdAt": "2026-11-14T17:53:55+11:00"
-  },
-  {
-   "id": "2026-11-14-us-treasury-yen-purchase",
-   "batch": "2026-11-14-pm",
-   "rank": 8,
-   "category": "Economy",
-   "title": "New York Fed report confirms US Treasury bought yen in July",
-   "summary": "The US Treasury bought Japanese yen in the July–September quarter while the Federal Reserve made no foreign exchange interventions of its own, the Federal Reserve Bank of New York said in its quarterly report. Reuters reported the New York Fed bought 79.4 billion yen for the Treasury on 31 July, paid for with euros from the Exchange Stabilization Fund.\n\nJapan's Finance Ministry spent 15.4 trillion yen on intervention in the same quarter, according to Reuters. Treasury Secretary Scott Bessent said in August the US would not hesitate to join further action. The yen has since weakened back towards 160 per US dollar, Reuters said.",
-   "keyFacts": [
-    "79.4 billion yen bought on 31 July",
-    "Fed made no interventions of its own",
-    "Japan spent 15.4 trillion yen in the quarter"
-   ],
-   "sources": [
-    {
-     "name": "Federal Reserve Bank of New York (via InsuranceNewsNet)",
-     "url": "https://insurancenewsnet.com/oarticle/the-federal-reserve-did-not-intervene-in-fx-markets-during-the-third-quarter-the-u-s-treasury-purchased-japanese-yen-in-fx-markets-during-the-same-period"
-    },
-    {
-     "name": "Reuters (via The Standard)",
-     "url": "https://www.thestandard.com.hk/finance/article/348397/US-Treasury-bought-yen-in-July-Fed-made-no-solo-FX-interventions-in-Q3"
-    }
-   ],
-   "publishedAt": "2026-11-13T09:00:00+11:00",
    "createdAt": "2026-11-14T17:53:55+11:00"
   },
   {
@@ -4465,6 +4448,72 @@
  ],
  "leftOut": [
   {
+   "id": "2026-11-20-lo-bukele-third-term-bid",
+   "batch": "2026-11-20-pm",
+   "category": "World",
+   "title": "Bukele expected to register for a third term as El Salvador's president",
+   "summary": "El Salvador's President Nayib Bukele was expected to register as a candidate for a third term before Thursday's deadline, Al Jazeera reported, citing Reuters. The election is set for 28 February 2027. A 2025 constitutional change allowed a third term and extended terms from five to six years.\n\nRights groups say more than 1 per cent of the population has been detained under a state of emergency with limited due process, according to the report. The government says gangs have been largely dismantled. Rival candidates include Maytee Iraheta of ARENA and Rafael Aguirre of the FMLN. Registration had not been confirmed in the report.",
+   "keyFacts": [
+    "Election scheduled for 28 February 2027",
+    "2025 amendment allowed a third term",
+    "Registration not yet confirmed"
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via Al Jazeera)",
+     "url": "https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-expected-to-formalise-bid-for-third-presidential-term"
+    }
+   ],
+   "publishedAt": "2026-11-20T11:22:00+11:00",
+   "reason": "Not yet confirmed",
+   "rank": 1,
+   "createdAt": "2026-11-20T17:50:46+11:00"
+  },
+  {
+   "id": "2026-11-20-lo-rohingya-australians-react",
+   "batch": "2026-11-20-pm",
+   "category": "Australia",
+   "title": "Rohingya community in Australia reacts to ICJ genocide ruling",
+   "summary": "Members of Australia's Rohingya community welcomed the International Court of Justice ruling that Myanmar committed genocide, AAP reported. Asma Nayim Ullah, who arrived in Australia by boat as a child, told AAP that many people's first word on hearing the news was \"finally\".\n\nAAP said about 5,000 Rohingya live in Australia. Her family stayed up on Thursday night to watch the ruling from The Hague, according to the report. AAP cited estimates that about 750,000 Rohingya have fled to Bangladesh since August 2017. The article did not include a response from the Australian government.",
+   "keyFacts": [
+    "About 5,000 Rohingya live in Australia",
+    "Community members watched the ruling overnight",
+    "No Australian government response reported"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/finally-relief-for-australians-after-genocide-ruling"
+    }
+   ],
+   "publishedAt": "2026-11-20T09:00:00+11:00",
+   "reason": "Human interest",
+   "rank": 2,
+   "createdAt": "2026-11-20T17:50:46+11:00"
+  },
+  {
+   "id": "2026-11-20-lo-ministers-recession-comments",
+   "batch": "2026-11-20-pm",
+   "category": "Politics",
+   "title": "Ministers say Treasury and RBA are not forecasting a recession",
+   "summary": "Workplace Relations Minister Amanda Rishworth said on Friday the Reserve Bank and Treasury were not forecasting a recession and she had no reason to dispute that, the ABC reported. Health Minister Mark Butler said the coming mid-year budget update would aim to ease inflation pressure without a \"slash and burn\" approach.\n\nShadow Treasurer Tim Wilson accused the government of pursuing policies that add to inflation, and Deputy Liberal Leader Jane Hume called for action to restore business confidence, according to the ABC. The comments followed Thursday's figures showing unemployment rose to 4.9 per cent in October.",
+   "keyFacts": [
+    "Rishworth says no recession is forecast",
+    "Butler rules out 'slash and burn' in MYEFO",
+    "Coalition criticises government on inflation"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-20/federal-politics-live-blog-recession-concerns/107407116"
+    }
+   ],
+   "publishedAt": "2026-11-20T07:19:00+11:00",
+   "reason": "Restatement, nothing new",
+   "rank": 3,
+   "createdAt": "2026-11-20T17:50:46+11:00"
+  },
+  {
    "id": "2026-11-20-lo-walkley-awards",
    "batch": "2026-11-20",
    "category": "Other",
@@ -4691,208 +4740,6 @@
    "reason": "Restatement, nothing new",
    "rank": 4,
    "createdAt": "2026-11-19T17:47:45+11:00"
-  },
-  {
-   "id": "2026-11-13-lo-rory-amon-verdict",
-   "batch": "2026-11-13-pm",
-   "rank": 1,
-   "category": "Australia",
-   "title": "Former NSW Liberal MP Rory Amon found guilty of sexually assaulting 13-year-old",
-   "summary": "A NSW Supreme Court jury found former Pittwater MP Rory Amon guilty of the sexual assault and indecent assault of a 13-year-old boy in 2017, the ABC reported. The jury deliberated for about four hours.\n\nThe court heard Amon met the boy through a dating app. Amon had argued he believed the boy was 17. He remains on bail, and sentencing is listed for later this month. At an earlier trial in March, Amon was acquitted of most charges and the jury could not agree on two counts.",
-   "keyFacts": [
-    "The jury deliberated about four hours",
-    "The offences occurred in 2017",
-    "Sentencing is listed for later this month"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-13/ex-nsw-liberal-mp-rory-amon-guilty-sexual-assault-13yo-boy/107384336"
-    },
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/ex-liberal-mp-mostly-cleared-of-child-sex-crimes"
-    }
-   ],
-   "publishedAt": "2026-11-13T17:15:00+11:00",
-   "createdAt": "2026-11-13T17:50:59+11:00",
-   "reason": "Local crime"
-  },
-  {
-   "id": "2026-11-13-lo-cummins-khawaja",
-   "batch": "2026-11-13-pm",
-   "rank": 2,
-   "category": "Sport",
-   "title": "Cummins rejects Khawaja's claim that whole team knew of 2018 ball-tampering plan",
-   "summary": "Australian Test captain Pat Cummins rejected former teammate Usman Khawaja's claim, made in his memoir, that the entire team knew of the 2018 Cape Town ball-tampering plan, the ABC reported. Cummins said he did not know sandpaper was being used.\n\nCummins said Khawaja had been careless with people's reputations and that legal advice suggested some claims could be defamatory, though he would not take action. He also said the bans given to three players were too harsh. Cricket Australia has ruled out reopening its investigation.",
-   "keyFacts": [
-    "The comments came at a press conference in Sydney",
-    "Cricket Australia will not reopen its investigation",
-    "Cummins said he would not sue"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-13/pat-cummins-says-usman-khawaja-casual-with-peoples-lives/107381770"
-    }
-   ],
-   "publishedAt": "2026-11-13T11:39:00+11:00",
-   "createdAt": "2026-11-13T17:50:59+11:00",
-   "reason": "Sport"
-  },
-  {
-   "id": "2026-11-13-lo-swans-no-charges",
-   "batch": "2026-11-13-pm",
-   "rank": 3,
-   "category": "Sport",
-   "title": "Victoria Police will not charge four Sydney Swans players, citing insufficient evidence",
-   "summary": "Victoria Police said it would not lay criminal charges against Sydney Swans players Isaac Heeney, Chad Warner, James Jordon and Nick Blakey over an alleged incident at a Melbourne hotel in August, citing insufficient evidence after legal advice, the ABC reported.\n\nPolice noted an ongoing civil matter and declined further comment. Swans chief executive Matthew Pavlich said the players could now move forward, and the club said it stood by its decision to stand them down. Lawyers for three women are pursuing civil claims.",
-   "keyFacts": [
-    "Police cited insufficient evidence",
-    "The alleged incident occurred in August",
-    "Civil claims are continuing"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-13/sydney-swans-players-cleared-by-police-over-pullman/107372082"
-    }
-   ],
-   "publishedAt": "2026-11-13T10:56:00+11:00",
-   "createdAt": "2026-11-13T17:50:59+11:00",
-   "reason": "Sport"
-  },
-  {
-   "id": "2026-11-13-lo-darwin-terror-teen-bail",
-   "batch": "2026-11-13-pm",
-   "rank": 4,
-   "category": "Australia",
-   "title": "Prosecutors oppose bail for Darwin teenager charged with terrorism offence",
-   "summary": "A Darwin teenage girl charged with collecting or making documents likely to facilitate terrorist acts appeared in court on Friday, AAP reported. Prosecutor Hadi Mazloum alleged her diary named a student she wanted dead and that she shared a plan to shoot at a school, and argued the risk to the community was too high for bail.\n\nHer lawyer cited significant psychological circumstances and sought a supervised community-based order. The judge adjourned the bail application to Monday. A 14-year-old boy was arrested with her on 3 November.",
-   "keyFacts": [
-    "She was arrested on 3 November",
-    "The arrest followed a joint AFP, NT Police and ASIO operation",
-    "Bail will be decided on Monday"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/terror-accused-teen-s-alleged-diary-entries-revealed"
-    }
-   ],
-   "publishedAt": "2026-11-13T13:00:00+11:00",
-   "createdAt": "2026-11-13T17:50:59+11:00",
-   "reason": "Local crime"
-  },
-  {
-   "id": "2026-11-13-lo-us-myanmar-rare-earths",
-   "batch": "2026-11-13-pm",
-   "rank": 6,
-   "category": "World",
-   "title": "ABC reports US has held talks with Myanmar's military-backed government over rare earths",
-   "summary": "The Trump administration has held talks with Myanmar's military-backed government ahead of the ASEAN summit in the Philippines, the ABC reported, citing a State Department document that lists countering China and access to rare earth resources among the goals.\n\nThe talks followed the detention of a former American Chamber of Commerce head at Yangon airport in June. A Lowy Institute analyst described it as hostage diplomacy, and a human rights advocate criticised the talks. The US has previously accused Myanmar's military of genocide.",
-   "keyFacts": [
-    "China controls about 90 per cent of rare earth output, an analyst said",
-    "The ASEAN summit is in the Philippines",
-    "The piece is an ABC analysis"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-13/trump-quest-for-rare-earths-brings-us-closer-to-myanmar-regime/107376926"
-    }
-   ],
-   "publishedAt": "2026-11-13T13:06:00+11:00",
-   "createdAt": "2026-11-13T17:50:59+11:00",
-   "reason": "Commentary"
-  },
-  {
-   "id": "2026-11-13-lo-population-doomsday",
-   "batch": "2026-11-13-pm",
-   "rank": 7,
-   "category": "Science & Tech",
-   "title": "1960 paper had predicted population would become infinite on 13 November 2026",
-   "summary": "A 1960 paper in the journal Science predicted world population would approach infinity on 13 November 2026, based on a formula drawn from historical fertility and death rates, the ABC reported. The date was chosen to fall on lead author Heinz von Foerster's birthday.\n\nAn economist quoted said the projections held until about the 1980s. Global population growth peaked at about 2.3 per cent a year in 1963, and the UN projects population will peak at just over 10 billion in about 60 years.",
-   "keyFacts": [
-    "The paper was published in 1960",
-    "Growth peaked in 1963",
-    "The UN projects a peak just over 10 billion"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/science/2026-11-13/world-has-avoided-a-predicted-population-doomsday/107320748"
-    }
-   ],
-   "publishedAt": "2026-11-13T08:49:00+11:00",
-   "createdAt": "2026-11-13T17:50:59+11:00",
-   "reason": "Human interest"
-  },
-  {
-   "id": "2026-11-13-lo-rohan-dennis-bond",
-   "batch": "2026-11-13-pm",
-   "rank": 8,
-   "category": "Sport",
-   "title": "Olympic cyclist Rohan Dennis admits breaching good behaviour bond",
-   "summary": "Olympic medallist Rohan Dennis admitted in the South Australian District Court that he breached a good behaviour bond, AAP reported. The bond, imposed in 2025 over the December 2023 crash that killed his wife Melissa Hoskins, carries a suspended 17-month jail term.\n\nDennis was caught driving while disqualified in June, with two children in the car. Judge Emily Telfer ordered a supervision compliance report and adjourned the matter to 1 February.",
-   "keyFacts": [
-    "The breach was admitted on Friday",
-    "The bond carries a 17-month term",
-    "The matter returns on 1 February"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/personal-reasons-oly-cyclist-admits-breaching-bond"
-    }
-   ],
-   "publishedAt": "2026-11-13T12:00:00+11:00",
-   "createdAt": "2026-11-13T17:50:59+11:00",
-   "reason": "Sport"
-  },
-  {
-   "id": "2026-11-13-lo-adelaide-workplace-death",
-   "batch": "2026-11-13-pm",
-   "rank": 9,
-   "category": "Australia",
-   "title": "Man dies in workplace incident in Adelaide's north-east",
-   "summary": "A 26-year-old man died at the scene of a workplace incident on Leopold Street, Vista, in Adelaide's north-eastern suburbs on Friday, South Australia Police said, according to the ABC. Emergency services were called at about 12.15pm.\n\nSafeWork SA said it had been notified and sent an investigator and an inspector. SA Power Networks workers were seen examining a power pole nearby. Police will prepare a report for the coroner. No cause has been stated.",
-   "keyFacts": [
-    "The man was 26",
-    "SafeWork SA is investigating",
-    "A report will go to the coroner"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-13/fatal-workplace-incident-vista-adelaide/107383520"
-    }
-   ],
-   "publishedAt": "2026-11-13T16:45:00+11:00",
-   "createdAt": "2026-11-13T17:50:59+11:00",
-   "reason": "Human interest"
-  },
-  {
-   "id": "2026-11-13-lo-bank-hearings-preview",
-   "batch": "2026-11-13-pm",
-   "rank": 15,
-   "category": "Economy",
-   "title": "CBA and NAB chiefs to face parliamentary hearings after fee and wage cases",
-   "summary": "Commonwealth Bank chief Matt Comyn and NAB chief Andrew Irvine were due to appear before parliamentary hearings on Friday, AAP reported, after NAB agreed to repay $169 million to 66,000 underpaid staff and ASIC began proceedings against CBA over $8.5 million in undisclosed business fees.\n\nCommittee chair Ed Husic, a Labor MP, criticised NAB's plans to move about 180 roles offshore. Westpac's chief disclosed a 28 per cent gender pay gap at the hearings.",
-   "keyFacts": [
-    "Hearings continued on Friday",
-    "NAB is repaying $169 million",
-    "ASIC is suing CBA over $8.5 million in fees"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/banks-to-get-grilled-on-heels-of-twin-scandals"
-    }
-   ],
-   "publishedAt": "2026-11-13T07:00:00+11:00",
-   "createdAt": "2026-11-13T17:50:59+11:00",
-   "reason": "No new development"
   },
   {
    "id": "2026-11-14-lo-rideau-canal-freezing",
@@ -5211,50 +5058,6 @@
     }
    ],
    "publishedAt": "2026-11-14T15:40:00+11:00",
-   "createdAt": "2026-11-15T06:55:00+11:00",
-   "reason": "Outside today's window"
-  },
-  {
-   "id": "2026-11-15-lo-small-business-prices",
-   "batch": "2026-11-15",
-   "rank": 3,
-   "category": "Economy",
-   "title": "Data show more small businesses raising prices after card surcharge ban",
-   "summary": "A growing share of small businesses that previously added card surcharges have raised prices since the ban took effect on 1 October, according to payments company Tyro, AAP reported. Tyro's Nigel Lee said the share rose from 9.4 per cent in the first week to 12.4 per cent three weeks later.\n\nOf those businesses, 61 per cent lifted prices by more than the old surcharge, Lee said. He expected more increases before the end of the year as rent, power, wage and interest costs rise. The ban is expected to save consumers about $1 billion over time.",
-   "keyFacts": [
-    "Data cover 65,000 Tyro retail, hospitality and services clients",
-    "The surcharge ban began on 1 October",
-    "The report was published before this update window"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/price-rises-coming-as-small-businesses-juggle-costs"
-    }
-   ],
-   "publishedAt": "2026-11-13T12:00:00+11:00",
-   "createdAt": "2026-11-15T06:55:00+11:00",
-   "reason": "Outside today's window"
-  },
-  {
-   "id": "2026-11-15-lo-children-check-database",
-   "batch": "2026-11-15",
-   "rank": 4,
-   "category": "Australia",
-   "title": "National working with children check database expands as SA joins",
-   "summary": "A national system that tracks criminal records of Working With Children Check holders in near real time is expanding, with South Australia joining from Monday, AAP reported. The pilot already covers Commonwealth and ACT offences, but full coverage across all jurisdictions is not expected until 2028.\n\nAttorney-General Michelle Rowland blamed differences between state systems for the timeline and said the government wanted to beat it. The 2015 royal commission into institutional child sexual abuse recommended a central database. The federal government has invested $37 million, and all jurisdictions have confirmed they will join.",
-   "keyFacts": [
-    "The system is called the National Continuous Checking Capability",
-    "States must opt in, with no deadline",
-    "The report was published before this update window"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/children-check-database-comes-decade-after-call"
-    }
-   ],
-   "publishedAt": "2026-11-13T09:11:00+11:00",
    "createdAt": "2026-11-15T06:55:00+11:00",
    "reason": "Outside today's window"
   },
@@ -6163,32 +5966,6 @@
    "createdAt": "2026-11-17T17:50:12+11:00",
    "reason": "Not yet confirmed",
    "rank": 3
-  },
-  {
-   "id": "2026-11-17-lo-gao-ueland",
-   "batch": "2026-11-17-pm",
-   "category": "Politics",
-   "title": "Senate Republicans move to fill top US audit office post in lame-duck session",
-   "summary": "Senate Homeland Security Committee chairman Rand Paul has moved to speed up the selection of the next comptroller general, who heads the Government Accountability Office, Nextgov and Federal News Network reported. A nomination hearing has been scheduled for next week, though the White House had not publicly named a nominee.\n\nTop congressional Democrats said the selection commission had not interviewed any candidates, according to Federal News Network. Office of Management and Budget deputy director Eric Ueland has reportedly been considered for the post. The position has been filled on an acting basis since Gene Dodaro retired in December 2025.",
-   "keyFacts": [
-    "Nomination hearing scheduled for next week",
-    "Democrats say no candidates were interviewed",
-    "Eric Ueland reportedly considered for the role"
-   ],
-   "sources": [
-    {
-     "name": "Nextgov",
-     "url": "https://www.nextgov.com/people/2026/11/lame-duck-congress-expedites-search-next-gao-leader/417195/"
-    },
-    {
-     "name": "Federal News Network",
-     "url": "https://federalnewsnetwork.com/agency-oversight/2026/11/senate-gop-set-up-lame-duck-effort-to-appoint-new-comptroller-general/"
-    }
-   ],
-   "publishedAt": "2026-11-13T08:10:00+11:00",
-   "createdAt": "2026-11-17T17:50:12+11:00",
-   "reason": "Not yet confirmed",
-   "rank": 4
   },
   {
    "id": "2026-11-17-lo-vic-leaders-debate",
