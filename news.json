@@ -1,6 +1,294 @@
 {
- "updatedAt": "2026-11-20T17:50:46+11:00",
+ "updatedAt": "2026-11-21T06:50:59+11:00",
  "articles": [
+  {
+   "id": "2026-11-21-russia-mass-strike-ukraine",
+   "batch": "2026-11-21",
+   "rank": 1,
+   "category": "World",
+   "title": "Russia launches hundreds of drones and missiles at Ukraine, killing at least 12 over a day",
+   "summary": "Russia launched 404 drones and 84 cruise missiles at Ukraine overnight into Friday, along with ballistic and hypersonic missiles, the Kyiv Independent reported, citing Ukraine's Air Force. The Air Force said 462 weapons were intercepted or suppressed. Ukrainian officials said attacks over the past day killed 12 people and injured 82.\n\nIn Kyiv, Mayor Vitali Klitschko said a ballistic missile damaged the Podilskyi Bridge and two other bridges were hit, according to AP. The Energy Ministry said power plants and substations were struck. The attack came hours after Vladimir Putin said Russia would respond to Ukrainian strikes on the Kerch Bridge to Crimea.",
+   "keyFacts": [
+    "404 drones and 84 cruise missiles launched, Ukraine says",
+    "Three Kyiv bridges damaged, according to the mayor",
+    "12 killed and 82 injured across Ukraine over a day"
+   ],
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/russian-attacks-kill-12-injure-82-across-ukraine-over-past-day-as-country-reels-from-mass-overnight-strike/"
+    },
+    {
+     "name": "AP (via ABC News US)",
+     "url": "https://abcnews.com/International/wireStory/russian-attacks-kyiv-kill-3-cripple-bridges-cut-138313948"
+    }
+   ],
+   "publishedAt": "2026-11-20T22:49:00+11:00",
+   "createdAt": "2026-11-21T06:50:59+11:00"
+  },
+  {
+   "id": "2026-11-21-cop31-talks-overrun",
+   "batch": "2026-11-21",
+   "rank": 2,
+   "category": "Environment",
+   "title": "COP31 talks run past deadline as countries split over fossil fuel wording",
+   "summary": "UN climate talks in Antalya, Turkey, went past their scheduled Friday close with no agreed text, Reuters and AFP reported. A draft released on Thursday removed references to moving away from fossil fuels and dropped a $US120 billion adaptation finance target, according to Reuters.\n\nAFP said about a dozen countries, including France and Panama, wrote calling for a clear transition away from fossil fuels, and an EU official said the draft was not ambitious enough. Reuters reported Saudi Arabia and other producers had objected to the earlier wording. Australia's Chris Bowen, who is presiding over negotiations, said he would keep working for as long as needed.",
+   "keyFacts": [
+    "Talks continued past the Friday deadline",
+    "Latest draft omits fossil fuel transition language",
+    "Draft dropped $US120 billion adaptation finance target"
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via WABX)",
+     "url": "https://wabx.net/2026/11/20/cop31-climate-talks-spill-into-overtime-as-nations-quarrel-over-fossil-fuels/"
+    },
+    {
+     "name": "AFP (via Arab News)",
+     "url": "https://www.arabnews.pk/middle-east/cop31-deal-elusive-as-fossil-fuel-fight-deepens-3007614"
+    },
+    {
+     "name": "The Independent (via Yahoo)",
+     "url": "https://www.yahoo.com/news/science/articles/cop31-heading-towards-overtime-thanks-125933463.html"
+    }
+   ],
+   "publishedAt": "2026-11-21T00:06:00+11:00",
+   "createdAt": "2026-11-21T06:50:59+11:00"
+  },
+  {
+   "id": "2026-11-21-sp500-seventh-loss-correction",
+   "batch": "2026-11-21",
+   "rank": 3,
+   "category": "Economy",
+   "title": "S&P 500 heads for seventh straight loss as chip stocks fall sharply",
+   "summary": "The S&P 500 was down 2.2 per cent in Friday afternoon trading in New York, about 10 per cent below its 6 October record and on track for a seventh straight daily fall, AP reported. The Nasdaq was down 3.6 per cent and the Dow 0.7 per cent.\n\nAP said chipmakers led the decline, with AMD and Broadcom each down more than 10 per cent and Nvidia down about 7 per cent. Anthropic shares were down about 11 per cent but remained above the $US83 IPO price, according to AP. The 10-year US Treasury yield fell to 4.94 per cent. Reuters reported markets were pricing a December Fed rate rise as near certain.",
+   "keyFacts": [
+    "S&P 500 down 2.2% in afternoon trade",
+    "Index about 10% below its October record",
+    "Nasdaq down 3.6% as chip stocks fell"
+   ],
+   "sources": [
+    {
+     "name": "AP (via BNN Bloomberg)",
+     "url": "https://www.bnnbloomberg.ca/markets/2026/11/20/us-stocks-tumble-and-the-sp-500-drops-as-the-sell-off-for-ai-stocks-accelerates/"
+    },
+    {
+     "name": "Reuters (via Yahoo Finance)",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-slip-anthropic-104746137.html"
+    }
+   ],
+   "publishedAt": "2026-11-21T06:06:00+11:00",
+   "createdAt": "2026-11-21T06:50:59+11:00"
+  },
+  {
+   "id": "2026-11-21-saudi-coalition-strikes-hodeidah",
+   "batch": "2026-11-21",
+   "rank": 4,
+   "category": "World",
+   "title": "Saudi-led coalition strikes Houthi targets including Hodeidah port",
+   "summary": "The Saudi-led coalition said on Friday it struck Houthi weapons and smuggling targets, including at Yemen's Red Sea port of Hodeidah, and carried out operations in Sanaa, AP reported. Al Jazeera said the coalition also cited operations in Saada and Taiz, and its correspondent in Sanaa described the strikes as the heaviest of the conflict.\n\nThe coalition said it intercepted five drones and a ballistic missile fired by the Houthis, with Riyadh among the targets, according to AP. The Houthis threatened to attack Saudi Red Sea ports including Jeddah if Hodeidah was struck, and warned airlines to avoid most Saudi airspace, Al Jazeera reported.",
+   "keyFacts": [
+    "Coalition says it hit targets at Hodeidah and in Sanaa",
+    "Coalition says five drones and a missile intercepted",
+    "Houthis threaten Saudi ports including Jeddah"
+   ],
+   "sources": [
+    {
+     "name": "AP (via CP24)",
+     "url": "https://www.cp24.com/news/world/2026/11/20/saudi-arabia-attacks-yemens-houthis-and-intercepts-more-missiles-and-drones-and-other-mideast-news/"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/20/saudi-coalition-and-houthis-exchange-threats-to-bomb-key-ports"
+    }
+   ],
+   "publishedAt": "2026-11-21T05:07:00+11:00",
+   "createdAt": "2026-11-21T06:50:59+11:00"
+  },
+  {
+   "id": "2026-11-21-australia-china-ai-talks",
+   "batch": "2026-11-21",
+   "rank": 5,
+   "category": "Australia",
+   "title": "Australia and China agree to hold talks on artificial intelligence",
+   "summary": "Australia and China have agreed to hold talks on artificial intelligence, ABC News reported. The agreement came from a meeting in Beijing on Friday night between Prime Minister Anthony Albanese and Premier Li Qiang, which also covered trade, climate, health and tourism.\n\nEarlier on Friday Albanese met President Xi Jinping in Shenzhen on the sidelines of APEC. Separately, Australia signed a technology declaration with the United States aimed at protecting AI supply chains from Chinese interference, according to the ABC. Albanese is due back in Australia on Saturday after 11 days overseas covering COP31, the ASEAN summit in Manila and APEC.",
+   "keyFacts": [
+    "Agreement followed Albanese's meeting with Li Qiang",
+    "Australia also signed an AI supply chain declaration with the US",
+    "Albanese returns after 11 days overseas"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-21/australia-strikes-deal-on-ai-talks-with-china-after-apec/107411592"
+    }
+   ],
+   "publishedAt": "2026-11-21T06:12:00+11:00",
+   "createdAt": "2026-11-21T06:50:59+11:00"
+  },
+  {
+   "id": "2026-11-21-france-unsc-kyiv-embassies",
+   "batch": "2026-11-21",
+   "rank": 6,
+   "category": "World",
+   "title": "France seeks UN Security Council meeting after strikes damage embassies in Kyiv",
+   "summary": "French Foreign Minister Jean-Noël Barrot said France is seeking a UN Security Council meeting after Russian attacks on Kyiv killed civilians and damaged the Austrian and Dutch embassy buildings, European Pravda reported. Barrot said Russia would have to answer for the attacks.\n\nAfricanews, citing AFP and AP, said staff at both embassies were unhurt in Thursday's strikes. Dutch Foreign Minister Tom Berendsen said the Dutch embassy was hit by a projectile. EU foreign policy chief Kaja Kallas said the EU would summon Russia's ambassador, according to European Pravda. Russia's embassy in the Netherlands had accused The Hague of taking part in the war, Africanews reported.",
+   "keyFacts": [
+    "France requests a UN Security Council meeting",
+    "Austrian and Dutch embassies damaged; no staff hurt",
+    "EU to summon Russia's ambassador, Kallas says"
+   ],
+   "sources": [
+    {
+     "name": "European Pravda",
+     "url": "https://www.eurointegration.com.ua/eng/news/2026/11/20/7250457/"
+    },
+    {
+     "name": "Africanews",
+     "url": "https://www.africanews.com/amp/2026/11/20/ukraine-russian-strikes-damage-austrian-and-dutch-embassies-in-kyiv/"
+    }
+   ],
+   "publishedAt": "2026-11-21T00:20:00+11:00",
+   "createdAt": "2026-11-21T06:50:59+11:00"
+  },
+  {
+   "id": "2026-11-21-trump-tax-overseas-data-centres",
+   "batch": "2026-11-21",
+   "rank": 7,
+   "category": "Business",
+   "title": "Trump says US firms building AI data centres overseas will face a tax",
+   "summary": "US President Donald Trump said on Friday that American technology companies building AI data centres in other countries would face what he called a tremendous tax, AP reported. He gave no details and said he had not yet told his own officials about the plan.\n\nTrump also urged communities to accept data centres and to seek concessions from developers, according to AP and Spectrum News. Spectrum said the Senate passed bipartisan permitting legislation on Thursday, which now goes to the House. AP noted data centres were a significant issue in the midterm elections. Google and Meta say they are being more open with communities, according to the reports.",
+   "keyFacts": [
+    "Trump announced no details of the proposed tax",
+    "He said officials had not yet been told",
+    "Senate passed permitting bill on Thursday"
+   ],
+   "sources": [
+    {
+     "name": "AP (via Yahoo News)",
+     "url": "https://www.yahoo.com/news/politics/articles/trump-says-plans-penalize-us-174503646.html"
+    },
+    {
+     "name": "Spectrum News",
+     "url": "https://spectrumlocalnews.com/nys/capital-region/politics/2026/11/20/trump-data-centers-built-abroad-penalty"
+    }
+   ],
+   "publishedAt": "2026-11-21T05:54:00+11:00",
+   "createdAt": "2026-11-21T06:50:59+11:00"
+  },
+  {
+   "id": "2026-11-21-gaza-strikes-six-killed",
+   "batch": "2026-11-21",
+   "rank": 8,
+   "category": "World",
+   "title": "Gaza civil defence says Israeli strikes killed six people on Friday",
+   "summary": "Israeli strikes killed six people in Gaza on Friday, according to Gaza's civil defence agency, AFP reported. Spokesman Mahmoud Bassal said four died in a strike south-west of Bureij refugee camp, one in a drone strike on a tent in Deir al-Balah and one north of Nuseirat.\n\nThe Israeli military told AFP it had targeted several militants. The strikes followed an Israeli tank operation in central Gaza that the army said was aimed at a tunnel. AFP's tally puts Palestinian deaths since the October 2025 ceasefire at more than 1,600. Israel's military says seven soldiers and one civilian contractor have been killed in that period.",
+   "keyFacts": [
+    "Civil defence reports six killed in three locations",
+    "Israeli military says it targeted militants",
+    "AFP tally: more than 1,600 Palestinians killed since ceasefire"
+   ],
+   "sources": [
+    {
+     "name": "AFP (via RTÉ)",
+     "url": "https://www.rte.ie/news/middle-east/2026/1120/1600068-gaza-israel/"
+    }
+   ],
+   "publishedAt": "2026-11-21T05:57:00+11:00",
+   "createdAt": "2026-11-21T06:50:59+11:00"
+  },
+  {
+   "id": "2026-11-21-russian-diesel-tankers-brazil",
+   "batch": "2026-11-21",
+   "rank": 9,
+   "category": "Business",
+   "title": "Russian diesel tankers sent under US deal arrive in Brazil instead",
+   "summary": "Tankers carrying Russian diesel sent under a fuel arrangement between Donald Trump and Vladimir Putin have arrived in Brazil rather than the United States, The Moscow Times and Kyiv Post reported, citing The Maritime Executive. The Moscow Times said US buyers declined the cargoes over sanctions risks.\n\nThe Leruo and Primorye anchored at Itacoatiara on the Amazon, and a third tanker, Beast, was listed as bound for Brazil, according to the reports. Kyiv Post said Trump announced the deal on 9 October, promising more than 300,000 tonnes of diesel. The US Treasury has authorised related transactions until April 2027, Kyiv Post reported.",
+   "keyFacts": [
+    "Two tankers anchored at Itacoatiara, Brazil",
+    "Each vessel carries about 40,000 tonnes",
+    "US buyers declined cargoes over sanctions risks, report says"
+   ],
+   "sources": [
+    {
+     "name": "The Moscow Times",
+     "url": "https://www.themoscowtimes.com/2026/11/20/tankers-carrying-russian-diesel-divert-to-brazil-after-us-buyers-balk-the-maritime-executive-a94327"
+    },
+    {
+     "name": "Kyiv Post",
+     "url": "https://www.kyivpost.com/post/90691"
+    }
+   ],
+   "publishedAt": "2026-11-20T22:08:00+11:00",
+   "createdAt": "2026-11-21T06:50:59+11:00"
+  },
+  {
+   "id": "2026-11-21-cyclone-akvan-landfall-odisha",
+   "batch": "2026-11-21",
+   "rank": 10,
+   "category": "World",
+   "title": "Cyclone Akvan crosses India's Odisha coast; officials report no deaths",
+   "summary": "Cyclone Akvan made landfall near Gopalpur in India's Odisha state on Friday and weakened into a deep depression by the afternoon, according to the India Meteorological Department, PTI reported. Odisha's Disaster Management Minister Suresh Pujari said no major damage or deaths had been reported.\n\nChief Secretary Anu Garg said about 372,000 people had been moved to shelters, according to PTI. The state deployed 423 rescue teams. Railways cancelled dozens of trains, and tourists were barred from coastal areas including Puri and Gopalpur. The IMD said rain would ease from Saturday, with an orange alert in place for 14 districts.",
+   "keyFacts": [
+    "Landfall near Gopalpur completed by late morning",
+    "About 372,000 people moved to shelters",
+    "No deaths reported, state minister says"
+   ],
+   "sources": [
+    {
+     "name": "PTI (via The Federal)",
+     "url": "https://thefederal.com/category/states/east/odisha/cyclone-akvan-no-major-damage-loss-of-life-in-odisha-says-minister-263550"
+    },
+    {
+     "name": "PTI (via The Hans India)",
+     "url": "https://www.thehansindia.com/odisha/no-major-damage-loss-of-life-in-odisha-due-to-cyclone-akvan-heavy-rain-lashes-state-1143961"
+    }
+   ],
+   "publishedAt": "2026-11-20T21:15:00+11:00",
+   "createdAt": "2026-11-21T06:50:59+11:00"
+  },
+  {
+   "id": "2026-11-21-pakistan-minister-india-visit",
+   "batch": "2026-11-21",
+   "rank": 11,
+   "category": "World",
+   "title": "Pakistani minister visits India for first time since 2025 conflict",
+   "summary": "Pakistan's climate change minister Musadik Malik arrived in New Delhi on Friday, the first visit by a Pakistani federal minister since the two countries' four-day conflict in May 2025, Al Jazeera reported. He is attending a Shanghai Cooperation Organisation dialogue forum that Indian Prime Minister Narendra Modi was due to open.\n\nNeither government has announced a bilateral meeting, according to Al Jazeera. Pakistan's Foreign Office said its participation reflected its role as an SCO member. India's foreign ministry said its policy towards Pakistan was unchanged. India's suspension of the Indus Waters Treaty remains in place, the report said.",
+   "keyFacts": [
+    "First Pakistani federal minister in India since May 2025",
+    "Visit is for an SCO forum in New Delhi",
+    "No bilateral meeting announced"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news-analysis/2026/11/20/pakistan-minister-visits-india-for-first-time-since-2025-war"
+    }
+   ],
+   "publishedAt": "2026-11-20T20:11:00+11:00",
+   "createdAt": "2026-11-21T06:50:59+11:00"
+  },
+  {
+   "id": "2026-11-21-spain-bail-fergie-chambers",
+   "batch": "2026-11-21",
+   "rank": 12,
+   "category": "World",
+   "title": "Spanish court grants bail to US activist facing extradition over alleged Hamas funding",
+   "summary": "Spain's High Court granted conditional bail to American activist James \"Fergie\" Chambers, who left Aranjuez prison near Madrid on Friday after nearly five months in custody, Al Jazeera and Reuters reported. The United States is seeking his extradition over the alleged laundering of $US7.5 million that it says went to Tunisia and supported Hamas.\n\nChambers is not charged with terrorism and denies wrongdoing, according to the report. His lawyer said the US had acknowledged translation errors in an FBI affidavit, which the court said could delay a decision. Chambers has applied for asylum and cannot be extradited while that claim is pending.",
+   "keyFacts": [
+    "Released on conditional bail after nearly five months",
+    "US alleges $US7.5 million was laundered",
+    "Pending asylum claim blocks extradition for now"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/20/spain-court-grants-bail-to-pro-palestinian-activist-james-fergie-chambers"
+    }
+   ],
+   "publishedAt": "2026-11-21T00:45:00+11:00",
+   "createdAt": "2026-11-21T06:50:59+11:00"
+  },
   {
    "id": "2026-11-20-icj-myanmar-genocide",
    "batch": "2026-11-20-pm",
@@ -1013,382 +1301,6 @@
    "createdAt": "2026-11-19T17:47:45+11:00"
   },
   {
-   "id": "2026-11-14-scotus-asylum-ban",
-   "batch": "2026-11-14",
-   "rank": 1,
-   "category": "Politics",
-   "title": "US Supreme Court agrees to rule on Trump's asylum ban at the Mexican border",
-   "summary": "The US Supreme Court agreed on Friday to decide whether President Donald Trump acted lawfully when he suspended asylum access for migrants crossing the southern border between ports of entry, according to Reuters and CBS News. The restrictions were set out in a proclamation on his first day in office.\n\nA federal judge in Washington ruled against the policy in July 2025, and an appeals court upheld that ruling in April, but the restrictions have largely stayed in force while the case continues, Reuters reported. Immigrant rights groups brought the challenge. A ruling is expected by the end of June.",
-   "keyFacts": [
-    "Policy dates from Trump's 20 January 2025 proclamation",
-    "Two lower courts ruled against the restrictions",
-    "Decision expected by the end of June"
-   ],
-   "sources": [
-    {
-     "name": "CBS News",
-     "url": "https://www.cbsnews.com/news/supreme-court-trump-asylum-u-s-mexico-border/"
-    },
-    {
-     "name": "Reuters (via Yahoo News)",
-     "url": "https://www.yahoo.com/news/politics/articles/supreme-court-weigh-trumps-asylum-185204970.html"
-    }
-   ],
-   "publishedAt": "2026-11-14T06:01:00+11:00",
-   "createdAt": "2026-11-14T06:54:58+11:00"
-  },
-  {
-   "id": "2026-11-14-ukraine-1200-drones-europe-talks",
-   "batch": "2026-11-14",
-   "rank": 2,
-   "category": "World",
-   "title": "Ukraine fires nearly 1,200 drones at Russia; Kushner says Europe will join talks",
-   "summary": "Ukraine launched almost 1,200 drones at Russian targets overnight into Friday, one of its largest aerial attacks of the war, AP reported. Russia's Defence Ministry said 1,198 were shot down. Local officials said strikes on three Russian regions killed seven people, including a 12-year-old. Ukrainian authorities said Russia fired 117 drones at Ukraine, killing at least two.\n\nAfter talks in Abu Dhabi, US envoy Jared Kushner said Russia had agreed that Europe would be included in coming negotiations. EU foreign policy chief Kaja Kallas said Europe should insist on a ceasefire first. Kremlin spokesman Dmitry Peskov said Moscow was open to contacts once it understood European intentions.",
-   "keyFacts": [
-    "Russia says it downed 1,198 Ukrainian drones",
-    "Seven killed in three Russian regions, officials said",
-    "Russia launched 117 drones at Ukraine overnight"
-   ],
-   "sources": [
-    {
-     "name": "AP (via ABC News)",
-     "url": "https://abcnews.com/International/wireStory/ukraine-fires-1200-drones-russia-us-led-talks-138104516"
-    },
-    {
-     "name": "AP (via ClickOrlando)",
-     "url": "https://www.clickorlando.com/news/world/2026/11/13/ukraine-fires-nearly-1200-drones-at-russia-as-us-led-talks-consider-wider-european-security/"
-    }
-   ],
-   "publishedAt": "2026-11-13T23:01:00+11:00",
-   "createdAt": "2026-11-14T06:54:58+11:00"
-  },
-  {
-   "id": "2026-11-14-us-ppi-october",
-   "batch": "2026-11-14",
-   "rank": 3,
-   "category": "Economy",
-   "title": "US producer prices rise 6.5 per cent over the year, the fastest pace since 2022",
-   "summary": "US producer prices rose 0.3 per cent in October, below the 0.4 per cent economists had forecast, according to Labor Department figures reported by Investing.com and Yahoo Finance. Over the year to October, prices were up 6.5 per cent, the largest annual increase since November 2022.\n\nGoods prices rose 0.5 per cent in the month and services 0.2 per cent, Investing.com reported. Analysts at Capital Economics said the Federal Reserve may need to raise rates more quickly. Markets are pricing in at least a quarter-point rise at the Fed's December meeting, with some bets on half a point.",
-   "keyFacts": [
-    "Monthly rise of 0.3 per cent, below forecasts",
-    "Annual rise of 6.5 per cent, up from 6.3 per cent",
-    "Markets expect a Fed rate rise in December"
-   ],
-   "sources": [
-    {
-     "name": "Investing.com",
-     "url": "https://www.investing.com/news/economic-indicators/us-producer-prices-rise-by-65-yearoveryear-in-october-5025495"
-    },
-    {
-     "name": "Yahoo Finance",
-     "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
-    }
-   ],
-   "publishedAt": "2026-11-14T00:30:00+11:00",
-   "createdAt": "2026-11-14T06:54:58+11:00"
-  },
-  {
-   "id": "2026-11-14-wall-street-chip-selloff",
-   "batch": "2026-11-14",
-   "rank": 4,
-   "category": "Economy",
-   "title": "Wall Street slips as chip stocks fall and US 10-year yield tops 5.1 per cent",
-   "summary": "US shares fell on Friday as chipmakers sold off after Jensen Huang's resignation as Nvidia chief executive, AP reported. In afternoon trading the S&P 500 was down 0.6 per cent, the Nasdaq 1.1 per cent and the Dow 0.1 per cent. AP said the S&P 500 was still on track for a weekly gain of about 2 per cent.\n\nNvidia was down 2.8 per cent, Broadcom 5.1 per cent and AMD 10 per cent at that point, according to AP. The 10-year Treasury yield rose to 5.14 per cent from 5.10 per cent. Economists widely expect the Federal Reserve to raise rates in December, AP reported.",
-   "keyFacts": [
-    "AMD down about 10 per cent in afternoon trade",
-    "10-year Treasury yield at 5.14 per cent",
-    "Figures are afternoon levels, not final closes"
-   ],
-   "sources": [
-    {
-     "name": "AP (via BNN Bloomberg)",
-     "url": "https://bnnbloomberg.ca/business/artificial-intelligence/2026/11/13/stocks-sway-as-wall-street-heads-for-a-winning-week-after-several-turbulent-days"
-    }
-   ],
-   "publishedAt": "2026-11-14T05:32:00+11:00",
-   "createdAt": "2026-11-14T06:54:58+11:00"
-  },
-  {
-   "id": "2026-11-14-us-denies-bahrain-radar-hit",
-   "batch": "2026-11-14",
-   "rank": 5,
-   "category": "World",
-   "title": "US military denies Iran hit radar in Bahrain, says it shot down two drones",
-   "summary": "The US military denied an Iranian claim that the Revolutionary Guards had destroyed a US early-warning radar in Bahrain, Reuters reported. US forces said they shot down two one-way attack drones launched towards Bahrain by the Guards and that no harm was caused.\n\nIran said its action was retaliation for an air strike on a telecommunications tower near the port town of Sirik in Hormozgan province, according to Iranian state media cited by Reuters and RFE/RL. There was no immediate comment from Bahrain. The war began with US and Israeli strikes on Iran on 28 February, and the US has imposed a naval blockade on Iranian ports.",
-   "keyFacts": [
-    "US says two Iranian drones were shot down",
-    "Iran cited a strike on a tower near Sirik",
-    "Bahrain did not immediately comment"
-   ],
-   "sources": [
-    {
-     "name": "Reuters (via Al-Monitor)",
-     "url": "https://www.al-monitor.com/originals/2026/11/us-denies-irans-claim-it-attacked-early-warning-radar-bahrain"
-    },
-    {
-     "name": "RFE/RL",
-     "url": "https://www.rferl.org/a/iran-us-sirik-bahrain-war-nuclear-talks/33897951.html"
-    }
-   ],
-   "publishedAt": "2026-11-13T23:00:00+11:00",
-   "createdAt": "2026-11-14T06:54:58+11:00"
-  },
-  {
-   "id": "2026-11-14-hormuz-lng-tanker-mine",
-   "batch": "2026-11-14",
-   "rank": 6,
-   "category": "World",
-   "title": "Iran says LNG tanker hit a mine and exploded in the Strait of Hormuz",
-   "summary": "Iran's Revolutionary Guards navy said a tanker carrying liquefied natural gas struck a naval mine and exploded in the Strait of Hormuz on Friday, according to Iranian state media cited by Reuters. The Guards said the ship had taken an unauthorised and dangerous route. No details about the vessel were immediately available.\n\nThe report came a day after Iranian media said four oil tankers had been hit by explosions. Reuters, citing the Washington Institute for Near East Policy, said at least 10 ships were hit in the first 10 days of November, after 37 attacks in October.",
-   "keyFacts": [
-    "Iran says the ship used an unauthorised route",
-    "Four tankers were reported hit the previous day",
-    "At least 10 ships hit in early November, think tank says"
-   ],
-   "sources": [
-    {
-     "name": "Reuters (via gCaptain)",
-     "url": "https://gcaptain.com/iran-says-tanker-carrying-lng-hit-mine-suffered-explosion-in-hormuz/"
-    },
-    {
-     "name": "Reuters (via Korea Times)",
-     "url": "https://www.koreatimes.co.kr/world/20261113/iran-says-tanker-carrying-lng-hit-mine-suffered-explosion-in-hormuz"
-    }
-   ],
-   "publishedAt": "2026-11-13T19:23:00+11:00",
-   "createdAt": "2026-11-14T06:54:58+11:00"
-  },
-  {
-   "id": "2026-11-14-senate-summons-huang-lutnick",
-   "batch": "2026-11-14",
-   "rank": 7,
-   "category": "Business",
-   "title": "US Senate committee asks Jensen Huang and Howard Lutnick to testify over Nvidia case",
-   "summary": "Senate Banking Committee chair Tim Scott has asked former Nvidia chief executive Jensen Huang to appear on 3 December and Commerce Secretary Howard Lutnick on 10 December, Fortune reported. Scott's letter cited national security concerns and said the committee was prepared to use subpoenas if they did not appear voluntarily.\n\nHuang resigned this week after acknowledging an affair with a woman reported to be suspected by US intelligence of spying for China, which has denied involvement. Reuters, citing unnamed sources, reported a second relationship with an employee. Senators from both parties have raised questions about the Commerce Department's handling of chip exports to China, Fortune said.",
-   "keyFacts": [
-    "Huang asked to appear on 3 December",
-    "Lutnick asked to appear on 10 December",
-    "Committee says it may use subpoenas"
-   ],
-   "sources": [
-    {
-     "name": "Fortune",
-     "url": "https://fortune.com/2026/11/13/senate-banking-committee-nvidia-jensen-huang-howard-lutnick/"
-    }
-   ],
-   "publishedAt": "2026-11-13T23:04:00+11:00",
-   "createdAt": "2026-11-14T06:54:58+11:00"
-  },
-  {
-   "id": "2026-11-14-dutch-coalition-crisis-talks",
-   "batch": "2026-11-14",
-   "rank": 9,
-   "category": "World",
-   "title": "Dutch coalition survives crisis talks after row over tax package",
-   "summary": "Dutch Prime Minister Rob Jetten held about seven hours of crisis talks on Friday with leaders of his two coalition partners after a dispute over a tax package, AP and NL Times reported. Sources told NL Times the conservative VVD would stay in the minority government.\n\nThe row began when coalition partners D66 and CDA passed an amended tax plan with support from left-leaning opposition parties, while the VVD voted against it. VVD leader Dilan Yeşilgöz-Zegerius said the minority cabinet experiment had failed but adjustments were possible, AP reported. Jetten said further talks would be held in the coming days. The government took office less than nine months ago.",
-   "keyFacts": [
-    "Talks lasted about seven hours, NL Times said",
-    "Tax plan passed with a one-vote majority",
-    "Government is less than nine months old"
-   ],
-   "sources": [
-    {
-     "name": "AP (via ABC News)",
-     "url": "https://abcnews.com/International/wireStory/dutch-prime-minister-holds-hours-crisis-talks-coalition-138119022"
-    },
-    {
-     "name": "NL Times",
-     "url": "https://nltimes.nl/2026/11/13/pm-rob-jettens-cabinet-survives-vvd-defecting-left-center-tax-plan-deal"
-    }
-   ],
-   "publishedAt": "2026-11-14T05:26:00+11:00",
-   "createdAt": "2026-11-14T06:54:58+11:00"
-  },
-  {
-   "id": "2026-11-14-albanese-asean-trump",
-   "batch": "2026-11-14",
-   "rank": 12,
-   "category": "Australia",
-   "title": "Albanese leaves COP31 for ASEAN summit, where Trump is due to attend",
-   "summary": "Prime Minister Anthony Albanese left the COP31 climate summit in Antalya, Turkey, on Friday night Australian time for the ASEAN summit in the Philippines, AAP reported. US President Donald Trump is confirmed to attend the ASEAN event on 17 November, and the two leaders could meet up to three times across ASEAN and the APEC forum in Shenzhen, according to AAP.\n\nAlbanese is expected to discuss regional security and fuel supplies, AAP said. Environmental groups criticised the government at COP31 for not addressing a fossil fuel phase-out. Climate Change Minister Chris Bowen remains in Turkey as head of negotiations, with a cover decision due on 20 November.",
-   "keyFacts": [
-    "Trump confirmed for ASEAN event on 17 November",
-    "Trip ends at APEC in Shenzhen, China",
-    "Bowen stays at COP31 to lead negotiations"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/changing-climates-pm-trades-cop31-for-trump-talks"
-    }
-   ],
-   "publishedAt": "2026-11-14T03:40:00+11:00",
-   "createdAt": "2026-11-14T06:54:58+11:00"
-  },
-  {
-   "id": "2026-11-14-microsoft-outage-apology",
-   "batch": "2026-11-14",
-   "rank": 13,
-   "category": "Science & Tech",
-   "title": "Microsoft apologises for near 24-hour outage, blames network capacity upgrade",
-   "summary": "Microsoft has apologised for an outage that disrupted Outlook, Teams, OneDrive and other Microsoft 365 services for close to 24 hours, according to Windows Central and AAP. The company said the problem was technical and not related to a cyber attack or AI. It linked the fault to an earlier network capacity upgrade and said it would publish a full incident report.\n\nIn Australia, ASIO chief Mike Burgess said ASIO and the AFP were affected, mainly through email, AAP reported. NSW Parliament, Service NSW, Queensland Health and Northern Territory government services were also hit. In the UK, the NHS and London's Metropolitan Police were affected.",
-   "keyFacts": [
-    "Restoration took almost 24 hours",
-    "Microsoft says there was no cyber attack",
-    "Full post-incident report promised"
-   ],
-   "sources": [
-    {
-     "name": "Windows Central",
-     "url": "https://www.windowscentral.com/microsoft/we-are-deeply-sorry-microsoft-apologizes-for-major-outage-that-knocked-outlook-teams-and-microsoft-365-offline-for-24-hours-insists-it-wasnt-ai-that-caused-it"
-    },
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/hours-long-microsoft-outage-hits-companies-governments"
-    },
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/organisations-scrambling-after-major-microsoft-outage"
-    }
-   ],
-   "publishedAt": "2026-11-14T06:00:00+11:00",
-   "createdAt": "2026-11-14T06:54:58+11:00"
-  },
-  {
-   "id": "2026-11-14-moscow-car-bomb-azarov-aide",
-   "batch": "2026-11-14",
-   "rank": 14,
-   "category": "World",
-   "title": "Car bomb in Moscow injures former aide to ex-Ukrainian prime minister",
-   "summary": "A car explosion in Moscow's Chertanovo district injured Sergei Zavorotny, a former adviser to former Ukrainian prime minister Mykola Azarov, Russian authorities said on Friday, according to Anadolu Agency and Al Jazeera. Russia's Investigative Committee opened a criminal case. It was the second car bombing in Russia in two days, after a blast in St Petersburg killed a serviceman, Al Jazeera reported.\n\nAzarov said he believed Ukrainian services were behind the attack. Moscow blames Kyiv for such attacks; Ukrainian authorities had not commented. No group has claimed responsibility. Russian broadcaster REN TV reported serious injuries, which officials did not confirm.",
-   "keyFacts": [
-    "Investigative Committee opened a criminal case",
-    "Second car bombing in Russia in two days",
-    "No group has claimed responsibility"
-   ],
-   "sources": [
-    {
-     "name": "Anadolu Agency",
-     "url": "https://www.aa.com.tr/en/world/former-aide-to-ex-ukrainian-premier-injured-in-car-explosion-in-southern-moscow/4123858"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://aljazeera.com/amp/news/2026/11/13/car-bombings-in-russia-kill-military-officer-injure-ex-ukraine-pm-adviser"
-    }
-   ],
-   "publishedAt": "2026-11-13T19:00:00+11:00",
-   "createdAt": "2026-11-14T06:54:58+11:00"
-  },
-  {
-   "id": "2026-11-14-uk-alfatih-conviction",
-   "batch": "2026-11-14",
-   "rank": 15,
-   "category": "World",
-   "title": "UK jury convicts man wanted by Germany over alleged Hamas-linked plot of wounding bailiff",
-   "summary": "A jury at Birmingham Crown Court convicted Mohammed Al Fatih, 40, of wounding a debt collector on Friday and acquitted him of wounding with intent, The National reported. He was remanded for sentencing, and extradition proceedings will resume.\n\nGerman federal prosecutors allege he was one of eight men plotting attacks on Jewish targets and Israeli diplomats, and that he stored pistols in Vienna, according to The National. Those allegations have not been tested in court. Israel's Mossad says his father is senior Hamas figure Basem Naim. His barrister argued post-traumatic stress explained his behaviour during the incident. He was granted UK asylum in 2015.",
-   "keyFacts": [
-    "Acquitted of the more serious charge of intent",
-    "Germany is seeking his extradition",
-    "German allegations remain untested in court"
-   ],
-   "sources": [
-    {
-     "name": "The National",
-     "url": "https://www.thenationalnews.com/news/uk/2026/11/13/hamas-bodyguard-to-be-extradited-from-uk-to-germany-over-massacre-plot/"
-    }
-   ],
-   "publishedAt": "2026-11-14T00:41:00+11:00",
-   "createdAt": "2026-11-14T06:54:58+11:00"
-  },
-  {
-   "id": "2026-11-14-spain-sanchez-feijoo-debate",
-   "batch": "2026-11-14",
-   "rank": 16,
-   "category": "World",
-   "title": "Spain sets Sánchez–Feijóo election debate for 19 November",
-   "summary": "Spain's Television Academy said Prime Minister Pedro Sánchez of the Socialist party and opposition People's Party leader Alberto Núñez Feijóo will hold a televised debate on Thursday 19 November, according to the EFE news agency and El Español. The academy's president, María Casado, will moderate.\n\nThe parties agreed on five topics: housing, economy and tax, social policy and public services, anti-corruption and democratic renewal, and migration and foreign policy, EFE reported. A draw decided Feijóo will open and Sánchez will close. El Español said the debate was originally planned for 16 November. Spain holds a general election on 29 November.",
-   "keyFacts": [
-    "Debate moved from 16 to 19 November",
-    "Five agreed topic blocks, including housing",
-    "General election is on 29 November"
-   ],
-   "sources": [
-    {
-     "name": "EFE (via Infobae)",
-     "url": "https://www.infobae.com/espana/agencias/2026/11/13/sanchez-y-feijoo-debatiran-cara-a-cara-el-19-de-noviembre-en-la-academia-de-television/"
-    },
-    {
-     "name": "El Español",
-     "url": "https://www.elespanol.com/espana/politica/20261113/cara-sanchez-feijoo-celebrara-noviembre-organizado-academia-television/1003744457727_0.html"
-    }
-   ],
-   "publishedAt": "2026-11-14T02:03:00+11:00",
-   "createdAt": "2026-11-14T06:54:58+11:00"
-  },
-  {
-   "id": "2026-11-14-france-israel-melenchon-ban",
-   "batch": "2026-11-14",
-   "rank": 17,
-   "category": "World",
-   "title": "France criticises Israel's entry ban on Jean-Luc Mélenchon",
-   "summary": "French Foreign Minister Jean-Noël Barrot called Israel's decision to bar left-wing leader Jean-Luc Mélenchon from entering the country a demagogic move, Middle East Eye reported. Israel announced the ban on Thursday, citing his statements on Israel and the Gaza war.\n\nIsraeli Interior Minister Gideon Sa'ar accused Mélenchon of spreading blood libels, referring among other things to his pledge to escort aid flotillas to Gaza if elected, according to Middle East Eye. Mélenchon said on X that he had been barred from a place he had no plans to visit. Barrot, a political opponent of Mélenchon, said the decision helped Mélenchon's party.",
-   "keyFacts": [
-    "Israel announced the ban on Thursday",
-    "Barrot is a political opponent of Mélenchon",
-    "Mélenchon is a 2027 presidential contender"
-   ],
-   "sources": [
-    {
-     "name": "Middle East Eye",
-     "url": "https://middleeasteye.net/news/french-government-condemns-israel-entry-ban-jean-luc-melenchon"
-    }
-   ],
-   "publishedAt": "2026-11-13T22:25:00+11:00",
-   "createdAt": "2026-11-14T06:54:58+11:00"
-  },
-  {
-   "id": "2026-11-14-guinea-gold-clashes",
-   "batch": "2026-11-14",
-   "rank": 19,
-   "category": "World",
-   "title": "Ten killed in Guinea clashes over ban on artisanal gold mining",
-   "summary": "Ten people were killed and 13 injured in clashes in Guinea's Siguiri gold region as security forces enforced a ban on unregulated artisanal mining, according to provisional government figures reported by Mining.com. Five of the dead were foreign nationals. The territorial administration ministry said protesters had set up barricades before gunfire broke out.\n\nMore than 1,200 suspected illegal miners have been arrested since the ban took effect on 2 November, Mining.com reported. Malian authorities said about 160,000 people had been displaced into Mali, and Burkina Faso said it had repatriated more than 45,000 citizens from Guinea.",
-   "keyFacts": [
-    "Ban on artisanal mining took effect 2 November",
-    "Five foreign nationals among the dead",
-    "More than 1,200 suspected miners arrested"
-   ],
-   "sources": [
-    {
-     "name": "Mining.com",
-     "url": "https://mining.com/guinea-gold-mining-crackdown-leaves-10-dead-sparks-exodus"
-    }
-   ],
-   "publishedAt": "2026-11-13T21:53:00+11:00",
-   "createdAt": "2026-11-14T06:54:58+11:00"
-  },
-  {
-   "id": "2026-11-14-mamdani-snap-deal",
-   "batch": "2026-11-14",
-   "rank": 21,
-   "category": "Politics",
-   "title": "Mamdani says Trump agreed to delay new SNAP stocking rules for small shops",
-   "summary": "New York Mayor Zohran Mamdani said on Friday he had reached a deal directly with President Donald Trump to delay enforcement of new federal food stamp (SNAP) stocking rules for small retailers nationwide, amNY reported. City Hall said the delay is 90 days.\n\nThe rules require participating stores to stock more varieties of staple foods. Mamdani had written to the Agriculture Department on 2 November asking for a six-month delay. The White House and the department had not confirmed the agreement when amNY published. The city says more than 10,000 New York bodegas and corner stores are affected.",
-   "keyFacts": [
-    "Delay is 90 days, City Hall says",
-    "White House had not confirmed the deal",
-    "Rules affect small SNAP retailers nationwide"
-   ],
-   "sources": [
-    {
-     "name": "amNY",
-     "url": "https://www.amny.com/politics/mamdani-deal-trump-delay-snap-rules-nationwide/"
-    }
-   ],
-   "publishedAt": "2026-11-14T06:30:00+11:00",
-   "createdAt": "2026-11-14T06:54:58+11:00"
-  },
-  {
    "id": "2026-11-14-trump-xi-putin-summit",
    "batch": "2026-11-14-pm",
    "rank": 1,
@@ -1497,56 +1409,6 @@
    "createdAt": "2026-11-14T17:53:55+11:00"
   },
   {
-   "id": "2026-11-14-icc-afghanistan-us-troops",
-   "batch": "2026-11-14-pm",
-   "rank": 5,
-   "category": "World",
-   "title": "ICC judges close part of Afghanistan probe that covered alleged US troop crimes",
-   "summary": "Judges at the International Criminal Court have closed the part of the prosecutor's Afghanistan investigation that could examine alleged crimes by US forces, along with a probe into the Islamic State affiliate ISIS-K, according to Reuters and AP reports carried by Al Jazeera and Defense News. The investigation will now focus on the Taliban's conduct since 2021.\n\nThe judges cited significant limits on the prosecution's ability to investigate. The prosecutor's office said it had appealed. The US is not an ICC member and has sanctioned court staff. Arrest warrants for four Taliban leaders remain in force, Reuters reported.",
-   "keyFacts": [
-    "Focus narrowed to Taliban conduct since 2021",
-    "Prosecutor's office has appealed",
-    "Warrants for four Taliban leaders remain"
-   ],
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://aljazeera.com/news/2026/11/14/icc-stops-probe-into-alleged-crimes-by-us-troops-in-afghanistan"
-    },
-    {
-     "name": "Reuters (via Defense News)",
-     "url": "https://www.defensenews.com/global/mideast-africa/2026/11/13/judges-close-part-of-icc-afghanistan-investigations-that-could-look-at-us-troops/"
-    }
-   ],
-   "publishedAt": "2026-11-14T04:55:00+11:00",
-   "createdAt": "2026-11-14T17:53:55+11:00"
-  },
-  {
-   "id": "2026-11-14-turkiye-qatar-defence-pact",
-   "batch": "2026-11-14-pm",
-   "rank": 6,
-   "category": "World",
-   "title": "Türkiye and Qatar sign mutual defence agreement",
-   "summary": "Türkiye and Qatar have signed a mutual defence agreement committing them to a unified position against any external armed attack on either country, according to AFP and Al Jazeera. It was signed after President Recep Tayyip Erdoğan met Qatar's Emir Sheikh Tamim bin Hamad Al Thani in Istanbul on Friday.\n\nA joint statement carried by Qatar's state news agency said the pact covers consultation on threats, joint exercises, defence industry cooperation and training, AFP reported. Erdoğan's office said it added a new dimension to ties, and the emir called it a strategic partnership. Other agreements signed included one on conflict resolution.",
-   "keyFacts": [
-    "Signed in Istanbul on Friday",
-    "Pledges joint stance against external attack",
-    "Covers exercises, industry and training"
-   ],
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement"
-    },
-    {
-     "name": "AFP (via Al-Monitor)",
-     "url": "https://www.al-monitor.com/originals/2026/11/turkey-qatar-sign-mutual-defence-agreement"
-    }
-   ],
-   "publishedAt": "2026-11-14T02:49:00+11:00",
-   "createdAt": "2026-11-14T17:53:55+11:00"
-  },
-  {
    "id": "2026-11-14-medicaid-work-rules-delay",
    "batch": "2026-11-14-pm",
    "rank": 7,
@@ -1636,27 +1498,6 @@
     }
    ],
    "publishedAt": "2026-11-14T14:00:00+11:00",
-   "createdAt": "2026-11-14T17:53:55+11:00"
-  },
-  {
-   "id": "2026-11-14-georgia-election-board-ein",
-   "batch": "2026-11-14-pm",
-   "rank": 12,
-   "category": "Politics",
-   "title": "ProPublica reports Georgia election board members worked with Cleta Mitchell network",
-   "summary": "Current and former members of Georgia's State Election Board coordinated with lawyer Cleta Mitchell's Election Integrity Network and allied groups, ProPublica reported, citing recordings of private calls and events. It reported that the board's executive director, James Mills, worked closely with network members, according to five sources.\n\nBoard chair John Fervier told ProPublica the network's influence should stop. Vice chair Janelle King said activists did not influence her decisions, and Mills declined to answer questions. Mitchell praised the network's work with the board, and network figure Garland Favorito called the report's central claim a false conspiracy theory.",
-   "keyFacts": [
-    "Based on recordings of private calls",
-    "Board chair says influence should stop",
-    "Network figure calls claim false"
-   ],
-   "sources": [
-    {
-     "name": "ProPublica",
-     "url": "https://www.propublica.org/article/georgia-election-board-cleta-mitchell-midterms"
-    }
-   ],
-   "publishedAt": "2026-11-13T22:00:00+11:00",
    "createdAt": "2026-11-14T17:53:55+11:00"
   },
   {
@@ -4448,6 +4289,330 @@
  ],
  "leftOut": [
   {
+   "id": "2026-11-21-lo-sydney-terror-charges",
+   "batch": "2026-11-21",
+   "rank": 1,
+   "category": "Australia",
+   "title": "Man charged with terrorism offences after raids in Sydney's south-west",
+   "summary": "A 35-year-old man was charged with making a document connected with terrorism and using a carriage service to possess violent extremist material after raids in Sydney's south-west on Friday, ABC News reported. Police allege the material related to religiously motivated extremism, including Islamic State.\n\nThe man was arrested at an Ingleburn home and refused bail, according to the ABC. A 34-year-old man arrested in Campbelltown was expected to be charged with hindering police, and a 33-year-old arrested at Wolli Creek was expected to face firearms charges. Police searched several properties and seized items.",
+   "keyFacts": [
+    "35-year-old charged and refused bail",
+    "Police allege Islamic State-related material",
+    "Two other men arrested in the raids"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-20/sydney-counter-terror-raids-campbelltown/107407568"
+    }
+   ],
+   "publishedAt": "2026-11-20T10:58:00+11:00",
+   "createdAt": "2026-11-21T06:50:59+11:00",
+   "reason": "Outside today's window"
+  },
+  {
+   "id": "2026-11-21-lo-trump-nuclear-limits-hard",
+   "batch": "2026-11-21",
+   "rank": 2,
+   "category": "World",
+   "title": "Trump says nuclear arms limits with China and Russia will be hard to achieve",
+   "summary": "US President Donald Trump said after talks with Xi Jinping and Vladimir Putin that an agreement to limit nuclear weapons would be very hard to achieve but he would keep working on it, Reuters reported. He spoke to Reuters by phone on his flight back from the three-way meeting in China.\n\nTrump said Xi agreed with the concept, according to Reuters, while China has been reluctant to join arms control talks. Reuters cited estimates of about 410 Chinese, 3,708 US and 5,420 Russian warheads. The leaders' joint statement said a nuclear war cannot be won and committed them to dialogue on reducing nuclear risks.",
+   "keyFacts": [
+    "Trump spoke to Reuters after the Shenzhen meeting",
+    "He said Xi agrees with the concept",
+    "Joint statement commits to dialogue on nuclear risks"
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via ThePrint)",
+     "url": "https://theprint.in/world/trump-says-nuclear-arms-limits-with-china-russia-will-be-very-hard-to-achieve/3103756/"
+    }
+   ],
+   "publishedAt": "2026-11-20T10:00:00+11:00",
+   "createdAt": "2026-11-21T06:50:59+11:00",
+   "reason": "Outside today's window"
+  },
+  {
+   "id": "2026-11-21-lo-senegal-pastef-expels-faye",
+   "batch": "2026-11-21",
+   "rank": 3,
+   "category": "World",
+   "title": "Senegal's ruling party expels President Faye and 31 other members",
+   "summary": "Senegal's ruling Pastef party has expelled President Bassirou Diomaye Faye and 31 other members it described as inactive, Africanews reported, citing agencies. The move follows a months-long dispute between Faye and party leader Ousmane Sonko.\n\nFaye dismissed Sonko as prime minister in May 2026, and Sonko is now speaker of the National Assembly, according to Africanews and Channel Africa. Faye launched his own party in July. Pastef holds 130 of the Assembly's 165 seats, while Faye's party holds none. Africanews said the deadlock could put IMF support and new 2027 budget spending at risk.",
+   "keyFacts": [
+    "Faye and 31 others expelled from Pastef",
+    "Pastef holds 130 of 165 Assembly seats",
+    "Sonko is now National Assembly speaker"
+   ],
+   "sources": [
+    {
+     "name": "Africanews",
+     "url": "https://www.africanews.com/2026/11/18/senegals-ruling-party-pastef-expels-countrys-president-and-31-others/"
+    },
+    {
+     "name": "Channel Africa",
+     "url": "https://www.channelafrica.co.za/channelafrica/news/senegals-ruling-party-expels-president-faye/"
+    }
+   ],
+   "publishedAt": "2026-11-19T00:04:00+11:00",
+   "createdAt": "2026-11-21T06:50:59+11:00",
+   "reason": "Outside today's window"
+  },
+  {
+   "id": "2026-11-21-lo-somalia-expels-uae-envoy",
+   "batch": "2026-11-21",
+   "rank": 4,
+   "category": "World",
+   "title": "Somalia orders UAE ambassador to leave within 72 hours",
+   "summary": "Somalia's government ordered the United Arab Emirates ambassador to leave within 72 hours and recalled its own ambassador from Abu Dhabi, AP reported on Thursday. Information Minister Abdifatah Kasim Mohamud announced the decision after a Cabinet meeting.\n\nSomalia accuses the UAE of violating its sovereignty and supporting armed forces outside federal control, according to AP. The UAE has ties with Somaliland, Puntland and Jubbaland. UAE adviser Anwar Gargash accused President Hassan Sheikh Mohamud of putting personal calculations first. The dispute follows Somalia's annulment in January of agreements with the UAE on ports and security.",
+   "keyFacts": [
+    "UAE envoy given 72 hours to leave",
+    "Somalia recalls its ambassador from Abu Dhabi",
+    "Somalia accuses UAE of breaching sovereignty"
+   ],
+   "sources": [
+    {
+     "name": "AP (via ABC News US)",
+     "url": "https://abcnews.com/International/wireStory/somalia-orders-uae-ambassador-leave-diplomatic-dispute-escalates-138288436"
+    }
+   ],
+   "publishedAt": "2026-11-20T01:18:00+11:00",
+   "createdAt": "2026-11-21T06:50:59+11:00",
+   "reason": "Outside today's window"
+  },
+  {
+   "id": "2026-11-21-lo-house-china-aerospace-report",
+   "batch": "2026-11-21",
+   "rank": 5,
+   "category": "Politics",
+   "title": "US House China committee urges FAA not to certify Chinese-made aircraft",
+   "summary": "The US House Select Committee on China released a report recommending that the Federal Aviation Administration not certify Chinese-made aircraft and that the Treasury restrict outbound investment in China's aerospace sector, according to the committee. Chairman John Moolenaar said the US and its allies should tighten export controls and investment restrictions.\n\nThe report names Honeywell, GE Aerospace and Collins as having obtained licences for technology transfers involving Chinese military end users, the committee said. Reuters reported Honeywell said its projects were fully licensed by the US government. The FAA said it had not certified any Chinese aircraft, and China's embassy criticised the report.",
+   "keyFacts": [
+    "Report urges FAA not to certify Chinese aircraft",
+    "Recommends limits on aerospace investment in China",
+    "Honeywell says its projects were fully licensed"
+   ],
+   "sources": [
+    {
+     "name": "House Select Committee on the CCP",
+     "url": "https://chinaselectcommittee.house.gov/media/press-releases/investigation-details-how-western-government-policy-enabled-china-s-rise-in-the-skies"
+    },
+    {
+     "name": "Reuters (via Lufkin Daily News)",
+     "url": "https://lufkindailynews.com/news_reuters/top_news/exclusive-us-should-not-certify-chinese-aircraft-restrict-investments-in-chinas-aerospace-sector-lawmakers-say/article_539c833a-5cda-58af-86ae-df50cca092f5.html"
+    }
+   ],
+   "publishedAt": "2026-11-20T06:19:00+11:00",
+   "createdAt": "2026-11-21T06:50:59+11:00",
+   "reason": "Outside today's window"
+  },
+  {
+   "id": "2026-11-21-lo-uscc-taiwan-elections-report",
+   "batch": "2026-11-21",
+   "rank": 6,
+   "category": "World",
+   "title": "US commission says China will treat Taiwan's elections as a test",
+   "summary": "An annual report to the US Congress from the US-China Economic and Security Review Commission says Beijing will watch Taiwan's 28 November local elections and 2028 presidential vote to judge whether pressure can move Taiwan towards unification, the Taipei Times reported.\n\nThe report says China could escalate to a blockade or quarantine if its political approach fails, according to the newspaper. It lists Taiwan's vulnerabilities, including political divisions slowing defence spending and nearly $US30 billion in approved US weapons not yet delivered as of August. The report describes Taiwan as indispensable to the regional balance, the Taipei Times said.",
+   "keyFacts": [
+    "Report released by the US-China commission on 19 November",
+    "Says Beijing could escalate to blockade or quarantine",
+    "Nearly $US30 billion in US arms undelivered as of August"
+   ],
+   "sources": [
+    {
+     "name": "Taipei Times",
+     "url": "https://www.taipeitimes.com/News/front/archives/2026/11/20/2003868061"
+    }
+   ],
+   "publishedAt": "2026-11-20T03:00:00+11:00",
+   "createdAt": "2026-11-21T06:50:59+11:00",
+   "reason": "Outside today's window"
+  },
+  {
+   "id": "2026-11-21-lo-ecb-presidency-deal",
+   "batch": "2026-11-21",
+   "rank": 7,
+   "category": "Economy",
+   "title": "France and Germany reported to agree deal backing Spain's de Cos for ECB",
+   "summary": "France and Germany have reportedly reached a deal that would give the European Central Bank presidency to Spain's Pablo Hernández de Cos, Eunews reported. Under the reported arrangement, Germany would take the chief economist role and France the head of market operations.\n\nEunews said Reuters reported Berlin would back the Spanish candidate if Markus Brunnermeier became chief economist. The deal must still be formalised, probably at a summit of EU leaders on 26 and 27 November. Each candidate needs the support of at least 16 euro area countries representing 65 per cent of the population. The Netherlands' Klaas Knot is the rival candidate.",
+   "keyFacts": [
+    "Deal reportedly backs Pablo Hernández de Cos",
+    "Must be formalised by EU leaders",
+    "Dutch candidate Klaas Knot is the rival"
+   ],
+   "sources": [
+    {
+     "name": "Eunews",
+     "url": "https://www.eunews.it/en/2026/11/18/france-and-germany-strike-ecb-deal-as-spain-nears-the-presidency/"
+    }
+   ],
+   "publishedAt": "2026-11-18T20:30:00+11:00",
+   "createdAt": "2026-11-21T06:50:59+11:00",
+   "reason": "Not yet confirmed"
+  },
+  {
+   "id": "2026-11-21-lo-china-japan-taiwan-remarks",
+   "batch": "2026-11-21",
+   "rank": 8,
+   "category": "World",
+   "title": "China again urges Japan to correct its statements on Taiwan",
+   "summary": "Chinese Foreign Ministry spokesman Guo Jiakun on Friday repeated Beijing's call for Japan to correct its words and actions on Taiwan, Anadolu Agency reported. He said Japan must honour four political documents between the two countries.\n\nThe day before, Japanese Prime Minister Sanae Takaichi said Japan's position was unchanged from the 1972 joint communique and called for stable ties with Beijing, according to Anadolu, citing Kyodo. She spoke before leaving the APEC summit in Shenzhen. Relations have been strained since Takaichi's November 2025 comments about a possible Japanese military response to a Chinese attack on Taiwan.",
+   "keyFacts": [
+    "Beijing repeats demand on Japan's Taiwan stance",
+    "Takaichi says Japan's position is unchanged",
+    "Dispute dates from November 2025 remarks"
+   ],
+   "sources": [
+    {
+     "name": "Anadolu Agency",
+     "url": "https://www.aa.com.tr/en/asia-pacific/china-urges-japan-to-correct-erroneous-words-deeds-on-taiwan/4131875"
+    }
+   ],
+   "publishedAt": "2026-11-20T18:00:00+11:00",
+   "createdAt": "2026-11-21T06:50:59+11:00",
+   "reason": "Restatement, nothing new"
+  },
+  {
+   "id": "2026-11-21-lo-marana-ice-detention-licence",
+   "batch": "2026-11-21",
+   "rank": 9,
+   "category": "Politics",
+   "title": "Arizona town issues business licence for planned immigration detention centre",
+   "summary": "The town of Marana, Arizona, issued a business licence to Management & Training Corporation to run an immigration detention centre in a former state prison, AP reported, citing Arizona Luminaria. A town spokesman said there were no grounds under town code to refuse it.\n\nArizona Public Media said the town had twice asked the company why sexual abuse allegations were missing from a 2023 audit of the site. The company said one allegation was mistakenly omitted and the others were classed as unfounded. ICE awarded the company a $US335 million contract in September. Opponents said they would keep opposing the facility.",
+   "keyFacts": [
+    "Licence dated 18 November, runs to November 2027",
+    "ICE contract worth $US335 million",
+    "Town says code gave no grounds to refuse"
+   ],
+   "sources": [
+    {
+     "name": "Arizona Luminaria/AP (via AZFamily)",
+     "url": "https://www.azfamily.com/2026/11/19/arizona-town-approves-business-license-immigration-detention-facility/"
+    },
+    {
+     "name": "Arizona Public Media",
+     "url": "https://www.azpm.org/border/2026-11-19/marana-greenlights-license-for-ice-detention-center-amid-questions-about-abuse-allegations"
+    }
+   ],
+   "publishedAt": "2026-11-20T11:10:00+11:00",
+   "createdAt": "2026-11-21T06:50:59+11:00",
+   "reason": "Outside today's window"
+  },
+  {
+   "id": "2026-11-21-lo-michigan-rivers-e-coli",
+   "batch": "2026-11-21",
+   "rank": 10,
+   "category": "Environment",
+   "title": "Michigan officials estimate three in four rivers exceed E. coli limits",
+   "summary": "An estimated 75 per cent of Michigan's rivers and streams are likely to exceed state E. coli limits, according to Molly Rippke of the state's environment department, Bridge Michigan reported. The state has tested about half of its rivers and tributaries.\n\nThe report said sources include farm manure runoff, leaking septic systems and sewage. About 12.4 million people spend time on the state's rivers each year, according to the article. Lawmakers from both parties agree the problem is serious but differ on how to address it, Bridge Michigan said.",
+   "keyFacts": [
+    "About 75% of rivers likely exceed E. coli limits",
+    "State has tested about half its waterways",
+    "Sources include manure, septic systems and sewage"
+   ],
+   "sources": [
+    {
+     "name": "Bridge Michigan (via Michigan Public)",
+     "url": "https://www.michiganpublic.org/environment-climate-change/2026-11-19/michigan-rivers-streams-fecal-pollution-e-coli"
+    }
+   ],
+   "publishedAt": "2026-11-20T01:04:00+11:00",
+   "createdAt": "2026-11-21T06:50:59+11:00",
+   "reason": "Outside today's window"
+  },
+  {
+   "id": "2026-11-21-lo-abc-news-staffers-leave",
+   "batch": "2026-11-21",
+   "rank": 11,
+   "category": "Other",
+   "title": "ABC News staff reportedly placed on leave over Trump Jr business story",
+   "summary": "ABC News reportedly placed two employees on paid leave after an internal review of an October story about Donald Trump Jr.'s business dealings, according to reports citing The Wall Street Journal and Status. An ABC spokesperson said no one's employment status had changed, Fox News and ComingSoon.net reported.\n\nThe story was removed a day after publication in October and restored with corrections, according to the reports. It had said venture firm 1789 Capital took a major stake in defence company Anduril. ABC later clarified that the firm invested $US50 million as part of a larger round. A 1789 spokesperson told Fox News the firm was considering legal action.",
+   "keyFacts": [
+    "Two staff reportedly placed on paid leave",
+    "ABC says no employment status has changed",
+    "Story was corrected after publication in October"
+   ],
+   "sources": [
+    {
+     "name": "Fox News",
+     "url": "https://www.foxnews.com/media/abc-news-quietly-suspended-staffers-botched-story-trump-sons-business-dealings"
+    },
+    {
+     "name": "ComingSoon.net (via Yahoo)",
+     "url": "https://www.yahoo.com/news/politics/articles/2-abc-news-staffers-reportedly-084516273.html"
+    }
+   ],
+   "publishedAt": "2026-11-20T19:45:00+11:00",
+   "createdAt": "2026-11-21T06:50:59+11:00",
+   "reason": "Not yet confirmed"
+  },
+  {
+   "id": "2026-11-21-lo-europe-student-protests",
+   "batch": "2026-11-21",
+   "rank": 12,
+   "category": "Other",
+   "title": "Students protest across Europe over cost of living, war and education cuts",
+   "summary": "Thousands of young people protested in cities across Europe and the UK on Friday, ABC News reported. The organising Youth Strike coalition said it planned demonstrations in about 400 cities in countries including Germany, France, Italy, Spain and the UK.\n\nIssues raised included the cost of living, climate, education budgets, housing, defence spending and compulsory military service, according to the ABC. The Berlin rally was among the largest. In Rome a small group threw firecrackers, but events were mostly peaceful, and London police kept a rival group apart from students. Organisers said larger Paris protests were planned for the weekend.",
+   "keyFacts": [
+    "Organisers planned protests in about 400 cities",
+    "Berlin rally among the largest",
+    "Mostly peaceful, according to the ABC"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-21/students-protest-in-eu-and-uk/107406996"
+    }
+   ],
+   "publishedAt": "2026-11-21T05:38:00+11:00",
+   "createdAt": "2026-11-21T06:50:59+11:00",
+   "reason": "Human interest"
+  },
+  {
+   "id": "2026-11-21-lo-sydney-marathon-winner-banned",
+   "batch": "2026-11-21",
+   "rank": 13,
+   "category": "Sport",
+   "title": "Sydney Marathon winner Jepchirchir disqualified and banned for three years",
+   "summary": "Kenya's Peres Jepchirchir has been disqualified from the Sydney Marathon and suspended for three years after testing positive for EPO in a sample taken before her August win, AAP reported. She has also been banned for life from the world's major marathons.\n\nIrine Cheptai is set to be named champion, according to AAP. The Athletics Integrity Unit also announced bans for two other Kenyan runners. Race director Wayne Larden said the case showed the testing system worked. AIU head Brett Clothier said there was still a long way to go, and that Kenya's government had committed to strengthening its anti-doping agency.",
+   "keyFacts": [
+    "Positive test for EPO before August race",
+    "Three-year suspension and life ban from majors",
+    "Irine Cheptai set to be elevated to winner"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/sydney-marathon-champ-gets-three-year-drugs-ban"
+    }
+   ],
+   "publishedAt": "2026-11-20T18:00:00+11:00",
+   "createdAt": "2026-11-21T06:50:59+11:00",
+   "reason": "Sport"
+  },
+  {
+   "id": "2026-11-21-lo-loganholme-murder-charges",
+   "batch": "2026-11-21",
+   "rank": 14,
+   "category": "Other",
+   "title": "Three 16-year-olds charged with murder over Loganholme pub shooting",
+   "summary": "Queensland police have charged three 16-year-old boys with murder, attempted murder and arson over a drive-by shooting at a pub at Loganholme, south of Brisbane, on 24 October, AAP reported. Five people were taken into custody after search warrants were executed on Thursday.\n\nVana-Reese Schuster-Togiatau was shot during a boxing event and died five days later, according to AAP. Three men were also injured. Detective Inspector Ian Galpin said two people were in the car from which shots were fired, and gang involvement had not been ruled out. The three were due in Brisbane Children's Court on Friday.",
+   "keyFacts": [
+    "Three teenagers charged with murder",
+    "Shooting occurred on 24 October",
+    "Police have not ruled out gang involvement"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/five-arrested-after-drive-by-killing-at-pub"
+    }
+   ],
+   "publishedAt": "2026-11-20T08:00:00+10:00",
+   "createdAt": "2026-11-21T06:50:59+11:00",
+   "reason": "Local crime"
+  },
+  {
    "id": "2026-11-20-lo-bukele-third-term-bid",
    "batch": "2026-11-20-pm",
    "category": "World",
@@ -4742,194 +4907,6 @@
    "createdAt": "2026-11-19T17:47:45+11:00"
   },
   {
-   "id": "2026-11-14-lo-rideau-canal-freezing",
-   "batch": "2026-11-14",
-   "rank": 1,
-   "category": "Environment",
-   "title": "Ottawa agency weighs artificially freezing part of Rideau Canal skateway",
-   "summary": "Canada's National Capital Commission is considering refrigerating a 900-metre stretch of the Rideau Canal in downtown Ottawa so it can be used for skating more often, The Canadian Press reported. The commission's chief operating officer, Tobi Nussbaum, told CBC News that a feasibility study proposed using refrigeration pipes.\n\nNussbaum said the number of skating days could triple, but not before 2030. The canal opened for only 10 days in 2024 and did not open to skaters in 2023, according to The Canadian Press. The study links the shorter seasons to warmer winters.",
-   "keyFacts": [
-    "Stretch under study is 900 metres long",
-    "Skating days could triple, the commission says",
-    "Not expected before 2030"
-   ],
-   "sources": [
-    {
-     "name": "The Canadian Press (via paNOW)",
-     "url": "https://panow.com/2026/11/13/national-capital-commission-considering-artificial-freezing-for-rideau-canal/"
-    },
-    {
-     "name": "The Canadian Press (via iNFOnews)",
-     "url": "https://infonews.ca/news/7983551/national-capital-commission-considering-artificial-freezing-for-rideau-canal/"
-    }
-   ],
-   "publishedAt": "2026-11-14T04:26:00+11:00",
-   "createdAt": "2026-11-14T06:54:58+11:00",
-   "reason": "Human interest"
-  },
-  {
-   "id": "2026-11-14-lo-gop-midterm-reaction",
-   "batch": "2026-11-14",
-   "rank": 2,
-   "category": "Politics",
-   "title": "Republicans acknowledge midterm defeat but few call for a break with Trump",
-   "summary": "Republican lawmakers have acknowledged that voters rejected them in the midterm elections but have shown little interest in breaking with President Donald Trump, AP reported. Representative Richard Hudson, who led the House Republican campaign arm, said voters felt costs were too high. House Speaker Mike Johnson said voters made the wrong choice.\n\nSenator Josh Hawley blamed cuts to rural healthcare, and Representative Lauren Boebert said the party had collectively failed, according to AP. Democrats flipped more than 40 Republican-held House seats. The piece is an analysis of reactions rather than a report of a new event.",
-   "keyFacts": [
-    "Democrats flipped more than 40 House seats",
-    "Hudson led the House Republican campaign arm",
-    "Analysis piece drawing on lawmakers' comments"
-   ],
-   "sources": [
-    {
-     "name": "AP (via News4Jax)",
-     "url": "https://www.news4jax.com/news/politics/2026/11/13/republicans-dazed-by-midterm-election-defeats-grapple-with-what-went-wrong/"
-    }
-   ],
-   "publishedAt": "2026-11-13T23:12:00+11:00",
-   "createdAt": "2026-11-14T06:54:58+11:00",
-   "reason": "Commentary"
-  },
-  {
-   "id": "2026-11-14-lo-miss-universe-visas",
-   "batch": "2026-11-14",
-   "rank": 3,
-   "category": "Other",
-   "title": "US travel restrictions keep some African contestants out of Miss Universe",
-   "summary": "Some contestants from African countries may miss the Miss Universe pageant in Puerto Rico on 24 November because of visa problems linked to US travel restrictions, The Daily Beast reported. Miss Universe Zambia organisers said their contestant, Pamela Mubanga, had been forced to withdraw.\n\nZimbabwe's Roseanna Hall said her visa approval had stalled, and South Sudan's Amylia Deng said her participation was uncertain, according to The Daily Beast. The restrictions on nationals of a number of countries took effect on 1 January 2026. The outlet said it had sought comment from the State Department.",
-   "keyFacts": [
-    "Pageant final is on 24 November",
-    "Zambia's contestant has withdrawn",
-    "Restrictions took effect on 1 January 2026"
-   ],
-   "sources": [
-    {
-     "name": "The Daily Beast",
-     "url": "https://www.thedailybeast.com/miss-universe-contestants-locked-out-of-us-by-trumps-travel-ban"
-    }
-   ],
-   "publishedAt": "2026-11-14T05:05:00+11:00",
-   "createdAt": "2026-11-14T06:54:58+11:00",
-   "reason": "Entertainment"
-  },
-  {
-   "id": "2026-11-14-lo-walliams-police-investigation",
-   "batch": "2026-11-14",
-   "rank": 4,
-   "category": "Other",
-   "title": "London police open investigation into David Walliams over sexual offence allegations",
-   "summary": "London's Metropolitan Police said it had received several allegations of non-recent serious sexual offences involving a man in his 50s and had opened an investigation, ITV News and ABC News reported, identifying the man as author David Walliams. The allegations are separate from a joint ITV and Guardian investigation published earlier in the week.\n\nWalliams denies the allegations and says he has not broken the law. Detective Superintendent Mike Cagney is leading the inquiry. Police have not said how many offences were reported or when they allegedly occurred.",
-   "keyFacts": [
-    "Allegations are described as non-recent",
-    "Walliams denies any wrongdoing",
-    "Separate from the ITV and Guardian reports"
-   ],
-   "sources": [
-    {
-     "name": "ITV News",
-     "url": "https://www.itv.com/news/2026-11-13/police-launches-investigation-into-david-walliams-over-alleged-sexual-offences"
-    },
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-14/uk-police-launch-investigation-into-david-walliams/107385506"
-    }
-   ],
-   "publishedAt": "2026-11-14T03:20:00+11:00",
-   "createdAt": "2026-11-14T06:54:58+11:00",
-   "reason": "Celebrity"
-  },
-  {
-   "id": "2026-11-14-lo-russell-brand-new-allegations",
-   "batch": "2026-11-14",
-   "rank": 5,
-   "category": "Other",
-   "title": "Six more women make misconduct allegations against Russell Brand, Times reports",
-   "summary": "Six more women have accused comedian Russell Brand of sexual misconduct between 2005 and 2013, according to a report in The Times cited by NME. The Times said it had taken extensive steps to corroborate the claims and had not paid any sources.\n\nBrand was convicted last week of rape and three counts of sexual assault and was sentenced on 9 November to 10 years and six months in prison, NME reported. He has previously denied wrongdoing. London police are investigating two further rape allegations.",
-   "keyFacts": [
-    "Allegations cover 2005 to 2013",
-    "Brand was sentenced on 9 November",
-    "He has previously denied wrongdoing"
-   ],
-   "sources": [
-    {
-     "name": "NME",
-     "url": "https://www.nme.com/news/film/russell-brand-accused-sexual-misconduct-allegations-3975844"
-    }
-   ],
-   "publishedAt": "2026-11-13T21:20:00+11:00",
-   "createdAt": "2026-11-14T06:54:58+11:00",
-   "reason": "Celebrity"
-  },
-  {
-   "id": "2026-11-14-lo-socceroos-qatar",
-   "batch": "2026-11-14",
-   "rank": 6,
-   "category": "Sport",
-   "title": "Socceroos beat Asian champions Qatar 3-0 in Doha friendly",
-   "summary": "Australia beat Qatar 3-0 in an international friendly in Doha, AAP reported. Riley McGree, Tete Yengi and Nestory Irankunda scored in the first half, and Qatar had a late goal ruled out for offside.\n\nCoach Tony Popovic made several changes and gave debuts to four players: Eli Adams, Sam Klein, Kasey Bos and Diesel Herrington, according to AAP. Australia had 14 shots to Qatar's three. The Socceroos play Jordan in Doha on Tuesday, Wednesday Australian time.",
-   "keyFacts": [
-    "All three goals came in the first half",
-    "Four players made debuts",
-    "Jordan match follows on Tuesday in Doha"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/socceroos-hammer-asian-champions-in-statement-win"
-    }
-   ],
-   "publishedAt": "2026-11-14T05:30:00+11:00",
-   "createdAt": "2026-11-14T06:54:58+11:00",
-   "reason": "Sport"
-  },
-  {
-   "id": "2026-11-14-lo-newsom-2028-timing",
-   "batch": "2026-11-14-pm",
-   "rank": 1,
-   "category": "Politics",
-   "title": "Newsom says he will decide on a 2028 presidential run in early January",
-   "summary": "California Governor Gavin Newsom said he would decide in early January whether to run for president in 2028, the Sacramento Bee and Fox News reported. He made the comments to Turkey's Anadolu Agency at the COP31 climate summit in Antalya.\n\nNewsom, who leaves office in January, has previously said he would consult his family first and would not run if former vice-president Kamala Harris entered the race. Harris has not commented publicly, according to the Sacramento Bee. Newsom said the recent midterm results would factor into his decision.",
-   "keyFacts": [
-    "Decision due in early January",
-    "Newsom leaves office in January",
-    "Harris has not commented publicly"
-   ],
-   "sources": [
-    {
-     "name": "Sacramento Bee (via Yahoo News)",
-     "url": "https://www.yahoo.com/news/politics/articles/gavin-newsom-says-ll-decide-182850845.html"
-    },
-    {
-     "name": "Fox News",
-     "url": "https://www.foxnews.com/politics/newsom-reveals-when-decide-2028-white-house-bid-growing-speculation"
-    }
-   ],
-   "publishedAt": "2026-11-13T18:08:00+11:00",
-   "createdAt": "2026-11-14T17:53:55+11:00",
-   "reason": "No new development"
-  },
-  {
-   "id": "2026-11-14-lo-al-green-impeachment",
-   "batch": "2026-11-14-pm",
-   "rank": 2,
-   "category": "Politics",
-   "title": "Al Green says he will seek another House vote on impeaching Trump",
-   "summary": "Democratic Congressman Al Green of Texas said on the House floor that he would call for a vote on impeaching President Donald Trump as early as next week, Breitbart News reported. Green said he has made similar calls at least six times.\n\nGreen linked the move to the recent failed attempt to impeach Defence Secretary Pete Hegseth. In September the House voted 232 to 147 to set aside an earlier Green impeachment resolution. The report did not include a response from the White House or House leaders.",
-   "keyFacts": [
-    "Vote sought as early as next week",
-    "September resolution set aside 232-147",
-    "No White House response reported"
-   ],
-   "sources": [
-    {
-     "name": "Breitbart News",
-     "url": "https://www.breitbart.com/politics/2026/11/13/unelected-yet-still-effective-democrat-rep-al-green-plans-to-impeach-trump-yet-again/"
-    }
-   ],
-   "publishedAt": "2026-11-14T05:27:00+11:00",
-   "createdAt": "2026-11-14T17:53:55+11:00",
-   "reason": "Restatement, nothing new"
-  },
-  {
    "id": "2026-11-14-lo-trump-film-incentive-faa",
    "batch": "2026-11-14-pm",
    "rank": 3,
@@ -4996,28 +4973,6 @@
    "reason": "Human interest"
   },
   {
-   "id": "2026-11-14-lo-perth-inquest-daughter",
-   "batch": "2026-11-14-pm",
-   "rank": 8,
-   "category": "Other",
-   "title": "Gunman's daughter gives evidence at Perth double murder inquest",
-   "summary": "The daughter of Mark Bombara, who shot dead Jennifer Petelczyc and her daughter Gretl at their Perth home in May 2024, gave evidence at the WA Coroners Court on Friday, AAP reported. Bombara, who had been looking for his estranged wife, then killed himself.\n\nAriel Bombara apologised to the victims' family and called for change on family and domestic violence, according to AAP. She criticised police for allowing her father to keep 13 firearms despite warnings. The acting state coroner will deliver findings at a later date.",
-   "keyFacts": [
-    "Inquest is in the WA Coroners Court",
-    "Gunman held 13 firearms, court heard",
-    "Findings to be delivered later"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/he-was-ruthless-daughter-apologises-for-killer-dad"
-    }
-   ],
-   "publishedAt": "2026-11-14T06:00:00+11:00",
-   "createdAt": "2026-11-14T17:53:55+11:00",
-   "reason": "Local crime"
-  },
-  {
    "id": "2026-11-15-lo-greens-jet-fuel",
    "batch": "2026-11-15",
    "rank": 1,
@@ -5060,28 +5015,6 @@
    "publishedAt": "2026-11-14T15:40:00+11:00",
    "createdAt": "2026-11-15T06:55:00+11:00",
    "reason": "Outside today's window"
-  },
-  {
-   "id": "2026-11-15-lo-david-jones-retail-pain",
-   "batch": "2026-11-15",
-   "rank": 5,
-   "category": "Business",
-   "title": "Equifax data point to rising business exits as David Jones closes stores",
-   "summary": "Business exits rose 41.3 per cent year on year in the September quarter while new business entries fell more than 15 per cent, according to Equifax data reported by AAP alongside the David Jones collapse. Active tax defaults rose 25 per cent, the data showed.\n\nEquifax's Brad Walters said smaller operators were borrowing to cover immediate overheads. David Jones entered administration and receivership on 5 November and plans to close 19 of its 38 stores. Retail groups forecast $7.2 billion in Black Friday and pre-Christmas spending.",
-   "keyFacts": [
-    "Business-level insolvencies rose almost 17 per cent",
-    "Hospitality insolvencies eased 7 per cent",
-    "The piece is an analysis of retail conditions"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/david-jones-collapse-hints-at-spreading-retail-pain"
-    }
-   ],
-   "publishedAt": "2026-11-13T19:00:00+11:00",
-   "createdAt": "2026-11-15T06:55:00+11:00",
-   "reason": "Commentary"
   },
   {
    "id": "2026-11-15-lo-rukaj-arrest",
@@ -5200,32 +5133,6 @@
    "publishedAt": "2026-11-14T22:02:00+11:00",
    "createdAt": "2026-11-15T06:55:00+11:00",
    "reason": "Commentary"
-  },
-  {
-   "id": "2026-11-15-lo-new-orleans-collision",
-   "batch": "2026-11-15",
-   "rank": 11,
-   "category": "World",
-   "title": "All accounted for after tanker strikes river cruise boat in New Orleans",
-   "summary": "Everyone aboard the American Heritage river cruise boat was accounted for after a tanker struck it on the Mississippi River near the Port of New Orleans on Friday, city officials said, according to ABC News in the US. Officials said nearly 200 people were aboard.\n\nAbout 30 passengers and two crew who ended up in the water were taken to hospital with non-critical injuries, ABC News reported. Coast Guard Captain Melanie Burnham said the tanker appeared to have lost steering. The National Transportation Safety Board sent investigators, and part of the river was closed.",
-   "keyFacts": [
-    "The collision happened about 12:30pm local time",
-    "The tanker was the Atlantic Asphalt",
-    "The boat appeared to be docked when struck, CBS said"
-   ],
-   "sources": [
-    {
-     "name": "ABC News (US)",
-     "url": "https://abcnews.com/US/vessel-collision-port-new-orleans-emergency-crews-responding/story?id=138119847"
-    },
-    {
-     "name": "CBS News",
-     "url": "https://www.cbsnews.com/news/tanker-cruise-collision-mississippi-river-new-orleans/"
-    }
-   ],
-   "publishedAt": "2026-11-14T05:30:00+11:00",
-   "createdAt": "2026-11-15T06:55:00+11:00",
-   "reason": "Outside today's window"
   },
   {
    "id": "2026-11-15-lo-lambie-means-testing",
