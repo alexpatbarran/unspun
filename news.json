@@ -1,6 +1,236 @@
 {
- "updatedAt": "2026-11-21T06:50:59+11:00",
+ "updatedAt": "2026-11-21T17:50:00+11:00",
  "articles": [
+  {
+   "id": "2026-11-21-wall-street-nasdaq-plunges-close",
+   "batch": "2026-11-21-pm",
+   "rank": 1,
+   "category": "Economy",
+   "title": "Wall Street closes sharply lower as Nasdaq falls more than 5% and Nvidia drops 14%",
+   "summary": "US shares fell heavily on Friday, with the Nasdaq closing down more than 5 per cent and the S&P 500 down 3.7 per cent, according to AFP via SBS News. Nvidia shares closed 14.01 per cent lower. The close confirms the S&P 500's seventh straight losing session, reported earlier as under way.\n\nAnthropic shares, priced at US$83 in their initial public offering, closed below US$89 after trading above US$110 on Thursday, AFP reported. ABC News said the S&P 500 is now in a correction, more than 10 per cent below its 6 October record. Analysts cited by AFP pointed to doubts about returns on AI spending and a US move to restrict Chinese remote access to Nvidia chips.",
+   "keyFacts": [
+    "Nasdaq closed down more than 5%, S&P 500 down 3.7%",
+    "Nvidia closed 14.01% lower",
+    "Anthropic shares closed below US$89, versus a US$83 IPO price"
+   ],
+   "sources": [
+    {
+     "name": "SBS News (AFP)",
+     "url": "https://www.sbs.com.au/news/article/global-stocks-tumble-as-ai-bubble-fears-prompt-market-sell-off-with-anthropic-shares-falling/mhzp6bpkf"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-21/anthropic-ipo-fails-to-calm-ai-jitters-stock-market-debut/107412118"
+    }
+   ],
+   "publishedAt": "2026-11-21T11:03:00+11:00",
+   "createdAt": "2026-11-21T17:50:00+11:00"
+  },
+  {
+   "id": "2026-11-21-russian-missile-hits-poland",
+   "batch": "2026-11-21-pm",
+   "rank": 2,
+   "category": "World",
+   "title": "Poland says Russian cruise missile landed on its territory during strikes on Ukraine",
+   "summary": "A Russian Kh-101 cruise missile came down on farmland near Nowy Lipowiec in south-eastern Poland on Friday morning, Defence Minister Wladyslaw Kosiniak-Kamysz said, according to reports cited by The Daily Caller. Polish authorities said a second suspected missile and a drone also entered Polish airspace. No injuries were reported.\n\nPrime Minister Donald Tusk said the incident was a deliberate provocation and that Warsaw was certain the weapons came from Russia, AFP reported via SBS News. NATO Secretary-General Mark Rutte described it as dangerous, according to the BBC. The Kremlin had not commented, AFP said. The incident happened during a large Russian missile and drone attack on Ukraine.",
+   "keyFacts": [
+    "Kh-101 missile landed near Nowy Lipowiec, officials say",
+    "Tusk called it a deliberate provocation",
+    "No injuries reported; Kremlin had not commented"
+   ],
+   "sources": [
+    {
+     "name": "SBS News (AFP)",
+     "url": "https://www.sbs.com.au/news/article/russia-pummels-ukraine-in-deadly-strikes-after-renewed-international-criticism-of-war/kd5qp5i1n"
+    },
+    {
+     "name": "The Daily Caller",
+     "url": "https://dailycaller.com/2026/11/20/russian-missile-hits-poland-donald-tusk-provocation/"
+    }
+   ],
+   "publishedAt": "2026-11-20T20:06:00+11:00",
+   "createdAt": "2026-11-21T17:50:00+11:00"
+  },
+  {
+   "id": "2026-11-21-nvidia-sec-accounting-report",
+   "batch": "2026-11-21-pm",
+   "rank": 3,
+   "category": "Business",
+   "title": "Nvidia shares fall 14% after report SEC is examining possible accounting issues",
+   "summary": "Nvidia shares closed 14.01 per cent lower on Friday, AFP reported via SBS News, after Reuters reported that US Securities and Exchange Commission enforcement staff were examining potential accounting issues at the company. Reuters cited two people briefed on the matter and could not determine when the inquiry began or its scope, according to 24/7 Wall St.\n\nThe SEC declined to comment and Nvidia did not immediately respond, 24/7 Wall St reported. The Wall Street Journal had reported earlier in the week that the SEC was investigating whether Nvidia's disclosures misled investors. The company has been led by interim chief executive Colette Kress since Jensen Huang resigned on 12 November.",
+   "keyFacts": [
+    "Reuters reported SEC staff examining potential accounting issues",
+    "SEC declined to comment",
+    "Nvidia closed down 14.01% on Friday"
+   ],
+   "sources": [
+    {
+     "name": "24/7 Wall St. (via Yahoo Finance)",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-plunges-12-reuters-201702082.html"
+    },
+    {
+     "name": "SBS News (AFP)",
+     "url": "https://www.sbs.com.au/news/article/global-stocks-tumble-as-ai-bubble-fears-prompt-market-sell-off-with-anthropic-shares-falling/mhzp6bpkf"
+    }
+   ],
+   "publishedAt": "2026-11-21T07:17:00+11:00",
+   "createdAt": "2026-11-21T17:50:00+11:00"
+  },
+  {
+   "id": "2026-11-21-uk-eu-summit-deals",
+   "batch": "2026-11-21-pm",
+   "rank": 4,
+   "category": "World",
+   "title": "UK and EU sign deals on youth mobility, food trade and carbon markets at Brussels summit",
+   "summary": "British Prime Minister Andy Burnham and EU leaders signed agreements on youth mobility, agri-food trade and linking carbon markets at a summit in Brussels on Friday, ABC News reported. The deals still need approval from the UK and EU parliaments.\n\nUnder the youth scheme, 100,000 young people from each side could live, work or study on the other side each year, according to ABC News and Xinhua. The food deal aims to remove most routine border checks from March 2028. The UK government estimates the deals could add up to 0.5 per cent to GDP by 2040. Burnham said rejoining the EU was not off the table. Reform UK leader Nigel Farage said Burnham had no mandate for the deal.",
+   "keyFacts": [
+    "100,000 young people a year from each side under youth scheme",
+    "Food checks to be removed from March 2028",
+    "Deals still need parliamentary approval"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-21/key-takeaways-from-uk-eu-summit/107406986"
+    },
+    {
+     "name": "Xinhua",
+     "url": "https://english.news.cn/20261121/3ccb6dcbf2074b2ba05f79c4e954772e/c.html"
+    }
+   ],
+   "publishedAt": "2026-11-21T01:04:00+11:00",
+   "createdAt": "2026-11-21T17:50:00+11:00"
+  },
+  {
+   "id": "2026-11-21-taiex-worst-week-since-1991",
+   "batch": "2026-11-21-pm",
+   "rank": 5,
+   "category": "Economy",
+   "title": "Taiwan's share index falls almost 18% in its worst week since 1991",
+   "summary": "Taiwan's benchmark TAIEX index fell 6.23 per cent on Friday, taking its loss for the week to almost 18 per cent, its worst week since 1991, the Taipei Times reported, citing Bloomberg. The index, which is more than 70 per cent technology stocks, has fallen more than a quarter from its 6 October record.\n\nTaiwan's Financial Supervisory Commission has tightened short-selling rules twice this month, most recently cutting the cap on intraday short-sale orders to 1 per cent of 30-day average volume, according to the report. Global funds have sold a net US$56 billion of Taiwanese shares this quarter. AFP reported that markets in Tokyo and Seoul also fell between 5 and 6.2 per cent on Friday.",
+   "keyFacts": [
+    "TAIEX fell 6.23% on Friday, almost 18% for the week",
+    "Regulator tightened short-selling curbs twice this month",
+    "Index more than 25% below its October record"
+   ],
+   "sources": [
+    {
+     "name": "Taipei Times (Bloomberg)",
+     "url": "https://www.taipeitimes.com/News/front/archives/2026/11/21/2003868120"
+    },
+    {
+     "name": "SBS News (AFP)",
+     "url": "https://www.sbs.com.au/news/article/global-stocks-tumble-as-ai-bubble-fears-prompt-market-sell-off-with-anthropic-shares-falling/mhzp6bpkf"
+    }
+   ],
+   "publishedAt": "2026-11-21T03:00:00+11:00",
+   "createdAt": "2026-11-21T17:50:00+11:00"
+  },
+  {
+   "id": "2026-11-21-french-senate-police-shootings-law",
+   "batch": "2026-11-21-pm",
+   "rank": 6,
+   "category": "World",
+   "title": "French Senate gives final approval to law presuming police shootings are lawful",
+   "summary": "The French Senate voted 205 to 110 on Friday to give final approval to a law presuming that police officers who use their weapons acted lawfully unless there is proof otherwise, Reuters reported. Critics have described it as a \"licence to kill\".\n\nInterior Minister Laurent Nunez said the government supports the law to protect officers working in dangerous conditions, according to Reuters. Left-wing parliamentarians said they would refer it to the Constitutional Council. A UN special rapporteur wrote to French authorities warning it could fuel impunity. Rights groups, unions and some lawmakers said it would lead to more deaths, while supporters said it gives officers appropriate legal protection.",
+   "keyFacts": [
+    "Senate vote 205 to 110",
+    "Left-wing MPs plan Constitutional Council challenge",
+    "UN rapporteur raised impunity concerns"
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via Internazionale)",
+     "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/20/french-senate-approves-police-shootings-law-dubbed-licence-to-kill-by-critics"
+    }
+   ],
+   "publishedAt": "2026-11-21T07:02:00+11:00",
+   "createdAt": "2026-11-21T17:50:00+11:00"
+  },
+  {
+   "id": "2026-11-21-denmark-expels-russian-attache",
+   "batch": "2026-11-21-pm",
+   "rank": 7,
+   "category": "World",
+   "title": "Denmark expels Russian defence attache over alleged plot to kill Ukrainian rapper",
+   "summary": "Denmark is expelling Russia's defence attache, Foreign Minister Lars Lokke Rasmussen said on Friday, after the Danish intelligence service PET said it suspected Russian intelligence of planning to kill a Ukrainian rapper at a concert near Copenhagen, Al Jazeera reported, citing AFP. The attache has seven days to leave.\n\nPET said three people were stopped in a car near the venue, where police found firearms and knives. Two people have been charged with attempted murder and assisting a foreign intelligence service. Police suspect a banned gang helped plan the alleged attack. Russia's embassy called the expulsion vengeful and said no evidence of Russian involvement had been presented.",
+   "keyFacts": [
+    "Russian defence attache given seven days to leave",
+    "Two charged with attempted murder",
+    "Russia's embassy says no evidence was presented"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/21/denmark-expels-russian-diplomat-over-alleged-plot-to-kill-ukrainian-rapper"
+    }
+   ],
+   "publishedAt": "2026-11-21T12:12:00+11:00",
+   "createdAt": "2026-11-21T17:50:00+11:00"
+  },
+  {
+   "id": "2026-11-21-riyadh-missiles-intercepted",
+   "batch": "2026-11-21-pm",
+   "rank": 8,
+   "category": "World",
+   "title": "Saudi-led coalition says it intercepted three missiles fired at Riyadh",
+   "summary": "The Saudi-led coalition backing Yemen's internationally recognised government said it intercepted three ballistic missiles aimed at Riyadh overnight, Al Jazeera reported. Emergency alerts were issued for the capital and southern Saudi Arabia.\n\nThe attack followed coalition strikes on Friday on Houthi-held sites, including Sanaa and the port of Hodeidah, and came days after Houthi missiles hit the Public Investment Fund tower, the country's tallest building, according to Al Jazeera. The Houthis have threatened Saudi Arabia's financial district and Red Sea ports including Jeddah. The Houthis had not commented on the interceptions in Al Jazeera's report, and no damage was reported.",
+   "keyFacts": [
+    "Three ballistic missiles intercepted, coalition says",
+    "Emergency alerts issued for Riyadh and the south",
+    "Follows coalition strikes on Hodeidah and Sanaa"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles"
+    }
+   ],
+   "publishedAt": "2026-11-21T11:00:00+11:00",
+   "createdAt": "2026-11-21T17:50:00+11:00"
+  },
+  {
+   "id": "2026-11-21-paris-police-zecler-sentenced",
+   "batch": "2026-11-21-pm",
+   "rank": 9,
+   "category": "World",
+   "title": "Paris court sentences three police officers over 2020 racist assault on music producer",
+   "summary": "A Paris criminal court on Friday sentenced three police officers over the 2020 assault on music producer Michel Zecler, finding racism was an aggravating factor, Al Jazeera reported, citing AFP. Each received five years, with between three and four years suspended.\n\nSecurity footage recorded the assault outside Zecler's Paris studio in November 2020. The court found his account consistent and said a falsified police report damaged the officers' credibility, according to the report. The officers had said Zecler was not wearing a mask and had tried to grab a weapon. Zecler's lawyer said justice had been done. AFP noted guilty verdicts in police violence cases are rare in France.",
+   "keyFacts": [
+    "Three officers each sentenced to five years, partly suspended",
+    "Court found racism an aggravating factor",
+    "Assault was filmed in November 2020"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/21/three-french-police-officers-sentenced-over-racist-assault-on-black-man"
+    }
+   ],
+   "publishedAt": "2026-11-21T14:01:00+11:00",
+   "createdAt": "2026-11-21T17:50:00+11:00"
+  },
+  {
+   "id": "2026-11-21-idf-abc-journalist-evidence",
+   "batch": "2026-11-21-pm",
+   "rank": 10,
+   "category": "World",
+   "title": "ABC says IDF gave no evidence for claim its former Gaza freelancer was a Hamas operative",
+   "summary": "The ABC says the Israel Defense Forces has not provided evidence for its claim that Roshdi Al Sarraj, a Gaza freelancer engaged by the ABC in 2023, was a Hamas operative, despite repeated requests since 3 October. Al Sarraj was killed in an Israeli air strike in October 2023.\n\nThe IDF listed him as a Hamas operative in October 2026. An initial IDF reply cited Palestinian Islamic Jihad before being edited to say Hamas, the ABC reported. The IDF says a redacted document reported by The Australian shows him as a Hamas squad deputy commander; the ABC said it could not verify it. The Committee to Protect Journalists said its investigation found no evidence he was a combatant.",
+   "keyFacts": [
+    "IDF alleges Al Sarraj was a Hamas operative",
+    "ABC says requests for evidence went unanswered",
+    "CPJ found no evidence he was a combatant"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-21/idf-gives-abc-no-evidence-palestinian-journalist-was-hamas/107407710"
+    }
+   ],
+   "publishedAt": "2026-11-21T06:03:00+11:00",
+   "createdAt": "2026-11-21T17:50:00+11:00"
+  },
   {
    "id": "2026-11-21-russia-mass-strike-ukraine",
    "batch": "2026-11-21",
@@ -1299,206 +1529,6 @@
    "publishedAt": "2026-11-19T13:46:00+11:00",
    "rank": 13,
    "createdAt": "2026-11-19T17:47:45+11:00"
-  },
-  {
-   "id": "2026-11-14-trump-xi-putin-summit",
-   "batch": "2026-11-14-pm",
-   "rank": 1,
-   "category": "World",
-   "title": "White House says Trump, Xi and Putin will meet together at APEC in China",
-   "summary": "The White House has confirmed plans for a three-way meeting between US President Donald Trump, China's Xi Jinping and Russia's Vladimir Putin on the sidelines of next week's APEC summit in Shenzhen, according to AAP and Al Jazeera. It would be the first such meeting of the three leaders.\n\nTrump has said the talks could cover the US war with Iran and a new nuclear arms agreement that includes China, after the New START treaty with Russia expired in February. A senior US official told Reuters no agreement is expected. The Kremlin called the meeting significant. Ukraine's President Volodymyr Zelenskyy has raised concern about decisions being made without Kyiv.",
-   "keyFacts": [
-    "Meeting planned on APEC sidelines in Shenzhen",
-    "New START expired in February",
-    "US official says no agreement expected"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/trump-xi-and-putin-plan-unprecedented-joint-meeting"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china"
-    }
-   ],
-   "publishedAt": "2026-11-14T13:00:00+11:00",
-   "createdAt": "2026-11-14T17:53:55+11:00"
-  },
-  {
-   "id": "2026-11-14-faa-national-ground-stop",
-   "batch": "2026-11-14-pm",
-   "rank": 2,
-   "category": "World",
-   "title": "FAA halts all US departures for over four hours after air traffic communications fault",
-   "summary": "The US Federal Aviation Administration ordered a nationwide ground stop on Friday, US time, after a communications problem affected air traffic control centres, Transportation Secretary Sean Duffy said. The stop lasted more than four hours before departures resumed, according to AAP and the ABC.\n\nThe ABC reported more than 11,000 flights were delayed or cancelled and about 600 diverted. Homeland Security Secretary Markwayne Mullin said early findings pointed to a telecommunications failure, with no sign of an attack so far. Duffy said US$30 billion is needed to upgrade air traffic control. Australian travel industry representatives said travellers due to fly within 72 hours were being prioritised.",
-   "keyFacts": [
-    "Ground stop lasted more than four hours",
-    "ABC reports 11,000+ flights delayed or cancelled",
-    "Officials say no sign of an attack so far"
-   ],
-   "sources": [
-    {
-     "name": "CBS News",
-     "url": "https://www.cbsnews.com/news/faa-issues-nationwide-ground-stop/"
-    },
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-14/australians-stranded-in-us-amid-flight-cancellations-chaos/107385998"
-    },
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/us-aviation-authority-orders-national-ground-stop"
-    }
-   ],
-   "publishedAt": "2026-11-14T08:29:00+11:00",
-   "createdAt": "2026-11-14T17:53:55+11:00"
-  },
-  {
-   "id": "2026-11-14-australia-philippines-defence-pact",
-   "batch": "2026-11-14-pm",
-   "rank": 3,
-   "category": "Australia",
-   "title": "Australia and Philippines to sign defence cooperation agreement in Manila",
-   "summary": "Australia and the Philippines are expected to sign a defence cooperation agreement on Sunday on the sidelines of the ASEAN summit in Manila, the ABC and SBS reported. Prime Minister Anthony Albanese arrived in Manila on Saturday from the COP31 climate summit in Türkiye.\n\nAccording to the ABC, the deal is expected to expand reciprocal military access and information sharing and support the Philippine navy and coastguard. SBS reported it would cover maritime awareness and interoperability. China's foreign ministry has told Australia to stop inciting confrontation, the ABC said. Albanese may meet US President Donald Trump, who is due at ASEAN on 17 November, AAP reported.",
-   "keyFacts": [
-    "Signing expected Sunday in Manila",
-    "Covers military access and information sharing",
-    "Trump due at ASEAN on 17 November"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-14/major-defence-deal-astralia-philippines-clashes-china/107381694"
-    },
-    {
-     "name": "SBS News",
-     "url": "https://www.sbs.com.au/news/article/philippines-defence-pact/ypbg32mt4"
-    },
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/changing-climates-pm-trades-cop31-for-trump-talks"
-    }
-   ],
-   "publishedAt": "2026-11-14T17:01:00+11:00",
-   "createdAt": "2026-11-14T17:53:55+11:00"
-  },
-  {
-   "id": "2026-11-14-hormuz-two-oil-tankers-mines",
-   "batch": "2026-11-14-pm",
-   "rank": 4,
-   "category": "World",
-   "title": "Iran's Revolutionary Guards say two oil tankers hit mines in Strait of Hormuz",
-   "summary": "Iran's Revolutionary Guards navy said two oil tankers exploded and caught fire after hitting naval mines in the Strait of Hormuz, according to a statement on Iranian state television reported by ANI and Aaj News. It said one was a supertanker and that both had switched off radar and positioning systems to cross by an unauthorised route.\n\nIran did not name the ships or their flags, and the claims have not been independently confirmed. The US military has said it has cleared the main shipping lanes of mines. Al Jazeera described it as the third reported tanker incident in about 24 hours.",
-   "keyFacts": [
-    "Ships and flags were not named",
-    "Claims not independently confirmed",
-    "US says main lanes cleared of mines"
-   ],
-   "sources": [
-    {
-     "name": "ANI",
-     "url": "https://www.aninews.in/news/world/middle-east/two-oil-tankers-explode-catch-fire-after-hitting-naval-mines-near-hormuz-irans-irgc-navy20261114040310/"
-    },
-    {
-     "name": "Aaj News",
-     "url": "https://english.aaj.tv/news/330480631/two-oil-tankers-explode-after-hitting-mines-in-strait-of-hormuz-iran-claims"
-    }
-   ],
-   "publishedAt": "2026-11-14T09:33:00+11:00",
-   "createdAt": "2026-11-14T17:53:55+11:00"
-  },
-  {
-   "id": "2026-11-14-medicaid-work-rules-delay",
-   "batch": "2026-11-14-pm",
-   "rank": 7,
-   "category": "Health",
-   "title": "US gives states six more months before enforcing Medicaid work requirements",
-   "summary": "The Trump administration said on Friday, US time, that states will have six more months before they must enforce new Medicaid work requirements, moving enforcement to 1 July 2027, STAT reported. States had been preparing to start on 1 January.\n\nThe rules, from last year's budget law, require many working-age adults covered under Medicaid expansion to work, study or volunteer 80 hours a month unless exempt. STAT reported that states had sued the federal health agency CMS seeking a delay until exemptions for medically frail people were settled, and that a judge recently rejected the administration's definition of medical frailty.",
-   "keyFacts": [
-    "Enforcement moved to 1 July 2027",
-    "Requirement is 80 hours a month",
-    "States had sued seeking a delay"
-   ],
-   "sources": [
-    {
-     "name": "STAT",
-     "url": "https://www.statnews.com/2026/11/13/medicaid-work-requirements-implementation-delayed-six-months/"
-    },
-    {
-     "name": "Nextgov/FCW",
-     "url": "https://www.nextgov.com/digital-government/2026/11/cms-lets-states-punt-medicaid-work-requirements-six-months/417227/?oref=ng-homepage-river"
-    }
-   ],
-   "publishedAt": "2026-11-14T09:21:00+11:00",
-   "createdAt": "2026-11-14T17:53:55+11:00"
-  },
-  {
-   "id": "2026-11-14-houthis-jazan-missiles",
-   "batch": "2026-11-14-pm",
-   "rank": 9,
-   "category": "World",
-   "title": "Houthis say they fired missiles at Saudi forces in Jazan",
-   "summary": "Yemen's Houthis said on Friday they fired two ballistic missiles at Saudi forces at Al-Tuwal in Jazan province, Reuters reported. The claim came hours after Saudi civil defence declared an all-clear in the province, and Reuters said it was unclear if the two were linked. There was no immediate Saudi confirmation.\n\nThe Houthis also claimed attacks on King Khalid International Airport in Riyadh and on a pumping station on the East-West oil pipeline, according to Reuters. Saudi Arabia has been rerouting about 4 million barrels of oil a day through that pipeline to the Red Sea port of Yanbu.",
-   "keyFacts": [
-    "Houthis claim two ballistic missiles fired",
-    "No immediate Saudi confirmation",
-    "Airport and pipeline attacks also claimed"
-   ],
-   "sources": [
-    {
-     "name": "Reuters (via ThePrint)",
-     "url": "https://theprint.in/world/yemens-houthis-say-they-fired-missiles-at-saudi-forces-in-jazan/3098422/"
-    }
-   ],
-   "publishedAt": "2026-11-14T08:00:00+11:00",
-   "createdAt": "2026-11-14T17:53:55+11:00"
-  },
-  {
-   "id": "2026-11-14-india-900gw-clean-energy",
-   "batch": "2026-11-14-pm",
-   "rank": 10,
-   "category": "Environment",
-   "title": "India targets 900 gigawatts of clean power by 2035 as coal use continues",
-   "summary": "India has set a goal of 900 gigawatts of non-fossil power capacity by 2035, almost double its 500-gigawatt target for 2030, AP reported. Its current clean capacity is just over 300 gigawatts, third behind China and the US.\n\nA University of California, Berkeley researcher told AP the target cannot be met unless the grid is upgraded. The government has approved nearly US$20 billion for grid and storage projects. Coal produced about 71 per cent of India's electricity in 2025, according to the think tank Ember, and the head of India's Central Electricity Authority said up to 150 gigawatts of new coal may be needed by 2035.",
-   "keyFacts": [
-    "Target nearly doubles 2030 goal",
-    "Current clean capacity just over 300GW",
-    "Coal supplied about 71% of 2025 power"
-   ],
-   "sources": [
-    {
-     "name": "AP (via ABC News US)",
-     "url": "https://abcnews.com/Business/wireStory/india-seeks-triple-clean-energy-capacity-900-gigawatts-138129887"
-    },
-    {
-     "name": "AP (via KIRO 7)",
-     "url": "https://www.kiro7.com/news/science/india-seeks-triple/47SNYITYLQ3DNJ52A4ORUY5CMU/"
-    }
-   ],
-   "publishedAt": "2026-11-14T13:00:00+11:00",
-   "createdAt": "2026-11-14T17:53:55+11:00"
-  },
-  {
-   "id": "2026-11-14-vic-labor-schools-pledge",
-   "batch": "2026-11-14-pm",
-   "rank": 11,
-   "category": "Politics",
-   "title": "Victorian Labor pledges $1.17 billion for school upgrades if re-elected",
-   "summary": "Victorian Labor would spend more than $1.17 billion upgrading 228 public schools if re-elected, Premier Ben Carroll said on Saturday, AAP reported. The package includes $500 million for non-government schools, made up of $350 million for Catholic schools and $150 million for low-fee independent schools.\n\nEducation Minister Gabrielle Williams asked Opposition Leader Jess Wilson which upgrades she would cut. Wilson has alleged the government made secret cuts to non-government school funding, which Labor denies, saying it was keeping funding within national entitlements. Wilson described the pledge as another large pre-election promise, according to AAP.",
-   "keyFacts": [
-    "228 public schools to be upgraded",
-    "$500m for non-government schools",
-    "Opposition alleges funding cuts; Labor denies"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/government-pledges-billion-dollar-boost-to-schools"
-    }
-   ],
-   "publishedAt": "2026-11-14T14:00:00+11:00",
-   "createdAt": "2026-11-14T17:53:55+11:00"
   },
   {
    "id": "2026-11-15-us-donbas-nato-idea",
@@ -4289,6 +4319,348 @@
  ],
  "leftOut": [
   {
+   "id": "2026-11-21-lo-vic-election-final-week",
+   "batch": "2026-11-21-pm",
+   "rank": 1,
+   "category": "Australia",
+   "title": "Analysts forecast Coalition win as Victorian campaign enters final week",
+   "summary": "Political analysts expect the Coalition to win majority government at Victoria's 28 November election, possibly on a scale similar to Jeff Kennett's 1992 victory, ABC News reported. Premier Ben Carroll and Opposition Leader Jess Wilson campaigned at early voting centres on Saturday.\n\nA Redbridge poll for the Australian Financial Review projects a two-party preferred result of 57 per cent for the Coalition and 43 per cent for Labor, according to the ABC. Deakin University's Geoff Robinson said regional cities including Geelong, Ballarat and Bendigo were in play. Carroll declined to say whether he would hold his seat of Niddrie. These are forecasts, not results.",
+   "keyFacts": [
+    "Election is on 28 November",
+    "Redbridge poll projects 57-43 to the Coalition",
+    "Analysts compare possible result with 1992"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-21/victorian-election-final-week/107412434"
+    }
+   ],
+   "publishedAt": "2026-11-21T15:25:00+11:00",
+   "createdAt": "2026-11-21T17:50:00+11:00",
+   "reason": "Commentary"
+  },
+  {
+   "id": "2026-11-21-lo-irgc-mq9-drone-claim",
+   "batch": "2026-11-21-pm",
+   "rank": 2,
+   "category": "World",
+   "title": "Iran's Revolutionary Guards claim to have shot down US drone over Strait of Hormuz",
+   "summary": "Iran's Islamic Revolutionary Guard Corps said its aerospace forces shot down a US MQ-9 drone over the Strait of Hormuz, Middle East Eye reported, citing state broadcaster IRIB. The IRGC said it was the 58th MQ-9 destroyed by Iranian forces.\n\nThe claim has not been independently confirmed. Middle East Eye's report included no US response and no details of when the incident happened or of any wreckage. Iran and the US have been at war since 28 February, and Iran has made similar claims about US drones in recent days.",
+   "keyFacts": [
+    "IRGC claims MQ-9 drone shot down over Hormuz",
+    "IRGC says it is the 58th such drone",
+    "No US confirmation or response reported"
+   ],
+   "sources": [
+    {
+     "name": "Middle East Eye",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-its-aerospace-forces-intercepted-us-mq-9-drone-over-hormuz"
+    }
+   ],
+   "publishedAt": "2026-11-21T13:54:00+11:00",
+   "createdAt": "2026-11-21T17:50:00+11:00",
+   "reason": "Not yet confirmed"
+  },
+  {
+   "id": "2026-11-21-lo-araghchi-diplomacy-trump-terms",
+   "batch": "2026-11-21-pm",
+   "rank": 3,
+   "category": "World",
+   "title": "Araghchi says Iran still seeks diplomacy as Trump calls Tehran's terms unacceptable",
+   "summary": "Iranian Foreign Minister Abbas Araghchi said Tehran still hopes diplomacy can end its war with the United States and that messages are being exchanged through mediators, Ariana News reported, citing Reuters and Iranian media. He said Iran wants guarantees that Washington is serious and an agreement preventing further war.\n\nAraghchi said keeping Iran's highly enriched uranium inside the country was a red line, though a fair solution was possible. At a White House news conference on Friday, US President Donald Trump said Iran wanted a deal but not one acceptable to him. Qatari and Iranian officials met earlier in the week.",
+   "keyFacts": [
+    "Araghchi says messages passing through mediators",
+    "Uranium staying in Iran is a red line, he said",
+    "Trump says Iran's terms are unacceptable"
+   ],
+   "sources": [
+    {
+     "name": "Ariana News",
+     "url": "https://www.ariananews.af/araqchi-says-iran-wants-diplomacy-to-end-war-trump-says-terms-unacceptable/"
+    }
+   ],
+   "publishedAt": "2026-11-21T14:59:00+11:00",
+   "createdAt": "2026-11-21T17:50:00+11:00",
+   "reason": "Restatement, nothing new"
+  },
+  {
+   "id": "2026-11-21-lo-trump-huang-second-chance",
+   "batch": "2026-11-21-pm",
+   "rank": 4,
+   "category": "Business",
+   "title": "Trump says Jensen Huang should get a second chance at Nvidia",
+   "summary": "US President Donald Trump said on Friday he would like to see former Nvidia chief executive Jensen Huang given a second chance, Al Jazeera reported. Huang resigned on 12 November over a scandal involving an alleged relationship with Alice Huang, a suspected Chinese intelligence asset.\n\nTrump described Huang as a good man who had made bad decisions and said he wanted a big apology. Nvidia board chair Harvey Jones has said directors unanimously accepted the resignation and do not plan to reinstate Huang, according to Al Jazeera. Trump also said he had not lost confidence in Commerce Secretary Howard Lutnick.",
+   "keyFacts": [
+    "Trump backs a return for Huang",
+    "Nvidia board says it will not reinstate him",
+    "Trump says he still has confidence in Lutnick"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang"
+    }
+   ],
+   "publishedAt": "2026-11-21T12:49:00+11:00",
+   "createdAt": "2026-11-21T17:50:00+11:00",
+   "reason": "Restatement, nothing new"
+  },
+  {
+   "id": "2026-11-21-lo-cummins-remains-captain",
+   "batch": "2026-11-21-pm",
+   "rank": 5,
+   "category": "Sport",
+   "title": "Cricket Australia board backs Pat Cummins to stay as Test captain",
+   "summary": "Cricket Australia's board unanimously supported Pat Cummins as captain for the three-Test series against New Zealand starting in Perth on 9 December, SBS News reported, citing AP. CA said it rejected any implication that his integrity had been compromised.\n\nCummins has denied knowing about the use of sandpaper on the 2018 tour of South Africa. Former teammates including Usman Khawaja and David Warner have given contradicting accounts, according to the report. Cummins said he supports an independent forum on the tour and would attend. CA chair David Boon and chief executive Todd Greenberg met him in Sydney on Friday.",
+   "keyFacts": [
+    "Board support was unanimous, CA says",
+    "Series against New Zealand starts 9 December",
+    "Cummins denies prior knowledge of ball tampering"
+   ],
+   "sources": [
+    {
+     "name": "SBS News (AP)",
+     "url": "https://www.sbs.com.au/news/article/reject-any-implications-pat-cummins-to-remain-australia-captain/opu7nem1l"
+    }
+   ],
+   "publishedAt": "2026-11-21T15:08:00+11:00",
+   "createdAt": "2026-11-21T17:50:00+11:00",
+   "reason": "Sport"
+  },
+  {
+   "id": "2026-11-21-lo-bourke-street-stabbing",
+   "batch": "2026-11-21-pm",
+   "rank": 6,
+   "category": "Australia",
+   "title": "Man in critical condition after stabbing in Melbourne CBD",
+   "summary": "A 24-year-old man was taken to the Royal Melbourne Hospital in a critical condition after being stabbed on Bourke Street near Elizabeth Street at about 2.30pm on Saturday, ABC News reported, citing Victoria Police.\n\nPolice said the two men were not believed to know each other. The alleged offender fled along Elizabeth Street towards Little Bourke Street, according to police, who are making inquiries. No arrest had been reported. Police asked anyone with information or footage to contact Crime Stoppers.",
+   "keyFacts": [
+    "24-year-old in critical condition",
+    "Police say the men did not know each other",
+    "No arrest reported"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-21/man-in-hospital-after-stabbing-on-bourke-street-mall/107412922"
+    }
+   ],
+   "publishedAt": "2026-11-21T16:45:00+11:00",
+   "createdAt": "2026-11-21T17:50:00+11:00",
+   "reason": "Local crime"
+  },
+  {
+   "id": "2026-11-21-lo-kirup-boy-killed-ute",
+   "batch": "2026-11-21-pm",
+   "rank": 7,
+   "category": "Australia",
+   "title": "Boy, 11, dies after being hit by ute on South Western Highway in Kirup",
+   "summary": "An 11-year-old boy died after being hit by a ute while crossing the South Western Highway in Kirup, about 220 kilometres south of Perth, at about 5.50pm on Friday, ABC News reported, citing WA Police. He was flown to Perth Children's Hospital and later died.\n\nThe 25-year-old driver was not injured and is assisting police. A local resident told the ABC that residents had asked Main Roads to lower the town's 60km/h speed limit to 40km/h. Main Roads had been contacted for comment, the ABC said.",
+   "keyFacts": [
+    "Boy hit while crossing highway on Friday evening",
+    "Driver, 25, assisting police",
+    "Residents had sought a lower speed limit"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-21/boy-11-dies-after-being-hit-by-ute-in-kirup/107412608"
+    }
+   ],
+   "publishedAt": "2026-11-21T14:33:00+11:00",
+   "createdAt": "2026-11-21T17:50:00+11:00",
+   "reason": "Human interest"
+  },
+  {
+   "id": "2026-11-21-lo-bolsonaro-hospitalised",
+   "batch": "2026-11-21-pm",
+   "rank": 8,
+   "category": "World",
+   "title": "Former Brazilian president Bolsonaro hospitalised with intestinal obstruction",
+   "summary": "Former Brazilian president Jair Bolsonaro, 71, was admitted to hospital in Brasilia on Friday with abdominal pain and distension, according to a hospital statement reported by MercoPress. Reuters reported his doctor said tests showed a partial intestinal obstruction.\n\nHis son, Senator Carlos Bolsonaro, said on social media that his father was receiving pain relief and doctors were trying to treat the condition without surgery, Reuters reported. Bolsonaro is serving a 27-year sentence for plotting a coup after his 2022 election loss and is under humanitarian house arrest. He has had several operations since being stabbed in 2018.",
+   "keyFacts": [
+    "Admitted to a Brasilia hospital on Friday",
+    "Doctor reports partial intestinal obstruction",
+    "Bolsonaro is under humanitarian house arrest"
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via MarketScreener)",
+     "url": "https://www.marketscreener.com/news/brazil-ex-president-bolsonaro-hospitalized-with-intestinal-obstruction-ce785ed3dc89f027"
+    },
+    {
+     "name": "MercoPress",
+     "url": "https://en.mercopress.com/2026/11/21/former-brazilian-president-jair-bolsonaro-hospitalised-in-brasilia-with-abdominal-pain"
+    }
+   ],
+   "publishedAt": "2026-11-21T10:16:00+11:00",
+   "createdAt": "2026-11-21T17:50:00+11:00",
+   "reason": "Human interest"
+  },
+  {
+   "id": "2026-11-21-lo-trump-canada-fair-deal",
+   "batch": "2026-11-21-pm",
+   "rank": 9,
+   "category": "World",
+   "title": "Trump says Canada feels emboldened but he wants a fair trade deal",
+   "summary": "US President Donald Trump said at a White House news conference on Friday that Canada was feeling emboldened but that the US was working on a fair trade deal, The Canadian Press reported. He said he had spoken with Prime Minister Mark Carney at the Asia-Pacific summit in Shenzhen.\n\nTrump repeated claims that Canada had taken advantage of the US, according to the report. US-Canada trade talks broke down in August, and 50 per cent tariffs apply to some Canadian goods. Carney said on Wednesday a very good arrangement was possible but Canada was pursuing other trade deals.",
+   "keyFacts": [
+    "Trump says he wants a fair deal with Canada",
+    "Talks broke down in August",
+    "Carney says Canada is pursuing other deals"
+   ],
+   "sources": [
+    {
+     "name": "The Canadian Press (via CP24)",
+     "url": "https://www.cp24.com/news/canada/2026/11/20/trump-says-canada-feeling-emboldened-but-hes-seeking-a-fair-trade-deal/"
+    }
+   ],
+   "publishedAt": "2026-11-21T07:47:00+11:00",
+   "createdAt": "2026-11-21T17:50:00+11:00",
+   "reason": "Restatement, nothing new"
+  },
+  {
+   "id": "2026-11-21-lo-rijiju-rahul-compromised-pm",
+   "batch": "2026-11-21-pm",
+   "rank": 10,
+   "category": "World",
+   "title": "Indian minister responds to Rahul Gandhi's 'compromised PM' post",
+   "summary": "Indian Congress leader Rahul Gandhi posted a picture of the three-way meeting between Donald Trump, Xi Jinping and Vladimir Putin, writing that a \"compromised PM\" could never sit at that table, in remarks seen as aimed at Prime Minister Narendra Modi, The Hans India reported.\n\nParliamentary Affairs Minister Kiren Rijiju said Gandhi should not make statements against India, according to the report, and the Deccan Herald reported that he questioned Congress over the 1962 war with China. BJP media convenor Ashish Usha Agarwal said a US-China-Russia meeting does not define India's global standing, citing its role in BRICS, the Quad and the G20.",
+   "keyFacts": [
+    "Gandhi posted about Trump-Xi-Putin meeting",
+    "Rijiju said Gandhi should not speak against India",
+    "BJP cites India's role in BRICS, Quad and G20"
+   ],
+   "sources": [
+    {
+     "name": "The Hans India",
+     "url": "https://www.thehansindia.com/news/cities/new-delhi/bjp-fumes-at-rahul-over-compromised-pm-jibe-1144241"
+    },
+    {
+     "name": "Deccan Herald",
+     "url": "https://www.deccanherald.com/india/rijiju-hits-back-at-rahuls-compromised-pm-jibe-asks-congress-questions-on-1962-war-poverty-4226217"
+    }
+   ],
+   "publishedAt": "2026-11-21T10:22:00+11:00",
+   "createdAt": "2026-11-21T17:50:00+11:00",
+   "reason": "Commentary"
+  },
+  {
+   "id": "2026-11-21-lo-first-nations-youth-day-of-action",
+   "batch": "2026-11-21-pm",
+   "rank": 11,
+   "category": "World",
+   "title": "First Nations youth plan Canada-wide day of action against major projects bill",
+   "summary": "First Nations youth in Canada plan a national day of action on 8 December against federal legislation to fast-track major projects, The Canadian Press reported. The date coincides with an Assembly of First Nations meeting in Ottawa.\n\nThe 243-page bill would shorten reviews and create national interest zones for pre-approval, according to the report. Organisers from Attawapiskat First Nation said it would override Indigenous rights and fail to protect the environment, and the Chiefs of Ontario support the action. Prime Minister Mark Carney has said Indigenous participation is central to his agenda.",
+   "keyFacts": [
+    "Day of action set for 8 December",
+    "Bill would shorten project reviews",
+    "Chiefs of Ontario back the protest"
+   ],
+   "sources": [
+    {
+     "name": "CTV News (The Canadian Press)",
+     "url": "https://www.ctvnews.ca/politics/article/first-nations-youth-plan-day-of-action-against-ottawas-major-projects-legislation/"
+    },
+    {
+     "name": "paNOW (The Canadian Press)",
+     "url": "https://panow.com/2026/11/20/first-nations-youth-plan-day-of-action-against-ottawas-major-projects-legislation/"
+    }
+   ],
+   "publishedAt": "2026-11-21T07:38:00+11:00",
+   "createdAt": "2026-11-21T17:50:00+11:00",
+   "reason": "No new development"
+  },
+  {
+   "id": "2026-11-21-lo-cop31-carbon-removal-push",
+   "batch": "2026-11-21-pm",
+   "rank": 12,
+   "category": "Environment",
+   "title": "Push grows to include carbon removal in COP31 climate text",
+   "summary": "Supporters of carbon dioxide removal pressed for it to be included in the final COP31 text in Antalya, arguing it could help reverse warming once temperatures pass 1.5C, Madhyamam reported. Carbon removal and carbon capture and storage appeared in a draft text for the first time.\n\nThe Center for International Environmental Law counted a record 700 carbon capture lobbyists at the summit, according to the report. The UN estimates 320 billion tonnes of carbon dioxide must be removed this century to return below 1.5C. Environmental groups said the focus should remain on cutting emissions rather than unproven technology.",
+   "keyFacts": [
+    "Carbon removal appeared in a draft text for the first time",
+    "Record 700 carbon capture lobbyists counted",
+    "UN estimates 320 billion tonnes must be removed"
+   ],
+   "sources": [
+    {
+     "name": "Madhyamam",
+     "url": "https://madhyamamonline.com/amp/science/carbon-removal-technology-gains-support-at-un-climate-talks-despite-concerns-1572943"
+    }
+   ],
+   "publishedAt": "2026-11-17T02:50:00+11:00",
+   "createdAt": "2026-11-21T17:50:00+11:00",
+   "reason": "Outside today's window"
+  },
+  {
+   "id": "2026-11-21-lo-kim-factory-visit-trump",
+   "batch": "2026-11-21-pm",
+   "rank": 13,
+   "category": "World",
+   "title": "Kim Jong Un inspects factories after Trump leaves Asia without meeting",
+   "summary": "North Korean state media said Kim Jong Un inspected factories producing school equipment on Friday, AFP reported via Arab News. The visit came after US President Donald Trump left Asia without meeting Kim.\n\nTrump said he had been too busy and that he and Kim would meet at some point, according to AFP. Pyongyang has not commented on Trump's remarks. Trump has said Kim would like to meet him, which North Korea has not confirmed. The two leaders met three times during Trump's first term.",
+   "keyFacts": [
+    "KCNA says Kim inspected school equipment factories",
+    "Trump left Asia without meeting Kim",
+    "Pyongyang has not responded to Trump's comments"
+   ],
+   "sources": [
+    {
+     "name": "Arab News (AFP)",
+     "url": "https://www.arabnews.pk/world/north-koreas-kim-visits-factory-sites-after-apparent-trump-snub-3007651"
+    }
+   ],
+   "publishedAt": "2026-11-21T13:51:00+11:00",
+   "createdAt": "2026-11-21T17:50:00+11:00",
+   "reason": "No new development"
+  },
+  {
+   "id": "2026-11-21-lo-senegal-newborn-fgm-arrests",
+   "batch": "2026-11-21-pm",
+   "rank": 14,
+   "category": "World",
+   "title": "Three arrested in Senegal after newborn dies following suspected genital mutilation",
+   "summary": "Three people, including a newborn girl's father and paternal grandmother, were arrested in Senegal's Tambacounda region after the baby died following suspected female genital mutilation, AP reported. A regional family affairs official said the procedure was allegedly carried out on 12 November, a day after the birth.\n\nThe official said the grandmother allegedly performed it without the mother's knowledge and the baby died on the way to a regional hospital. Female genital mutilation has been illegal in Senegal since 1999, with penalties of up to life imprisonment if it causes death, according to AP.",
+   "keyFacts": [
+    "Father, grandmother and another woman detained",
+    "Baby died on the way to hospital",
+    "Practice illegal in Senegal since 1999"
+   ],
+   "sources": [
+    {
+     "name": "AP (via WSB-TV)",
+     "url": "https://www.wsbtv.com/news/health/newborn-dies-after/SPN4FK7QU47DVKQ7CA7G55YNPM/"
+    }
+   ],
+   "publishedAt": "2026-11-20T03:16:00+11:00",
+   "createdAt": "2026-11-21T17:50:00+11:00",
+   "reason": "Local crime"
+  },
+  {
+   "id": "2026-11-21-lo-lisa-cook-refuses-hearing",
+   "batch": "2026-11-21-pm",
+   "rank": 15,
+   "category": "World",
+   "title": "Fed governor Lisa Cook refuses to attend White House hearing on her removal",
+   "summary": "US Federal Reserve Governor Lisa Cook will not take part in a White House hearing on whether to remove her unless the panel and its rules change, her lawyer Abbe Lowell said in a letter, The Washington Post reported. Lowell described the process as designed to hide a decision already made.\n\nThe hearing is set for 14 December. President Donald Trump alleges Cook claimed two homes as primary residences to obtain a better mortgage rate, which Cook has called an inadvertent oversight. A three-member committee will recommend whether there is cause to remove her. White House counsel Will Scharf disputed claims the committee had prejudged the issue.",
+   "keyFacts": [
+    "Hearing scheduled for 14 December",
+    "Cook's lawyer says the process is biased",
+    "Trump alleges mortgage misstatements; Cook denies wrongdoing"
+   ],
+   "sources": [
+    {
+     "name": "The Washington Post (via The Daily Record)",
+     "url": "https://thedailyrecord.com/2026/11/17/fed-governor-lisa-cook-refuses-white-house-firing-hearing/"
+    }
+   ],
+   "publishedAt": "2026-11-18T06:37:00+11:00",
+   "createdAt": "2026-11-21T17:50:00+11:00",
+   "reason": "Outside today's window"
+  },
+  {
    "id": "2026-11-21-lo-sydney-terror-charges",
    "batch": "2026-11-21",
    "rank": 1,
@@ -4907,138 +5279,6 @@
    "createdAt": "2026-11-19T17:47:45+11:00"
   },
   {
-   "id": "2026-11-14-lo-trump-film-incentive-faa",
-   "batch": "2026-11-14-pm",
-   "rank": 3,
-   "category": "Other",
-   "title": "Trump promoted film tax bill while FAA ground stop was under way, TheWrap reports",
-   "summary": "President Donald Trump posted support on Truth Social for a bipartisan bill offering federal incentives for film and television production while a nationwide FAA ground stop was in place on Friday, TheWrap reported. It said he had not publicly addressed the flight disruption at that time.\n\nTransportation Secretary Sean Duffy had posted that a communication issue was behind the stoppage and that technicians were investigating, according to TheWrap. Homeland Security Secretary Markwayne Mullin said the cause was not yet known but it was not a terrorist attack.",
-   "keyFacts": [
-    "Trump backed a federal production incentive bill",
-    "Report says he had not addressed the stoppage",
-    "Officials said no terrorist link"
-   ],
-   "sources": [
-    {
-     "name": "TheWrap",
-     "url": "https://www.thewrap.com/media-platforms/politics/trump-bipartisan-hollywood-production-bill-stays-mum-on-grounded-flights/"
-    }
-   ],
-   "publishedAt": "2026-11-14T10:52:00+11:00",
-   "createdAt": "2026-11-14T17:53:55+11:00",
-   "reason": "Commentary"
-  },
-  {
-   "id": "2026-11-14-lo-albanese-bowen-hot-mic",
-   "batch": "2026-11-14-pm",
-   "rank": 6,
-   "category": "Other",
-   "title": "Albanese and Bowen caught on open microphone joking at COP31",
-   "summary": "Prime Minister Anthony Albanese and Climate Change and Energy Minister Chris Bowen were recorded on an open microphone sharing a private joke at the COP31 climate summit in Türkiye, the ABC reported in a short video. The remark involved a crude reference.\n\nThe exchange came as Albanese left the summit for the ASEAN meeting in Manila, while Bowen stays on to lead negotiations, according to AAP. Neither minister had commented on the recording in the ABC's report.",
-   "keyFacts": [
-    "Recorded at COP31 in Türkiye",
-    "ABC published a short video",
-    "No comment from either minister reported"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-14/pm-and-energy-minister-s-hot-mic-moment/107386054"
-    }
-   ],
-   "publishedAt": "2026-11-14T12:58:00+11:00",
-   "createdAt": "2026-11-14T17:53:55+11:00",
-   "reason": "Human interest"
-  },
-  {
-   "id": "2026-11-14-lo-taliban-aid-workers-anniversary",
-   "batch": "2026-11-14-pm",
-   "rank": 7,
-   "category": "Other",
-   "title": "Australian aid workers recall 2001 detention by Taliban, 25 years on",
-   "summary": "Two Australians held by the Taliban in 2001, Peter Bunch and Diana Thomas, have described their detention and rescue to AAP, 25 years after it ended. They were among eight Shelter Now International staff arrested in Kabul in August 2001 and accused of promoting Christianity.\n\nAfter US strikes began and Northern Alliance forces advanced, the group was freed from a jail in Ghazni and later flown out by US special forces, reaching Pakistan on 15 November 2001, AAP reported. Former prime minister John Howard told AAP it was a dramatic time.",
-   "keyFacts": [
-    "Eight aid workers were detained in 2001",
-    "Rescued by US special forces helicopter",
-    "Reached Pakistan on 15 November 2001"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/aussie-aid-workers-recall-miracle-escape-from-taliban"
-    }
-   ],
-   "publishedAt": "2026-11-14T07:00:00+11:00",
-   "createdAt": "2026-11-14T17:53:55+11:00",
-   "reason": "Human interest"
-  },
-  {
-   "id": "2026-11-15-lo-greens-jet-fuel",
-   "batch": "2026-11-15",
-   "rank": 1,
-   "category": "Politics",
-   "title": "Greens seek end to fuel tax concession for private jets",
-   "summary": "The Greens want parliament to end the lower excise rate on fuel used by private aircraft, with leader David Shoebridge citing Parliamentary Budget Office costings, AAP reported. The PBO estimated the change would raise $640 million in 2027 and $1.5 billion over the forward estimates.\n\nShoebridge said motorists pay 53.7 cents a litre in fuel tax compared with about 3.6 cents for jet owners, according to AAP. He named several high-profile jet owners as beneficiaries. The government's response was not included in the AAP report.",
-   "keyFacts": [
-    "The proposal uses PBO costings",
-    "Shoebridge said drivers pay almost 15 times more tax per litre",
-    "The story was published before this update window"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/greens-call-for-an-end-to-jet-fuel-tax-breaks-for-rich"
-    }
-   ],
-   "publishedAt": "2026-11-14T12:40:00+11:00",
-   "createdAt": "2026-11-15T06:55:00+11:00",
-   "reason": "Outside today's window"
-  },
-  {
-   "id": "2026-11-15-lo-seq-storm-claims",
-   "batch": "2026-11-15",
-   "rank": 2,
-   "category": "Australia",
-   "title": "Insurers receive more than 2,700 claims after storms in Queensland and NSW",
-   "summary": "Insurers have received more than 2,700 claims after supercell storms hit south-east Queensland and northern NSW on Wednesday, the Insurance Council of Australia said, according to AAP. About 2,400 claims came from Queensland, and about 300 related to food spoiled during power cuts.\n\nAbout 25,000 homes lost power on Thursday, and the SES received more than 300 calls, most in Logan, AAP reported. The Bureau of Meteorology warned of further storms and possible flash flooding over the weekend. Insurance Council chief Andrew Hall urged policyholders to keep receipts.",
-   "keyFacts": [
-    "Gusts reached up to 120km/h in Logan",
-    "More than 20 schools were closed",
-    "The Darling Downs recorded 124mm in two hours"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/roads-and-power-cut-as-region-reels-from-wild-weather"
-    }
-   ],
-   "publishedAt": "2026-11-14T15:40:00+11:00",
-   "createdAt": "2026-11-15T06:55:00+11:00",
-   "reason": "Outside today's window"
-  },
-  {
-   "id": "2026-11-15-lo-rukaj-arrest",
-   "batch": "2026-11-15",
-   "rank": 6,
-   "category": "Other",
-   "title": "Man who escaped custody at Melbourne funeral arrested in far north Queensland",
-   "summary": "Orijol Rukaj, 47, who escaped Corrections Victoria supervision during a visit to a Melbourne cemetery for his brother's funeral in April, has been arrested in Bamaga in far north Queensland, AAP reported. He had been on remand on drug importation charges.\n\nVictoria Police said he would be extradited to Victoria within days, according to AAP. Police did not say how he travelled interstate. Officers have identified several overseas-based people they believe helped him escape. He has not yet faced the original charges in court.",
-   "keyFacts": [
-    "Rukaj was on the run for about six months",
-    "He was arrested on Friday",
-    "Police earlier said he was unlikely to pose a risk to community safety"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/fugitive-arrested-after-six-months-on-the-run"
-    }
-   ],
-   "publishedAt": "2026-11-14T08:00:00+11:00",
-   "createdAt": "2026-11-15T06:55:00+11:00",
-   "reason": "Local crime"
-  },
-  {
    "id": "2026-11-15-lo-massie-iran-war-powers",
    "batch": "2026-11-15",
    "rank": 7,
@@ -5059,54 +5299,6 @@
    "publishedAt": "2026-11-15T01:00:00+11:00",
    "createdAt": "2026-11-15T06:55:00+11:00",
    "reason": "Not yet confirmed"
-  },
-  {
-   "id": "2026-11-15-lo-brennan-son-charged",
-   "batch": "2026-11-15",
-   "rank": 8,
-   "category": "Other",
-   "title": "Son of former CIA director John Brennan charged over child abuse images",
-   "summary": "Kyle Brennan, 40, the son of former CIA director John Brennan, has been charged in a federal complaint with transporting child sexual abuse material, Fox News reported. The case began with tips to the National Center for Missing and Exploited Children in 2024, according to the report.\n\nAn FBI analysis of his phone allegedly found about 88 images, Fox News said, citing court documents. The allegations have not been tested in court. Responses from Brennan's lawyer, the Justice Department and the FBI were not included in the report.",
-   "keyFacts": [
-    "The FBI's Washington field office is involved",
-    "Records tied uploads to an address in Warrenton, Virginia, Fox said",
-    "He was due to appear in federal court on Saturday US time"
-   ],
-   "sources": [
-    {
-     "name": "Fox News",
-     "url": "https://www.foxnews.com/politics/former-cia-director-john-brennans-son-arrested-after-fbi-uncovers-dozens-alleged-child-porn-images"
-    }
-   ],
-   "publishedAt": "2026-11-14T07:36:00+11:00",
-   "createdAt": "2026-11-15T06:55:00+11:00",
-   "reason": "Local crime"
-  },
-  {
-   "id": "2026-11-15-lo-menhaden-catch-cut",
-   "batch": "2026-11-15",
-   "rank": 9,
-   "category": "Environment",
-   "title": "US Atlantic regulator cuts menhaden catch limits for 2027 and 2028",
-   "summary": "The Atlantic States Marine Fisheries Commission has voted to cut the East Coast menhaden catch limit by 9 per cent in 2027 and 17 per cent in 2028, adopting a compromise proposed by Maine, according to the Maine Monitor and the Associated Press. The limit falls from 186,840 tonnes in 2026 to 155,000 tonnes in 2028.\n\nThe commission also cut the Chesapeake Bay harvest cap by about a third, the Baltimore Banner reported. More than 48,000 public comments were received, most favouring a deeper cut. Fishing industry groups opposed the cap, while conservation groups said it did not go far enough.",
-   "keyFacts": [
-    "Menhaden are a key food for striped bass and ospreys",
-    "Virginia's delegation opposed the bay cap",
-    "The vote was held earlier in the week"
-   ],
-   "sources": [
-    {
-     "name": "AP (via WRAL)",
-     "url": "https://www.wral.com/news/ap/e6630-fisheries-regulator-cuts-menhaden-catch-limit-adopting-uneasy-compromise-proposed-by-maine/"
-    },
-    {
-     "name": "Baltimore Banner",
-     "url": "https://www.thebanner.com/community/climate-environment/chesapeake-bay-menhaden-V5IZ5OWJNRF67EZPW234LOVONY/"
-    }
-   ],
-   "publishedAt": "2026-11-14T07:13:00+11:00",
-   "createdAt": "2026-11-15T06:55:00+11:00",
-   "reason": "Outside today's window"
   },
   {
    "id": "2026-11-15-lo-scotus-apa-judges",
@@ -5715,32 +5907,6 @@
    "createdAt": "2026-11-17T06:55:00+11:00",
    "reason": "Restatement, nothing new",
    "rank": 8
-  },
-  {
-   "id": "2026-11-17-lo-dc-probation-shooting",
-   "batch": "2026-11-17",
-   "category": "Other",
-   "title": "Washington teen sentenced to probation over shooting that injured boy at recreation centre",
-   "summary": "A 19-year-old Washington man who pleaded guilty to aggravated assault and carrying a pistol without a licence was sentenced to probation over a May shooting that injured a boy playing basketball, the US Attorney's Office for the District of Columbia said. Prosecutors had sought five years.\n\nJudge Jennifer Di Toro imposed a suspended 24-month sentence with 18 months of supervised probation under the Youth Rehabilitation Act, over the government's objection, according to the office. Fox 5 DC reported the man fired more than 20 rounds. A search of his home found two firearms, prosecutors said.",
-   "keyFacts": [
-    "Prosecutors sought five years in prison",
-    "Judge imposed suspended sentence and probation",
-    "More than 20 rounds were fired, prosecutors say"
-   ],
-   "sources": [
-    {
-     "name": "US Attorney's Office, DC",
-     "url": "https://www.justice.gov/usao-dc/pr/teen-gets-probation-shooting-juvenile-playing-basketball-recreation-center"
-    },
-    {
-     "name": "Fox 5 DC",
-     "url": "https://www.fox5dc.com/news/19-year-old-gets-probation-after-shooting-juvenile-dc-recreation-center"
-    }
-   ],
-   "publishedAt": "2026-11-14T10:06:00+11:00",
-   "createdAt": "2026-11-17T06:55:00+11:00",
-   "reason": "Local crime",
-   "rank": 10
   },
   {
    "id": "2026-11-17-lo-darwin-teen-terror-bail",
