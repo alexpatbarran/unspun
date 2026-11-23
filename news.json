@@ -1,13 +1,490 @@
 {
- "updatedAt": "2026-11-23T06:51:00+11:00",
+ "updatedAt": "2026-11-23T18:10:00+11:00",
  "articles": [
+  {
+   "id": "2026-11-23-chalmers-myefo-net-savings",
+   "batch": "2026-11-23-pm",
+   "rank": 1,
+   "category": "Economy",
+   "title": "Chalmers says mid-year update will show net savings as jobless forecast rises",
+   "summary": "Treasurer Jim Chalmers told parliament on Monday that the mid-year budget update would show a net saving, with new spending more than offset by cuts, the ABC reported. He said the update would be released after 8 December.\n\nChalmers said unemployment would peak above 5 per cent, compared with 4.5 per cent forecast in the budget, and that growth would be well below 2 per cent for the next two years. He said inflation was not expected to return to the Reserve Bank's 2–3 per cent target band until the end of 2027. Opposition Leader Angus Taylor called for Chalmers to be sacked, while Chalmers accused the Coalition of opposing savings measures in the Senate.",
+   "keyFacts": [
+    "Unemployment now forecast to peak above 5 per cent",
+    "Mid-year update due after 8 December",
+    "Inflation seen back in target band by end of 2027"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-23/chalmers-flags-net-spending-cuts-in-mid-year-budget/107417628"
+    }
+   ],
+   "publishedAt": "2026-11-23T16:18:00+11:00",
+   "createdAt": "2026-11-23T18:10:00+11:00"
+  },
+  {
+   "id": "2026-11-23-pbs-25-dollar-freeze-2030",
+   "batch": "2026-11-23-pm",
+   "rank": 2,
+   "category": "Health",
+   "title": "Government to keep maximum PBS prescription cost at $25 until 2030",
+   "summary": "The federal government will introduce legislation to keep the maximum general cost of medicines on the Pharmaceutical Benefits Scheme at $25 a script until the end of the decade, Prime Minister Anthony Albanese said on Monday. Health Minister Mark Butler said the measure would cost about $242 million over three years and would appear in the mid-year budget update.\n\nNCA NewsWire reported the co-payment had been cut to $25 on 1 January and was due to start rising with indexation in 2027. Butler said separately that the government lacked Senate support for its plan to reduce the private health insurance rebate for people aged 65 and over, and was negotiating with the Greens.",
+   "keyFacts": [
+    "Maximum general script price held at $25 until 2030",
+    "Cost put at about $242 million over three years",
+    "Over-65s rebate cut lacks Senate numbers, Butler says"
+   ],
+   "sources": [
+    {
+     "name": "Prime Minister of Australia (transcript)",
+     "url": "https://www.pm.gov.au/media/press-conference-parliament-house-canberra-56"
+    },
+    {
+     "name": "NCA NewsWire (via Yahoo News Australia)",
+     "url": "https://au.news.yahoo.com/pbs-medicine-costs-remain-frozen-224518681.html"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-23/federal-politics-live-blog-parliament-nov-23/107415266"
+    }
+   ],
+   "publishedAt": "2026-11-23T09:45:00+11:00",
+   "createdAt": "2026-11-23T18:10:00+11:00"
+  },
+  {
+   "id": "2026-11-23-poland-russia-rapper-plot",
+   "batch": "2026-11-23-pm",
+   "rank": 3,
+   "category": "World",
+   "title": "Poland says Russia made two attempts to kill Ukrainian-American rapper",
+   "summary": "Poland's Foreign Ministry said an alleged Russian plot to kill Ukrainian-American rapper Albert Vasiliev, known as Kyivstoner, was the second attempt on his life, after an earlier plan was foiled in Poland in August, Al Jazeera reported. A ministry spokesperson confirmed the alleged plot to AP on Sunday, and Polish authorities said a Russian national was detained on 7 August.\n\nDenmark expelled a Russian diplomat on Friday over an alleged plan to kill Vasiliev at a concert near Copenhagen, and two Danish men have been charged. Russia's embassy in Copenhagen called the allegations unsubstantiated. Russia's FSB has accused Vasiliev of supplying drones for an alleged Ukrainian attack, which he denies, according to Danish broadcaster DR.",
+   "keyFacts": [
+    "Poland says it foiled a first plot in August",
+    "Denmark expelled a Russian diplomat on Friday",
+    "Russia calls the allegations unsubstantiated"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/23/poland-says-russia-tried-to-assassinate-ukrainian-rapper-twice"
+    }
+   ],
+   "publishedAt": "2026-11-23T12:53:00+11:00",
+   "createdAt": "2026-11-23T18:10:00+11:00"
+  },
+  {
+   "id": "2026-11-23-bhp-copper-south-australia",
+   "batch": "2026-11-23-pm",
+   "rank": 4,
+   "category": "Business",
+   "title": "BHP plans to double South Australian copper output by 2040",
+   "summary": "BHP said on Monday it plans to double copper production from its Copper South Australia operations to 650,000 tonnes a year by 2040, according to an investor presentation reported by Investing.com. The ABC reported the plan would cost between $US14.2 billion and $US18.1 billion, with a final investment decision expected in the first half of 2027.\n\nBHP said the South Australian operations would provide about a third of its planned copper growth to 2035, when it aims to produce about 2 million tonnes a year, up from about 1.4 million now. The company's shares rose about 2 per cent on the ASX on Monday.",
+   "keyFacts": [
+    "Target of 650,000 tonnes of copper a year by 2040",
+    "Cost estimated at $US14.2–18.1 billion",
+    "Final investment decision expected in first half of 2027"
+   ],
+   "sources": [
+    {
+     "name": "Investing.com",
+     "url": "https://www.investing.com/news/stock-market-news/bhp-plans-to-double-south-australian-copper-output-by-2040-shares-up-5044301"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-23/asx-markets-business-live-news-november-23/107414602"
+    }
+   ],
+   "publishedAt": "2026-11-23T15:07:00+11:00",
+   "createdAt": "2026-11-23T18:10:00+11:00"
+  },
+  {
+   "id": "2026-11-23-dymer-death-toll-rises",
+   "batch": "2026-11-23-pm",
+   "rank": 5,
+   "category": "World",
+   "title": "Death toll from Russian strike on apartment block in Dymer rises to at least 10",
+   "summary": "The death toll from a Russian drone strike on a five-storey apartment building in Dymer, north of Kyiv, has risen to at least 10, Kyiv regional military administration head Tymur Tkachenko said on Monday, according to Ukrinform. Earlier reports had put the toll at four, and rescuers have pulled a child out alive.\n\nAFP, via Gulf News, reported Ukraine's emergency service said 11 people, including two children, were unaccounted for during the search, and a teenager was among the dead. Tkachenko said a separate strike on a supermarket in Vyshneve killed two people and wounded eight. Italian agency LaPresse, citing the Kyiv Independent, later reported a toll of 11.",
+   "keyFacts": [
+    "At least 10 dead in Dymer, regional head says",
+    "11 people, including two children, were missing",
+    "Separate supermarket strike in Vyshneve killed two"
+   ],
+   "sources": [
+    {
+     "name": "Ukrinform",
+     "url": "https://www.ukrinform.net/rubric-ato/4187507-death-toll-from-russian-attack-in-kyiv-regions-dymer-rises-to-ten.html"
+    },
+    {
+     "name": "AFP (via Gulf News)",
+     "url": "https://gulfnews.com/world/americas/ukraine-says-russian-strikes-kill-12-in-kyiv-region-1.500757016"
+    },
+    {
+     "name": "LaPresse",
+     "url": "https://uk.lapresse.it/world-en/2026/11/23/ukraine-death-toll-from-russian-attack-on-dymer-rises-to-11/"
+    }
+   ],
+   "publishedAt": "2026-11-23T15:34:00+11:00",
+   "createdAt": "2026-11-23T18:10:00+11:00"
+  },
+  {
+   "id": "2026-11-23-indonesia-factory-fire-24-dead",
+   "batch": "2026-11-23-pm",
+   "rank": 6,
+   "category": "World",
+   "title": "Indonesia says 24 killed in sweets factory fire as search continues",
+   "summary": "Indonesian authorities said 24 people were killed in Saturday's fire at the PT Fonusa Agung Mulia confectionery factory in Banten province, up from an earlier toll of three, Reuters reported. Banten's search and rescue head said 24 body bags of remains had been recovered and about 30 people were still missing.\n\nPolice said DNA identification could take weeks and that a bag might hold remains of more than one person, so the final toll was unclear, according to Al Jazeera. A presidential labour adviser said preliminary reports pointed to an air-conditioner short circuit. The parent company, United Family Food, did not respond to Reuters' request for comment.",
+   "keyFacts": [
+    "Toll rises from three to 24",
+    "About 30 people still missing",
+    "Preliminary reports point to an electrical fault"
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via ThePrint)",
+     "url": "https://theprint.in/world/indonesia-says-24-killed-in-factory-blaze-as-rescuers-search-for-dozens-missing/3106086/"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/23/indonesian-police-remove-24-body-bags-from-factory-fire-site"
+    }
+   ],
+   "publishedAt": "2026-11-23T15:00:00+11:00",
+   "createdAt": "2026-11-23T18:10:00+11:00"
+  },
+  {
+   "id": "2026-11-23-belgium-airports-strike",
+   "batch": "2026-11-23-pm",
+   "rank": 7,
+   "category": "World",
+   "title": "Belgian airports shut for a day as unions strike against austerity",
+   "summary": "Belgian air traffic controller Skeyes said it could not provide normal services from 7am to 9pm local time on Monday because of a national strike, with only emergency and safety-critical flights continuing, Al Jazeera reported. Brussels-Charleroi airport said the strike would shut all of the country's airports for the day.\n\nUnions called the nationwide day of action against austerity measures, with a large demonstration planned in Brussels and possible disruption to transport, schools and public offices. Prime Minister Bart De Wever is negotiating a budget aimed at saving €10 billion. An airline group said it was the 11th strike to affect Belgian airspace in 11 months.",
+   "keyFacts": [
+    "Air traffic services suspended from 7am to 9pm",
+    "Strike is against government austerity plans",
+    "Government seeking €10 billion in budget savings"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/23/belgiums-airports-set-to-shut-down-due-to-anti-austerity-strike"
+    }
+   ],
+   "publishedAt": "2026-11-23T14:15:00+11:00",
+   "createdAt": "2026-11-23T18:10:00+11:00"
+  },
+  {
+   "id": "2026-11-23-asia-markets-ai-selloff",
+   "batch": "2026-11-23-pm",
+   "rank": 8,
+   "category": "Economy",
+   "title": "South Korea's Kospi falls as much as 5.8% as AI sell-off spreads to Asia",
+   "summary": "Seoul's Kospi index fell as much as 5.8 per cent on Monday and was down 3.2 per cent at 04:30 GMT, after Friday's slump on Wall Street, Al Jazeera reported. Hong Kong's Hang Seng and China's CSI 300 each fell about 0.6 per cent, while Taiwan's Taiex rose 2.5 per cent after its worst week since 1991. Japan's markets were closed for a holiday.\n\nThe S&P 500 fell 3.7 per cent on Friday, entering a correction, and the Nasdaq dropped 5.3 per cent, according to the report. US stock futures were up more than 2 per cent during the Asian session.",
+   "keyFacts": [
+    "Kospi fell as much as 5.8% during the session",
+    "Taiwan's Taiex rebounded 2.5%",
+    "US futures rose after Friday's losses"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount"
+    }
+   ],
+   "publishedAt": "2026-11-23T11:18:00+11:00",
+   "createdAt": "2026-11-23T18:10:00+11:00"
+  },
+  {
+   "id": "2026-11-23-asx-eighth-straight-loss",
+   "batch": "2026-11-23-pm",
+   "rank": 9,
+   "category": "Economy",
+   "title": "ASX 200 falls for an eighth straight session as banks weigh on market",
+   "summary": "The S&P/ASX 200 closed 0.3 per cent lower at 8,571 points on Monday, its eighth consecutive daily fall, the ABC reported. Banks were the largest drag, with Commonwealth Bank down 2.2 per cent and Westpac down 1.9 per cent, while miners gained, led by BHP.\n\nAAP reported the local market had its worst week since 2022 last week, after a sell-off in technology shares linked to artificial intelligence. The Australian dollar rose to about 66.35 US cents, and gold was trading at about $US3,600 an ounce, according to the ABC.",
+   "keyFacts": [
+    "ASX 200 closed down 0.3% at 8,571",
+    "Eighth straight session of losses",
+    "Banks fell while miners rose"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-23/asx-markets-business-live-news-november-23/107414602"
+    },
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/stock-market-sell-off-slows-but-downside-risks-remain"
+    }
+   ],
+   "publishedAt": "2026-11-23T16:35:00+11:00",
+   "createdAt": "2026-11-23T18:10:00+11:00"
+  },
+  {
+   "id": "2026-11-23-australia-manufacturing-pmi",
+   "batch": "2026-11-23-pm",
+   "rank": 10,
+   "category": "Economy",
+   "title": "Australian factory activity contracts further in November, S&P Global survey shows",
+   "summary": "S&P Global's flash manufacturing purchasing managers' index for Australia fell to 48.7 in November from 49.6 in October, RTTNews reported on Monday. A reading below 50 indicates contraction.\n\nThe survey showed new manufacturing orders fell for the first time in five months, at the sharpest rate since August 2021, and new business in the services sector also began to decline, according to RTTNews. The ABC reported the data came as UBS cut its 2027 growth forecast for Australia, and ahead of October inflation figures due on Wednesday.",
+   "keyFacts": [
+    "Flash manufacturing PMI fell to 48.7 from 49.6",
+    "New orders fell at fastest pace since August 2021",
+    "October inflation data due Wednesday"
+   ],
+   "sources": [
+    {
+     "name": "RTTNews",
+     "url": "https://www.rttnews.com/3716935/australia-manufacturing-pmi-sinks-to-48-7-in-november-s-p-global.aspx"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-23/asx-markets-business-live-news-november-23/107414602"
+    }
+   ],
+   "publishedAt": "2026-11-23T09:50:00+11:00",
+   "createdAt": "2026-11-23T18:10:00+11:00"
+  },
+  {
+   "id": "2026-11-23-who-congo-ebola-fighting",
+   "batch": "2026-11-23-pm",
+   "rank": 11,
+   "category": "Health",
+   "title": "WHO says fighting near Congo hospital is putting Ebola patients and staff at risk",
+   "summary": "World Health Organization chief Tedros Adhanom Ghebreyesus said heavy fighting since Saturday near a hospital in the Democratic Republic of Congo's Ituri province had disrupted the Ebola response and put patients and health workers at grave risk, Al Jazeera reported. He said medical staff had been sheltering in a maternity ward for more than 24 hours and that WHO was working to arrange their safe exit.\n\nWHO figures as of 17 November showed 5,678 deaths from 11,613 Ebola cases in the country. The agency said on Saturday that high-level transmission was continuing, with Ituri and North Kivu the worst affected provinces.",
+   "keyFacts": [
+    "Fighting near an Ituri hospital since Saturday",
+    "WHO records 5,678 deaths from 11,613 cases",
+    "Staff sheltering in a maternity ward, WHO says"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region"
+    }
+   ],
+   "publishedAt": "2026-11-23T11:39:00+11:00",
+   "createdAt": "2026-11-23T18:10:00+11:00"
+  },
+  {
+   "id": "2026-11-23-alice-huang-china-spy-agency",
+   "batch": "2026-11-23-pm",
+   "rank": 12,
+   "category": "Business",
+   "title": "Woman in Nvidia scandal was in contact with China's spy agency, reports say",
+   "summary": "Alice Huang, the woman at the centre of the scandal involving Nvidia's chief executive Jensen Huang, was in contact with an official from China's Ministry of State Security from spring 2025 until this autumn, ABC News in the US reported, citing sources familiar with US intelligence. The New York Times first reported the claims.\n\nABC said it was not clear whether US intelligence had evidence she passed on inside information. Her Singapore-based company, Megaspeed, was acquiring Nvidia chips during part of that period and has been under federal investigation since 2024, according to the sources. The White House and State Department did not immediately comment.",
+   "keyFacts": [
+    "Contacts reportedly ran from spring 2025 to autumn 2026",
+    "Unclear if any inside information was passed on",
+    "Megaspeed under federal investigation since 2024, sources say"
+   ],
+   "sources": [
+    {
+     "name": "ABC News (US)",
+     "url": "https://abcnews.com/US/woman-center-nvidia-scandal-touch-chinas-top-spy/story?id=138369034"
+    }
+   ],
+   "publishedAt": "2026-11-23T16:43:00+11:00",
+   "createdAt": "2026-11-23T18:10:00+11:00"
+  },
+  {
+   "id": "2026-11-23-indonesia-vp-nominations",
+   "batch": "2026-11-23-pm",
+   "rank": 13,
+   "category": "World",
+   "title": "Indonesia's Prabowo to nominate two vice-president candidates after Gibran's resignation",
+   "summary": "Indonesian President Prabowo Subianto was set to submit the names of two vice-presidential candidates to parliament on Monday, state news agency Antara reported, citing an upper house deputy speaker, according to Reuters. The names had not been made public.\n\nThe nominations follow the resignation of Vice-President Gibran Rakabuming Raka, the son of former president Joko Widodo, amid legal cases over the validity of his qualifications. Parliament is scheduled to choose the new vice-president on 11 December after vetting the two candidates, Reuters reported.",
+   "keyFacts": [
+    "Two names to be sent to parliament on Monday",
+    "Follows resignation of Gibran Rakabuming Raka",
+    "Parliament to vote on 11 December"
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via ThePrint)",
+     "url": "https://theprint.in/world/indonesia-president-to-nominate-vp-candidates-on-monday-state-media-reports/3106174/"
+    }
+   ],
+   "publishedAt": "2026-11-23T17:00:00+11:00",
+   "createdAt": "2026-11-23T18:10:00+11:00"
+  },
+  {
+   "id": "2026-11-23-south-korea-education-minister-quits",
+   "batch": "2026-11-23-pm",
+   "rank": 14,
+   "category": "World",
+   "title": "South Korea's education minister resigns over university entrance exam cheating rules",
+   "summary": "South Korea's Education Minister Choi Kyo-jin resigned on Sunday, saying he took responsibility for confusion caused by last-minute measures against AI-assisted cheating in last week's national college entrance exam, Reuters reported. President Lee Jae Myung accepted the resignation and ordered a review of how national exams are managed.\n\nThe rules had been tightened after the top scorer in a national tax accountant exam said they had cheated using a miniature camera, a smartphone and AI, according to Reuters. More than 550,000 students registered for the entrance exam. Choi acknowledged preparation had been inadequate and rules had changed repeatedly.",
+   "keyFacts": [
+    "Minister resigned on Sunday",
+    "President ordered review of exam management",
+    "More than 550,000 students registered for the exam"
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via ThePrint)",
+     "url": "https://theprint.in/world/south-koreas-education-minister-quits-over-exam-cheating-chaos/3106058/"
+    }
+   ],
+   "publishedAt": "2026-11-23T11:30:00+11:00",
+   "createdAt": "2026-11-23T18:10:00+11:00"
+  },
+  {
+   "id": "2026-11-23-china-elderly-childcare-targets",
+   "batch": "2026-11-23-pm",
+   "rank": 15,
+   "category": "World",
+   "title": "China sets 2030 targets for aged care and childcare as population ages",
+   "summary": "China's government has published a plan setting 2030 targets for aged care and childcare services, posted on the National Development and Reform Commission's website, Reuters reported. It aims for nursing care beds to make up 73 per cent of beds in aged care institutions and for community care to reach 70 per cent of older people, with about 2,000 public nursing homes to be renovated.\n\nThe plan also aims to extend childcare centres to all prefecture-level cities and raise enrolment of children under three by six percentage points from 2025 levels. Official data showed China's population fell for a fourth straight year in 2025, according to Reuters.",
+   "keyFacts": [
+    "Targets set for 2030",
+    "About 2,000 public nursing homes to be renovated",
+    "Under-3 childcare enrolment to rise six points"
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via ThePrint)",
+     "url": "https://theprint.in/world/china-sets-2030-targets-to-boost-support-for-older-people-childcare/3106128/"
+    }
+   ],
+   "publishedAt": "2026-11-23T16:00:00+11:00",
+   "createdAt": "2026-11-23T18:10:00+11:00"
+  },
+  {
+   "id": "2026-11-23-west-bank-medics-report",
+   "batch": "2026-11-23-pm",
+   "rank": 16,
+   "category": "World",
+   "title": "Israeli rights group reports 350% rise in incidents against West Bank medics",
+   "summary": "Physicians for Human Rights Israel released a report on Monday documenting a 350 per cent increase in incidents involving Palestinian healthcare workers in the occupied West Bank between 2022 and 2024, which it attributed to Israeli soldiers and settlers, Al Jazeera reported. The report was based on interviews with 25 medics.\n\nThe incidents described include assaults, threats at gunpoint and searches, according to the report. Al Jazeera cited WHO figures recording 233 attacks on healthcare in the West Bank last year. The article did not include a response from the Israeli government or military, and the claims have not been independently verified.",
+   "keyFacts": [
+    "Report cites 350% rise from 2022 to 2024",
+    "Based on interviews with 25 medics",
+    "No Israeli response included in the report coverage"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/23/israeli-attacks-on-medics-in-occupied-west-bank-surge-by-350-rights-group"
+    }
+   ],
+   "publishedAt": "2026-11-23T16:38:00+11:00",
+   "createdAt": "2026-11-23T18:10:00+11:00"
+  },
+  {
+   "id": "2026-11-23-clayton-putin-friend-comments",
+   "batch": "2026-11-23-pm",
+   "rank": 17,
+   "category": "World",
+   "title": "US intelligence chief defends Trump calling Putin a 'friend'",
+   "summary": "US Director of National Intelligence Jay Clayton said on Sunday that Russian President Vladimir Putin was not America's friend in Ukraine, while describing President Donald Trump's use of the word as appropriate for building rapport, Al Jazeera reported, citing AP. Clayton spoke on ABC's This Week and also told CNN he trusted Trump on the language he used.\n\nTrump greeted Putin as \"my friend\" when he met him and Chinese President Xi Jinping at APEC in Shenzhen on 19 November. Outgoing Republican congressman Don Bacon criticised Trump's approach to Putin, according to the report.",
+   "keyFacts": [
+    "Clayton says Putin is not America's friend in Ukraine",
+    "He called Trump's remarks appropriate",
+    "Trump met Putin and Xi at APEC on 19 November"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/23/us-intelligence-chief-defends-trumps-comments-calling-putin-his"
+    }
+   ],
+   "publishedAt": "2026-11-23T13:23:00+11:00",
+   "createdAt": "2026-11-23T18:10:00+11:00"
+  },
+  {
+   "id": "2026-11-23-iowa-army-lead-azide-detonation",
+   "batch": "2026-11-23-pm",
+   "rank": 18,
+   "category": "Environment",
+   "title": "US Army moves to detonate lead azide stores in Iowa despite court pause on permit",
+   "summary": "The US Army planned to detonate about 4.4 tonnes of lead azide at the Iowa Army Ammunition Plant near Middletown on Monday, according to a state health department fact sheet cited by Al Jazeera. A federal appeals court paused the Environmental Protection Agency's emergency permit on Friday.\n\nThe Justice Department said in a filing that an emergency exception allowed the blasts to proceed, Al Jazeera reported. A court declaration said the material had dried out and formed crystals, raising the risk of explosion. Plaintiffs represented by Earthjustice say residents had about a week's notice and that lead dust could spread widely.",
+   "keyFacts": [
+    "About 4.4 tonnes of lead azide set for detonation",
+    "Appeals court paused the EPA permit on Friday",
+    "Justice Department cites an emergency exception"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/23/extremely-concerning-inside-a-us-army-plan-to-detonate-iowa-lead-stores"
+    }
+   ],
+   "publishedAt": "2026-11-23T13:09:00+11:00",
+   "createdAt": "2026-11-23T18:10:00+11:00"
+  },
+  {
+   "id": "2026-11-23-taylor-bowen-cop31-resign",
+   "batch": "2026-11-23-pm",
+   "rank": 19,
+   "category": "Politics",
+   "title": "Taylor calls for Bowen to resign after COP31 ends without a deal",
+   "summary": "Opposition Leader Angus Taylor said Climate and Energy Minister Chris Bowen should resign after the COP31 talks he co-led ended without an agreement, and said net zero should be scrapped, the ABC and Reuters reported. Prime Minister Anthony Albanese did not say whether he would remove Bowen.\n\nBowen said strongly held red lines among parties had prevented a deal. Reuters reported Australia spent about $150 million on its COP31 role. The Marshall Islands delegation said Pacific nations had been let down, and European negotiators said Saudi Arabia had led resistance to fossil fuel language, which the Turkish presidency said did not reflect preferential treatment.",
+   "keyFacts": [
+    "Taylor says Bowen should resign",
+    "Albanese did not say whether Bowen would be moved",
+    "Australia spent about $150 million on COP31, Reuters says"
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via ThePrint)",
+     "url": "https://theprint.in/world/cop-flop-triggers-backlash-in-australia-pacific-nations-express-despair/3106197/"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-23/federal-politics-live-blog-parliament-nov-23/107415266"
+    }
+   ],
+   "publishedAt": "2026-11-23T17:30:00+11:00",
+   "createdAt": "2026-11-23T18:10:00+11:00"
+  },
+  {
+   "id": "2026-11-23-monique-ryan-lobbyist-bill",
+   "batch": "2026-11-23-pm",
+   "rank": 20,
+   "category": "Politics",
+   "title": "Independent MP Monique Ryan introduces bill for public register of lobbyist meetings",
+   "summary": "Independent MP Monique Ryan introduced a private member's bill on Monday that would create a public register of meetings between lobbyists and ministers and public servants, with penalties for failing to disclose them, the ABC reported. Independent MP Kate Chaney and Senator Jacqui Lambie said they supported the bill.\n\nRyan has published her own meeting diary, according to the ABC. Private member's bills need government or opposition support to pass, and neither major party had announced a position on the proposal in the ABC's coverage.",
+   "keyFacts": [
+    "Bill proposes a public register of lobbyist meetings",
+    "Penalties would apply for non-disclosure",
+    "Backed by Kate Chaney and Jacqui Lambie"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-23/federal-politics-live-blog-parliament-nov-23/107415266"
+    }
+   ],
+   "publishedAt": "2026-11-23T10:30:00+11:00",
+   "createdAt": "2026-11-23T18:10:00+11:00"
+  },
+  {
+   "id": "2026-11-23-digital-duty-of-care-exemption",
+   "batch": "2026-11-23-pm",
+   "rank": 21,
+   "category": "Politics",
+   "title": "Low-risk small business websites to be exempt from digital duty of care laws",
+   "summary": "Communications Minister Anika Wells confirmed that low-risk small business websites would be exempt from the government's proposed digital duty of care laws, the ABC reported on Monday. Business groups had said firms were unsure whether the laws, which carry penalties above $100 million, applied to them.\n\nGreens senator Sarah Hanson-Young said she was optimistic about reaching a deal on the bill this week. The Greens want an amendment allowing individuals to sue technology companies, according to the ABC. Wells noted a parliamentary inquiry had backed considering such a right of action. It is the final sitting week of the year.",
+   "keyFacts": [
+    "Low-risk small business sites to be exempt",
+    "Penalties under the laws exceed $100 million",
+    "Greens seek a right for individuals to sue"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-23/federal-politics-live-blog-parliament-nov-23/107415266"
+    }
+   ],
+   "publishedAt": "2026-11-23T06:45:00+11:00",
+   "createdAt": "2026-11-23T18:10:00+11:00"
+  },
   {
    "id": "2026-11-23-cop31-ends-without-deal",
    "batch": "2026-11-23",
    "rank": 1,
    "category": "Environment",
    "title": "COP31 climate talks in Antalya end without an agreement",
-   "summary": "The COP31 climate summit in Antalya ended on Sunday without a final agreement, after a draft that did not mention fossil fuels was rejected about 44 hours after the scheduled close, the ABC reported. CBS News said European countries opposed the text, arguing it placated fuel exporters, while the ABC reported Russia and Saudi Arabia supported leaving fossil fuels out.\n\nAustralia's Climate Minister Chris Bowen, who co-led the talks with T\u00fcrkiye, called the result \"very disappointing\". Ireland's climate minister said the talks had been taken over by some oil states. The ABC said the last UN climate talks to fail to reach a consensus deal were in Copenhagen in 2009.",
+   "summary": "The COP31 climate summit in Antalya ended on Sunday without a final agreement, after a draft that did not mention fossil fuels was rejected about 44 hours after the scheduled close, the ABC reported. CBS News said European countries opposed the text, arguing it placated fuel exporters, while the ABC reported Russia and Saudi Arabia supported leaving fossil fuels out.\n\nAustralia's Climate Minister Chris Bowen, who co-led the talks with Türkiye, called the result \"very disappointing\". Ireland's climate minister said the talks had been taken over by some oil states. The ABC said the last UN climate talks to fail to reach a consensus deal were in Copenhagen in 2009.",
    "keyFacts": [
     "Draft rejected about 44 hours after the summit's scheduled close",
     "EU states refused a text that left out fossil fuels",
@@ -317,7 +794,7 @@
    "rank": 1,
    "category": "Environment",
    "title": "COP31 presidency releases final text for approval as talks run two days over time",
-   "summary": "Organisers of the COP31 climate talks in Antalya released what they called a final deal text early on Sunday, after negotiations ran past the Friday deadline, Reuters reported via RT\u00c9. COP31 president Murat Kurum told a late-night plenary he believed all parties could agree on the text, and said concerns over fossil fuels and adaptation finance had been addressed.\n\nThe ABC reported the text keeps a call to electrify the global economy but does not name fossil fuels. Delegations had until 0300 GMT to object, with an approval session set for Sunday morning in Antalya. The African Group of Negotiators said it was disappointed with several outcomes, according to MyJoyOnline. Any deal needs consensus.",
+   "summary": "Organisers of the COP31 climate talks in Antalya released what they called a final deal text early on Sunday, after negotiations ran past the Friday deadline, Reuters reported via RTÉ. COP31 president Murat Kurum told a late-night plenary he believed all parties could agree on the text, and said concerns over fossil fuels and adaptation finance had been addressed.\n\nThe ABC reported the text keeps a call to electrify the global economy but does not name fossil fuels. Delegations had until 0300 GMT to object, with an approval session set for Sunday morning in Antalya. The African Group of Negotiators said it was disappointed with several outcomes, according to MyJoyOnline. Any deal needs consensus.",
    "keyFacts": [
     "Final text released early Sunday after talks overran by two days",
     "ABC reports the text does not name fossil fuels",
@@ -325,7 +802,7 @@
    ],
    "sources": [
     {
-     "name": "RT\u00c9 (Reuters)",
+     "name": "RTÉ (Reuters)",
      "url": "https://www.rte.ie/news/world/2026/1122/1600166-cop31-turkey/"
     },
     {
@@ -843,7 +1320,7 @@
    "rank": 6,
    "category": "World",
    "title": "France seeks UN Security Council meeting after strikes damage embassies in Kyiv",
-   "summary": "French Foreign Minister Jean-No\u00ebl Barrot said France is seeking a UN Security Council meeting after Russian attacks on Kyiv killed civilians and damaged the Austrian and Dutch embassy buildings, European Pravda reported. Barrot said Russia would have to answer for the attacks.\n\nAfricanews, citing AFP and AP, said staff at both embassies were unhurt in Thursday's strikes. Dutch Foreign Minister Tom Berendsen said the Dutch embassy was hit by a projectile. EU foreign policy chief Kaja Kallas said the EU would summon Russia's ambassador, according to European Pravda. Russia's embassy in the Netherlands had accused The Hague of taking part in the war, Africanews reported.",
+   "summary": "French Foreign Minister Jean-Noël Barrot said France is seeking a UN Security Council meeting after Russian attacks on Kyiv killed civilians and damaged the Austrian and Dutch embassy buildings, European Pravda reported. Barrot said Russia would have to answer for the attacks.\n\nAfricanews, citing AFP and AP, said staff at both embassies were unhurt in Thursday's strikes. Dutch Foreign Minister Tom Berendsen said the Dutch embassy was hit by a projectile. EU foreign policy chief Kaja Kallas said the EU would summon Russia's ambassador, according to European Pravda. Russia's embassy in the Netherlands had accused The Hague of taking part in the war, Africanews reported.",
    "keyFacts": [
     "France requests a UN Security Council meeting",
     "Austrian and Dutch embassies damaged; no staff hurt",
@@ -901,7 +1378,7 @@
    ],
    "sources": [
     {
-     "name": "AFP (via RT\u00c9)",
+     "name": "AFP (via RTÉ)",
      "url": "https://www.rte.ie/news/middle-east/2026/1120/1600068-gaza-israel/"
     }
    ],
@@ -1201,7 +1678,7 @@
    "batch": "2026-11-20-pm",
    "category": "Politics",
    "title": "US appeals court lets Trump end deportation protections for Venezuelans",
-   "summary": "A US appeals court has allowed the Trump administration, for now, to end Temporary Protected Status for Venezuelans, which covers about 600,000 people, Al Jazeera reported, citing Reuters and AP. The status shields holders from deportation. The decision does not end the underlying legal challenges, and the administration has also filed an emergency request with the Supreme Court.\n\nThe administration says the protection was always meant to be temporary and that conditions in Venezuela have improved since the US operation in January that removed Nicol\u00e1s Maduro. Rights advocates say his government remains largely in place, according to the report. The US State Department continues to advise against travel to Venezuela.",
+   "summary": "A US appeals court has allowed the Trump administration, for now, to end Temporary Protected Status for Venezuelans, which covers about 600,000 people, Al Jazeera reported, citing Reuters and AP. The status shields holders from deportation. The decision does not end the underlying legal challenges, and the administration has also filed an emergency request with the Supreme Court.\n\nThe administration says the protection was always meant to be temporary and that conditions in Venezuela have improved since the US operation in January that removed Nicolás Maduro. Rights advocates say his government remains largely in place, according to the report. The US State Department continues to advise against travel to Venezuela.",
    "keyFacts": [
     "About 600,000 Venezuelans hold TPS",
     "Ruling lets the protections lapse for now",
@@ -2012,231 +2489,6 @@
    "createdAt": "2026-11-19T17:47:45+11:00"
   },
   {
-   "id": "2026-11-16-third-carrier-iran-warning",
-   "batch": "2026-11-16-pm",
-   "rank": 1,
-   "category": "World",
-   "title": "Third US carrier arrives in Middle East; Iran says it will not wait to be attacked",
-   "summary": "The USS Theodore Roosevelt carrier strike group entered the area covered by US Central Command on Sunday, joining two other carrier groups already in the region, according to a US official cited by Al Jazeera and Gulf News. Gulf News, citing ABC News in the US, reported more than 20 Navy vessels are supporting a blockade of Iranian ports.\n\nIran's deputy foreign minister Kazem Gharibabadi told state news agency IRNA that Tehran would not wait for the US to strike first, and suggested Washington could be using diplomacy to prepare another attack. Israel National News reported President Donald Trump said in an interview he had no hesitation about renewed strikes, while Reuters reported he was weighing a delay.",
-   "keyFacts": [
-    "USS Theodore Roosevelt is the third US carrier group in the region",
-    "More than 20 US Navy vessels support a blockade of Iranian ports, reports say",
-    "Iran's deputy foreign minister said Tehran will not wait to be attacked"
-   ],
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack"
-    },
-    {
-     "name": "Gulf News",
-     "url": "https://gulfnews.com/world/mena/middle-east-conflict-us-iran-tensions-escalate-as-third-aircraft-carrier-enters-region-1.500748608"
-    },
-    {
-     "name": "Israel National News",
-     "url": "https://www.israelnationalnews.com/news/436265"
-    }
-   ],
-   "publishedAt": "2026-11-16T09:00:00+11:00",
-   "createdAt": "2026-11-16T18:25:00+11:00"
-  },
-  {
-   "id": "2026-11-16-coles-cyber-incident",
-   "batch": "2026-11-16-pm",
-   "rank": 3,
-   "category": "Business",
-   "title": "Coles investigates cybersecurity incident, says no evidence customer data was taken",
-   "summary": "Supermarket group Coles told the ASX on Monday morning it was investigating a cybersecurity incident, ABC News reported. The company said it had not identified any evidence that customer, staff or supplier data had been compromised or removed, and that stores and operations were continuing.\n\nColes said it was working with global cybersecurity experts to contain and secure its IT systems and would give further updates as appropriate, according to the ABC. It said customers did not need to take any action but should remain vigilant. A small number of customers were having problems with Liquorland click-and-collect orders. Coles did not give details of the nature of the incident.",
-   "keyFacts": [
-    "Coles disclosed the incident in an ASX statement on Monday",
-    "The company says it has found no evidence data was taken",
-    "Some Liquorland click-and-collect orders were affected"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-16/coles-investigates-cybersecurity-breach-but-little-detail/107390824"
-    },
-    {
-     "name": "InDaily",
-     "url": "https://www.indailysa.com.au/news/just-in/2026/11/16/coles-investigates-cyber-attack"
-    }
-   ],
-   "publishedAt": "2026-11-16T09:00:00+11:00",
-   "createdAt": "2026-11-16T18:25:00+11:00"
-  },
-  {
-   "id": "2026-11-16-gaza-aid-four-nations-statement",
-   "batch": "2026-11-16-pm",
-   "rank": 4,
-   "category": "World",
-   "title": "Australia, Canada, Italy and UK urge Israel to let 150,000 tents into Gaza",
-   "summary": "The foreign ministers of Australia, Canada, Italy and the United Kingdom issued a joint statement saying the humanitarian situation in Gaza is dire as winter arrives, according to the text published by Global Affairs Canada. The statement says 150,000 tents and other supplies are being held at the border and prevented from entering.\n\nThe four governments urged Israel to open crossings and allow immediate and unimpeded humanitarian access, and called on all parties to implement the Comprehensive Plan for Gaza and respect the ceasefire. Foreign Minister Penny Wong said severe weather and heavy rain were worsening conditions, ABC News reported. Israel's response was not reported in the sources reviewed.",
-   "keyFacts": [
-    "Joint statement by Australia, Canada, Italy and the UK",
-    "Says 150,000 tents are held at Gaza's border",
-    "Urges Israel to open crossings and parties to respect the ceasefire"
-   ],
-   "sources": [
-    {
-     "name": "Global Affairs Canada",
-     "url": "https://www.canada.ca/en/global-affairs/news/2026/11/joint-foreign-ministers-statement-on-gaza.html"
-    },
-    {
-     "name": "Minister for Foreign Affairs",
-     "url": "https://www.foreignminister.gov.au/minister/penny-wong/media-release/joint-foreign-ministers-statement-gaza"
-    },
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-16/federal-politics-live-blog-senate-gas-nov-16/107388656"
-    }
-   ],
-   "publishedAt": "2026-11-16T07:00:00+11:00",
-   "createdAt": "2026-11-16T18:25:00+11:00"
-  },
-  {
-   "id": "2026-11-16-china-october-data-miss",
-   "batch": "2026-11-16-pm",
-   "rank": 5,
-   "category": "Economy",
-   "title": "China's factory output and retail sales growth slow more than expected in October",
-   "summary": "China's industrial output rose 4.8 per cent in October from a year earlier, below the 5.3 per cent forecast in a Reuters poll and down from 5.5 per cent in September, according to official data reported by Reuters via The Standard. Retail sales grew 0.4 per cent, against expectations of 0.8 per cent.\n\nFixed-asset investment fell 8.1 per cent in the first ten months of the year, a steeper decline than the 7 per cent forecast, Reuters reported. New home prices fell 2.4 per cent over the year, Investing.com said. The surveyed urban unemployment rate eased to 5.1 per cent. China is Australia's largest trading partner.",
-   "keyFacts": [
-    "Industrial output up 4.8% year on year, below 5.3% forecast",
-    "Retail sales up 0.4%, against 0.8% expected",
-    "Fixed-asset investment down 8.1% in January\u2013October"
-   ],
-   "sources": [
-    {
-     "name": "Reuters (via The Standard)",
-     "url": "https://www.thestandard.com.hk/finance/article/348591/Chinas-economy-falters-in-October-as-factory-output-retail-sales-miss-forecasts"
-    },
-    {
-     "name": "Investing.com (via Yahoo Finance)",
-     "url": "https://sg.finance.yahoo.com/news/china-factory-output-retail-sales-024411325.html"
-    }
-   ],
-   "publishedAt": "2026-11-16T13:00:00+11:00",
-   "createdAt": "2026-11-16T18:25:00+11:00"
-  },
-  {
-   "id": "2026-11-16-japan-q3-gdp-contracts",
-   "batch": "2026-11-16-pm",
-   "rank": 6,
-   "category": "Economy",
-   "title": "Japan's economy contracts in the September quarter",
-   "summary": "Japan's economy shrank at an annualised rate of 0.1 per cent in the July\u2013September quarter, according to preliminary government figures reported by ABC News and ForexLive. Economists had expected growth of about 0.3 per cent, ForexLive reported.\n\nForexLive said weaker exports and consumer spending weighed on the result, while other reports pointed to a rise in imports. The figures were released on Monday, the same day as Chinese data showing slower-than-expected growth in factory output and retail sales. Japan is one of Australia's largest export markets, and the result follows earlier pressure on Japanese households from higher energy costs, reports said.",
-   "keyFacts": [
-    "Japan's GDP fell at an annualised 0.1% in the September quarter",
-    "Forecasts had pointed to growth of about 0.3%",
-    "Exports and consumer spending weighed, reports said"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-16/asx-markets-business-live-news-nov-16/107388134"
-    },
-    {
-     "name": "ForexLive",
-     "url": "https://investinglive.com/news/japan-q3-gdp-shrinks-0-1-annualised-vs-0-3-expected-as-exports-and-consumers-weigh/"
-    }
-   ],
-   "publishedAt": "2026-11-16T10:50:00+11:00",
-   "createdAt": "2026-11-16T18:25:00+11:00"
-  },
-  {
-   "id": "2026-11-16-asx-close-mining-drag",
-   "batch": "2026-11-16-pm",
-   "rank": 7,
-   "category": "Economy",
-   "title": "ASX 200 falls 0.4 per cent for third straight loss as miners decline",
-   "summary": "The S&P/ASX 200 index closed 37.5 points, or 0.4 per cent, lower at 9,044.7 on Monday, its third consecutive daily fall, according to ShareCafe. Mining stocks were the main drag, while real estate and technology shares edged higher.\n\nShareCafe linked continued caution over artificial intelligence stocks to the leadership upheaval at Nvidia. ABC News reported online retailer Adore Beauty fell 36 per cent to a record low after cutting its guidance, and that the Australian dollar traded at about 67.6 US cents. Coles disclosed a cybersecurity incident during the session, and IDP Education rejected a third takeover proposal from Blackstone.",
-   "keyFacts": [
-    "ASX 200 closed down 0.4% at 9,044.7",
-    "Miners led the falls; real estate and tech edged up",
-    "Australian dollar near 67.6 US cents"
-   ],
-   "sources": [
-    {
-     "name": "ShareCafe",
-     "url": "https://www.sharecafe.com.au/2026/11/16/asx-200-slips-as-mining-drags-ai-jitters-persist/"
-    },
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-16/asx-markets-business-live-news-nov-16/107388134"
-    }
-   ],
-   "publishedAt": "2026-11-16T16:15:00+11:00",
-   "createdAt": "2026-11-16T18:25:00+11:00"
-  },
-  {
-   "id": "2026-11-16-idp-rejects-blackstone",
-   "batch": "2026-11-16-pm",
-   "rank": 8,
-   "category": "Business",
-   "title": "IDP Education rejects Blackstone's third takeover proposal at $3 a share",
-   "summary": "IDP Education's board rejected a third unsolicited proposal from private equity firm Blackstone of $3.00 a share, which valued the international student placement and IELTS testing company at about $835 million, Times Higher Education reported. Investing.com put the value at $US564.5 million.\n\nThe board said the offer substantially undervalued the company and was opportunistic, citing its student placement platform, its co-ownership of IELTS and a cost-cutting program it said was not yet fully realised, according to Times Higher Education. It said granting due diligence would be a distraction. IDP shares traded at about $2.50 on Monday. Blackstone's response was not reported.",
-   "keyFacts": [
-    "Blackstone's third proposal was $3.00 a share",
-    "IDP's board says the bid undervalues the company",
-    "Shares traded near $2.50 on Monday"
-   ],
-   "sources": [
-    {
-     "name": "Times Higher Education",
-     "url": "https://www.timeshighereducation.com/news/idp-rejects-third-takeover-bid"
-    },
-    {
-     "name": "Investing.com",
-     "url": "https://uk.investing.com/news/stock-market-news/idp-education-rejects-blackstones-5645-million-takeover-bid-for-third-time-4983478"
-    }
-   ],
-   "publishedAt": "2026-11-16T09:00:00+11:00",
-   "createdAt": "2026-11-16T18:25:00+11:00"
-  },
-  {
-   "id": "2026-11-16-solomons-opposition-ausaid-grants",
-   "batch": "2026-11-16-pm",
-   "rank": 12,
-   "category": "Politics",
-   "title": "Solomon Islands opposition accuses Australia of 'chequebook diplomacy' over MP grants",
-   "summary": "The Solomon Islands opposition has accused Australia of chequebook diplomacy after reports that Prime Minister Matthew Wale's government gave MPs discretionary grants of up to SBD1 million, about $180,000 each, from a bank account labelled AusAID, ABC News reported.\n\nThe ABC said the account belongs to the Solomon Islands government rather than to Australia. The reported grants came from that account, according to the ABC. Responses from the Australian Government and Mr Wale's office to the opposition's claim were not detailed in the reports reviewed. The claim was reported in the ABC's federal politics coverage on Monday, while Prime Minister Anthony Albanese was in Manila for the ASEAN summit.",
-   "keyFacts": [
-    "Opposition alleges 'chequebook diplomacy' by Australia",
-    "MPs reportedly received grants of up to SBD1 million each",
-    "ABC says the 'AusAID' account belongs to the Solomon Islands government"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-16/federal-politics-live-blog-senate-gas-nov-16/107388656"
-    }
-   ],
-   "publishedAt": "2026-11-16T11:19:00+11:00",
-   "createdAt": "2026-11-16T18:25:00+11:00"
-  },
-  {
-   "id": "2026-11-16-ogilvie-integrity-outcome",
-   "batch": "2026-11-16-pm",
-   "rank": 13,
-   "category": "Politics",
-   "title": "Lawyer says public may never learn result of Tasmanian integrity probe into Ogilvie",
-   "summary": "A lawyer for former Tasmanian minister Madeleine Ogilvie told a state parliamentary committee the public may never learn the outcome of the Integrity Commission's investigation into her, ABC News reported. The probe, now nearly five years old, concerns an alleged conflict over a 2021 election commitment to fund a rowing club pontoon.\n\nChris Gunson SC said the Supreme Court ruled last week that the commission cannot table its investigation reports in parliament, according to the ABC. Greens MLC Cassy O'Connor said there was no information in the public domain about the investigation. Ms Ogilvie has previously contested the commission's process in court. The commission's response was not reported.",
-   "keyFacts": [
-    "Integrity Commission probe into Ogilvie began nearly five years ago",
-    "Supreme Court ruled the commission cannot table reports in parliament",
-    "Concerns a 2021 pledge to fund a rowing club pontoon"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-16/madeleine-ogilvie-integrity-commission-investigation-result/107389298"
-    }
-   ],
-   "publishedAt": "2026-11-16T12:22:00+11:00",
-   "createdAt": "2026-11-16T18:25:00+11:00"
-  },
-  {
    "id": "2026-11-17-kerch-bridge-record-drones",
    "batch": "2026-11-17",
    "category": "World",
@@ -2391,32 +2643,11 @@
    "rank": 6
   },
   {
-   "id": "2026-11-17-eisenkot-election-inquiry-call",
-   "batch": "2026-11-17",
-   "category": "World",
-   "title": "Eisenkot calls for inquiry into alleged role of Netanyahu aide in election-eve arrests",
-   "summary": "Israeli opposition leader Gadi Eisenkot called for a commission of inquiry after a Channel 12 report alleged that a senior Netanyahu aide contacted police before the 27 October election about Arab activists, The National reported. According to the report, three activists from the Raam party were arrested in dawn raids without warrants and later released without charge.\n\nMr Eisenkot alleged an attempt to rig the election. Prime Minister Benjamin Netanyahu's office denied wrongdoing, saying the aide properly passed information about suspected criminal activity to police, and Mr Netanyahu accused Mr Eisenkot of incitement. Mr Eisenkot was tasked with forming a government on 8 November.",
-   "keyFacts": [
-    "Channel 12 report alleges aide contacted police on election eve",
-    "Three Arab activists arrested and released without charge",
-    "Netanyahu's office denies wrongdoing"
-   ],
-   "sources": [
-    {
-     "name": "The National",
-     "url": "https://www.thenationalnews.com/news/mena/2026/11/16/eisenkot-calls-for-inquiry-into-alleged-netanyahu-role-in-election-day-arrests-of-arab-israeli-activists/"
-    }
-   ],
-   "publishedAt": "2026-11-16T16:57:00+11:00",
-   "createdAt": "2026-11-17T06:55:00+11:00",
-   "rank": 7
-  },
-  {
    "id": "2026-11-17-cop31-first-draft",
    "batch": "2026-11-17",
    "category": "Environment",
    "title": "COP31 negotiators publish first draft deal with competing fossil fuel wording",
-   "summary": "Negotiators at the COP31 climate talks in Antalya, T\u00fcrkiye, published an 18-page draft agreement on Monday, Reuters reported. The draft contains two options on fossil fuels: the 2023 language on transitioning away from them and a stronger call to phase them out. Either could be removed.\n\nThe text also records disagreement over T\u00fcrkiye's proposal to raise electricity's share of global energy use to 35 per cent by 2035, according to Reuters. Australian Climate Change Minister Chris Bowen, who shares the presidency arrangement with T\u00fcrkiye, said some countries had already rejected clauses. The talks are due to end on Friday.",
+   "summary": "Negotiators at the COP31 climate talks in Antalya, Türkiye, published an 18-page draft agreement on Monday, Reuters reported. The draft contains two options on fossil fuels: the 2023 language on transitioning away from them and a stronger call to phase them out. Either could be removed.\n\nThe text also records disagreement over Türkiye's proposal to raise electricity's share of global energy use to 35 per cent by 2035, according to Reuters. Australian Climate Change Minister Chris Bowen, who shares the presidency arrangement with Türkiye, said some countries had already rejected clauses. The talks are due to end on Friday.",
    "keyFacts": [
     "Draft runs to 18 pages",
     "Includes both 'transition away' and 'phase out' fossil fuel options",
@@ -2629,7 +2860,7 @@
    "batch": "2026-11-17",
    "category": "World",
    "title": "Widow of Haiti's assassinated president registers as presidential candidate",
-   "summary": "Martine Mo\u00efse, widow of Haitian President Jovenel Mo\u00efse, who was assassinated in 2021, has registered as a candidate in the country's presidential election, Al Jazeera reported. Her name appeared on the Provisional Electoral Council's list on Sunday.\n\nShe is one of 33 registered presidential candidates and one of three women, according to Al Jazeera. The first round is scheduled for July next year; Haiti has not held a presidential election since 2016. Ms Mo\u00efse had not publicly commented on her registration. She is a key witness in the US prosecution over her husband's killing.",
+   "summary": "Martine Moïse, widow of Haitian President Jovenel Moïse, who was assassinated in 2021, has registered as a candidate in the country's presidential election, Al Jazeera reported. Her name appeared on the Provisional Electoral Council's list on Sunday.\n\nShe is one of 33 registered presidential candidates and one of three women, according to Al Jazeera. The first round is scheduled for July next year; Haiti has not held a presidential election since 2016. Ms Moïse had not publicly commented on her registration. She is a key witness in the US prosecution over her husband's killing.",
    "keyFacts": [
     "33 presidential candidates registered",
     "First round scheduled for July 2027",
@@ -2692,7 +2923,7 @@
    "batch": "2026-11-17-pm",
    "category": "Economy",
    "title": "RBA minutes show six members judged earlier rate rises not clearly sufficient",
-   "summary": "Minutes of the Reserve Bank board's 2\u20133 November meeting, released on Tuesday, showed six of nine members judged that the year's earlier tightening was not clearly sufficient to deal with inflation risks, Reuters reported. They cited sticky inflation and the possibility of a higher neutral interest rate.\n\nThe three members who dissented were concerned the economy could be close to a materially sharper downturn, with unemployment rising and house prices falling, according to Reuters. The board lifted the cash rate to 4.85 per cent, its fifth increase this year. Unemployment is at a five-year high of 4.7 per cent.",
+   "summary": "Minutes of the Reserve Bank board's 2–3 November meeting, released on Tuesday, showed six of nine members judged that the year's earlier tightening was not clearly sufficient to deal with inflation risks, Reuters reported. They cited sticky inflation and the possibility of a higher neutral interest rate.\n\nThe three members who dissented were concerned the economy could be close to a materially sharper downturn, with unemployment rising and house prices falling, according to Reuters. The board lifted the cash rate to 4.85 per cent, its fifth increase this year. Unemployment is at a five-year high of 4.7 per cent.",
    "keyFacts": [
     "Six of nine board members backed the November rise",
     "Dissenters warned of risk of a sharper downturn",
@@ -3140,7 +3371,7 @@
    "batch": "2026-11-18",
    "category": "Australia",
    "title": "National gender pay gap falls below 20 per cent for first time, WGEA data show",
-   "summary": "Australia's total remuneration gender pay gap fell to 19.7 per cent, below 20 per cent for the first time since the Workplace Gender Equality Agency began collecting the data, AAP reported. The agency's 2025\u201326 figures cover more than six million employees at 9,096 employers. Chief executive Christine Castley said the gap was 27.4 per cent in 2013.\n\nAccording to AAP, women earn about $27,000 a year less than men on average. The private sector gap fell from 21.1 to 20.3 per cent, while the public sector gap was 7.8 per cent. Women hold 24 per cent of chief executive roles. Castley called the result an important milestone.",
+   "summary": "Australia's total remuneration gender pay gap fell to 19.7 per cent, below 20 per cent for the first time since the Workplace Gender Equality Agency began collecting the data, AAP reported. The agency's 2025–26 figures cover more than six million employees at 9,096 employers. Chief executive Christine Castley said the gap was 27.4 per cent in 2013.\n\nAccording to AAP, women earn about $27,000 a year less than men on average. The private sector gap fell from 21.1 to 20.3 per cent, while the public sector gap was 7.8 per cent. Women hold 24 per cent of chief executive roles. Castley called the result an important milestone.",
    "keyFacts": [
     "Total remuneration gap now 19.7 per cent",
     "Private sector gap 20.3 per cent",
@@ -3718,9 +3949,9 @@
    "rank": 7,
    "category": "Economy",
    "title": "Fed minutes show nearly all officials expect a rate rise in December",
-   "summary": "Minutes of the US Federal Reserve's 27\u201328 October meeting show nearly all officials expected to raise interest rates by a quarter point in December, AP reported. Some officials supported a rise in October, and governors Lisa Cook and Beth Hammack dissented in favour of a higher rate.\n\nThe Fed held its benchmark rate at 3.9 per cent in October after raising it in September. AP said futures markets put the chance of a December rise near 95 per cent. Governor Christopher Waller told CNBC he backed a half-point rise, while New York Fed president John Williams argued against a move that large, according to AP.",
+   "summary": "Minutes of the US Federal Reserve's 27–28 October meeting show nearly all officials expected to raise interest rates by a quarter point in December, AP reported. Some officials supported a rise in October, and governors Lisa Cook and Beth Hammack dissented in favour of a higher rate.\n\nThe Fed held its benchmark rate at 3.9 per cent in October after raising it in September. AP said futures markets put the chance of a December rise near 95 per cent. Governor Christopher Waller told CNBC he backed a half-point rise, while New York Fed president John Williams argued against a move that large, according to AP.",
    "keyFacts": [
-    "The minutes cover the 27\u201328 October meeting",
+    "The minutes cover the 27–28 October meeting",
     "Two governors dissented in favour of a rise",
     "Markets priced a December rise at about 95 per cent, AP said"
    ],
@@ -3760,7 +3991,7 @@
    "rank": 9,
    "category": "World",
    "title": "Hegseth says US and Venezuela have signed deal to restore military ties",
-   "summary": "US Defence Secretary Pete Hegseth said during a visit to Caracas that the United States and Venezuela had signed an agreement to re-establish military ties, covering areas from training to intelligence sharing, AP reported. The Pentagon did not release further details.\n\nHegseth described Venezuela as a compliant security partner since US forces captured Nicol\u00e1s Maduro in January and praised cooperation with interim President Delcy Rodr\u00edguez, according to AP. Rodr\u00edguez said she hoped cooperation would reach the highest possible level. AP noted that her court-sanctioned term expired in July, she remains head of state, and no date has been set for a presidential election.",
+   "summary": "US Defence Secretary Pete Hegseth said during a visit to Caracas that the United States and Venezuela had signed an agreement to re-establish military ties, covering areas from training to intelligence sharing, AP reported. The Pentagon did not release further details.\n\nHegseth described Venezuela as a compliant security partner since US forces captured Nicolás Maduro in January and praised cooperation with interim President Delcy Rodríguez, according to AP. Rodríguez said she hoped cooperation would reach the highest possible level. AP noted that her court-sanctioned term expired in July, she remains head of state, and no date has been set for a presidential election.",
    "keyFacts": [
     "The agreement covers training and intelligence sharing",
     "The Pentagon gave no further details",
@@ -3827,7 +4058,7 @@
    "rank": 12,
    "category": "World",
    "title": "Amnesty says RSF drone strikes on El Obeid should be investigated as war crimes",
-   "summary": "Amnesty International said drone strikes by Sudan's Rapid Support Forces on El Obeid in North Kordofan should be investigated as war crimes. It said it examined nine strikes between June and August that killed 37 civilians and injured 10, including attacks on a power plant, fuel stations and the main market.\n\nAmnesty said it found no military targets near the sites. Secretary-General Agn\u00e8s Callamard called for the Darfur arms embargo to be extended across Sudan and to cover drones. Amnesty said the RSF replied in October denying responsibility and blaming the Sudanese army, without providing evidence. The RSF and the army have been at war since April 2023.",
+   "summary": "Amnesty International said drone strikes by Sudan's Rapid Support Forces on El Obeid in North Kordofan should be investigated as war crimes. It said it examined nine strikes between June and August that killed 37 civilians and injured 10, including attacks on a power plant, fuel stations and the main market.\n\nAmnesty said it found no military targets near the sites. Secretary-General Agnès Callamard called for the Darfur arms embargo to be extended across Sudan and to cover drones. Amnesty said the RSF replied in October denying responsibility and blaming the Sudanese army, without providing evidence. The RSF and the army have been at war since April 2023.",
    "keyFacts": [
     "Amnesty examined nine strikes from June to August",
     "It said 37 civilians were killed",
@@ -4007,11 +4238,11 @@
    "rank": 2,
    "category": "Environment",
    "title": "COP31 talks stay deadlocked as EU signals it could walk away over fossil fuel wording",
-   "summary": "Climate talks at COP31 in Antalya went into an extra day on Saturday with no agreement on whether the final text should refer to fossil fuels, RT\u00c9 and The Irish Times reported. The new development is that the EU is understood to be prepared to walk away rather than accept weak wording, according to The Irish Times, and a third draft due on Saturday morning had not appeared by lunchtime.\n\nRT\u00c9 said Saudi Arabia and its allies oppose the EU's preferred wording, while Panama has said it will not accept a text that omits fossil fuels. Negotiations chair Chris Bowen said he still believed a deal was possible. Any agreement requires consensus.",
+   "summary": "Climate talks at COP31 in Antalya went into an extra day on Saturday with no agreement on whether the final text should refer to fossil fuels, RTÉ and The Irish Times reported. The new development is that the EU is understood to be prepared to walk away rather than accept weak wording, according to The Irish Times, and a third draft due on Saturday morning had not appeared by lunchtime.\n\nRTÉ said Saudi Arabia and its allies oppose the EU's preferred wording, while Panama has said it will not accept a text that omits fossil fuels. Negotiations chair Chris Bowen said he still believed a deal was possible. Any agreement requires consensus.",
    "keyFacts": [
     "Talks ran into an extra day on Saturday without a deal",
     "The Irish Times said the EU is prepared to walk away rather than accept weak text",
-    "Panama said it will block a text without fossil fuel wording, RT\u00c9 reported"
+    "Panama said it will block a text without fossil fuel wording, RTÉ reported"
    ],
    "sources": [
     {
@@ -4019,7 +4250,7 @@
      "url": "https://www.irishtimes.com/environment/2026/11/21/cop31-talks-deadlocked-as-eu-signals-willingness-to-walk-away-if-no-move-on-fossil-fuels/"
     },
     {
-     "name": "RT\u00c9",
+     "name": "RTÉ",
      "url": "https://www.rte.ie/news/environment/2026/1121/1600094-cop31-turkey/"
     }
    ],
@@ -4297,6 +4528,138 @@
  ],
  "leftOut": [
   {
+   "id": "2026-11-23-lo-molly-meldrum-dies",
+   "batch": "2026-11-23-pm",
+   "rank": 1,
+   "category": "Other",
+   "title": "Former Countdown host Molly Meldrum dies aged 83",
+   "summary": "Music presenter Ian \"Molly\" Meldrum, known for hosting the ABC television program Countdown, has died aged 83, his family announced on Monday, according to the ABC. The family said he died peacefully.\n\nVictorian Premier Ben Carroll said the family had accepted the offer of a state funeral. Tributes came from Opposition Leader Angus Taylor and from musicians including the band Blondie, the ABC reported. Meldrum was born in Orbost, Victoria, in 1943 and helped introduce many bands to Australian audiences through Countdown in the 1970s and 1980s.",
+   "keyFacts": [
+    "Meldrum died aged 83",
+    "Victoria offers a state funeral",
+    "Hosted Countdown in the 1970s and 1980s"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-23/live-updates-molly-meldrum-dead-reactions/101801706"
+    }
+   ],
+   "publishedAt": "2026-11-23T09:07:00+11:00",
+   "createdAt": "2026-11-23T18:10:00+11:00",
+   "reason": "Celebrity"
+  },
+  {
+   "id": "2026-11-23-lo-melbourne-cbd-stabbing-charges",
+   "batch": "2026-11-23-pm",
+   "rank": 2,
+   "category": "Other",
+   "title": "Two teenagers charged after fatal stabbing in Melbourne's CBD",
+   "summary": "Victoria Police charged a 17-year-old and an 18-year-old with affray after a 21-year-old man from Narre Warren was stabbed and later died in hospital following an altercation on La Trobe Street on Saturday night, the ABC reported. Five males were arrested, and three were released pending further inquiries.\n\nPolice also reported two other stabbings on Saturday, one near Elizabeth and Bourke streets in the CBD and one outside a restaurant in Broadmeadows, with arrests made in both cases, according to the ABC.",
+   "keyFacts": [
+    "21-year-old man died after La Trobe Street altercation",
+    "Two teenagers charged with affray",
+    "Arrests made over two other Saturday stabbings"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-23/teenagers-charged-fatal-stabbing-in-melbourne-cbd/107415250"
+    }
+   ],
+   "publishedAt": "2026-11-23T06:03:00+11:00",
+   "createdAt": "2026-11-23T18:10:00+11:00",
+   "reason": "Local crime"
+  },
+  {
+   "id": "2026-11-23-lo-manchester-concert-evacuated",
+   "batch": "2026-11-23-pm",
+   "rank": 3,
+   "category": "Other",
+   "title": "More than 12,000 evacuated from Manchester concert after substance released",
+   "summary": "Greater Manchester Police said more than 12,000 people were escorted out of a Don Toliver concert at the Co-op Live arena on Sunday night after reports that an unknown substance had been released, Reuters reported. Police were alerted shortly after 10pm local time.\n\nThe North West Ambulance Service said the substance was believed to be tear gas, while police said it had not yet been identified. One person was taken to hospital and paramedics assessed more than 50 people, some with eye and breathing symptoms, according to Reuters.",
+   "keyFacts": [
+    "More than 12,000 people escorted from the arena",
+    "Ambulance service believes it was tear gas",
+    "One person taken to hospital"
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via ThePrint)",
+     "url": "https://theprint.in/world/don-toliver-concert-in-manchester-evacuated-after-unknown-substance-released-police-say/3106178/"
+    }
+   ],
+   "publishedAt": "2026-11-23T17:00:00+11:00",
+   "createdAt": "2026-11-23T18:10:00+11:00",
+   "reason": "Entertainment"
+  },
+  {
+   "id": "2026-11-23-lo-vic-labor-bracing-defeat",
+   "batch": "2026-11-23-pm",
+   "rank": 4,
+   "category": "Politics",
+   "title": "ABC analysis says Victorian Labor is bracing for a heavy election loss",
+   "summary": "An ABC analysis by Patricia Karvelas says Victorian Labor insiders expect a result at Saturday's state election comparable to NSW Labor's 2011 defeat, when it lost 30 seats. It says polls point to a Liberal majority and that many insiders expect Labor to lose 30 to 35 seats.\n\nThe piece also says One Nation could win several seats and hold the balance of power in the upper house, and notes Prime Minister Anthony Albanese has kept away from the campaign. It is analysis and reports no new events.",
+   "keyFacts": [
+    "Victorian election is on Saturday",
+    "Analysis cites insiders expecting heavy losses",
+    "Piece is analysis, not new reporting"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-23/election-victorian-labor-election-defeat-albanese-stays-away/107414442"
+    }
+   ],
+   "publishedAt": "2026-11-23T05:00:00+11:00",
+   "createdAt": "2026-11-23T18:10:00+11:00",
+   "reason": "Commentary"
+  },
+  {
+   "id": "2026-11-23-lo-tingle-cop31-analysis",
+   "batch": "2026-11-23-pm",
+   "rank": 5,
+   "category": "Environment",
+   "title": "ABC analysis examines what COP31's collapse means for Australia and the Pacific",
+   "summary": "An analysis by ABC global affairs editor Laura Tingle examines the consequences of the COP31 talks in Antalya ending without a deal after almost two days of overtime. It cites Climate Minister Chris Bowen saying red lines over fossil fuels and climate finance prevented an agreement.\n\nThe piece quotes Tuvalu's and Panama's ministers criticising the outcome and notes UN climate chief Simon Stiell plans to seek advice on reforming the process before next year's talks in Ethiopia. It is analysis and largely restates events already reported.",
+   "keyFacts": [
+    "Piece is analysis by Laura Tingle",
+    "Bowen blamed red lines on fossil fuels and finance",
+    "Next talks are due in Ethiopia"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-23/un-climate-talk-breakdown-a-disaster-for-australia/107416230"
+    }
+   ],
+   "publishedAt": "2026-11-23T14:36:00+11:00",
+   "createdAt": "2026-11-23T18:10:00+11:00",
+   "reason": "Commentary"
+  },
+  {
+   "id": "2026-11-23-lo-saudi-influence-cop31",
+   "batch": "2026-11-23-pm",
+   "rank": 6,
+   "category": "Environment",
+   "title": "Negotiators say Saudi Arabia shaped outcome of failed COP31 talks",
+   "summary": "Negotiators from Europe, small island states, Latin America, Asia and Africa told Reuters that Saudi officials had regular access and outsized influence at the COP31 talks, and led resistance to language on fossil fuels. Ireland's climate minister, speaking for the EU, said some oil states had hijacked the summit.\n\nThe Turkish presidency said no group received preferential treatment, Reuters reported. Saudi Arabia and Australia did not immediately comment. COP31 president Murat Kurum said there was no agreement and he would not put forward a new text.",
+   "keyFacts": [
+    "Negotiators say Saudi officials had outsized influence",
+    "Turkish presidency denies preferential treatment",
+    "Saudi Arabia did not immediately comment"
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via ThePrint)",
+     "url": "https://theprint.in/world/saudi-arabias-influence-loomed-large-over-failed-cop31-deal/3106072/"
+    }
+   ],
+   "publishedAt": "2026-11-23T14:30:00+11:00",
+   "createdAt": "2026-11-23T18:10:00+11:00",
+   "reason": "Commentary"
+  },
+  {
    "id": "2026-11-23-lo-sahm-rule-recession",
    "batch": "2026-11-23",
    "rank": 1,
@@ -4350,7 +4713,7 @@
    "keyFacts": [
     "Liberals preference Labor over Greens in most target seats",
     "Greens hold Brunswick, Melbourne and Richmond",
-    "Estimated 2\u20135 point shift towards Labor"
+    "Estimated 2–5 point shift towards Labor"
    ],
    "sources": [
     {
@@ -5042,9 +5405,9 @@
    "rank": 7,
    "category": "Economy",
    "title": "France and Germany reported to agree deal backing Spain's de Cos for ECB",
-   "summary": "France and Germany have reportedly reached a deal that would give the European Central Bank presidency to Spain's Pablo Hern\u00e1ndez de Cos, Eunews reported. Under the reported arrangement, Germany would take the chief economist role and France the head of market operations.\n\nEunews said Reuters reported Berlin would back the Spanish candidate if Markus Brunnermeier became chief economist. The deal must still be formalised, probably at a summit of EU leaders on 26 and 27 November. Each candidate needs the support of at least 16 euro area countries representing 65 per cent of the population. The Netherlands' Klaas Knot is the rival candidate.",
+   "summary": "France and Germany have reportedly reached a deal that would give the European Central Bank presidency to Spain's Pablo Hernández de Cos, Eunews reported. Under the reported arrangement, Germany would take the chief economist role and France the head of market operations.\n\nEunews said Reuters reported Berlin would back the Spanish candidate if Markus Brunnermeier became chief economist. The deal must still be formalised, probably at a summit of EU leaders on 26 and 27 November. Each candidate needs the support of at least 16 euro area countries representing 65 per cent of the population. The Netherlands' Klaas Knot is the rival candidate.",
    "keyFacts": [
-    "Deal reportedly backs Pablo Hern\u00e1ndez de Cos",
+    "Deal reportedly backs Pablo Hernández de Cos",
     "Must be formalised by EU leaders",
     "Dutch candidate Klaas Knot is the rival"
    ],
@@ -5515,106 +5878,6 @@
    "createdAt": "2026-11-19T17:47:45+11:00"
   },
   {
-   "id": "2026-11-16-lo-haines-discharged",
-   "batch": "2026-11-16-pm",
-   "rank": 1,
-   "category": "Australia",
-   "title": "Independent MP Helen Haines discharged from hospital after Wangaratta attack",
-   "summary": "Independent federal MP Helen Haines has been discharged from The Alfred hospital in Melbourne, ABC News reported on Monday. Dr Haines lost both legs after being struck by a car outside her Wangaratta electorate office on 19 October.\n\nPoliticians from across parliament welcomed the news, according to the ABC's live coverage. A 43-year-old man, Brendan Nugent, has been charged over the incident, the ABC reported. The charges have not been tested in court. Details of Dr Haines's return to parliamentary duties were not reported in the coverage reviewed.",
-   "keyFacts": [
-    "Helen Haines discharged from The Alfred hospital",
-    "She lost both legs after being hit by a car on 19 October",
-    "A 43-year-old man has been charged"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-16/federal-politics-live-blog-senate-gas-nov-16/107388656"
-    }
-   ],
-   "publishedAt": "2026-11-16T12:36:00+11:00",
-   "createdAt": "2026-11-16T18:25:00+11:00",
-   "reason": "Human interest"
-  },
-  {
-   "id": "2026-11-17-lo-estonia-border-closure",
-   "batch": "2026-11-17",
-   "category": "World",
-   "title": "Estonia to close Russian border crossings after alleged GRU-linked arson attempt",
-   "summary": "Estonia will close its border crossings with Russia from 1 December after an attempted arson attack on drone maker Threod Systems near Tallinn, The Irish Times and Defense News reported. Eight people were detained; officials said the suspects were Latvian citizens.\n\nThe head of Estonia's security police, Margo Palloson, said the attack was carried out at the behest of Russian military intelligence. The company said production was not disrupted. Russian foreign ministry spokeswoman Maria Zakharova called the accusations part of a wave of Russophobia. Estonian authorities did not say how long the closure would last.",
-   "keyFacts": [
-    "Crossings to close from 1 December",
-    "Eight detained over attempted attack on Threod Systems",
-    "Russia rejects the accusations"
-   ],
-   "sources": [
-    {
-     "name": "The Irish Times",
-     "url": "https://www.irishtimes.com/world/europe/2026/11/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker/"
-    },
-    {
-     "name": "Defense News",
-     "url": "https://www.defensenews.com/global/europe/2026/11/16/estonia-to-close-border-with-russia-after-arson-attack-on-local-drone-maker/"
-    }
-   ],
-   "publishedAt": "2026-11-16T08:47:00+11:00",
-   "createdAt": "2026-11-17T06:55:00+11:00",
-   "reason": "Outside today's window",
-   "rank": 2
-  },
-  {
-   "id": "2026-11-17-lo-ecuador-noboa-us-base",
-   "batch": "2026-11-17",
-   "category": "World",
-   "title": "Ecuador's president denies the US has a military base at Taura airbase",
-   "summary": "Ecuadorian President Daniel Noboa said US personnel at the Taura air base near Guayaquil were there only for temporary activities under bilateral cooperation, and that it was an Ecuadorian base, AFP reported. He was responding to an AFP investigation.\n\nAFP reported about 20 US military flights at the base between June and mid-October, along with tents and construction work. Ecuadorian voters rejected allowing foreign military bases in a November 2025 referendum. The Pentagon, US Southern Command and Ecuador's air force did not respond to requests for comment, according to Al Jazeera.",
-   "keyFacts": [
-    "Noboa says US activities at Taura are temporary",
-    "AFP counted about 20 US military flights since June",
-    "Voters rejected foreign bases in a 2025 referendum"
-   ],
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/16/ecuadors-president-denies-us-has-military-base-in-country"
-    },
-    {
-     "name": "AFP (via Yahoo)",
-     "url": "https://www.yahoo.com/news/world/articles/ecuadors-president-denies-us-military-015316183.html"
-    }
-   ],
-   "publishedAt": "2026-11-16T12:53:00+11:00",
-   "createdAt": "2026-11-17T06:55:00+11:00",
-   "reason": "Outside today's window",
-   "rank": 3
-  },
-  {
-   "id": "2026-11-17-lo-iran-navy-officers-threat",
-   "batch": "2026-11-17",
-   "category": "World",
-   "title": "Iranian embassy posts threat naming two US Navy officers",
-   "summary": "Iran's embassy in South Africa posted a message on X saying 'we will find you' alongside images of the commanding officer and executive officer of the destroyer USS Spruance, Fox News and The Express reported. The ship returned to San Diego after a 357-day deployment that included combat against Iranian forces.\n\nAn earlier embassy post had accused the officers of ordering missile strikes that it said killed children at a school in Minab, a claim not independently established. A Foundation for Defense of Democracies analyst said the threat should concern US officials. The US Navy's response was not reported.",
-   "keyFacts": [
-    "Embassy post names USS Spruance's two senior officers",
-    "Ship returned after a 357-day deployment",
-    "Iran links the officers to a strike on a Minab school"
-   ],
-   "sources": [
-    {
-     "name": "Fox News",
-     "url": "https://www.foxnews.com/world/iran-vows-we-find-you-2-us-navy-officers-day-warship-returns-from-middle-east"
-    },
-    {
-     "name": "The Express (via AOL)",
-     "url": "https://www.aol.com/articles/iran-warns-2-us-navy-213600000.html"
-    }
-   ],
-   "publishedAt": "2026-11-16T07:58:00+11:00",
-   "createdAt": "2026-11-17T06:55:00+11:00",
-   "reason": "Outside today's window",
-   "rank": 5
-  },
-  {
    "id": "2026-11-17-lo-trump-rachel-scott",
    "batch": "2026-11-17",
    "category": "Politics",
@@ -5657,50 +5920,6 @@
    "createdAt": "2026-11-17T06:55:00+11:00",
    "reason": "Restatement, nothing new",
    "rank": 8
-  },
-  {
-   "id": "2026-11-17-lo-darwin-teen-terror-bail",
-   "batch": "2026-11-17",
-   "category": "Australia",
-   "title": "Darwin girl, 15, granted bail on terrorism document charge",
-   "summary": "A 15-year-old Darwin girl charged with collecting or making documents likely to facilitate terrorist acts was granted bail in the Northern Territory Youth Justice Court on Monday, AAP reported. She was arrested on 3 November and cannot be identified.\n\nJudge Greg Macdonald found exceptional circumstances, citing her age, mental health and family support, according to AAP. Conditions include no internet-capable devices, adult supervision and the removal of guns from the home. Allegations raised at the hearing have not been tested. A 14-year-old boy faces related charges, and the case returns to court on 15 December.",
-   "keyFacts": [
-    "Charge carries a maximum of 15 years",
-    "Bail granted with strict conditions",
-    "Case returns to court on 15 December"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/teenage-girl-granted-bail-on-terrorism-charges"
-    }
-   ],
-   "publishedAt": "2026-11-16T15:00:00+11:00",
-   "createdAt": "2026-11-17T06:55:00+11:00",
-   "reason": "Local crime",
-   "rank": 11
-  },
-  {
-   "id": "2026-11-17-lo-canberra-driver-sentence",
-   "batch": "2026-11-17",
-   "category": "Australia",
-   "title": "Elderly driver who killed boy in Canberra car park avoids jail",
-   "summary": "An 81-year-old woman who pleaded guilty to culpable driving causing the death of a four-year-old boy in a Canberra shopping centre car park received a suspended sentence of two years and three months, ABC News reported. Her licence was suspended indefinitely.\n\nACT Supreme Court Justice Belinda Baker said the woman was not intoxicated or speeding and did not realise the car was still in drive. Prosecutors had argued for full-time custody. The boy's parents had asked for the lightest possible sentence and said afterwards the result was fair, according to the ABC.",
-   "keyFacts": [
-    "Suspended sentence of two years and three months",
-    "Licence suspended indefinitely",
-    "Prosecutors had sought full-time custody"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-16/elderly-driver-who-killed-four-year-old-boy-canberra-avoids-jail/107389908"
-    }
-   ],
-   "publishedAt": "2026-11-16T13:17:00+11:00",
-   "createdAt": "2026-11-17T06:55:00+11:00",
-   "reason": "Local crime",
-   "rank": 12
   },
   {
    "id": "2026-11-17-lo-qld-australian-of-year",
@@ -5883,7 +6102,7 @@
    "batch": "2026-11-18",
    "category": "Environment",
    "title": "Bowen presents 18-page COP31 draft calling for faster fossil fuel phase-out",
-   "summary": "Climate Change Minister Chris Bowen, president of the COP31 negotiations, released an 18-page draft agreement in Antalya, T\u00fcrkiye, the ABC reported. The draft draws on submissions from 160 countries, calls for accelerated action to phase out fossil fuels and seeks 35 per cent electrification of global energy by 2035.\n\nIt also proposes tripling adaptation funding to at least $US120 billion by 2035, according to the ABC. Greenpeace described the language as among the strongest in a COP draft. Bowen said not all parties would agree. Critics pointed to Australia's fossil fuel project approvals; Bowen defended exports to countries in transition.",
+   "summary": "Climate Change Minister Chris Bowen, president of the COP31 negotiations, released an 18-page draft agreement in Antalya, Türkiye, the ABC reported. The draft draws on submissions from 160 countries, calls for accelerated action to phase out fossil fuels and seeks 35 per cent electrification of global energy by 2035.\n\nIt also proposes tripling adaptation funding to at least $US120 billion by 2035, according to the ABC. Greenpeace described the language as among the strongest in a COP draft. Bowen said not all parties would agree. Critics pointed to Australia's fossil fuel project approvals; Bowen defended exports to countries in transition.",
    "keyFacts": [
     "Draft has 144 provisions",
     "Seeks 35 per cent electrification by 2035",
@@ -6375,11 +6594,11 @@
    "batch": "2026-11-19",
    "rank": 6,
    "category": "World",
-   "title": "About 20 isolated Aw\u00e1 people sighted near village in Brazil's Maranh\u00e3o",
-   "summary": "Around 20 isolated Aw\u00e1 people were sighted on Monday in the Arariboia Indigenous territory in Brazil's Maranh\u00e3o state, according to Brazil's Ministry of Indigenous Peoples, AAP reported. The ministry said the information was preliminary.\n\nSurvival International said the group asked a government team for yams and took them back into the forest, according to AAP. It estimates about 100 Aw\u00e1 remain uncontacted. Officials activated an emergency response because of disease risk, and Indigenous affairs agency and health staff are in the area.",
+   "title": "About 20 isolated Awá people sighted near village in Brazil's Maranhão",
+   "summary": "Around 20 isolated Awá people were sighted on Monday in the Arariboia Indigenous territory in Brazil's Maranhão state, according to Brazil's Ministry of Indigenous Peoples, AAP reported. The ministry said the information was preliminary.\n\nSurvival International said the group asked a government team for yams and took them back into the forest, according to AAP. It estimates about 100 Awá remain uncontacted. Officials activated an emergency response because of disease risk, and Indigenous affairs agency and health staff are in the area.",
    "keyFacts": [
     "About 20 people were sighted",
-    "Survival estimates about 100 uncontacted Aw\u00e1",
+    "Survival estimates about 100 uncontacted Awá",
     "Officials activated an emergency response"
    ],
    "sources": [
@@ -6397,11 +6616,11 @@
    "batch": "2026-11-19",
    "rank": 7,
    "category": "World",
-   "title": "Von der Leyen presses EU states on \u20ac45 billion Ukraine loan for 2027",
-   "summary": "European Commission President Ursula von der Leyen is seeking support for a \u20ac45 billion loan to Ukraine for 2027, backed by joint EU borrowing, Euronews reported. It would be split into \u20ac25 billion for military needs and \u20ac20 billion for budget support, covering about two-thirds of Kyiv's expected shortfall.\n\nUkraine would repay only once Russia pays reparations, according to Euronews. The plan needs unanimous backing before next week's EU summit, and Hungary, Slovakia, Czechia and Bulgaria are resisting. The Commission first proposed the loan in late October.",
+   "title": "Von der Leyen presses EU states on €45 billion Ukraine loan for 2027",
+   "summary": "European Commission President Ursula von der Leyen is seeking support for a €45 billion loan to Ukraine for 2027, backed by joint EU borrowing, Euronews reported. It would be split into €25 billion for military needs and €20 billion for budget support, covering about two-thirds of Kyiv's expected shortfall.\n\nUkraine would repay only once Russia pays reparations, according to Euronews. The plan needs unanimous backing before next week's EU summit, and Hungary, Slovakia, Czechia and Bulgaria are resisting. The Commission first proposed the loan in late October.",
    "keyFacts": [
-    "The loan totals \u20ac45 billion",
-    "\u20ac25 billion is for military needs",
+    "The loan totals €45 billion",
+    "€25 billion is for military needs",
     "It needs unanimous support from 27 members"
    ],
    "sources": [
