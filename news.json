@@ -1,6 +1,253 @@
 {
- "updatedAt": "2026-11-24T06:55:00+11:00",
+ "updatedAt": "2026-11-24T17:50:00+11:00",
  "articles": [
+  {
+   "id": "2026-11-24-duty-of-care-greens-deal",
+   "batch": "2026-11-24-pm",
+   "rank": 1,
+   "category": "Politics",
+   "title": "Labor strikes deal with Greens to pass digital duty of care laws, adding right to sue",
+   "summary": "The Albanese government reached an agreement with the Greens on Tuesday to pass its digital duty of care legislation through the Senate, the ABC reported. Under the deal, Australians would gain a private right of action allowing them to sue social media companies over harm.\n\nThe maximum penalty would rise to up to 5 per cent of a platform's global revenue, up from the government's original proposal of up to $109.2 million, according to the ABC. Greens leader David Shoebridge said the changes would take power back from big tech. The Coalition said it remained opposed, citing free speech concerns.",
+   "keyFacts": [
+    "Deal secures Senate passage with Greens support",
+    "Maximum fine rises to 5% of global revenue",
+    "Coalition opposes the bill over free speech concerns"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-24/federal-politics-labor-makes-deal-greens-on-digital-duty-of-care/107420982"
+    }
+   ],
+   "publishedAt": "2026-11-24T13:24:00+11:00",
+   "createdAt": "2026-11-24T17:50:00+11:00"
+  },
+  {
+   "id": "2026-11-24-wong-senate-foreign-policy-speech",
+   "batch": "2026-11-24-pm",
+   "rank": 2,
+   "category": "Politics",
+   "title": "Wong uses Senate address to pitch UN Security Council bid and frame AI as security issue",
+   "summary": "Foreign Minister Penny Wong delivered a foreign policy statement to the Senate on Tuesday titled \"Securing Australia's future in a changing world\", SBS News reported. She outlined six shifts she said were reshaping the world, including growing coercion, changing great-power behaviour, weaponised economic ties and weaker collective institutions.\n\nWong argued artificial intelligence was a national security challenge on which Australia should help lead, according to SBS. She promoted Australia's bid for a non-permanent UN Security Council seat for 2029\u201330, with the vote due in June 2028. She said Australia would keep its US alliance while seeking cooperation with both the US and China.",
+   "keyFacts": [
+    "Speech delivered in the Senate on 24 November",
+    "Australia seeking a 2029\u201330 Security Council seat",
+    "Wong describes AI as a national security challenge"
+   ],
+   "sources": [
+    {
+     "name": "SBS News",
+     "url": "https://www.sbs.com.au/news/article/australian-foreign-policy-under-a-new-world-order/tjet540wg"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-23/wong-sounds-alarm-over-us-china-rivalry/107418278"
+    }
+   ],
+   "publishedAt": "2026-11-24T11:42:00+11:00",
+   "createdAt": "2026-11-24T17:50:00+11:00"
+  },
+  {
+   "id": "2026-11-24-irgc-three-tankers-mines-hormuz",
+   "batch": "2026-11-24-pm",
+   "rank": 3,
+   "category": "World",
+   "title": "Revolutionary Guards say three tankers hit mines and caught fire in Strait of Hormuz",
+   "summary": "The naval arm of Iran's Islamic Revolutionary Guard Corps said on Monday that three tankers it described as violating its directives had struck naval mines in the Strait of Hormuz and caught fire, according to Iranian state media cited by Iran International. It said one was hit near the southern coast and two east of the strait while under US air escort.\n\nThe claims could not be independently verified, Iran International reported, and no ships were named. The Jerusalem Post reported that US Central Command had not responded. The IRGC said US military cover was no substitute for following its instructions.",
+   "keyFacts": [
+    "IRGC says three tankers hit mines within hours",
+    "No ships named and claims not independently verified",
+    "IRGC says vessels were under US air escort"
+   ],
+   "sources": [
+    {
+     "name": "Iran International",
+     "url": "https://www.iranintl.com/en/202611232940"
+    },
+    {
+     "name": "Jerusalem Post",
+     "url": "https://www.jpost.com/middle-east/iran-news/article-915899"
+    }
+   ],
+   "publishedAt": "2026-11-24T07:24:00+11:00",
+   "createdAt": "2026-11-24T17:50:00+11:00"
+  },
+  {
+   "id": "2026-11-24-us-treasury-iran-shadow-banking",
+   "batch": "2026-11-24-pm",
+   "rank": 4,
+   "category": "World",
+   "title": "US Treasury flags $US14.7 billion in possible Iranian shadow banking and adds sanctions",
+   "summary": "The US Treasury said on Monday (US time) that its Financial Crimes Enforcement Network had identified about $US14.7 billion in financial activity between January 2025 and August 2026 potentially linked to Iranian shadow banking. The largest flagged flow, about $US2.6 billion, ran from mainland China-based banks to UAE-based banks, the department said.\n\nThe US also sanctioned 22 entities and eight people as part of efforts against the networks, Iran International reported. Treasury Secretary Scott Bessent said the department would keep cutting financial lifelines it said fund Iran's military and allied groups. Iran had not publicly responded to the measures at the time of reporting.",
+   "keyFacts": [
+    "FinCEN analysis covers January 2025 to August 2026",
+    "Networks most prominent in UAE, Hong Kong and Singapore",
+    "22 entities and eight people sanctioned"
+   ],
+   "sources": [
+    {
+     "name": "US Treasury",
+     "url": "https://home.treasury.gov/news/press-releases/sb0698"
+    },
+    {
+     "name": "Iran International",
+     "url": "https://www.iranintl.com/en/202611234991"
+    }
+   ],
+   "publishedAt": "2026-11-24T07:24:00+11:00",
+   "createdAt": "2026-11-24T17:50:00+11:00"
+  },
+  {
+   "id": "2026-11-24-singapore-australia-leaders-meeting",
+   "batch": "2026-11-24-pm",
+   "rank": 5,
+   "category": "Australia",
+   "title": "Australia and Singapore sign essential supplies and carbon storage agreements",
+   "summary": "Prime Minister Anthony Albanese and Singapore's Prime Minister Lawrence Wong held their annual leaders' meeting in Canberra on Tuesday, according to Singapore's Prime Minister's Office. The two countries signed a memorandum of understanding on essential supplies covering food, pharmaceuticals, medical products and farm inputs, extending an April arrangement on fuel and LNG.\n\nThey also signed an agreement on cross-border carbon capture and storage and launched a programme on low-emissions products, the office said. Wong said both sides intended to work together on artificial intelligence governance and testing. He noted Singapore Airlines had operated the first flight into Western Sydney International Airport the night before.",
+   "keyFacts": [
+    "Essential supplies pact expanded beyond fuel",
+    "Cross-border carbon capture and storage deal signed",
+    "Meeting held in Canberra on 24 November"
+   ],
+   "sources": [
+    {
+     "name": "Prime Minister's Office Singapore",
+     "url": "https://www.pmo.gov.sg/newsroom/pm-lawrence-wong-and-australia-pm-anthony-albanese-at-the-11th-singapore-australia-annual-leaders-meeting-alm-joint-press-conference-nov-2026/"
+    }
+   ],
+   "publishedAt": "2026-11-24T12:00:00+11:00",
+   "createdAt": "2026-11-24T17:50:00+11:00"
+  },
+  {
+   "id": "2026-11-24-asx-rebounds-1-8-percent",
+   "batch": "2026-11-24-pm",
+   "rank": 6,
+   "category": "Economy",
+   "title": "ASX 200 rises 1.8% to end eight-session losing run as tech stocks lead",
+   "summary": "The S&P/ASX 200 closed up 1.8 per cent at 8,726 points on Tuesday, ending a run of eight consecutive daily losses, the ABC reported. The gains followed a rally on Wall Street after Nvidia reinstated Jensen Huang as chief executive.\n\nTechnology shares rose 2.8 per cent, the strongest sector, while energy was the only sector to fall, according to the ABC. Of the top 200 stocks, 176 rose. The Australian dollar was little changed at about 66.27 US cents. Monthly consumer price figures from the Australian Bureau of Statistics are due on Wednesday.",
+   "keyFacts": [
+    "ASX 200 closed at 8,726 points",
+    "Technology sector rose 2.8%",
+    "176 of 200 stocks finished higher"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-24/asx-markets-business-news-live-updates-nov-24-2026/107419524"
+    }
+   ],
+   "publishedAt": "2026-11-24T16:31:00+11:00",
+   "createdAt": "2026-11-24T17:50:00+11:00"
+  },
+  {
+   "id": "2026-11-24-oil-near-three-month-low",
+   "batch": "2026-11-24-pm",
+   "rank": 7,
+   "category": "Economy",
+   "title": "Oil prices hover near three-month lows as supply concerns outweigh Hormuz risks",
+   "summary": "Brent crude fell 66 US cents to $US88.71 a barrel on Tuesday afternoon (Sydney time), after closing on Monday at its lowest level since 31 August, Reuters reported. US West Texas Intermediate fell 60 US cents to $US79.57.\n\nAnalysts cited by Reuters pointed to rising crude supply and expectations of a surplus, which they said were offsetting shipping risks in the Strait of Hormuz. Deutsche Bank estimated oversupply at about 1.7 million barrels a day, according to the report. Traders were also watching Iranian claims that tankers had struck mines in the strait.",
+   "keyFacts": [
+    "Brent traded at $US88.71 a barrel",
+    "Monday's close was lowest since 31 August",
+    "Deutsche Bank estimates 1.7 million bpd oversupply"
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via AOL)",
+     "url": "https://www.aol.com/articles/oil-holds-near-three-month-025150000.html"
+    }
+   ],
+   "publishedAt": "2026-11-24T16:13:00+11:00",
+   "createdAt": "2026-11-24T17:50:00+11:00"
+  },
+  {
+   "id": "2026-11-24-iran-ai-fake-journalist-australia",
+   "batch": "2026-11-24-pm",
+   "rank": 8,
+   "category": "Australia",
+   "title": "Iran-based operation used AI to create fake journalist writing on Australia, ABC reports",
+   "summary": "An Iran-based influence operation used ChatGPT accounts to create a fictitious journalist who wrote about Australia's role in the US-Iran war and posted the material on X, the ABC reported on Tuesday. OpenAI had described the wider operation in a report last month, but that report did not mention the Australian content, according to the ABC.\n\nThe ABC said Foreign Minister Penny Wong was expected to raise the operation in federal parliament on Tuesday. A Queensland University of Technology researcher said the material showed how AI could be used to produce persuasive content at scale. OpenAI had not responded to the ABC's request for comment.",
+   "keyFacts": [
+    "Fake persona wrote about Australia's role in the war",
+    "OpenAI report on the operation did not cite the Australian posts",
+    "Wong expected to raise the issue in parliament"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-24/penny-wong-iran-linked-ai-foreign-influence/107419864"
+    }
+   ],
+   "publishedAt": "2026-11-24T11:56:00+11:00",
+   "createdAt": "2026-11-24T17:50:00+11:00"
+  },
+  {
+   "id": "2026-11-24-ny-court-buffalo-social-media",
+   "batch": "2026-11-24-pm",
+   "rank": 9,
+   "category": "World",
+   "title": "New York's top court rules social media firms not liable over 2022 Buffalo shooting",
+   "summary": "New York's Court of Appeals ruled 4-3 on Monday (US time) that Google's YouTube, Meta's Instagram, Reddit and Snap could not be held liable over the 2022 mass shooting at a Tops supermarket in Buffalo, in which 10 Black people were killed, the Times of Israel and Reuters reported. Families of victims had argued the platforms helped radicalise the gunman.\n\nThe majority found the shooter's actions were so extraordinary that they broke the chain of causation as a matter of law, according to the reports. A lawyer for the plaintiffs said his clients were considering their legal options.",
+   "keyFacts": [
+    "Ruling was decided 4-3",
+    "Lawsuits targeted YouTube, Instagram, Reddit and Snap",
+    "Ten people were killed in the May 2022 attack"
+   ],
+   "sources": [
+    {
+     "name": "Times of Israel",
+     "url": "https://www.timesofisrael.com/liveblog-november-24-2026"
+    },
+    {
+     "name": "Reuters (via U.S. News)",
+     "url": "https://www.usnews.com/news/top-news/articles/2026-11-23/social-media-companies-not-liable-for-buffalo-mass-shooting-new-yorks-highest-court-rules"
+    }
+   ],
+   "publishedAt": "2026-11-24T08:30:00+11:00",
+   "createdAt": "2026-11-24T17:50:00+11:00"
+  },
+  {
+   "id": "2026-11-24-abc-ends-entertains-channel",
+   "batch": "2026-11-24-pm",
+   "rank": 10,
+   "category": "Business",
+   "title": "ABC to close ABC Entertains channel and treat YouTube as a primary platform",
+   "summary": "The ABC will reduce its broadcast television channels from four to three by closing ABC Entertains, formerly ABC Me, managing director Hugh Marks announced on Tuesday while outlining the broadcaster's 2027 strategy, the ABC reported. He said the ABC would treat YouTube as a primary distribution platform.\n\nThe measures are expected to save about $50 million a year in total, according to the report. Marks said changes to news and current affairs were likely, with details expected in the first quarter of 2027. The ABC has previously announced redundancies, including 76 positions in the 2026 financial year.",
+   "keyFacts": [
+    "ABC Entertains channel to close",
+    "Total savings estimated at about $50 million a year",
+    "News division changes expected early 2027"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-24/abc-to-discontinue-entertains-tv-channel-pursue-youtube-content/107419672"
+    }
+   ],
+   "publishedAt": "2026-11-24T16:30:00+11:00",
+   "createdAt": "2026-11-24T17:50:00+11:00"
+  },
+  {
+   "id": "2026-11-24-bukele-haiti-soldiers-killed",
+   "batch": "2026-11-24-pm",
+   "rank": 11,
+   "category": "World",
+   "title": "Bukele names three Salvadoran soldiers killed in Haiti, citing accidental explosion",
+   "summary": "El Salvador's President Nayib Bukele named three soldiers killed during the country's deployment in Haiti and said an accidental explosion during a mission caused their deaths, the Associated Press reported. He said families would receive $US200,000 plus monthly payments, and troops who wished to leave Haiti could do so without reprisal.\n\nAbout 2,500 Salvadoran troops were sent to Haiti last month after four soldiers went missing in an attack in gang-held territory, according to AP. They have not been found. On Monday, US Democratic lawmakers wrote to senior officials accusing the administration of failing to sanction Haiti's political and economic elite.",
+   "keyFacts": [
+    "Three soldiers named by Bukele",
+    "Families to receive $US200,000 and monthly income",
+    "Four soldiers missing since October remain unfound"
+   ],
+   "sources": [
+    {
+     "name": "Associated Press (via Al Jazeera)",
+     "url": "https://www.aljazeera.com/news/2026/11/24/bukele-shares-details-on-deaths-of-salvadoran-troops-in-haiti-intervention"
+    }
+   ],
+   "publishedAt": "2026-11-24T10:00:00+11:00",
+   "createdAt": "2026-11-24T17:50:00+11:00"
+  },
   {
    "id": "2026-11-24-nvidia-reinstates-huang",
    "batch": "2026-11-24",
@@ -2811,119 +3058,6 @@
    "createdAt": "2026-11-19T17:47:45+11:00"
   },
   {
-   "id": "2026-11-17-rba-minutes-six-three",
-   "batch": "2026-11-17-pm",
-   "category": "Economy",
-   "title": "RBA minutes show six members judged earlier rate rises not clearly sufficient",
-   "summary": "Minutes of the Reserve Bank board's 2\u20133 November meeting, released on Tuesday, showed six of nine members judged that the year's earlier tightening was not clearly sufficient to deal with inflation risks, Reuters reported. They cited sticky inflation and the possibility of a higher neutral interest rate.\n\nThe three members who dissented were concerned the economy could be close to a materially sharper downturn, with unemployment rising and house prices falling, according to Reuters. The board lifted the cash rate to 4.85 per cent, its fifth increase this year. Unemployment is at a five-year high of 4.7 per cent.",
-   "keyFacts": [
-    "Six of nine board members backed the November rise",
-    "Dissenters warned of risk of a sharper downturn",
-    "Cash rate is 4.85 per cent after five rises this year"
-   ],
-   "sources": [
-    {
-     "name": "Reuters (via AOL)",
-     "url": "https://www.aol.com/articles/rba-board-judges-fifth-rate-003853000.html"
-    },
-    {
-     "name": "investingLive",
-     "url": "https://investinglive.com/central-banks/rba-minutes-6-members-saw-rates-not-clearly-sufficient-3-warned-of-sharper-downturn/"
-    }
-   ],
-   "publishedAt": "2026-11-17T11:30:00+11:00",
-   "createdAt": "2026-11-17T17:50:12+11:00",
-   "rank": 1
-  },
-  {
-   "id": "2026-11-17-hormuz-two-tankers-mines",
-   "batch": "2026-11-17-pm",
-   "category": "World",
-   "title": "Iran's Revolutionary Guards say two more tankers hit mines in Strait of Hormuz",
-   "summary": "Iran's Revolutionary Guards navy said two oil tankers struck naval mines and caught fire while using a route through the southern Strait of Hormuz that Tehran considers unauthorised, Al Jazeera and Reuters reported. The vessels were not named and the claim could not be independently verified. Iran's regular navy separately said another tanker was disabled by a mine.\n\nThe UK Maritime Trade Operations agency reported two attacks on Monday, including a tanker disabled by an engine-room fire about 13 kilometres north of Khasab, Oman. Two security sources told Reuters sirens sounded in Iraq's Kurdistan region after a drone flew over the Khor Mor gas field; no strike was reported.",
-   "keyFacts": [
-    "IRGC says two tankers hit mines and caught fire",
-    "UKMTO reported two attacks on Monday near Oman",
-    "Drone flew over Iraq's Khor Mor gas field, sources said"
-   ],
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field"
-    }
-   ],
-   "publishedAt": "2026-11-17T14:12:00+11:00",
-   "createdAt": "2026-11-17T17:50:12+11:00",
-   "rank": 2
-  },
-  {
-   "id": "2026-11-17-spender-cgt-proposal-greens",
-   "batch": "2026-11-17-pm",
-   "category": "Politics",
-   "title": "Greens consider Allegra Spender plan to change Labor's capital gains tax overhaul",
-   "summary": "The Greens are considering backing independent MP Allegra Spender's proposal to amend the government's capital gains tax changes, the ABC reported. Under Labor's plan, the 50 per cent discount is largely replaced by an inflation-based deduction, with a 30 per cent minimum tax on gains.\n\nSpender has proposed a 40 per cent discount for productive assets, which would mean the inflation-based deduction applied mainly to housing, according to the ABC. The Greens, who hold the Senate balance of power, called the idea very interesting. The ABC understands the government is unwilling to adopt it, and Treasurer Jim Chalmers said it was unlikely to be fairer.",
-   "keyFacts": [
-    "Spender proposes 40 per cent discount for productive assets",
-    "Greens hold the balance of power in the Senate",
-    "Chalmers says proposal unlikely to be fairer"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-17/federal-politics-live-blog-senate-albanese-/107391106"
-    }
-   ],
-   "publishedAt": "2026-11-17T06:55:00+11:00",
-   "createdAt": "2026-11-17T17:50:12+11:00",
-   "rank": 6
-  },
-  {
-   "id": "2026-11-17-david-jones-first-creditors-meeting",
-   "batch": "2026-11-17-pm",
-   "category": "Business",
-   "title": "David Jones creditors hold first meeting as administrators seek more time",
-   "summary": "Creditors owed about $320 million by David Jones held their first meeting on Tuesday morning, AAP reported. The department store chain entered voluntary administration on 5 November, and receivers said last week about half of its Australian stores would close by the end of the year.\n\nCreditors had the option of replacing the four McGrathNicol administrators, according to AAP. McGrathNicol will ask a court to push the second creditors' meeting back to April. A Swinburne University governance expert told AAP that unsecured creditors, including small businesses owed up to $250,000, had more at stake than secured lender Hilco Capital.",
-   "keyFacts": [
-    "First creditors' meeting held on Tuesday",
-    "Creditors seeking about $320 million, AAP reports",
-    "Administrators to seek extension to April"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/next-step-on-path-to-decide-david-jones-survival"
-    }
-   ],
-   "publishedAt": "2026-11-17T16:30:00+11:00",
-   "createdAt": "2026-11-17T17:50:12+11:00",
-   "rank": 7
-  },
-  {
-   "id": "2026-11-17-laos-pm-backpacker-deaths",
-   "batch": "2026-11-17-pm",
-   "category": "Australia",
-   "title": "Laos PM tells Albanese those responsible for backpacker deaths will face justice",
-   "summary": "Laos Prime Minister Saleumxay Kommasith told Anthony Albanese that those responsible for the deaths of Melbourne teenagers Bianca Jones and Holly Bowles would face justice, AAP reported. The two met on the sidelines of the ASEAN summit in Manila. The teenagers were among six tourists who died after drinking methanol-laced alcohol in Vang Vieng in November 2024.\n\nA distillery owner has been charged with lesser offences carrying a maximum four-year penalty, according to AAP. Albanese said the families wanted a speedy resolution. Saleumxay said the trial was not complete, acknowledged delays and said evidence-gathering was continuing, including in Thailand, the ABC reported.",
-   "keyFacts": [
-    "Leaders met at the ASEAN summit in Manila",
-    "Six tourists died in the 2024 methanol poisoning",
-    "Distillery owner faces lesser charges"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/laos-pm-vows-justice-for-australian-backpacker-deaths"
-    },
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-17/federal-politics-live-blog-senate-albanese-/107391106"
-    }
-   ],
-   "publishedAt": "2026-11-17T08:40:00+11:00",
-   "createdAt": "2026-11-17T17:50:12+11:00",
-   "rank": 8
-  },
-  {
    "id": "2026-11-18-quad-manila-minerals-exercise",
    "batch": "2026-11-18",
    "category": "World",
@@ -3024,27 +3158,6 @@
    "rank": 4
   },
   {
-   "id": "2026-11-18-backpacker-visa-changes-revised",
-   "batch": "2026-11-18",
-   "category": "Australia",
-   "title": "Government revises backpacker visa overhaul, lifting third-year cap to 25,000",
-   "summary": "Home Affairs Minister Tony Burke announced changes to the government's planned overhaul of working holiday visas on Tuesday, the ABC reported. The cap on third-year visas will rise from 5,000 to 25,000 places, while second-year visas will require 120 days of regional work, up from 88. The planned ballot system has been delayed to next year, and the new rules start on 1 March.\n\nBurke said consultation with industry shaped the package, according to the ABC. Opposition Leader Angus Taylor said the Coalition would repeal the changes if elected. The National Farmers' Federation welcomed the changes but sought more detail. UK backpackers remain exempt from regional work rules.",
-   "keyFacts": [
-    "Third-year cap rises from 5,000 to 25,000",
-    "Second-year visas need 120 regional work days",
-    "New rules start on 1 March"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-17/backflip-backpacker-working-holiday-visa-regional-work/107393474"
-    }
-   ],
-   "publishedAt": "2026-11-17T13:13:00+11:00",
-   "createdAt": "2026-11-18T06:48:30+11:00",
-   "rank": 5
-  },
-  {
    "id": "2026-11-18-gaza-six-killed-tuesday",
    "batch": "2026-11-18",
    "category": "World",
@@ -3129,69 +3242,6 @@
    "rank": 9
   },
   {
-   "id": "2026-11-18-myefo-spending-cuts-flagged",
-   "batch": "2026-11-18",
-   "category": "Economy",
-   "title": "Chalmers says December budget update will include a substantial package of cuts",
-   "summary": "Treasurer Jim Chalmers said the mid-year budget update due in December would contain a substantial package of spending cuts, the ABC reported. Speaking at an ASIC forum on Tuesday, he said the government would cut enough \"but not too much\". No individual cuts have been confirmed.\n\nChalmers also said a deregulation push had produced 400 ideas, of which 140 had been enacted, according to the ABC. The opposition and some economists say government spending is adding to inflation; Chalmers rejects that view. Treasury analysis released by the government said Allegra Spender's capital gains tax model was unlikely to lead to a more productive economy.",
-   "keyFacts": [
-    "Budget update due in December",
-    "No individual cuts confirmed yet",
-    "Opposition links spending to inflation; Chalmers disagrees"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-17/chalmers-says-mid-year-budget-update-to-contain-cuts/107393416"
-    }
-   ],
-   "publishedAt": "2026-11-17T09:42:00+11:00",
-   "createdAt": "2026-11-18T06:48:30+11:00",
-   "rank": 10
-  },
-  {
-   "id": "2026-11-18-greens-trust-tax-red-line",
-   "batch": "2026-11-18",
-   "category": "Politics",
-   "title": "Greens narrow their demands for passing Labor's trust tax and CGT bills",
-   "summary": "The Greens could help pass Labor's minimum tax on trusts and its capital gains tax carve-out for start-ups as early as next week, the ABC reported on Tuesday. The party's main condition is ending the exemption for private schools from the trust tax. It also wants charity reform, but said a public register of trusts is not a red line.\n\nAccording to the ABC, the Greens have no red line on the capital gains change and are unlikely to back independent Allegra Spender's alternative model. Jim Chalmers described the private school issue as a narrow one. Spender said her plan had wide business support and called for a parliamentary inquiry.",
-   "keyFacts": [
-    "Private school exemption is Greens' main condition",
-    "Trust register not a red line",
-    "Spender seeks a parliamentary inquiry"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://abc.net.au/news/2026-11-17/greens-offer-government-path-to-pass-trusts-cgt/107394802"
-    }
-   ],
-   "publishedAt": "2026-11-17T14:58:00+11:00",
-   "createdAt": "2026-11-18T06:48:30+11:00",
-   "rank": 11
-  },
-  {
-   "id": "2026-11-18-bunnings-230-tech-jobs",
-   "batch": "2026-11-18",
-   "category": "Business",
-   "title": "Bunnings to cut about 230 technology jobs as work moves partly to Tata",
-   "summary": "Bunnings will make about 230 permanent technology roles redundant and end 120 contractor arrangements as it moves part of its technology work to Tata Consultancy Services, the ABC reported on Tuesday. About 500 in-house technology staff will remain in Australia.\n\nThe transition will run from December to June, with job losses beginning in the new year, according to the ABC. Managing director Mike Schneider described the move as a necessary change, and the company said it aimed to cut costs and keep pace with online retail. The ABC reported no response from unions or affected staff.",
-   "keyFacts": [
-    "About 230 permanent roles to go",
-    "120 contractor agreements ending",
-    "Transition runs December to June"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-17/bunnings-layoffs-and-offshoring/107394860"
-    }
-   ],
-   "publishedAt": "2026-11-17T14:23:00+11:00",
-   "createdAt": "2026-11-18T06:48:30+11:00",
-   "rank": 12
-  },
-  {
    "id": "2026-11-18-gender-pay-gap-below-20",
    "batch": "2026-11-18",
    "category": "Australia",
@@ -3253,27 +3303,6 @@
    "publishedAt": "2026-11-18T05:26:00+11:00",
    "createdAt": "2026-11-18T06:48:30+11:00",
    "rank": 15
-  },
-  {
-   "id": "2026-11-18-png-three-child-proposal",
-   "batch": "2026-11-18",
-   "category": "World",
-   "title": "Papua New Guinea proposes encouraging families to have no more than three children",
-   "summary": "Papua New Guinea's government, led by Prime Minister James Marape, has outlined a proposed national family planning policy that would encourage families to have no more than three children, the ABC reported. The plan is at the proposal stage.\n\nThe official population is about 10.18 million and growing by more than 180,000 a year, according to the ABC, with a fertility rate of 3.6 births per woman. About a quarter of women of reproductive age use modern contraception. Marie Stopes PNG said the policy would not work unless women had more say over family size. The ABC said it had sought comment from the government.",
-   "keyFacts": [
-    "Policy is still a proposal",
-    "Population growing by over 180,000 a year",
-    "Fertility rate of 3.6 births per woman"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-17/png-policy-aims-to-limit-families-to-three-children/107385842"
-    }
-   ],
-   "publishedAt": "2026-11-17T15:45:00+11:00",
-   "createdAt": "2026-11-18T06:48:30+11:00",
-   "rank": 16
   },
   {
    "id": "2026-11-18-bupa-clinic-medicare-billing",
@@ -4352,6 +4381,84 @@
   }
  ],
  "leftOut": [
+  {
+   "id": "2026-11-24-lo-solomons-china-pact-report",
+   "batch": "2026-11-24-pm",
+   "rank": 1,
+   "category": "Australia",
+   "title": "Solomon Islands to end China security pact and sign Australia treaty, report says",
+   "summary": "Solomon Islands has told China it will not renew their 2022 security agreement when it expires in April, the Sydney Morning Herald reported, citing unnamed sources, according to Reuters. The report said a comprehensive treaty with Australia was expected to be signed when Prime Minister Matthew Wale meets Anthony Albanese on Wednesday.\n\nNo official confirmed the report on the record. Reuters said China's foreign ministry, Australia's foreign affairs department and the Solomon Islands embassy in Canberra did not immediately respond to requests for comment. Solomon Islands agreed in June to begin negotiating a treaty with Australia, the ABC previously reported.",
+   "keyFacts": [
+    "Report cites unnamed sources",
+    "2022 pact with China expires in April",
+    "Wale due to meet Albanese on Wednesday"
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via Yahoo News)",
+     "url": "https://www.yahoo.com/news/articles/solomon-islands-plans-replace-china-044751902.html"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-06-03/solomon-islands-china-security-pact-pacific-treaty-australia/106753784"
+    }
+   ],
+   "publishedAt": "2026-11-24T15:47:00+11:00",
+   "createdAt": "2026-11-24T17:50:00+11:00",
+   "reason": "Not yet confirmed"
+  },
+  {
+   "id": "2026-11-24-lo-western-sydney-first-international",
+   "batch": "2026-11-24-pm",
+   "rank": 2,
+   "category": "Australia",
+   "title": "Singapore Airlines begins daily flights at Western Sydney International Airport",
+   "summary": "Singapore Airlines began daily services between Western Sydney International Airport and Singapore from 23 November, according to Infrastructure Minister Catherine King. Singapore's Prime Minister Lawrence Wong said in Canberra on Tuesday that the airline had flown the inaugural flight into the new airport the previous night.\n\nThe service uses Airbus A350-900 aircraft with 303 seats, the minister's office said. Flights leave Western Sydney just before midnight and arrive at Changi Airport around 5am, while return flights depart Singapore at 11.30am. The government said the route was secured in August 2024.",
+   "keyFacts": [
+    "Daily service began on 23 November",
+    "A350-900 aircraft with 303 seats",
+    "Route was announced in August 2024"
+   ],
+   "sources": [
+    {
+     "name": "Minister for Infrastructure",
+     "url": "https://minister.infrastructure.gov.au/c-king/media-release/daily-flights-between-singapore-and-western-sydney-take-november-23"
+    },
+    {
+     "name": "Prime Minister's Office Singapore",
+     "url": "https://www.pmo.gov.sg/newsroom/pm-lawrence-wong-and-australia-pm-anthony-albanese-at-the-11th-singapore-australia-annual-leaders-meeting-alm-joint-press-conference-nov-2026/"
+    }
+   ],
+   "publishedAt": "2026-11-23T22:20:00+11:00",
+   "createdAt": "2026-11-24T17:50:00+11:00",
+   "reason": "Ceremonial event"
+  },
+  {
+   "id": "2026-11-24-lo-shenzhou-24-launch-time",
+   "batch": "2026-11-24-pm",
+   "rank": 3,
+   "category": "Science & Tech",
+   "title": "China sets Wednesday launch for Shenzhou-24 crew including Pakistani astronaut",
+   "summary": "The China Manned Space Agency said on Tuesday that Shenzhou-24 would launch at 8.18am local time on Wednesday from the Jiuquan Satellite Launch Centre on a Long March-2F rocket, Reuters reported. It said the crew was in good condition and preparations were complete.\n\nThe crew includes Pakistani payload specialist Zeeshan Ali, who would be the first foreign astronaut to visit China's Tiangong space station, on a short-term stay, according to Reuters. Commander Tang Hongbo and flight engineer Wu Yi complete the crew. Pakistan's participation was announced earlier this month, Al Jazeera reported.",
+   "keyFacts": [
+    "Launch set for 8.18am Wednesday, Beijing time",
+    "Zeeshan Ali to be first foreigner on Tiangong",
+    "41st crewed flight of China's program"
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via 93.3 The Drive)",
+     "url": "https://www.933thedrive.com/2026/11/23/china-to-launch-shenzhou-24-spaceship-with-first-foreign-astronaut/"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/7/pakistani-astronaut-to-join-chinas-next-space-station-mission"
+    }
+   ],
+   "publishedAt": "2026-11-24T13:00:00+11:00",
+   "createdAt": "2026-11-24T17:50:00+11:00",
+   "reason": "No new development"
+  },
   {
    "id": "2026-11-24-lo-wong-speech-preview",
    "batch": "2026-11-24",
@@ -5821,226 +5928,6 @@
    "createdAt": "2026-11-19T17:47:45+11:00"
   },
   {
-   "id": "2026-11-17-lo-albanese-trump-quad-preview",
-   "batch": "2026-11-17-pm",
-   "category": "Australia",
-   "title": "Albanese says he will raise Iran war concerns at Quad meeting with Trump",
-   "summary": "Anthony Albanese said he would raise Australia's concerns about the Iran war when he meets Donald Trump and the leaders of India and Japan in Manila on Tuesday evening, AAP reported. It is the first Quad leaders' meeting since 2024.\n\nProtests led by left-wing groups, students and workers have been held in Manila for four days against Trump's attendance, according to AAP. Albanese said he had a good relationship with Trump and that Australia wanted de-escalation. The meeting had not taken place at the time of this update.",
-   "keyFacts": [
-    "Quad leaders due to meet in Manila on Tuesday evening",
-    "First Quad leaders' meeting since 2024",
-    "Protests in Manila against Trump's attendance"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/albanese-set-to-meet-trump-as-anger-spills-onto-streets"
-    }
-   ],
-   "publishedAt": "2026-11-17T16:40:00+11:00",
-   "createdAt": "2026-11-17T17:50:12+11:00",
-   "reason": "No new development",
-   "rank": 1
-  },
-  {
-   "id": "2026-11-17-lo-ukraine-berlin-talks",
-   "batch": "2026-11-17-pm",
-   "category": "World",
-   "title": "Zelenskiy says Ukraine, US and European officials agreed to meet in Berlin",
-   "summary": "Ukrainian President Volodymyr Zelenskiy said Monday's online talks with US envoys Steve Witkoff and Jared Kushner and European officials were difficult, and that participants agreed to meet in Berlin with the coalition of countries backing Ukraine, Al Jazeera and Reuters reported.\n\nKremlin aide Yuri Ushakov said Russia had not agreed to widen talks beyond existing delegations and no date was set for a next round, according to the report. Kushner said Washington was making progress. Kyiv's mayor said preliminary reports indicated two bridges over the Dnipro were hit.",
-   "keyFacts": [
-    "Online talks held on Monday with US envoys",
-    "Participants agreed to meet in Berlin, Zelenskiy said",
-    "Kremlin says no date set for next round"
-   ],
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/17/ukraine-holds-peace-talks-with-us-europe-as-conflict-escalates"
-    }
-   ],
-   "publishedAt": "2026-11-17T11:45:00+11:00",
-   "createdAt": "2026-11-17T17:50:12+11:00",
-   "reason": "Restatement, nothing new",
-   "rank": 2
-  },
-  {
-   "id": "2026-11-17-lo-iran-dirty-bomb-report",
-   "batch": "2026-11-17-pm",
-   "category": "World",
-   "title": "CNN reports US intelligence suggests Iran drew up options for attack in Washington",
-   "summary": "CNN reported, citing multiple US officials, that new US intelligence suggests Iran has drawn up plans that could target senior Trump administration figures in Washington with a radiological or chemical device, according to the Times of Israel.\n\nThe sources said the intelligence does not point to an imminent attack and describes options rather than operations, the report said. One source doubted Iran had the personnel to carry them out, and officials were divided on the intelligence's credibility. Iran has not responded in the reports, and the claims are attributed to anonymous officials.",
-   "keyFacts": [
-    "Report cites anonymous US officials",
-    "Intelligence does not indicate imminent attack, sources say",
-    "Officials divided on credibility"
-   ],
-   "sources": [
-    {
-     "name": "Times of Israel",
-     "url": "https://www.timesofisrael.com/liveblog-november-17-2026/"
-    }
-   ],
-   "publishedAt": "2026-11-17T12:00:00+11:00",
-   "createdAt": "2026-11-17T17:50:12+11:00",
-   "reason": "Not yet confirmed",
-   "rank": 3
-  },
-  {
-   "id": "2026-11-17-lo-vic-leaders-debate",
-   "batch": "2026-11-17-pm",
-   "category": "Politics",
-   "title": "Victorian party leaders to take part in single town hall debate before election",
-   "summary": "The leaders of Victoria's four major parties will take part in a town hall-style debate on Tuesday, the only pre-election debate the two major parties agreed to, AAP reported. Victorians vote on 28 November, and there will be no one-on-one debate between Premier Ben Carroll and Opposition Leader Jess Wilson.\n\nWilson accused Carroll of avoiding a head-to-head, while Carroll said Wilson did not want to share a stage with One Nation, according to AAP. A Monash University political scientist told AAP a debate gaffe would be high risk for the major leaders.",
-   "keyFacts": [
-    "Four-leader town hall debate set for Tuesday",
-    "Victorian election is on 28 November",
-    "No head-to-head between Carroll and Wilson"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/high-risk-election-debates-have-become-the-debate"
-    }
-   ],
-   "publishedAt": "2026-11-17T14:40:00+11:00",
-   "createdAt": "2026-11-17T17:50:12+11:00",
-   "reason": "Commentary",
-   "rank": 5
-  },
-  {
-   "id": "2026-11-17-lo-pattinson-bond",
-   "batch": "2026-11-17-pm",
-   "category": "Entertainment",
-   "title": "Robert Pattinson announced as the next James Bond",
-   "summary": "Robert Pattinson, 40, has been announced as the next actor to play James Bond, replacing Daniel Craig, AAP reported. The announcement was made on the official 007 Instagram account, and Pattinson becomes the seventh actor in the role.\n\nDenis Villeneuve will direct the untitled film from a script by Steven Knight, according to AAP. Production is expected in 2027 with release in 2028. It is the first Bond film since Amazon took creative control of the franchise.",
-   "keyFacts": [
-    "Pattinson is the seventh actor to play Bond",
-    "Denis Villeneuve to direct",
-    "Release expected in 2028"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/robert-pattinson-unveiled-as-new-james-bond"
-    }
-   ],
-   "publishedAt": "2026-11-17T16:40:00+11:00",
-   "createdAt": "2026-11-17T17:50:12+11:00",
-   "reason": "Entertainment",
-   "rank": 6
-  },
-  {
-   "id": "2026-11-18-lo-bowen-cop31-draft",
-   "batch": "2026-11-18",
-   "category": "Environment",
-   "title": "Bowen presents 18-page COP31 draft calling for faster fossil fuel phase-out",
-   "summary": "Climate Change Minister Chris Bowen, president of the COP31 negotiations, released an 18-page draft agreement in Antalya, T\u00fcrkiye, the ABC reported. The draft draws on submissions from 160 countries, calls for accelerated action to phase out fossil fuels and seeks 35 per cent electrification of global energy by 2035.\n\nIt also proposes tripling adaptation funding to at least $US120 billion by 2035, according to the ABC. Greenpeace described the language as among the strongest in a COP draft. Bowen said not all parties would agree. Critics pointed to Australia's fossil fuel project approvals; Bowen defended exports to countries in transition.",
-   "keyFacts": [
-    "Draft has 144 provisions",
-    "Seeks 35 per cent electrification by 2035",
-    "Bowen says the text is not final"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-17/chris-bowen-launches-bold-climate-agenda-at-cop31/107393394"
-    }
-   ],
-   "publishedAt": "2026-11-17T09:56:00+11:00",
-   "createdAt": "2026-11-18T06:48:30+11:00",
-   "reason": "No new development",
-   "rank": 1
-  },
-  {
-   "id": "2026-11-18-lo-tanimbar-quake-darwin",
-   "batch": "2026-11-18",
-   "category": "Science & Tech",
-   "title": "Magnitude 6.6 earthquake near Indonesia's Tanimbar Islands felt across NT Top End",
-   "summary": "A magnitude 6.6 earthquake struck near Indonesia's Tanimbar Islands at about 6.41am Darwin time on Tuesday, the Bureau of Meteorology said, according to the ABC. Geoscience Australia said it began 42 kilometres beneath the Banda Sea.\n\nMore than 450 people reported feeling the tremor across the Northern Territory's Top End, including Darwin, Palmerston and Katherine, the ABC reported. Most shaking was weak or light. The bureau said there was no tsunami threat to Australia, and no damage was reported.",
-   "keyFacts": [
-    "Quake was 42km below the Banda Sea",
-    "More than 450 felt reports",
-    "No tsunami threat to Australia"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-17/magnitude-6-6-earthquake-indonesia-tremors-felt-in-darwin/107393396"
-    }
-   ],
-   "publishedAt": "2026-11-17T09:06:00+11:00",
-   "createdAt": "2026-11-18T06:48:30+11:00",
-   "reason": "Human interest",
-   "rank": 2
-  },
-  {
-   "id": "2026-11-18-lo-south-west-rocks-storm",
-   "batch": "2026-11-18",
-   "category": "Other",
-   "title": "Bureau says possible tornado damaged homes at South West Rocks",
-   "summary": "The Bureau of Meteorology said it was possible a tornado struck South West Rocks on the NSW Mid North Coast at about 4.45pm on Monday, the ABC reported. The bureau was still assessing radar data and reports.\n\nThree homes lost their roofs, and the SES received more than 30 calls for help, according to the ABC. Elsewhere in north-east NSW, 43 millimetres of rain fell in 30 minutes at Grafton and hailstones up to six centimetres were reported at Lawrence.",
-   "keyFacts": [
-    "Three homes lost roofs",
-    "SES received more than 30 calls",
-    "Bureau still assessing whether it was a tornado"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-17/possible-tornado-south-west-rocks/107393272"
-    }
-   ],
-   "publishedAt": "2026-11-17T09:26:00+11:00",
-   "createdAt": "2026-11-18T06:48:30+11:00",
-   "reason": "Human interest",
-   "rank": 3
-  },
-  {
-   "id": "2026-11-18-lo-hollands-inquest-psychiatrist",
-   "batch": "2026-11-18",
-   "category": "Australia",
-   "title": "Inquest hears Perth teen shot by police consumed extremist material",
-   "summary": "A forensic psychiatrist told the inquest into the death of 16-year-old James Leslie Hollands that he had consumed extremist online content, including beheading videos, the ABC reported. Hollands was shot dead by police at a Willetton Bunnings in May 2024 after stabbing a man.\n\nDr Natalie Pyszora said there was no sign he was planning a terror attack and that his risk had been assessed as low, according to the ABC. The family's lawyer questioned police leading the countering violent extremism program, while a senior detective supported it.",
-   "keyFacts": [
-    "Inquest into May 2024 police shooting",
-    "Psychiatrist saw no sign of attack planning",
-    "Family questions police role in program"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://abc.net.au/news/2026-11-17/james-hollands-enjoyed-extremist-content-inquest-told/107395226"
-    }
-   ],
-   "publishedAt": "2026-11-17T16:19:00+11:00",
-   "createdAt": "2026-11-18T06:48:30+11:00",
-   "reason": "Local crime",
-   "rank": 4
-  },
-  {
-   "id": "2026-11-18-lo-sam-wood-bail-appeal",
-   "batch": "2026-11-18",
-   "category": "Other",
-   "title": "Sam Wood takes bail appeal to Queensland Court of Appeal",
-   "summary": "Fitness personality Sam Wood, charged with assaulting and strangling his wife on the Sunshine Coast in October, has taken his bail application to the Queensland Court of Appeal, the ABC reported. He intends to contest the allegations.\n\nAfter two unsuccessful bail applications, his lawyers argued a Supreme Court judge's refusal was unreasonable and did not consider whether proposed conditions would reduce risk, according to the ABC. The court heard allegations about an argument in which he is accused of grabbing his wife by the throat.",
-   "keyFacts": [
-    "Charged over alleged October assault",
-    "Two earlier bail bids failed",
-    "He intends to contest the charges"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://abc.net.au/news/2026-11-17/sam-wood-court-of-appeal-bail/107390248"
-    }
-   ],
-   "publishedAt": "2026-11-17T11:41:00+11:00",
-   "createdAt": "2026-11-18T06:48:30+11:00",
-   "reason": "Celebrity",
-   "rank": 5
-  },
-  {
    "id": "2026-11-18-lo-us-thailand-trade-deal",
    "batch": "2026-11-18",
    "category": "Economy",
@@ -6465,32 +6352,6 @@
    "publishedAt": "2026-11-19T04:00:00+11:00",
    "createdAt": "2026-11-19T06:52:35+11:00",
    "reason": "Restatement, nothing new"
-  },
-  {
-   "id": "2026-11-19-lo-electoral-funding-amendments",
-   "batch": "2026-11-19",
-   "rank": 8,
-   "category": "Politics",
-   "title": "Crossbench MPs oppose Labor's late changes to electoral funding laws",
-   "summary": "Special Minister of State Don Farrell tabled late amendments to federal electoral funding laws that take effect on 1 January, AAP and Guardian Australia reported. The government described the changes as technical. The opposition said it would support them.\n\nThe amendments would let parties grow investment funds without the interest counting toward donation caps, Guardian Australia reported. Independent MP Kate Chaney called it a major-party stitch-up, and Senator David Pocock said uncapped money could flow to major parties. Farrell said the reforms aim to end a donations arms race. Zoe Daniel and Rex Patrick are challenging the caps in the High Court.",
-   "keyFacts": [
-    "The laws take effect on 1 January 2027",
-    "The opposition will support the amendments",
-    "A High Court challenge is under way"
-   ],
-   "sources": [
-    {
-     "name": "AAP (via Yahoo News)",
-     "url": "https://au.news.yahoo.com/last-minute-electoral-law-tweak-061712863.html"
-    },
-    {
-     "name": "Guardian Australia (via AOL)",
-     "url": "https://www.aol.co.uk/articles/line-own-coffers-independent-mps-085038000.html"
-    }
-   ],
-   "publishedAt": "2026-11-17T17:17:00+11:00",
-   "createdAt": "2026-11-19T06:52:35+11:00",
-   "reason": "Outside today's window"
   },
   {
    "id": "2026-11-22-us-iran-war-fears",
