@@ -1,6 +1,392 @@
 {
- "updatedAt": "2026-11-24T17:50:00+11:00",
+ "updatedAt": "2026-11-25T06:55:00+11:00",
  "articles": [
+  {
+   "id": "2026-11-25-solomons-ends-china-pact",
+   "batch": "2026-11-25",
+   "rank": 1,
+   "category": "Australia",
+   "title": "Solomon Islands tells China it will not renew 2022 security pact, ABC confirms",
+   "summary": "The Solomon Islands government has told Beijing it will not renew its 2022 security agreement with China when the five-year term ends in April 2027, the ABC reported on Tuesday, confirming an earlier Nine Newspapers report through its own sources.\n\nPrime Minister Matthew Wale is in Canberra and is due to sign a treaty with Australia on Wednesday, under which Australia would provide about $980 million in extra funding, according to the ABC. Foreign Minister Penny Wong has previously called the 2022 pact a major setback for Australia. Opposition leader Manasseh Sogavare said the country should weigh what it stands to lose from the decision.",
+   "keyFacts": [
+    "Pact's five-year term ends in April 2027",
+    "Australia treaty due to be signed on Wednesday",
+    "Australia to provide about $980 million, ABC reports"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-24/china-solomon-islands-security-pact-australia/107421976"
+    }
+   ],
+   "publishedAt": "2026-11-24T17:52:00+11:00",
+   "createdAt": "2026-11-25T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-25-chen-jining-investigation",
+   "batch": "2026-11-25",
+   "rank": 2,
+   "category": "World",
+   "title": "Shanghai Communist Party chief Chen Jining placed under investigation",
+   "summary": "Chinese state media announced on Tuesday that Shanghai's Communist Party secretary, Chen Jining, is under investigation by the party's Central Commission for Discipline Inspection over what it called serious violations of discipline and law, the ABC reported. No further details were given.\n\nChen has led Shanghai since 2022 and was previously Beijing's mayor, environment minister and president of Tsinghua University. The ABC said he is the fourth member of the 21-member Politburo to be investigated this term. Analysts quoted by the ABC said they could not say why Chen had been targeted.",
+   "keyFacts": [
+    "Announcement made by Chinese state media on Tuesday",
+    "Chen has been Shanghai party secretary since 2022",
+    "Fourth Politburo member investigated this term, ABC says"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-25/chinese-communist-party-leader-under-corruption-investigation/107423468"
+    }
+   ],
+   "publishedAt": "2026-11-25T04:02:00+11:00",
+   "createdAt": "2026-11-25T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-25-us-section-301-tariffs",
+   "batch": "2026-11-25",
+   "rank": 3,
+   "category": "Economy",
+   "title": "US expected to propose new tariffs on 16 trading partners after trade probe, Reuters says",
+   "summary": "The Trump administration could announce the results of a Section 301 investigation into alleged excess industrial capacity as soon as Tuesday or Wednesday, Reuters reported, citing three unnamed people. The probe covers 16 trading partners, including China, the European Union, India, Japan, South Korea, Mexico and Vietnam.\n\nThe US Trade Representative is expected to propose duties on top of existing tariffs, partly replacing global import taxes struck down by the US Supreme Court in February, according to Reuters. Rates and exemptions were not known. The USTR and White House did not respond to Reuters. China has rejected the accusations, saying its exports reflect competitive advantages.",
+   "keyFacts": [
+    "Section 301 probe covers 16 trading partners",
+    "Duties would partly replace tariffs struck down in February",
+    "Officials did not comment, Reuters says"
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via Business Day)",
+     "url": "https://www.businessday.co.za/world/americas/2026-11-24-trump-administration-to-unveil-new-tariffs-on-imports/"
+    }
+   ],
+   "publishedAt": "2026-11-24T10:00:00+11:00",
+   "createdAt": "2026-11-25T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-25-ai-stocks-fall-anthropic-below-ipo",
+   "batch": "2026-11-25",
+   "rank": 4,
+   "category": "Business",
+   "title": "AI shares fall back on Wall Street as Anthropic slips below its IPO price",
+   "summary": "Shares in artificial intelligence companies fell on Tuesday, a day after a sharp rally, AP reported. By early afternoon in New York, Nvidia was down about 7 per cent after rising 31.5 per cent on Monday, while the Nasdaq was down 1.3 per cent and the S&P 500 0.3 per cent. The Dow Jones index was up 0.9 per cent.\n\nAnthropic shares fell below their $US83 initial public offering price, according to AP and CNBC, less than a week after the company's market debut. AP said CoreWeave fell 11.6 per cent. The Conference Board's consumer confidence survey showed confidence rose among Democrats and independents and slipped among Republicans.",
+   "keyFacts": [
+    "Nvidia down about 7% a day after a 31.5% gain",
+    "Anthropic traded below its $US83 IPO price",
+    "Dow rose while Nasdaq fell, AP reported"
+   ],
+   "sources": [
+    {
+     "name": "AP (via Korea Times)",
+     "url": "https://www.koreatimes.co.kr/world/20261125/nvidia-anthropic-and-other-ai-stocks-get-back-to-tumbling-and-drag-the-us-market-lower"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html"
+    }
+   ],
+   "publishedAt": "2026-11-25T03:36:00+11:00",
+   "createdAt": "2026-11-25T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-25-aviation-protections-delayed",
+   "batch": "2026-11-25",
+   "rank": 5,
+   "category": "Politics",
+   "title": "Aviation passenger protection bills unlikely to pass Senate before Christmas, ABC reports",
+   "summary": "Labor's four-bill aviation consumer protection package, which passed the House of Representatives in June, is unlikely to clear the Senate before Christmas, the ABC reported. The bills would set airline and airport obligations during disruptions, add accessibility standards and create an Independent Aviation Ombudsman.\n\nShadow Transport Minister Bridget McKenzie said airlines and airports should pay compensation for disrupted flights, backing her own bill for automatic payouts. Transport Minister Catherine King said mandatory compensation would damage the aviation sector. The ABC cited departmental analysis estimating compensation could add $24 to each ticket. An airline industry group said such schemes do not address the causes of delays.",
+   "keyFacts": [
+    "Package passed the lower house in June",
+    "Coalition wants mandatory compensation for disruptions",
+    "Department estimates $24 added per ticket, ABC says"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-25/federal-politics-labor-aviation-passenger-protections-lag/107422600"
+    }
+   ],
+   "publishedAt": "2026-11-25T05:00:00+11:00",
+   "createdAt": "2026-11-25T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-25-vic-liberals-injecting-room-pledge",
+   "batch": "2026-11-25",
+   "rank": 6,
+   "category": "Politics",
+   "title": "Victorian Liberals pledge to close Richmond safe injecting room before Saturday election",
+   "summary": "Victorian Liberal leader Jess Wilson announced on Tuesday that a Coalition government would close Melbourne's medically supervised injecting room in Richmond and move its services to a recovery facility, AAP reported. The state election is on Saturday.\n\nPremier Ben Carroll said the facility was established and saving lives. Labor cites a review finding it managed 6,000 overdoses and saved up to 63 lives, according to AAP. Greens leader Ellen Sandell said Victoria needed more such sites. Separately, RedBridge modelling suggests Labor could lose almost half its seats, its founder Kos Samaras told AAP.",
+   "keyFacts": [
+    "Coalition would move services to a recovery facility",
+    "Labor says the room has saved up to 63 lives",
+    "Victorians vote on Saturday"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/campaign-blamed-as-labor-faces-state-election-rout"
+    }
+   ],
+   "publishedAt": "2026-11-24T19:00:00+11:00",
+   "createdAt": "2026-11-25T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-25-cotality-housing-affordability",
+   "batch": "2026-11-25",
+   "rank": 7,
+   "category": "Economy",
+   "title": "Repayments would take almost half a median income despite price falls, Cotality says",
+   "summary": "A median-income household buying a median-priced home would spend 49.5 per cent of pre-tax income on repayments, according to Cotality figures to the end of September reported by the ABC. The calculation assumes a 20 per cent deposit and a 30-year loan.\n\nCotality said the median home price was 8.2 times median household income, down from a record 8.7 times in March. Adelaide was the least affordable capital relative to incomes. Rents rose 49.4 per cent over five years. Cotality's Gerard Burg said higher mortgage rates had offset much of the benefit of falling prices. The figures exclude the Reserve Bank's November rate rise.",
+   "keyFacts": [
+    "Repayments would take 49.5% of median pre-tax income",
+    "Price-to-income ratio eased to 8.2 from 8.7",
+    "Rents up 49.4% over five years"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-25/housing-market-downturn-fails-to-deliver-relief-for-buyers/107422726"
+    }
+   ],
+   "publishedAt": "2026-11-25T00:08:00+11:00",
+   "createdAt": "2026-11-25T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-25-asic-big-four-complaints",
+   "batch": "2026-11-25",
+   "rank": 8,
+   "category": "Business",
+   "title": "ASIC review finds more than 3,200 internal complaints at big four accounting firms",
+   "summary": "An Australian Securities and Investments Commission review recorded 3,215 internal complaints across Deloitte, PwC, KPMG and EY between July 2023 and June 2026, the ABC reported. Of 558 audit-related complaints given to ASIC, 35 raised concerns about audit conduct or misuse of client information, and 523 covered wider issues, including alleged bullying and sexual harassment.\n\nThe most common audit concerns involved falsified or poorly documented work, according to the review. Senator Deborah O'Neill, who chairs a Senate inquiry, criticised the findings. KPMG pointed to an action plan, PwC said audit quality was its highest priority, Deloitte said figures were not directly comparable and EY said its processes were robust.",
+   "keyFacts": [
+    "3,215 internal complaints recorded over three years",
+    "558 audit-related complaints provided to ASIC",
+    "All four firms defended their processes"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-25/allegations-bullying-sexual-harassment-big-four-firms-complaints/107422694"
+    }
+   ],
+   "publishedAt": "2026-11-25T06:24:00+11:00",
+   "createdAt": "2026-11-25T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-25-ama-mental-health-emergency",
+   "batch": "2026-11-25",
+   "rank": 9,
+   "category": "Health",
+   "title": "AMA report says one in 10 mental health patients waits almost a day in emergency",
+   "summary": "About one in 10 mental health patients waits almost 24 hours in hospital emergency departments before being admitted, according to the Australian Medical Association's public hospital report card, the ABC reported. More than half of those later admitted wait over seven hours.\n\nThe AMA said Australia has 27 specialised public mental health beds per 100,000 people, and emergency presentations for mental illness almost doubled between 2014-15 and 2024-25. AMA president Michael Bonning said getting help before a crisis was becoming impossible. Vice-president Sarah Whitelaw said the national mental health agreement now being negotiated was a chance to change course.",
+   "keyFacts": [
+    "One in 10 waits almost 24 hours for admission",
+    "27 public mental health beds per 100,000 people",
+    "Presentations almost doubled over a decade"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-25/ama-mental-health-report-card-emergency/107420650"
+    }
+   ],
+   "publishedAt": "2026-11-25T06:31:00+11:00",
+   "createdAt": "2026-11-25T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-25-sa-icac-committee-review",
+   "batch": "2026-11-25",
+   "rank": 10,
+   "category": "Politics",
+   "title": "SA parliamentary committee says 2021 law changes undermined ICAC's independence",
+   "summary": "A South Australian parliamentary committee reviewing the state's anti-corruption laws found that 2021 amendments, passed with bipartisan support, undermined the Independent Commission Against Corruption's independence, the ABC reported. The Crime and Public Integrity Policy Committee tabled its review on Tuesday.\n\nThe committee recommended ICAC be allowed to start its own investigations and refer evidence directly to the Director of Public Prosecutions, but did not recommend widening the definition of corruption. Commissioner Emma Townsend welcomed the referral change, saying it would cut delays. The Malinauskas government said it would carefully consider the recommendations and has not made a decision.",
+   "keyFacts": [
+    "Committee tabled its review on Tuesday",
+    "Recommends direct referrals to the DPP",
+    "Government yet to decide on recommendations"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-25/sa-icac-laws-criticised/107422788"
+    }
+   ],
+   "publishedAt": "2026-11-25T06:25:00+11:00",
+   "createdAt": "2026-11-25T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-25-malaysia-rohingya-returns-december",
+   "batch": "2026-11-25",
+   "rank": 11,
+   "category": "World",
+   "title": "Malaysia's Anwar says more than 6,500 Rohingya will be returned to Myanmar in December",
+   "summary": "Malaysian Prime Minister Anwar Ibrahim told parliament on Tuesday that more than 6,500 Rohingya refugees would be sent back to Myanmar, Al Jazeera reported. He said 1,500 people would leave on three navy vessels on 6 and 7 December, and 5,303 would be flown back during December at Myanmar's expense.\n\nAnwar said many asylum seekers had suffered atrocities but that Malaysia could no longer afford to host them, according to Al Jazeera. Rights groups have criticised the returns. The announcement came days after the International Court of Justice ruled Myanmar had committed genocide against the Rohingya. Malaysia said last week it planned to resettle 10,000 Rohingya in Turkey.",
+   "keyFacts": [
+    "1,500 to leave by navy vessels on 6\u20137 December",
+    "5,303 to be flown back at Myanmar's expense",
+    "Rights groups oppose the returns"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/24/malaysia-set-to-return-thousands-of-rohingya-refugees-to-myanmar-2"
+    }
+   ],
+   "publishedAt": "2026-11-24T19:21:00+11:00",
+   "createdAt": "2026-11-25T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-25-riyadh-financial-district-second-attack",
+   "batch": "2026-11-25",
+   "rank": 12,
+   "category": "World",
+   "title": "Saudi-led coalition says Riyadh financial district tower targeted again; 11 injured",
+   "summary": "The Saudi-led coalition in Yemen said a tower in Riyadh's King Abdullah Financial District was targeted on Tuesday in what its spokesman called a terrorist attack, Al Jazeera reported. The Saudi Press Agency said 11 people were injured, according to Gulf News.\n\nThe coalition did not name the building, but three witnesses told AFP the target was the Public Investment Fund tower, which was damaged in a Houthi attack on 19 November. Authorities were investigating at the site, Al Jazeera said. Al Jazeera's live coverage attributed the attack to the Houthis.",
+   "keyFacts": [
+    "Second attack on the district in under a week",
+    "Saudi Press Agency reported 11 injured",
+    "Witnesses say Public Investment Fund tower was hit"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/24/saudi-led-coalition-condemns-terrorist-attack-on-tower-in-riyadh"
+    },
+    {
+     "name": "Gulf News",
+     "url": "https://gulfnews.com/world/mena/middle-east-conflict-us-investigates-iran-over-cyberattacks-on-50-ships-as-fresh-sanctions-target-irans-shadow-banking-network-1.500758688"
+    }
+   ],
+   "publishedAt": "2026-11-25T01:27:00+11:00",
+   "createdAt": "2026-11-25T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-25-ghalibaf-seven-conditions",
+   "batch": "2026-11-25",
+   "rank": 13,
+   "category": "World",
+   "title": "Iran's parliament speaker says no talks with US until seven conditions are met",
+   "summary": "Iranian Parliament Speaker Mohammad Bagher Ghalibaf, who is also the country's chief negotiator, said Iran would not negotiate with Washington until seven conditions were met, Gulf News reported on Tuesday. Reports said the conditions include lifting the US naval blockade.\n\nThe head of the Revolutionary Guards navy, Ali Ozmaei, separately warned vessels against using unauthorised routes through the Strait of Hormuz, according to Gulf News. The Iranian army said two oil tankers had caught fire after striking a mine and said they had not complied with Tehran's transit rules.",
+   "keyFacts": [
+    "Ghalibaf is Iran's chief negotiator",
+    "Conditions reportedly include lifting the US blockade",
+    "Iranian navy warned ships over Hormuz routes"
+   ],
+   "sources": [
+    {
+     "name": "Gulf News",
+     "url": "https://gulfnews.com/world/mena/middle-east-conflict-us-investigates-iran-over-cyberattacks-on-50-ships-as-fresh-sanctions-target-irans-shadow-banking-network-1.500758688"
+    }
+   ],
+   "publishedAt": "2026-11-24T17:50:00+11:00",
+   "createdAt": "2026-11-25T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-25-hamas-internal-security-chief-killed",
+   "batch": "2026-11-25",
+   "rank": 14,
+   "category": "World",
+   "title": "Israeli strike kills head of Hamas internal security in Gaza, officials say",
+   "summary": "An Israeli air strike in Gaza killed Brigadier General Naim Abu Nahl, director of Hamas's internal security apparatus, medics and police said, according to Al Jazeera. Gaza's interior ministry confirmed his death, and four others were wounded, Al Jazeera's correspondent reported.\n\nThe Israeli military and Shin Bet said in a joint statement they had struck a senior Hamas figure, and Israel's Kan broadcaster, citing Israeli sources, named him as the target. Reuters, cited by Al Jazeera, said the service pursues Palestinians suspected of collaborating with Israel. The strike comes during the ceasefire that began in October 2025, which both sides accuse each other of breaching.",
+   "keyFacts": [
+    "Abu Nahl led Hamas's internal security service",
+    "Israeli military and Shin Bet confirmed a strike",
+    "Four others were wounded, Al Jazeera reports"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strike-kills-senior-hamas-military-official-in-gaza"
+    }
+   ],
+   "publishedAt": "2026-11-25T00:55:00+11:00",
+   "createdAt": "2026-11-25T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-25-gaza-strikes-unrwa-worker",
+   "batch": "2026-11-25",
+   "rank": 15,
+   "category": "World",
+   "title": "Israeli strikes in Gaza kill at least three, including UNRWA worker, officials say",
+   "summary": "Israeli air strikes killed at least three people in Gaza, including a worker for the UN agency UNRWA, according to the agency and local health officials, AAP reported. Medics named the worker as Adel al-Helo, who was near a water well in the Jabalia refugee camp. Three others were wounded.\n\nAn UNRWA spokesperson said initial reports suggested the strike hit a target near a well staffed by agency workers. A separate strike on a vehicle in western Gaza City killed two people, medics said. The Israeli military said it was checking the UNRWA report and did not immediately comment on either strike.",
+   "keyFacts": [
+    "UNRWA worker killed near a well in Jabalia",
+    "Two killed in a separate strike on a vehicle",
+    "Israeli military said it was checking reports"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/three-killed-in-gaza-airstrikes-including-un-worker"
+    }
+   ],
+   "publishedAt": "2026-11-24T09:00:00+11:00",
+   "createdAt": "2026-11-25T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-25-omar-search-house-counsel",
+   "batch": "2026-11-25",
+   "rank": 16,
+   "category": "World",
+   "title": "House counsel disputes Justice Department account of search of Ilhan Omar's home",
+   "summary": "Court documents unsealed on Monday showed federal prosecutors told a court that the US House of Representatives' general counsel, Matthew Berry, declined to be involved in the October search of Representative Ilhan Omar's home, Al Jazeera reported. Berry called the Justice Department's claim that he agreed with its position categorically false.\n\nA magistrate judge ordered the department to let Omar assert constitutional protections over seized material, according to Al Jazeera. The administration is investigating Omar over alleged immigration fraud. Omar's lawyers have said the search was neither justified nor lawful, and Omar says she was naturalised in 2000. Her office did not respond to Al Jazeera.",
+   "keyFacts": [
+    "Documents were unsealed on Monday",
+    "Judge allowed Omar to assert protections over seized items",
+    "Omar's lawyers say the search was unlawful"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/24/us-house-counsel-denies-backing-controversial-raid-on-ilhan-omars-home"
+    }
+   ],
+   "publishedAt": "2026-11-25T06:15:00+11:00",
+   "createdAt": "2026-11-25T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-25-iowa-detonation-court-trump",
+   "batch": "2026-11-25",
+   "rank": 17,
+   "category": "Environment",
+   "title": "Appeals court lets Iowa lead azide detonation proceed; Trump says he ordered a hold",
+   "summary": "The US Court of Appeals for the Eighth Circuit denied an emergency bid by environmental groups to stop the Army detonating about 4.5 tonnes of lead azide at its Middletown, Iowa plant, lifting its earlier stay on Monday, ABC News (US) reported.\n\nPresident Donald Trump said on social media he had ordered the military to hold off until the court and incoming Governor Rob Sand agreed, and said he would hold Sand responsible for any harm if they did not. Sand said he deferred to the administration while calling for transparency. The Army said destroying the material in place was the only responsible option.",
+   "keyFacts": [
+    "Eighth Circuit lifted its administrative stay",
+    "Trump said he ordered the military to hold off",
+    "Army says on-site destruction is the only option"
+   ],
+   "sources": [
+    {
+     "name": "ABC News (US)",
+     "url": "https://abcnews.com/Politics/trump-ordered-military-hold-off-iowa-explosives-detonation/story?id=138384845"
+    }
+   ],
+   "publishedAt": "2026-11-24T13:35:00+11:00",
+   "createdAt": "2026-11-25T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-25-zaporizhzhia-strike-wounded",
+   "batch": "2026-11-25",
+   "rank": 18,
+   "category": "World",
+   "title": "Russian strike on Zaporizhzhia kills at least two and wounds more than 40, officials say",
+   "summary": "A Russian air strike on the Ukrainian city of Zaporizhzhia killed at least two people and wounded more than 40, including an infant, according to local officials cited by Al Jazeera on Tuesday.\n\nThe strike came as Ukraine said its attacks on a Russian warship and a cargo vessel off the coast of Libya were legitimate self-defence, Al Jazeera reported. Kyiv has claimed responsibility for the Libya attacks. Moscow has said it will respond to Ukrainian strikes on its oil refineries, according to Al Jazeera's coverage.",
+   "keyFacts": [
+    "At least two killed in Zaporizhzhia",
+    "More than 40 wounded, including an infant",
+    "Figures from local Ukrainian officials"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/24/russia-ukraine-war-live-kyiv-says-attack-on-ships-off-libya-self-delfence"
+    }
+   ],
+   "publishedAt": "2026-11-25T00:30:00+11:00",
+   "createdAt": "2026-11-25T06:55:00+11:00"
+  },
   {
    "id": "2026-11-24-duty-of-care-greens-deal",
    "batch": "2026-11-24-pm",
@@ -3058,295 +3444,6 @@
    "createdAt": "2026-11-19T17:47:45+11:00"
   },
   {
-   "id": "2026-11-18-quad-manila-minerals-exercise",
-   "batch": "2026-11-18",
-   "category": "World",
-   "title": "Quad leaders announce joint patrol exercise and critical minerals deals in Manila",
-   "summary": "Leaders of the US, Australia, India and Japan held their first leader-level Quad meeting in two years on the sidelines of the ASEAN summit in Manila on Tuesday, the ABC reported. Donald Trump announced a joint exercise involving maritime patrol aircraft and new critical minerals agreements, and the group pledged more than $US85 million to widen AI access among Indo-Pacific partners.\n\nTrump said the deals meant no nation would be exposed to coercion by a single supplier, without naming China, according to the ABC. Anthony Albanese said the exercise was not aimed at any one country. Albanese is due to travel to Shenzhen for APEC and is expected to meet Xi Jinping on Friday.",
-   "keyFacts": [
-    "First Quad leaders' meeting in two years",
-    "More than $US85 million pledged for AI access",
-    "Albanese expected to meet Xi on Friday"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-18/quad-meeting-india-japan-usa-anthony-albanese-donald-trump/107396716"
-    },
-    {
-     "name": "AP (via ABC7)",
-     "url": "https://abc7.com/story/trump-arrives-philippines-kick-off-asia-trip-economic-deals-talks-allies/20047637/"
-    }
-   ],
-   "publishedAt": "2026-11-18T00:59:00+11:00",
-   "createdAt": "2026-11-18T06:48:30+11:00",
-   "rank": 1
-  },
-  {
-   "id": "2026-11-18-board-of-peace-gaza-report",
-   "batch": "2026-11-18",
-   "category": "World",
-   "title": "Board of Peace tells UN Security Council the Gaza ceasefire is at risk of collapse",
-   "summary": "The Board of Peace overseeing the Gaza ceasefire delivered its first annual assessment to the UN Security Council on Tuesday, AP reported. The report said the gap between what was agreed and conditions on the ground was the main risk, and warned the truce could collapse without immediate action.\n\nAccording to AP, the report said Israel had not allowed a technocratic Palestinian administration to begin work in Gaza, delaying the deployment of an international stabilisation force. It also cited Israeli strikes, restrictions on aid and continuing Hamas activity, and said both Israel and Hamas must meet their commitments. AP did not report a response from either party.",
-   "keyFacts": [
-    "First annual report delivered to the UN Security Council",
-    "Report says Gaza administration has not started work",
-    "Both Israel and Hamas urged to meet commitments"
-   ],
-   "sources": [
-    {
-     "name": "AP (via WSOC-TV)",
-     "url": "https://www.wsoctv.com/news/world/board-peace-delivers/B3JWRJK74QZGLLMCH5CUGFDRVY/"
-    }
-   ],
-   "publishedAt": "2026-11-18T06:04:00+11:00",
-   "createdAt": "2026-11-18T06:48:30+11:00",
-   "rank": 2
-  },
-  {
-   "id": "2026-11-18-trump-arrives-manila-asean",
-   "batch": "2026-11-18",
-   "category": "World",
-   "title": "Trump arrives in Manila for ASEAN summit and talks with Marcos as protesters rally",
-   "summary": "Donald Trump arrived in Manila on Tuesday afternoon for his first visit to the Philippines in nine years, the first stop on a three-day Asia trip that includes China, AP and the Philippine News Agency reported. He landed as the ASEAN summit was closing and is due to attend an ASEAN-US special summit and meet President Ferdinand Marcos Jr on Wednesday.\n\nAP said Trump was scheduled to sign a trade deal with Thailand. About 1,500 left-wing protesters rallied against his visit and almost 23,000 police were deployed, according to AP. AAP reported protesters called for an end to the Middle East war and opposed the US-led Pax Silica technology initiative.",
-   "keyFacts": [
-    "Trump's first Philippines visit in nine years",
-    "Meeting with Marcos set for Wednesday",
-    "Nearly 23,000 police deployed, AP says"
-   ],
-   "sources": [
-    {
-     "name": "AP (via ABC7)",
-     "url": "https://abc7.com/story/trump-arrives-philippines-kick-off-asia-trip-economic-deals-talks-allies/20047637/"
-    },
-    {
-     "name": "Philippine News Agency",
-     "url": "https://www.pna.gov.ph/article/trump-in-ph-for-asean-summit-bilateral-meet-with-pbbm"
-    },
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/albanese-set-to-meet-trump-as-anger-spills-onto-streets"
-    }
-   ],
-   "publishedAt": "2026-11-17T20:37:00+11:00",
-   "createdAt": "2026-11-18T06:48:30+11:00",
-   "rank": 3
-  },
-  {
-   "id": "2026-11-18-qeshm-explosions-hormuz",
-   "batch": "2026-11-18",
-   "category": "World",
-   "title": "Iran reports US attacks on Qeshm island; LPG tanker struck again near Hormuz",
-   "summary": "Iranian state media said the US carried out several attacks on Qeshm island in the Strait of Hormuz on Tuesday evening, Reuters reported. A deputy provincial governor told IRNA the strikes caused no damage to homes, businesses or infrastructure, and that five to six explosions were heard. Reuters reported no US military comment on Qeshm.\n\nSeparately, the UK Maritime Trade Operations centre said the LPG tanker Tara Gas was struck again, and India's shipping minister said an Indian seafarer was missing, according to Gulf News. Iran's Revolutionary Guards claimed a drone attack on a US radar in Bahrain; US Central Command said drones aimed at Bahrain were intercepted and denied the radar was hit.",
-   "keyFacts": [
-    "Iran says US attacked Qeshm island",
-    "Tara Gas tanker struck again, UKMTO says",
-    "CENTCOM denies Iranian claim of radar hit"
-   ],
-   "sources": [
-    {
-     "name": "Reuters (via Arab News)",
-     "url": "https://www.arabnews.com/middle-east/us-attacks-irans-qeshm-island-in-strait-of-hormuz-official-3012499"
-    },
-    {
-     "name": "Gulf News",
-     "url": "https://gulfnews.com/world/mena/middle-east-conflict-tanker-incident-near-hormuz-as-vance-rules-out-forever-war-1.500749924"
-    }
-   ],
-   "publishedAt": "2026-11-18T00:31:00+11:00",
-   "createdAt": "2026-11-18T06:48:30+11:00",
-   "rank": 4
-  },
-  {
-   "id": "2026-11-18-gaza-six-killed-tuesday",
-   "batch": "2026-11-18",
-   "category": "World",
-   "title": "Gaza officials say six people killed by Israeli fire, including a six-year-old",
-   "summary": "Gaza's civil defence agency said six people were killed by Israeli fire across the territory on Tuesday, AFP reported. Nasser Hospital said two of the deaths were in Deir el-Balah, including a six-year-old boy, and the civil defence spokesman said two people died in a drone strike near Jabalia.\n\nThe Israeli military told AFP it had struck several militants and was not aware of a six-year-old being killed by its fire. According to an AFP tally based on Gaza health ministry figures, more than 1,600 people have been killed in Gaza since the October 2025 ceasefire took effect.",
-   "keyFacts": [
-    "Six deaths reported by Gaza civil defence",
-    "Israeli military says it struck militants",
-    "More than 1,600 killed since ceasefire, AFP tally says"
-   ],
-   "sources": [
-    {
-     "name": "AFP (via Arab News)",
-     "url": "https://www.arabnews.com/middle-east/gaza-officials-say-israeli-forces-killed-6-in-gaza-including-child-3012515"
-    }
-   ],
-   "publishedAt": "2026-11-18T02:56:00+11:00",
-   "createdAt": "2026-11-18T06:48:30+11:00",
-   "rank": 6
-  },
-  {
-   "id": "2026-11-18-super-emerging-assets-test",
-   "batch": "2026-11-18",
-   "category": "Economy",
-   "title": "Chalmers proposes letting super funds put 5 per cent into housing, energy and startups",
-   "summary": "Treasurer Jim Chalmers on Tuesday proposed changes to the superannuation performance test that would let funds invest up to 5 per cent of portfolios in \"emerging assets\" such as housing, renewable energy and venture capital, the ABC reported. Those investments would be measured against a benchmark of inflation plus a premium. Funds would not be required to use the option.\n\nChalmers said the changes could unlock up to $90 billion, according to the ABC. The Coalition and One Nation oppose the proposal, with Nationals MP Kevin Hogan saying it treats super like a piggy bank. The Association of Superannuation Funds of Australia welcomed it.",
-   "keyFacts": [
-    "Up to 5 per cent of portfolios in emerging assets",
-    "Chalmers says up to $90 billion could be unlocked",
-    "Coalition and One Nation oppose the change"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-17/chalmers-proposes-new-rules-for-super-funds/107396462"
-    }
-   ],
-   "publishedAt": "2026-11-17T22:30:00+11:00",
-   "createdAt": "2026-11-18T06:48:30+11:00",
-   "rank": 7
-  },
-  {
-   "id": "2026-11-18-wall-street-tuesday-ai-slide",
-   "batch": "2026-11-18",
-   "category": "Economy",
-   "title": "US shares fall again as Nvidia swings ahead of results; Dow down 779 points at midday",
-   "summary": "US shares fell in midday trading on Tuesday as Nvidia and other AI-linked stocks swung sharply, AP reported. The S&P 500 was down 1.1 per cent, the Dow Jones Industrial Average 779 points or 1.5 per cent, and the Nasdaq 1.2 per cent.\n\nNvidia fell as much as 3.7 per cent before trimming its loss to 1 per cent, according to AP. The company said it was creating a board committee on national security and trade compliance, and interim chief executive Colette Kress was due to report quarterly results after the close. Brent crude rose 1 per cent to $US93.36 a barrel, and South Korea's Kospi fell 2.6 per cent.",
-   "keyFacts": [
-    "S&P 500 down 1.1 per cent at midday",
-    "Nvidia forms national security board committee",
-    "Brent crude at $US93.36"
-   ],
-   "sources": [
-    {
-     "name": "AP (via KULR-8)",
-     "url": "https://www.kulr8.com/news/national/us-stocks-fall-again-as-ai-companies-keep-swinging/article_c1b656e5-92b6-5928-b40a-cce17b026c37.html"
-    }
-   ],
-   "publishedAt": "2026-11-18T03:43:00+11:00",
-   "createdAt": "2026-11-18T06:48:30+11:00",
-   "rank": 8
-  },
-  {
-   "id": "2026-11-18-huang-willing-to-return",
-   "batch": "2026-11-18",
-   "category": "Business",
-   "title": "Jensen Huang says he would return as Nvidia chief if the board wanted him",
-   "summary": "Former Nvidia chief executive Jensen Huang said in a statement he would return to the role if the board decided it was in shareholders' interests, the ABC reported. Huang resigned under pressure over a relationship with a woman suspected of spying for China, and said he had not lived up to expected standards.\n\nDonald Trump said he would not mind Huang returning, according to the ABC. Supporters said an open letter had more than 190,000 signatures. The ABC, citing Reuters and other agencies, reported the board was not considering his return; Nvidia had not commented officially. The House Foreign Affairs Committee said Huang agreed to answer questions on 1 December.",
-   "keyFacts": [
-    "Huang says he would return if board agreed",
-    "Board reportedly not considering his return",
-    "Huang to answer House committee questions on 1 December"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-18/ex-nvidia-ceo-jensen-huang-says-he-would-be-honoured-to-return/107397042"
-    }
-   ],
-   "publishedAt": "2026-11-18T04:35:00+11:00",
-   "createdAt": "2026-11-18T06:48:30+11:00",
-   "rank": 9
-  },
-  {
-   "id": "2026-11-18-gender-pay-gap-below-20",
-   "batch": "2026-11-18",
-   "category": "Australia",
-   "title": "National gender pay gap falls below 20 per cent for first time, WGEA data show",
-   "summary": "Australia's total remuneration gender pay gap fell to 19.7 per cent, below 20 per cent for the first time since the Workplace Gender Equality Agency began collecting the data, AAP reported. The agency's 2025\u201326 figures cover more than six million employees at 9,096 employers. Chief executive Christine Castley said the gap was 27.4 per cent in 2013.\n\nAccording to AAP, women earn about $27,000 a year less than men on average. The private sector gap fell from 21.1 to 20.3 per cent, while the public sector gap was 7.8 per cent. Women hold 24 per cent of chief executive roles. Castley called the result an important milestone.",
-   "keyFacts": [
-    "Total remuneration gap now 19.7 per cent",
-    "Private sector gap 20.3 per cent",
-    "Data cover more than six million employees"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/milestone-reached-australia-s-gender-pay-gap-shrinks"
-    }
-   ],
-   "publishedAt": "2026-11-18T05:00:00+11:00",
-   "createdAt": "2026-11-18T06:48:30+11:00",
-   "rank": 13
-  },
-  {
-   "id": "2026-11-18-asic-2027-priorities",
-   "batch": "2026-11-18",
-   "category": "Business",
-   "title": "ASIC to target cost-of-living harms in 2027 enforcement priorities",
-   "summary": "The Australian Securities and Investments Commission will focus its 2027 enforcement priorities on banks, insurers and superannuation companies, as well as suppliers that break pricing promises, AAP reported. Chair Sarah Court was due to outline the priorities in a speech on Wednesday.\n\nCourt said publishing the priorities allowed company boards to examine their own practices before the regulator intervened, according to AAP. ASIC warned last week of a rise in poor financial advice, including lead generation that steers people into high-risk super funds. AAP reported courts imposed $570 million in civil penalties in ASIC cases during 2026.",
-   "keyFacts": [
-    "Banks, insurers and super funds targeted",
-    "Chair Sarah Court speaking on Wednesday",
-    "$570 million in civil penalties in 2026"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/corporate-watchdog-targets-cost-of-living-rip-offs"
-    }
-   ],
-   "publishedAt": "2026-11-18T05:00:00+11:00",
-   "createdAt": "2026-11-18T06:48:30+11:00",
-   "rank": 14
-  },
-  {
-   "id": "2026-11-18-vic-early-voting-opens",
-   "batch": "2026-11-18",
-   "category": "Politics",
-   "title": "Early voting under way for Victorian election with record 4.7 million enrolled",
-   "summary": "More than 4.7 million Victorians are enrolled to vote in the 28 November state election, the largest number on record, the ABC reported. The Victorian Electoral Commission expects more than half of voters to cast ballots early for the first time, and early voting centres have risen from 150 in 2022 to more than 200.\n\nCommissioner Sven Bluemmel said about 300,000 more people would vote than in 2022, according to the ABC. Group voting tickets have been abolished for the upper house, where voters number at least five boxes above or below the line. Polls close at 6pm on election day, and Bluemmel said accuracy would come before speed.",
-   "keyFacts": [
-    "More than 4.7 million Victorians enrolled",
-    "Over 200 early voting centres",
-    "Group voting tickets abolished in upper house"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-18/logistics-behind-victoria-biggest-election-revealed/107355416"
-    }
-   ],
-   "publishedAt": "2026-11-18T05:26:00+11:00",
-   "createdAt": "2026-11-18T06:48:30+11:00",
-   "rank": 15
-  },
-  {
-   "id": "2026-11-18-bupa-clinic-medicare-billing",
-   "batch": "2026-11-18",
-   "category": "Health",
-   "title": "Bupa GP clinic email urged doctors to lift revenue through higher-paying Medicare items",
-   "summary": "An email from a Bupa-owned GP clinic told doctors to ensure revenue was increasing and encouraged more chronic condition management plans, which pay $160.60 compared with $87.10 for a standard consultation, the ABC reported. The ABC obtained the email, sent in June.\n\nBupa said the email was a reminder to consider preventive care and that patient needs always came first, according to the ABC. Royal Australian College of General Practitioners president Michael Wright said GPs should not be pressured over billing. The Department of Health is spending $147 million over four years on Medicare compliance.",
-   "keyFacts": [
-    "Email sent at one Bupa clinic in June",
-    "Chronic care plans pay $160.60",
-    "Bupa says patient needs come first"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-18/bupa-clinic-urged-gps-to-bill-costly-medicare-items-lift-revenue/106981358"
-    }
-   ],
-   "publishedAt": "2026-11-18T05:00:00+11:00",
-   "createdAt": "2026-11-18T06:48:30+11:00",
-   "rank": 17
-  },
-  {
-   "id": "2026-11-18-paraquat-inquiry-no-hearings",
-   "batch": "2026-11-18",
-   "category": "Politics",
-   "title": "Senate paraquat inquiry votes not to hold public hearings",
-   "summary": "The Senate rural and regional affairs committee examining the regulator's decision on the weedkiller paraquat will hold no public hearings, the ABC reported. Independent senator David Pocock's motion for hearings was defeated with votes from the major parties, and he alleged industry pressure.\n\nNationals senator Ross Cadell, the deputy chair, denied industry influence, according to the ABC. Parkinson's Australia criticised the decision and is appealing the Australian Pesticides and Veterinary Medicines Authority's June decision to the Administrative Review Tribunal. The APVMA said it did not accept that industry pressure shaped its decision.",
-   "keyFacts": [
-    "Pocock's motion for hearings defeated",
-    "Nationals deny industry influence",
-    "Parkinson's Australia appealing APVMA decision"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-18/senate-paraquat-inquiry-forgoes-public-hearing/107393820"
-    }
-   ],
-   "publishedAt": "2026-11-18T05:00:00+11:00",
-   "createdAt": "2026-11-18T06:48:30+11:00",
-   "rank": 18
-  },
-  {
    "id": "2026-11-18-wage-price-index-sep-qtr",
    "batch": "2026-11-18-pm",
    "rank": 1,
@@ -3464,35 +3561,6 @@
    "createdAt": "2026-11-18T17:50:57+11:00"
   },
   {
-   "id": "2026-11-18-knesset-speaker-kahana",
-   "batch": "2026-11-18-pm",
-   "rank": 6,
-   "category": "World",
-   "title": "Israel's new parliament elects speaker backed by Netanyahu's opponents",
-   "summary": "Israel's newly elected parliament has chosen a Knesset speaker backed by the bloc led by Gadi Eisenkot, replacing Amir Ohana, an ally of caretaker Prime Minister Benjamin Netanyahu, CNN and the ABC reported. Israel Hayom reported earlier that the bloc had agreed to nominate Matan Kahana for the post.\n\nCNN said the vote weakened Netanyahu's hold on parliament while coalition negotiations continue after the election. The speaker controls the parliamentary agenda, including the timing of votes. Netanyahu has called for a unity government with Eisenkot, citing the threat from Iran.",
-   "keyFacts": [
-    "Amir Ohana held the speakership in the previous Knesset",
-    "No new government has yet been formed",
-    "The speaker sets the Knesset's agenda"
-   ],
-   "sources": [
-    {
-     "name": "CNN",
-     "url": "https://edition.cnn.com/2026/11/17/middleeast/israel-knesset-speaker-netanyahu-intl"
-    },
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-18/eisenkot-bloc-replaces-netanyahu-ally-as-knesset-speaker/107397646"
-    },
-    {
-     "name": "Israel Hayom",
-     "url": "https://www.israelhayom.com/2026/11/10/change-bloc-agrees-to-name-matan-kahana-knesset-speaker/"
-    }
-   ],
-   "publishedAt": "2026-11-18T05:00:00+11:00",
-   "createdAt": "2026-11-18T17:50:57+11:00"
-  },
-  {
    "id": "2026-11-18-nvidia-results-no-huang-return",
    "batch": "2026-11-18-pm",
    "rank": 7,
@@ -3543,27 +3611,6 @@
    "createdAt": "2026-11-18T17:50:57+11:00"
   },
   {
-   "id": "2026-11-18-uk-sanctions-israeli-builders",
-   "batch": "2026-11-18-pm",
-   "rank": 9,
-   "category": "World",
-   "title": "UK sanctions eight Israeli construction firms over West Bank settlements",
-   "summary": "The UK has imposed asset freezes on eight Israeli construction companies over settlement building in the occupied West Bank, Al Jazeera reported, citing Reuters. Firms named include Har Hevron Development Company, Hemdat Shomron and SAG (Velvel) Construction and Development.\n\nThe UK also sanctioned the settler group Tzav 9, which it said repeatedly blocked aid trucks bound for Gaza. Foreign Secretary Ed Miliband told companies not to bid for or build settlement projects, according to the report. The measures came shortly before final tender deadlines for the E1 settlement project east of Jerusalem.",
-   "keyFacts": [
-    "Eight construction firms face asset freezes",
-    "Settler group Tzav 9 was also sanctioned",
-    "Israel's caretaker government is due to decide on E1 this week, the ABC reported"
-   ],
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/17/uk-sanctions-8-israeli-firms-over-occupied-west-bank-settlements-gaza-aid"
-    }
-   ],
-   "publishedAt": "2026-11-18T01:09:00+11:00",
-   "createdAt": "2026-11-18T17:50:57+11:00"
-  },
-  {
    "id": "2026-11-18-one-nation-refugee-cut",
    "batch": "2026-11-18-pm",
    "rank": 10,
@@ -3582,31 +3629,6 @@
     }
    ],
    "publishedAt": "2026-11-18T12:40:00+11:00",
-   "createdAt": "2026-11-18T17:50:57+11:00"
-  },
-  {
-   "id": "2026-11-18-nsa-network-outage",
-   "batch": "2026-11-18-pm",
-   "rank": 11,
-   "category": "Science & Tech",
-   "title": "NSA's classified internal network goes down; agency blames routine maintenance",
-   "summary": "The US National Security Agency's classified internal network, NSA Net, went offline on Tuesday, CBS News reported, citing multiple US officials. The agency staggered arrival times at its Fort Meade headquarters and shifted some work to other sites.\n\nAn NSA spokesperson said the network suffered temporary degradation during scheduled maintenance and that mission-critical capabilities remained operational, according to Al Jazeera. CBS said officials had seen no evidence of a cyberattack. President Donald Trump told reporters such things happen. The outage followed a Federal Aviation Administration ground stop and a Microsoft outage in recent days.",
-   "keyFacts": [
-    "The network is known internally as NSA Net",
-    "Officials said there was no sign of a cyberattack",
-    "How long the outage lasted was not reported"
-   ],
-   "sources": [
-    {
-     "name": "CBS News",
-     "url": "https://www.cbsnews.com/news/nsa-network-down-classified-fort-meade/"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/17/nsas-classified-internal-communications-network-reportedly-faces-outage"
-    }
-   ],
-   "publishedAt": "2026-11-18T04:35:00+11:00",
    "createdAt": "2026-11-18T17:50:57+11:00"
   },
   {
@@ -4382,30 +4404,188 @@
  ],
  "leftOut": [
   {
-   "id": "2026-11-24-lo-solomons-china-pact-report",
-   "batch": "2026-11-24-pm",
+   "id": "2026-11-25-lo-cpi-forecast",
+   "batch": "2026-11-25",
    "rank": 1,
-   "category": "Australia",
-   "title": "Solomon Islands to end China security pact and sign Australia treaty, report says",
-   "summary": "Solomon Islands has told China it will not renew their 2022 security agreement when it expires in April, the Sydney Morning Herald reported, citing unnamed sources, according to Reuters. The report said a comprehensive treaty with Australia was expected to be signed when Prime Minister Matthew Wale meets Anthony Albanese on Wednesday.\n\nNo official confirmed the report on the record. Reuters said China's foreign ministry, Australia's foreign affairs department and the Solomon Islands embassy in Canberra did not immediately respond to requests for comment. Solomon Islands agreed in June to begin negotiating a treaty with Australia, the ABC previously reported.",
+   "category": "Economy",
+   "title": "Economists forecast October inflation rise ahead of ABS release",
+   "summary": "NAB economists forecast annual headline inflation will rise from 4.3 per cent to 4.7 per cent when the Australian Bureau of Statistics releases October consumer price figures on Wednesday, AAP reported. They said higher fuel costs and the card surcharge ban that began on 1 October were the main drivers.\n\nNAB's Taylor Nugent said he expected October to be the peak. Treasurer Jim Chalmers told question time inflation would be higher than the government would like, citing oil prices in October, according to AAP. The official figures had not been released at the time of the report.",
    "keyFacts": [
-    "Report cites unnamed sources",
-    "2022 pact with China expires in April",
-    "Wale due to meet Albanese on Wednesday"
+    "NAB forecasts 4.7% annual headline inflation",
+    "ABS releases October figures on Wednesday",
+    "Chalmers says inflation will be higher than wanted"
    ],
    "sources": [
     {
-     "name": "Reuters (via Yahoo News)",
-     "url": "https://www.yahoo.com/news/articles/solomon-islands-plans-replace-china-044751902.html"
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/treasurer-looking-for-the-peak-in-ugly-inflation-figure"
+    }
+   ],
+   "publishedAt": "2026-11-24T20:00:00+11:00",
+   "createdAt": "2026-11-25T06:55:00+11:00",
+   "reason": "Not yet confirmed"
+  },
+  {
+   "id": "2026-11-25-lo-pm-science-prize",
+   "batch": "2026-11-25",
+   "rank": 2,
+   "category": "Science & Tech",
+   "title": "Melanoma researcher Georgina Long named joint winner of Prime Minister's Prize for Science",
+   "summary": "Professor Georgina Long, medical director of Melanoma Institute Australia, was named co-recipient of the 2026 Prime Minister's Prize for Science on Tuesday night, AAP and the ABC reported. AAP said her work with the late Richard Scolyer helped lift survival from advanced melanoma above 50 per cent.\n\nThe prize was shared with subatomic physicist Anthony Thomas, according to AAP. Other awards went to Mark Smythe, Asha Bowen, Malcolm Macintosh and Chris Matthews. Long told AAP that teachers help make curiosity part of life.",
+   "keyFacts": [
+    "Long is a joint winner of the top science prize",
+    "Prize shared with physicist Anthony Thomas",
+    "Awards announced on Tuesday night"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/top-scientist-wants-more-wonder-in-everyone-s-lives"
     },
     {
      "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-06-03/solomon-islands-china-security-pact-pacific-treaty-australia/106753784"
+     "url": "https://www.abc.net.au/news/2026-11-25/georgina-long-wins-the-prime-minister-prize-for-science/107423264"
     }
    ],
-   "publishedAt": "2026-11-24T15:47:00+11:00",
-   "createdAt": "2026-11-24T17:50:00+11:00",
-   "reason": "Not yet confirmed"
+   "publishedAt": "2026-11-25T00:07:00+11:00",
+   "createdAt": "2026-11-25T06:55:00+11:00",
+   "reason": "Ceremonial event"
+  },
+  {
+   "id": "2026-11-25-lo-anmer-hall-break-in",
+   "batch": "2026-11-25",
+   "rank": 3,
+   "category": "Other",
+   "title": "Two arrested after break-in at Prince William's Norfolk home",
+   "summary": "Norfolk police said two men were arrested on suspicion of burglary and trespass at a property on the Sandringham estate after reports of suspicious activity on Monday night, AAP reported. The property, Anmer Hall, was unoccupied and the family was not present.\n\nPolice used dogs, drones and a helicopter in the search, according to AAP. The two men were in custody on Tuesday and had not been charged. The Sun newspaper first reported the break-in. Anmer Hall is used by the Prince and Princess of Wales mainly for holidays.",
+   "keyFacts": [
+    "Two men arrested on suspicion of burglary",
+    "House was unoccupied at the time",
+    "No charges laid as of Tuesday"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/prince-william-s-country-home-broken-into-report"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-25/kate-william-prince-of-wales-break-in-anmer-hall/107423242"
+    }
+   ],
+   "publishedAt": "2026-11-25T05:00:00+11:00",
+   "createdAt": "2026-11-25T06:55:00+11:00",
+   "reason": "Celebrity"
+  },
+  {
+   "id": "2026-11-25-lo-vic-business-election",
+   "batch": "2026-11-25",
+   "rank": 4,
+   "category": "Politics",
+   "title": "Victorian business groups seek greater role with next state government",
+   "summary": "Victorian business groups told AAP they want a greater say in decisions after Saturday's state election. Victorian Chamber of Commerce and Industry chief executive Sally Curtain said business had been locked out of key decisions and called for clarity on the COVID debt payroll levy.\n\nTim Piper of the Victorian Congress of Employer Associations said businesses wanted to work closely with the next government. At a radio leaders' forum on Tuesday, Premier Ben Carroll defended the state's debt, while Opposition Leader Jess Wilson pointed to $26 billion in planned savings, according to AAP.",
+   "keyFacts": [
+    "Victorians vote on Saturday",
+    "Business groups seek more consultation",
+    "Coalition cites $26 billion in planned savings"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/business-leaders-eye-seat-at-the-table-after-election"
+    }
+   ],
+   "publishedAt": "2026-11-25T05:30:00+11:00",
+   "createdAt": "2026-11-25T06:55:00+11:00",
+   "reason": "Commentary"
+  },
+  {
+   "id": "2026-11-25-lo-lamarre-condon-jury",
+   "batch": "2026-11-25",
+   "rank": 5,
+   "category": "Other",
+   "title": "Jury to begin deliberations in Lamarre-Condon double murder trial",
+   "summary": "A NSW Supreme Court jury is due to be reduced from 15 to 12 members by ballot on Wednesday morning before beginning deliberations in the trial of former police officer Beau Lamarre-Condon, AAP reported. He has pleaded not guilty to murdering Jesse Baird and Luke Davies in Sydney in February 2024.\n\nProsecutors allege he planned the killing of Mr Baird and shot Mr Davies to remove a witness. Lamarre-Condon told the court he acted in self-defence and that the second death occurred during a struggle, according to AAP. Prosecutors rejected his offered manslaughter plea.",
+   "keyFacts": [
+    "Jury ballot set for Wednesday morning",
+    "Accused has pleaded not guilty to two murders",
+    "Trial has run for about 10 weeks"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/judgment-day-jury-to-weigh-up-lamarre-condon-verdicts"
+    }
+   ],
+   "publishedAt": "2026-11-24T19:30:00+11:00",
+   "createdAt": "2026-11-25T06:55:00+11:00",
+   "reason": "Local crime"
+  },
+  {
+   "id": "2026-11-25-lo-wa-custody-inquest",
+   "batch": "2026-11-25",
+   "rank": 6,
+   "category": "Australia",
+   "title": "Inquest hears evidence over Aboriginal man's death in Kalgoorlie prison",
+   "summary": "A coronial inquest in Perth into the death of Linton Phillip Ryan, 32, at Eastern Goldfields Regional Prison in April 2025 heard that a police constable made light of the man's suicide threat in a voice message, AAP reported. The inquest began on Monday.\n\nCounsel assisting told the inquest Ryan was moved to a cell without a scheduled mental health assessment, according to AAP. The inquest is examining whether he should have been taken to hospital and more closely observed. The evidence has not yet been the subject of findings.",
+   "keyFacts": [
+    "Inquest began in Perth on Monday",
+    "Ryan died in prison in April 2025",
+    "No findings have yet been made"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/constable-joked-after-aboriginal-man-died-in-custody"
+    }
+   ],
+   "publishedAt": "2026-11-24T15:00:00+11:00",
+   "createdAt": "2026-11-25T06:55:00+11:00",
+   "reason": "Local crime"
+  },
+  {
+   "id": "2026-11-25-lo-pacific-cop31-coalitions",
+   "batch": "2026-11-25",
+   "rank": 7,
+   "category": "Environment",
+   "title": "Pacific nations look to own coalitions after COP31 ends without deal",
+   "summary": "Pacific island nations are turning to their own climate coalitions after the COP31 talks in Turkey ended without an agreement, AAP reported. Tuvalu's climate minister Maina Talia said Tuvalu could not accept the outcome and that Tuvalu and Ireland would host a conference on moving away from fossil fuels next year.\n\nFiji's Lynda Tabuya said she was deeply disappointed but that responsibility lay with all parties, according to AAP. Talks president Chris Bowen said the disagreements had been insurmountable. The COP28 agreement on transitioning away from fossil fuels remains in place.",
+   "keyFacts": [
+    "COP31 ended without an agreement",
+    "Tuvalu and Ireland to host a fossil fuel conference",
+    "COP28 agreement remains in force"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/pacific-goes-it-alone-as-bowen-s-cop31-talks-collapse"
+    }
+   ],
+   "publishedAt": "2026-11-24T15:30:00+11:00",
+   "createdAt": "2026-11-25T06:55:00+11:00",
+   "reason": "Restatement, nothing new"
+  },
+  {
+   "id": "2026-11-25-lo-ukraine-libya-self-defence",
+   "batch": "2026-11-25",
+   "rank": 8,
+   "category": "World",
+   "title": "Ukraine says attacks on Russian ships off Libya were self-defence",
+   "summary": "Ukraine said its attacks on a Russian warship and a cargo vessel off the coast of Libya were legitimate acts of self-defence and that it was not extending the war, Al Jazeera reported on Tuesday. Kyiv has claimed responsibility for the attacks.\n\nRussia has said it will respond to Ukrainian attacks, including strikes on its oil refineries, according to Al Jazeera. Ukrainian security service footage released earlier showed a sea drone attacking the corvette near Benghazi, which has not been independently verified.",
+   "keyFacts": [
+    "Ukraine calls the Libya strikes self-defence",
+    "Kyiv has claimed responsibility",
+    "Russia says it will respond"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/24/russia-ukraine-war-live-kyiv-says-attack-on-ships-off-libya-self-delfence"
+    }
+   ],
+   "publishedAt": "2026-11-25T00:30:00+11:00",
+   "createdAt": "2026-11-25T06:55:00+11:00",
+   "reason": "Restatement, nothing new"
   },
   {
    "id": "2026-11-24-lo-western-sydney-first-international",
@@ -5288,28 +5468,6 @@
    "reason": "Local crime"
   },
   {
-   "id": "2026-11-21-lo-lisa-cook-refuses-hearing",
-   "batch": "2026-11-21-pm",
-   "rank": 15,
-   "category": "World",
-   "title": "Fed governor Lisa Cook refuses to attend White House hearing on her removal",
-   "summary": "US Federal Reserve Governor Lisa Cook will not take part in a White House hearing on whether to remove her unless the panel and its rules change, her lawyer Abbe Lowell said in a letter, The Washington Post reported. Lowell described the process as designed to hide a decision already made.\n\nThe hearing is set for 14 December. President Donald Trump alleges Cook claimed two homes as primary residences to obtain a better mortgage rate, which Cook has called an inadvertent oversight. A three-member committee will recommend whether there is cause to remove her. White House counsel Will Scharf disputed claims the committee had prejudged the issue.",
-   "keyFacts": [
-    "Hearing scheduled for 14 December",
-    "Cook's lawyer says the process is biased",
-    "Trump alleges mortgage misstatements; Cook denies wrongdoing"
-   ],
-   "sources": [
-    {
-     "name": "The Washington Post (via The Daily Record)",
-     "url": "https://thedailyrecord.com/2026/11/17/fed-governor-lisa-cook-refuses-white-house-firing-hearing/"
-    }
-   ],
-   "publishedAt": "2026-11-18T06:37:00+11:00",
-   "createdAt": "2026-11-21T17:50:00+11:00",
-   "reason": "Outside today's window"
-  },
-  {
    "id": "2026-11-21-lo-sydney-terror-charges",
    "batch": "2026-11-21",
    "rank": 1,
@@ -5928,28 +6086,6 @@
    "createdAt": "2026-11-19T17:47:45+11:00"
   },
   {
-   "id": "2026-11-18-lo-us-thailand-trade-deal",
-   "batch": "2026-11-18",
-   "category": "Economy",
-   "title": "Trump scheduled to sign trade deal with Thailand during Manila visit",
-   "summary": "Donald Trump was scheduled to sign a trade agreement with Thailand during his visit to Manila for the ASEAN summit, AP reported on Tuesday. Trump has said Thailand will eliminate tariffs on US exports under the deal.\n\nAP did not report details of the agreement or confirm that it had been signed. Trump is in Manila for an ASEAN-US special summit and talks with Philippine President Ferdinand Marcos Jr before travelling to China for the APEC meeting in Shenzhen.",
-   "keyFacts": [
-    "Signing scheduled during Manila visit",
-    "Terms not yet published",
-    "Trump travels on to APEC in China"
-   ],
-   "sources": [
-    {
-     "name": "AP (via ABC7)",
-     "url": "https://abc7.com/story/trump-arrives-philippines-kick-off-asia-trip-economic-deals-talks-allies/20047637/"
-    }
-   ],
-   "publishedAt": "2026-11-17T23:16:00+11:00",
-   "createdAt": "2026-11-18T06:48:30+11:00",
-   "reason": "Not yet confirmed",
-   "rank": 6
-  },
-  {
    "id": "2026-11-18-lo-trump-philippines-deal-claim",
    "batch": "2026-11-18-pm",
    "rank": 1,
@@ -6000,28 +6136,6 @@
    "publishedAt": "2026-11-18T10:38:00+11:00",
    "createdAt": "2026-11-18T17:50:57+11:00",
    "reason": "No new development"
-  },
-  {
-   "id": "2026-11-18-lo-albanese-lavrov-photo",
-   "batch": "2026-11-18-pm",
-   "rank": 3,
-   "category": "Politics",
-   "title": "Ukrainian community group criticises Albanese over summit photo with Lavrov",
-   "summary": "Prime Minister Anthony Albanese appeared alongside Russian Foreign Minister Sergei Lavrov in the East Asia Summit family photo in Manila on Tuesday, AAP reported. Kateryna Argyrou, who chairs the Australian Federation of Ukrainian Organisations, told AAP the image was deeply disappointing.\n\nAlbanese did not rule out appearing in a photo with Vladimir Putin at APEC in China, according to AAP. In his summit address, he condemned Russia's war against Ukraine as unprovoked and unjustified.",
-   "keyFacts": [
-    "The photo was taken at the East Asia Summit in Manila",
-    "Lavrov represented Russia at the summit",
-    "Albanese condemned the war in his address"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/albanese-s-family-photo-with-russian-foreign-minister"
-    }
-   ],
-   "publishedAt": "2026-11-18T01:40:00+11:00",
-   "createdAt": "2026-11-18T17:50:57+11:00",
-   "reason": "Commentary"
   },
   {
    "id": "2026-11-18-lo-austrac-criminal-economy-speech",
