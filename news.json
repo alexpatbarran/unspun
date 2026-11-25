@@ -1,6 +1,340 @@
 {
- "updatedAt": "2026-11-25T17:51:21+11:00",
+ "updatedAt": "2026-11-26T06:47:51+11:00",
  "articles": [
+  {
+   "id": "2026-11-26-blyth-defects-one-nation",
+   "batch": "2026-11-26",
+   "rank": 1,
+   "category": "Politics",
+   "title": "SA Liberal senator Leah Blyth quits shadow ministry to join One Nation",
+   "summary": "South Australian Liberal senator Leah Blyth has left the Coalition front bench and joined One Nation, AAP and the ABC reported on Thursday morning. She had been the opposition's defence infrastructure spokeswoman and is a former SA Liberal Party president.\n\nBlyth said she had lost confidence in the opposition's ability to deal with immigration, spending and energy, and that she could no longer tell voters the Liberal Party could \"save this country\", according to the ABC. The ABC reported it was understood she was unlikely to receive a winnable Senate spot at the next election. AAP said the move would give One Nation five Senate seats. AAP's report did not include a response from Opposition Leader Angus Taylor.",
+   "keyFacts": [
+    "Blyth was the Coalition's defence infrastructure spokeswoman",
+    "She becomes One Nation's first South Australian senator, the ABC says",
+    "AAP says One Nation will hold five Senate seats"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/liberal-senator-quits-shadow-cabinet-to-join-one-nation"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-26/federal-politics-live-blog-november-26/107427220"
+    }
+   ],
+   "publishedAt": "2026-11-26T06:24:00+11:00",
+   "createdAt": "2026-11-26T06:47:51+11:00"
+  },
+  {
+   "id": "2026-11-26-us-tariffs-14-economies-proposed",
+   "batch": "2026-11-26",
+   "rank": 2,
+   "category": "Economy",
+   "title": "US formally proposes new tariffs on 14 economies, including 20% extra on China",
+   "summary": "The US Trade Representative has proposed new tariffs on 14 trading partners after completing an eight-month Section 301 investigation into what it calls structural excess industrial capacity, Reuters reported. The step follows reports earlier this week that a proposal was expected; the final list covers China, the EU, India, Japan, South Korea, Vietnam, Taiwan and seven others.\n\nA senior US official said China would face a proposed extra 20 per cent, and that duties would not exceed caps in existing trade deals, Reuters reported. Officials said a comment period and hearing would follow, which could delay implementation to January. The ABC reported Australia is not among the countries affected. China has rejected the accusations, RTÉ reported.",
+   "keyFacts": [
+    "Section 301 probe covered 16 partners; 14 face proposed tariffs",
+    "China faces a proposed extra 20%, officials say",
+    "ABC reports Australia is not affected"
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via Yahoo Finance)",
+     "url": "https://ca.finance.yahoo.com/news/us-proposes-tariffs-14-trading-131528199.html"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-26/trump-new-tariffs-major-trading-partners/107425504"
+    },
+    {
+     "name": "RTÉ",
+     "url": "https://www.rte.ie/news/us/2026/1125/1600630-us-tariffs/"
+    }
+   ],
+   "publishedAt": "2026-11-26T00:15:00+11:00",
+   "createdAt": "2026-11-26T06:47:51+11:00"
+  },
+  {
+   "id": "2026-11-26-wall-street-ai-tariffs-slide",
+   "batch": "2026-11-26",
+   "rank": 3,
+   "category": "Economy",
+   "title": "Wall Street falls sharply as AI shares, inflation data and tariff plans weigh",
+   "summary": "US shares fell heavily on Wednesday, the last full session before Thanksgiving. By late morning in New York the Nasdaq Composite was down about 3.8 per cent and the S&P 500 about 2.5 per cent, Reuters reported, with Nvidia down more than 8 per cent and the Philadelphia semiconductor index down 7.3 per cent.\n\nAP reported that data released on Wednesday showed the PCE price index rose 3.8 per cent in the year to October, up from 3.6 per cent, while third-quarter growth was revised up to a 4.3 per cent annual rate. Reuters said the newly proposed US tariffs added to selling, and that the Nasdaq 100 briefly fell 20 per cent below its record close.",
+   "keyFacts": [
+    "Nasdaq down about 3.8% by late morning, Reuters says",
+    "US PCE inflation 3.8% in October, AP reports",
+    "Nvidia fell more than 8% after Monday's rebound"
+   ],
+   "sources": [
+    {
+     "name": "AP (via KOB 4)",
+     "url": "https://www.kob.com/ap-top-news/anxiety-over-the-ai-boom-inflation-and-tariffs-drag-wall-street-lower-and-the-sp-500-slumps-2-2/"
+    },
+    {
+     "name": "Reuters (via Korea Times)",
+     "url": "https://www.koreatimes.co.kr/world/20261126/nasdaq-sinks-about-4-as-ai-rout-fresh-trump-tariffs-spook-wall-st"
+    }
+   ],
+   "publishedAt": "2026-11-26T04:15:00+11:00",
+   "createdAt": "2026-11-26T06:47:51+11:00"
+  },
+  {
+   "id": "2026-11-26-iowa-lead-azide-detonated",
+   "batch": "2026-11-26",
+   "rank": 4,
+   "category": "World",
+   "title": "US Army detonates nearly five tonnes of lead azide at Iowa ammunition plant",
+   "summary": "The US Army carried out a controlled detonation of about five tons of degraded lead azide at the Iowa Army Ammunition Plant in Middletown on Wednesday morning, Iowa Public Radio and AP reported. The blast followed several delays and legal challenges by environmental groups, after a federal appeals court allowed it to proceed.\n\nAn Army general said surveillance showed all barrels had been removed. FEMA's administrator cited preliminary EPA data showing no detectable lead in the air, Iowa Public Radio reported. AP said the EPA took more than 1,200 samples beforehand and that residents within 20 miles were told to shelter in place. Governor-elect Rob Sand called for transparency, and Iowa's senators sought clearer information.",
+   "keyFacts": [
+    "About five tons, in 68 barrels, detonated on 25 November (US time)",
+    "EPA preliminary data showed no detectable airborne lead, FEMA says",
+    "Residents within 20 miles told to shelter in place"
+   ],
+   "sources": [
+    {
+     "name": "Iowa Public Radio",
+     "url": "https://www.iowapublicradio.org/ipr-news/2026-11-24/reynolds-iowa-lead-azide-detonation-army-ammunitions-plant-ernst-grassley-middletown"
+    },
+    {
+     "name": "AP (via PBS NewsHour)",
+     "url": "https://www.pbs.org/newshour/nation/live-updates-army-expected-to-detonate-stockpile-of-lead-azide-in-iowa"
+    },
+    {
+     "name": "Fox News",
+     "url": "https://www.foxnews.com/us/army-detonates-nearly-5-tons-lead-azide-iowa-ammunition-plant"
+    }
+   ],
+   "publishedAt": "2026-11-26T02:00:00+11:00",
+   "createdAt": "2026-11-26T06:47:51+11:00"
+  },
+  {
+   "id": "2026-11-26-fcc-spacex-orbital-data-centres",
+   "batch": "2026-11-26",
+   "rank": 5,
+   "category": "Science & Tech",
+   "title": "US regulator authorises SpaceX to deploy up to one million data centre satellites",
+   "summary": "The US Federal Communications Commission has authorised SpaceX to deploy up to one million satellites designed as orbital data centres, CNBC and the Lynnwood Times reported. SpaceX applied in January for the system, which it calls Starmind, to provide solar-powered computing in orbit.\n\nThe Lynnwood Times reported FCC chairman Brendan Carr said the agency was granting such an authorisation for the first time. According to the paper, the order requires the first satellite to be launched by November 2033 and the full constellation by 2040, or the licence lapses, and SpaceX must provide debris-mitigation details before operating above 600 kilometres. The FCC sought public comment on the application earlier this year.",
+   "keyFacts": [
+    "Authorisation covers up to one million satellites",
+    "Full deployment required by 2040, the Lynnwood Times reports",
+    "SpaceX applied in January 2026"
+   ],
+   "sources": [
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html"
+    },
+    {
+     "name": "Lynnwood Times",
+     "url": "https://lynnwoodtimes.com/2026/11/25/starmind/"
+    },
+    {
+     "name": "FCC public notice",
+     "url": "https://docs.fcc.gov/public/attachments/DA-26-113A1.txt"
+    }
+   ],
+   "publishedAt": "2026-11-26T06:09:00+11:00",
+   "createdAt": "2026-11-26T06:47:51+11:00"
+  },
+  {
+   "id": "2026-11-26-saudi-intercepts-ras-tanura-drones",
+   "batch": "2026-11-26",
+   "rank": 6,
+   "category": "World",
+   "title": "Saudi-led coalition says it destroyed four Houthi drones over Ras Tanura",
+   "summary": "The Saudi-led coalition said its air defences destroyed four drones over Ras Tanura, the site of a major oil terminal, on Wednesday morning, with no casualties in an initial assessment, Al Jazeera reported. Coalition spokesman Turki al-Maliki said a strike on the Houthi-held port of Hodeidah had targeted military capabilities and that targets in Saada and Amran were also destroyed.\n\nHouthi spokesman Yahya Saree had urged workers at Saudi Red Sea ports, including Jeddah, to evacuate and told shipping companies to withdraw vessels. The interceptions follow a Houthi drone strike on a Riyadh tower on Tuesday that Saudi authorities said injured at least 11 people.",
+   "keyFacts": [
+    "Four drones destroyed over Ras Tanura, coalition says",
+    "Coalition says it struck targets in Hodeidah, Saada and Amran",
+    "Houthis told Saudi port workers to evacuate"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/25/saudi-led-coalition-intercepts-houthi-attacks-after-hodeidah-strike"
+    }
+   ],
+   "publishedAt": "2026-11-25T19:23:00+11:00",
+   "createdAt": "2026-11-26T06:47:51+11:00"
+  },
+  {
+   "id": "2026-11-26-gaza-strike-north-security-chief-family",
+   "batch": "2026-11-26",
+   "rank": 7,
+   "category": "World",
+   "title": "Gaza ministry says Israeli strike killed northern security director and his family",
+   "summary": "Gaza's Interior Ministry said an Israeli air strike on a home in the Shati refugee camp at dawn on Wednesday killed Muhammad Majid Abu al-Awf, director of the Internal Security Service in northern Gaza, Al Jazeera reported. The ministry said his wife and two daughters, aged 15 and 13, were also killed.\n\nA source at al-Shifa Hospital confirmed four family members died, according to Al Jazeera. The strike came less than 24 hours after the service's director general, Naim Abu Nahal, was killed. Al Jazeera's report did not include comment from the Israeli military.",
+   "keyFacts": [
+    "Strike hit a home in Shati refugee camp, ministry says",
+    "Four members of one family killed, hospital source says",
+    "Follows killing of the service's director general a day earlier"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/25/israeli-strike-kills-hamas-official-his-wife-and-children"
+    }
+   ],
+   "publishedAt": "2026-11-25T22:24:00+11:00",
+   "createdAt": "2026-11-26T06:47:51+11:00"
+  },
+  {
+   "id": "2026-11-26-uk-russian-sabotage-warning",
+   "batch": "2026-11-26",
+   "rank": 8,
+   "category": "World",
+   "title": "UK warns firms supplying Ukraine they could be targets of Russian sabotage",
+   "summary": "Britain's Ministry of Defence and National Protective Security Authority warned that companies supporting military procurement or supplying Ukraine's armed forces could be targeted by Russian sabotage, Al Jazeera and Reuters reported. The warning said such activity typically used proxies and simple methods such as arson.\n\nSecurity Minister Dan Jarvis said recent sabotage attempts across Europe showed the seriousness of the threat. The ministry said it would hold closed briefings for infrastructure and defence sector leaders. Russia's embassy in London denied the claims, saying Russia had no plans or intention to attack the UK, and accused Ukraine of staging sabotage, which Kyiv has denied.",
+   "keyFacts": [
+    "Warning covers firms in defence supply and Ukraine support",
+    "Officials say proxies typically use methods such as arson",
+    "Russian embassy denies any plans to attack the UK"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/25/uk-warns-companies-of-potential-russian-sabotage-threat"
+    }
+   ],
+   "publishedAt": "2026-11-25T15:48:00+11:00",
+   "createdAt": "2026-11-26T06:47:51+11:00"
+  },
+  {
+   "id": "2026-11-26-zelenskyy-awaits-four-way-talks-date",
+   "batch": "2026-11-26",
+   "rank": 9,
+   "category": "World",
+   "title": "Zelenskyy says Ukraine is waiting for US to set date for four-way peace talks",
+   "summary": "Ukrainian President Volodymyr Zelenskyy said on Wednesday that Kyiv was waiting for the United States to set a date for the next round of negotiations, which he said should now include Europe, Ukrinform and Interfax-Ukraine reported. He made the comments after meeting Estonian Foreign Minister Margus Tsahkna in Kyiv.\n\nThe previous US-mediated round, involving Ukraine, the US and Russia, was held in Abu Dhabi on 10–11 November, Anadolu reported. Interfax-Ukraine said presidential office head Kyrylo Budanov had earlier suggested a four-party meeting could happen before Christmas. Russian presidential aide Yury Ushakov said no agreement had been reached on a meeting involving European representatives, according to Anadolu.",
+   "keyFacts": [
+    "Zelenskyy wants next round to include Europe",
+    "Last round held in Abu Dhabi on 10–11 November",
+    "Kremlin aide says no agreement yet on European participation"
+   ],
+   "sources": [
+    {
+     "name": "Ukrinform",
+     "url": "https://www.ukrinform.net/rubric-polytics/4188617-zelensky-waiting-for-us-to-set-date-for-next-round-of-peace-talks.html"
+    },
+    {
+     "name": "Interfax-Ukraine",
+     "url": "https://en.interfax.com.ua/news/general/1242417.html"
+    },
+    {
+     "name": "Anadolu (via A News)",
+     "url": "https://www.anews.com.tr/world/2026/11/25/zelenskyy-says-ukraine-waiting-for-us-to-set-date-for-new-round-of-peace-talks-with-russia"
+    }
+   ],
+   "publishedAt": "2026-11-26T03:38:00+11:00",
+   "createdAt": "2026-11-26T06:47:51+11:00"
+  },
+  {
+   "id": "2026-11-26-libyan-soldiers-die-benghazi-attack",
+   "batch": "2026-11-26",
+   "rank": 10,
+   "category": "World",
+   "title": "Two eastern Libyan officers die after Ukraine's drone attack on Russian ship",
+   "summary": "Two officers of the eastern-based Libyan National Army have died from wounds suffered in the drone attack near Benghazi port that Ukraine has claimed, the LNA said, according to Al Jazeera. The LNA named them as Al-Taher Abdullah al-Sadiq and Lieutenant Ali Mohammed al-Said, and said they died on Tuesday.\n\nPresident Volodymyr Zelenskyy has said seven Ukrainian naval drones sank a Russian corvette in the attack and that 10 people were injured. The LNA said it would retaliate at a time and place of its choosing. French Foreign Minister Jean-Noel Barrot said Ukraine was exercising its right to self-defence, Al Jazeera reported.",
+   "keyFacts": [
+    "LNA says two officers died of wounds on Tuesday",
+    "Zelenskyy says seven naval drones sank a Russian corvette",
+    "LNA says it will retaliate"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/25/two-libyan-soldiers-die-after-ukraine-attack-on-russian-vessel"
+    }
+   ],
+   "publishedAt": "2026-11-25T20:58:00+11:00",
+   "createdAt": "2026-11-26T06:47:51+11:00"
+  },
+  {
+   "id": "2026-11-26-indonesia-flooded-gold-mine",
+   "batch": "2026-11-26",
+   "rank": 11,
+   "category": "World",
+   "title": "26 workers trapped after river floods unlicensed gold mine in West Java",
+   "summary": "Rescuers are searching for workers trapped in an unlicensed open-pit gold mine in Bogor district, West Java, after a nearby river overflowed during heavy rain on Monday, Al Jazeera reported. West Java police spokesman Hendra Rochmawan said 26 people had yet to be evacuated.\n\nThe Jakarta search and rescue office said the workers were in a mine about 100 metres deep with narrow access, and that teams were monitoring water levels. The site is in the Pongkor area, about 60 kilometres south of Jakarta, where state miner Antam operates. Local media reported authorities had closed about 30 gold pits in another part of Bogor last week.",
+   "keyFacts": [
+    "Police say 26 people yet to be evacuated",
+    "Mine is about 100 metres deep, rescuers say",
+    "Flooding followed a river overflow on Monday"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/25/rescuers-search-for-dozens-trapped-in-flooded-indonesia-gold-mine"
+    }
+   ],
+   "publishedAt": "2026-11-25T19:08:00+11:00",
+   "createdAt": "2026-11-26T06:47:51+11:00"
+  },
+  {
+   "id": "2026-11-26-bangladesh-garment-wage-rise",
+   "batch": "2026-11-26",
+   "rank": 12,
+   "category": "Business",
+   "title": "Bangladesh wage board raises garment workers' minimum pay by 36%",
+   "summary": "Bangladesh's government-appointed garment wage board has agreed to raise the monthly minimum wage from 12,500 taka to 17,500 taka, about $US136, after weeks of protests, its chairman said on Wednesday, according to Al Jazeera. Protesters had sought 30,000 taka, and it was unclear whether they would accept the offer.\n\nLabour representative Babul Akhter said workers were not completely satisfied but the result was not entirely bad. The Bangladesh Garment Manufacturers and Exporters Association said the protests had cost the industry an estimated $US428 million. The new rate takes effect in December, with the higher pay due in January.",
+   "keyFacts": [
+    "Minimum wage rises from 12,500 to 17,500 taka a month",
+    "Protesters had sought 30,000 taka",
+    "Industry body puts protest cost at $US428 million"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/25/bangladesh-garment-workers-win-36-pay-rise-after-weeks-of-protest"
+    }
+   ],
+   "publishedAt": "2026-11-25T17:58:00+11:00",
+   "createdAt": "2026-11-26T06:47:51+11:00"
+  },
+  {
+   "id": "2026-11-26-who-cuba-fuel-blockade",
+   "batch": "2026-11-26",
+   "rank": 13,
+   "category": "Health",
+   "title": "WHO chief calls on US to lift fuel blockade on Cuba during Havana visit",
+   "summary": "World Health Organization Director-General Tedros Adhanom Ghebreyesus called for the US fuel blockade on Cuba to be lifted, saying on Tuesday during a three-day visit that sanctions were putting children's lives at risk, Al Jazeera reported. He said the WHO would contribute $US2 million for Cuba's immunisation program and medical equipment, and met President Miguel Diaz-Canel.\n\nTedros said Cuban life expectancy fell from 78.8 years in 2020 to 74.4 in 2025, the first decline since records began, figures that predate the blockade imposed in January. Washington says the measure aims at political change and that food and medicine exports are legally exempt.",
+   "keyFacts": [
+    "WHO pledges $US2 million for immunisation and equipment",
+    "Life expectancy fell to 74.4 years in 2025, Tedros says",
+    "US says food and medicine are exempt"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/25/who-chief-urges-end-to-us-fuel-blockade-on-cuba"
+    }
+   ],
+   "publishedAt": "2026-11-25T13:23:00+11:00",
+   "createdAt": "2026-11-26T06:47:51+11:00"
+  },
+  {
+   "id": "2026-11-26-drc-crp-rebels-withdraw-ituri",
+   "batch": "2026-11-26",
+   "rank": 14,
+   "category": "World",
+   "title": "Lubanga-led rebel group says it is withdrawing from areas near Congo's Bunia",
+   "summary": "The Convention for the Popular Revolution, led by convicted war criminal Thomas Lubanga, said on Tuesday it would halt its advance towards Bunia, capital of Congo's Ituri province, and withdraw from recently seized areas after days of fighting with government forces, Al Jazeera reported.\n\nThe group had captured Iga-Barriere, about 25 kilometres north of Bunia, a day earlier. It said the withdrawal followed talks mediated by Ugandan President Yoweri Museveni. The World Health Organization said on Sunday that fighting near a hospital in Ituri had forced health workers to evacuate, disrupting the Ebola response.",
+   "keyFacts": [
+    "Group says it will halt advance on Bunia",
+    "Iga-Barriere, 25 km north of Bunia, was seized a day earlier",
+    "Withdrawal follows talks mediated by Uganda's Museveni"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/24/rebel-group-retreats-in-dr-congo-after-heavy-clashes-with-government-forces"
+    }
+   ],
+   "publishedAt": "2026-11-25T10:39:00+11:00",
+   "createdAt": "2026-11-26T06:47:51+11:00"
+  },
   {
    "id": "2026-11-25-cpi-october-4-9",
    "batch": "2026-11-25-pm",
@@ -3917,31 +4251,6 @@
    "createdAt": "2026-11-19T17:47:45+11:00"
   },
   {
-   "id": "2026-11-19-xi-putin-shenzhen-talks",
-   "batch": "2026-11-19-pm",
-   "category": "World",
-   "title": "Xi and Putin hold talks in Shenzhen before meeting Trump",
-   "summary": "Chinese President Xi Jinping and Russian President Vladimir Putin held about two hours of talks in Shenzhen before the APEC summit, the BBC reported. Xi said the relationship was stable and the two countries would keep moving forward, according to the BBC.\n\nXinhua quoted Xi describing a constructive and stable strategic relationship based on respect and equality, the BBC said. Newsweek reported that Xi said the two countries must advance a multipolar world. Putin was greeted at the airport by senior official Cai Qi, while Xi personally greeted US President Donald Trump, according to Newsweek. No agreements from the talks were reported.",
-   "keyFacts": [
-    "Talks lasted about two hours, the BBC said",
-    "Held before Trump's arrival in Shenzhen",
-    "No agreements announced"
-   ],
-   "sources": [
-    {
-     "name": "BBC (via Yahoo News)",
-     "url": "https://www.yahoo.com/news/politics/articles/trump-shakes-hands-putin-xi-123931899.html"
-    },
-    {
-     "name": "Newsweek (via Yahoo News)",
-     "url": "https://www.yahoo.com/news/politics/articles/trump-putin-xi-meet-first-101506889.html"
-    }
-   ],
-   "publishedAt": "2026-11-18T23:39:00+11:00",
-   "rank": 7,
-   "createdAt": "2026-11-19T17:47:45+11:00"
-  },
-  {
    "id": "2026-11-19-port-of-darwin-landbridge",
    "batch": "2026-11-19-pm",
    "category": "Australia",
@@ -3985,27 +4294,6 @@
    ],
    "publishedAt": "2026-11-19T08:09:00+11:00",
    "rank": 9,
-   "createdAt": "2026-11-19T17:47:45+11:00"
-  },
-  {
-   "id": "2026-11-19-bupa-gp-clinics-closed",
-   "batch": "2026-11-19-pm",
-   "category": "Health",
-   "title": "Bupa closed two GP clinics months after buying them, ABC reports",
-   "summary": "Health insurer Bupa closed GP clinics in Belrose in Sydney and Southport on the Gold Coast shortly after buying them, and converted a Seaforth clinic into a mental health centre, the ABC reported. Bupa runs 33 medical clinics and has approval to buy 68 more from Partnered Health.\n\nBupa said the closures followed a review of local needs, staff were offered redeployment and a hotline was set up to transfer patients, according to the ABC. A former patient and a former receptionist said services declined after the takeover; Bupa rejected claims it neglected the Belrose clinic. RACGP president Michael Wright said practices would become more corporatised.",
-   "keyFacts": [
-    "Belrose clinic closed 15 months after purchase",
-    "Bupa has approval to buy 68 Partnered Health clinics",
-    "Bupa says patients were helped to transfer"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-19/health-insurer-bupa-shuts-some-gp-clinics-after-buying-up-chains/106982854"
-    }
-   ],
-   "publishedAt": "2026-11-19T06:00:00+11:00",
-   "rank": 10,
    "createdAt": "2026-11-19T17:47:45+11:00"
   },
   {
@@ -4070,345 +4358,6 @@
    "publishedAt": "2026-11-19T13:46:00+11:00",
    "rank": 13,
    "createdAt": "2026-11-19T17:47:45+11:00"
-  },
-  {
-   "id": "2026-11-19-gaza-central-ground-operation",
-   "batch": "2026-11-19",
-   "rank": 1,
-   "category": "World",
-   "title": "Israel sends tanks into central Gaza in first ground push since ceasefire",
-   "summary": "Israeli forces began a ground operation in central Gaza on Wednesday beyond the so-called Yellow Line, according to Al Jazeera and Euronews. The military said it was targeting Hamas infrastructure and acting to remove a threat to its troops. Tanks were reported east of Nuseirat camp and north of Bureij, and families fled parts of Nuseirat.\n\nHospital officials said three Palestinians were killed in the operation, Al Jazeera reported. Hamas called it a clear violation of the ceasefire. COGAT told aid groups to stay out of the area. An AFP tally based on Gaza health ministry figures puts deaths since the October 2025 ceasefire above 1,600; Israel says seven soldiers have been killed in that time.",
-   "keyFacts": [
-    "It is the first Israeli ground push since the ceasefire began",
-    "Hospital officials reported three people killed",
-    "Israel says it controls more than 60 per cent of Gaza"
-   ],
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/18/palestinians-flee-refugee-camp-as-israel-begins-operation-in-central-gaza"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/18/israeli-military-launches-new-operation-on-central-gaza-despite-ceasefire"
-    }
-   ],
-   "publishedAt": "2026-11-19T01:39:00+11:00",
-   "createdAt": "2026-11-19T06:52:35+11:00"
-  },
-  {
-   "id": "2026-11-19-peltola-wins-alaska-senate",
-   "batch": "2026-11-19",
-   "rank": 2,
-   "category": "Politics",
-   "title": "Democrat Mary Peltola defeats Senator Dan Sullivan in Alaska, AP reports",
-   "summary": "Democrat Mary Peltola has defeated two-term Republican Senator Dan Sullivan in Alaska, according to AP. It was the last US Senate race of the 2026 midterms to be decided. AP said the result gives Democrats a 56-44 majority in the Senate after they flipped nine Republican-held seats.\n\nPeltola said voters had sent a message that the status quo in Washington was not working for Alaska. AP said Sullivan's spokesperson did not respond to a request for comment. A federal judge dismissed a Justice Department lawsuit over the race, and the department has appealed, AP reported. Peltola led Sullivan 49.5 per cent to 41.4 per cent in the August primary.",
-   "keyFacts": [
-    "Alaska was the last undecided Senate race",
-    "Democrats will hold 56 of 100 Senate seats, AP said",
-    "The Justice Department is appealing the dismissal of its lawsuit"
-   ],
-   "sources": [
-    {
-     "name": "AP (via PBS NewsHour)",
-     "url": "https://www.pbs.org/newshour/politics/democrat-mary-peltola-wins-alaska-senate-seat-beating-republican-incumbent-dan-sullivan"
-    }
-   ],
-   "publishedAt": "2026-11-19T01:25:00+11:00",
-   "createdAt": "2026-11-19T06:52:35+11:00"
-  },
-  {
-   "id": "2026-11-19-trump-shenzhen-putin-bilateral",
-   "batch": "2026-11-19",
-   "rank": 3,
-   "category": "World",
-   "title": "Trump arrives in Shenzhen and plans separate meeting with Putin",
-   "summary": "US President Donald Trump arrived in Shenzhen for the APEC summit, where Chinese President Xi Jinping greeted him at the airport, Euronews reported. A first three-way meeting between Trump, Xi and Russian President Vladimir Putin is scheduled for Thursday.\n\nA US official told AP that Trump also plans a separate meeting with Putin on Thursday, their first talks since last year's Alaska summit; the timing was unclear. Trump said the joint meeting would cover limiting nuclear weapons and ending the war in Ukraine, AP reported. Trump also said he was very close to a deal on Ukraine and would not raise Taiwan himself, according to Euronews. Putin told a business forum that sanctions and tariffs had outlived their usefulness.",
-   "keyFacts": [
-    "The trilateral meeting is set for Thursday",
-    "A US official told AP of a separate Trump-Putin meeting",
-    "It would be their first talks since Alaska last year"
-   ],
-   "sources": [
-    {
-     "name": "AP (via PBS NewsHour)",
-     "url": "https://www.pbs.org/newshour/world/trump-plans-to-meet-separately-with-putin-on-his-china-trip-in-addition-to-their-3-way-talks-with-xi"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/18/trump-arrives-in-china-for-unprecedented-trilateral-encounter-with-xi-and-putin"
-    }
-   ],
-   "publishedAt": "2026-11-19T03:57:00+11:00",
-   "createdAt": "2026-11-19T06:52:35+11:00"
-  },
-  {
-   "id": "2026-11-19-xi-apec-free-trade-pledge",
-   "batch": "2026-11-19",
-   "rank": 4,
-   "category": "Economy",
-   "title": "Xi tells APEC business forum China will cut tariffs and widen market access",
-   "summary": "Chinese President Xi Jinping told business leaders at the APEC summit in Shenzhen that China supports free and open trade, according to Al Jazeera. He criticised unilateralism and protectionism, without naming the United States.\n\nXi said China would lower tariffs and expand market access in manufacturing and services, and would offer global companies a more stable and predictable environment, Al Jazeera reported. He said the World Trade Organization should remain at the centre of the trading system. An analyst quoted by Al Jazeera noted Xi did not mention US export controls or Nvidia. The speech came before Xi's meetings with US President Donald Trump and Russian President Vladimir Putin.",
-   "keyFacts": [
-    "Xi spoke at the APEC CEO summit in Shenzhen",
-    "He pledged lower tariffs and wider market access",
-    "He said the WTO should stay central to world trade"
-   ],
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/18/xis-pitch-for-free-trade-amid-trumps-global-trade-disruptions"
-    }
-   ],
-   "publishedAt": "2026-11-18T19:05:00+11:00",
-   "createdAt": "2026-11-19T06:52:35+11:00"
-  },
-  {
-   "id": "2026-11-19-jeffries-nominated-speaker",
-   "batch": "2026-11-19",
-   "rank": 5,
-   "category": "Politics",
-   "title": "House Democrats nominate Hakeem Jeffries as Speaker for new Congress",
-   "summary": "House Democrats have nominated Hakeem Jeffries for Speaker in a closed-door vote of 251 to 11, NPR and Al Jazeera reported. Jeffries ran unopposed. If elected by the full House on 3 January, he would be the first Black Speaker of the House.\n\nAl Jazeera said seven of the 11 members who voted against him were newly elected Democrats who cited unmet commitments on issues including Medicare for All and Gaza. NPR reported Democrats are set to control at least 257 seats in the new House. Jeffries said Democrats would deliver change. NPR said some Democrats have publicly questioned whether Chuck Schumer should remain Senate leader.",
-   "keyFacts": [
-    "The caucus vote was 251 to 11",
-    "The full House votes on 3 January",
-    "Democrats are set to hold at least 257 House seats, NPR said"
-   ],
-   "sources": [
-    {
-     "name": "NPR (via KPBS)",
-     "url": "https://www.kpbs.org/news/politics/2026/11/18/democrats-formally-nominate-hakeem-jeffries-for-speaker-of-the-house"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/18/hakeem-jeffries-becomes-first-black-nominee-for-us-house-speaker"
-    }
-   ],
-   "publishedAt": "2026-11-19T02:56:00+11:00",
-   "createdAt": "2026-11-19T06:52:35+11:00"
-  },
-  {
-   "id": "2026-11-19-overton-fda-nomination-withdrawn",
-   "batch": "2026-11-19",
-   "rank": 6,
-   "category": "Health",
-   "title": "White House withdraws Heidi Overton's nomination to lead the FDA",
-   "summary": "The White House has withdrawn Heidi Overton's nomination as commissioner of the US Food and Drug Administration, shortly before a Senate health committee vote, Drug Topics reported, citing The New York Times. Two people familiar with the decision said the White House concluded she lacked the votes, as she needed every Republican on the committee.\n\nCommittee chair Bill Cassidy disputed that, saying on social media he believed she would have advanced and that she had been abandoned. Overton was the third person put forward for the role since Marty Makary left in May. Her role in an August executive order on splitting the MMR vaccine had drawn scrutiny. It is unclear who will be nominated next.",
-   "keyFacts": [
-    "The withdrawal came before a scheduled committee vote",
-    "Senator Cassidy said she would have advanced",
-    "She was the third pick since Makary's May departure"
-   ],
-   "sources": [
-    {
-     "name": "Drug Topics",
-     "url": "https://www.drugtopics.com/view/white-house-withdraws-heidi-overton-s-nomination-as-fda-commissioner"
-    }
-   ],
-   "publishedAt": "2026-11-19T02:00:00+11:00",
-   "createdAt": "2026-11-19T06:52:35+11:00"
-  },
-  {
-   "id": "2026-11-19-fed-minutes-december-hike",
-   "batch": "2026-11-19",
-   "rank": 7,
-   "category": "Economy",
-   "title": "Fed minutes show nearly all officials expect a rate rise in December",
-   "summary": "Minutes of the US Federal Reserve's 27–28 October meeting show nearly all officials expected to raise interest rates by a quarter point in December, AP reported. Some officials supported a rise in October, and governors Lisa Cook and Beth Hammack dissented in favour of a higher rate.\n\nThe Fed held its benchmark rate at 3.9 per cent in October after raising it in September. AP said futures markets put the chance of a December rise near 95 per cent. Governor Christopher Waller told CNBC he backed a half-point rise, while New York Fed president John Williams argued against a move that large, according to AP.",
-   "keyFacts": [
-    "The minutes cover the 27–28 October meeting",
-    "Two governors dissented in favour of a rise",
-    "Markets priced a December rise at about 95 per cent, AP said"
-   ],
-   "sources": [
-    {
-     "name": "AP (via KSAT)",
-     "url": "https://www.ksat.com/business/2026/11/18/fed-minutes-higher-interest-rates-needed-in-december-as-inflation-worries-mount/"
-    }
-   ],
-   "publishedAt": "2026-11-19T06:09:00+11:00",
-   "createdAt": "2026-11-19T06:52:35+11:00"
-  },
-  {
-   "id": "2026-11-19-uk-inflation-october",
-   "batch": "2026-11-19",
-   "rank": 8,
-   "category": "Economy",
-   "title": "UK inflation rises to 3.6 per cent in October as fuel prices climb",
-   "summary": "UK consumer prices rose 3.6 per cent in the year to October, up from 3.5 per cent in September, the Office for National Statistics said. The CPIH measure, which includes owner-occupier housing costs, rose 3.7 per cent.\n\nThe ONS said transport, particularly motor fuel, made the largest upward contribution. Fuel prices were 33.2 per cent higher than a year earlier, the biggest annual rise since July 2022. Average diesel reached 199.5p a litre, the highest since records began in 1996. Core inflation, which excludes energy, food, alcohol and tobacco, was 2.8 per cent. Restaurants and hotels made the largest downward contribution.",
-   "keyFacts": [
-    "Annual CPI inflation was 3.6 per cent",
-    "Motor fuel prices rose 33.2 per cent over the year",
-    "Core inflation was 2.8 per cent"
-   ],
-   "sources": [
-    {
-     "name": "Office for National Statistics",
-     "url": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/october2026"
-    }
-   ],
-   "publishedAt": "2026-11-18T18:00:00+11:00",
-   "createdAt": "2026-11-19T06:52:35+11:00"
-  },
-  {
-   "id": "2026-11-19-us-venezuela-military-ties",
-   "batch": "2026-11-19",
-   "rank": 9,
-   "category": "World",
-   "title": "Hegseth says US and Venezuela have signed deal to restore military ties",
-   "summary": "US Defence Secretary Pete Hegseth said during a visit to Caracas that the United States and Venezuela had signed an agreement to re-establish military ties, covering areas from training to intelligence sharing, AP reported. The Pentagon did not release further details.\n\nHegseth described Venezuela as a compliant security partner since US forces captured Nicolás Maduro in January and praised cooperation with interim President Delcy Rodríguez, according to AP. Rodríguez said she hoped cooperation would reach the highest possible level. AP noted that her court-sanctioned term expired in July, she remains head of state, and no date has been set for a presidential election.",
-   "keyFacts": [
-    "The agreement covers training and intelligence sharing",
-    "The Pentagon gave no further details",
-    "No date is set for Venezuela's next presidential election"
-   ],
-   "sources": [
-    {
-     "name": "AP (via CP24)",
-     "url": "https://www.cp24.com/news/world/2026/11/18/hegseth-visiting-venezuela-says-the-nations-have-signed-a-deal-to-re-establish-military-ties/"
-    }
-   ],
-   "publishedAt": "2026-11-19T05:44:00+11:00",
-   "createdAt": "2026-11-19T06:52:35+11:00"
-  },
-  {
-   "id": "2026-11-19-anthropic-ipo-record-sale",
-   "batch": "2026-11-19",
-   "rank": 10,
-   "category": "Business",
-   "title": "Anthropic set to debut on Nasdaq after share sale of up to $US90 billion",
-   "summary": "AI company Anthropic is due to begin trading on Nasdaq on Thursday US time under the ticker ANT, CBS News reported. Its filing offers 825 million shares at $US70 to $US78, which would raise up to about $US64 billion, plus about $US26 billion from a private placement involving companies including Nvidia and Google.\n\nCity AM reported orders reached almost seven times the shares available and that pricing was expected on Wednesday evening, with bankers reportedly guiding to the top of the range. The expected valuation is about $US1.4 trillion. City AM said the company had an annualised revenue run rate of $US81 billion at the end of October and an operating loss of $US567 million in the September quarter.",
-   "keyFacts": [
-    "The offer covers 825 million shares",
-    "The price range is $US70 to $US78",
-    "The expected valuation is about $US1.4 trillion"
-   ],
-   "sources": [
-    {
-     "name": "CBS News",
-     "url": "https://www.cbsnews.com/news/anthropic-ipo-ai-boom-nasdaq-debut/"
-    },
-    {
-     "name": "City AM",
-     "url": "https://www.cityam.com/anthropic-set-for-record-ipo-despite-ai-stock-sell-off/"
-    }
-   ],
-   "publishedAt": "2026-11-19T03:28:00+11:00",
-   "createdAt": "2026-11-19T06:52:35+11:00"
-  },
-  {
-   "id": "2026-11-19-sudan-army-kordofan-un-drones",
-   "batch": "2026-11-19",
-   "rank": 11,
-   "category": "World",
-   "title": "Sudan's army advances in Kordofan as UN reports most civilian deaths from drones",
-   "summary": "Sudan's army has captured the town of Al Khuway and advanced to within about 60km of the RSF-held city of Al Nuhud in West Kordofan, The National reported, citing the conflict monitor ACLED. ACLED said the army and allies had retaken more than 30 towns and villages since early November.\n\nA UN report said more than 1,630 civilians were killed in drone strikes from January to October, about 73 per cent of 2,230 verified civilian deaths, according to The National. Kordofan accounted for more than two-thirds of casualties. A lawyers' group said an army air strike killed at least 13 people in Abu Qalb. Aid groups say the war has killed at least 59,000 people since April 2023.",
-   "keyFacts": [
-    "Drone strikes caused about 73 per cent of verified civilian deaths, the UN said",
-    "The army is about 60km from Al Nuhud",
-    "A lawyers' group blamed an army air strike for 13 deaths"
-   ],
-   "sources": [
-    {
-     "name": "The National",
-     "url": "https://www.thenationalnews.com/news/mena/2026/11/18/al-burhans-forces-push-towards-rsf-stronghold-as-un-warns-of-sudan-drone-toll/"
-    }
-   ],
-   "publishedAt": "2026-11-19T00:38:00+11:00",
-   "createdAt": "2026-11-19T06:52:35+11:00"
-  },
-  {
-   "id": "2026-11-19-tio-complaints-telstra-outage",
-   "batch": "2026-11-19",
-   "rank": 13,
-   "category": "Business",
-   "title": "Telstra outage drives 72 per cent rise in outage complaints to telco ombudsman",
-   "summary": "More than 13,000 Australians lodged complaints with the Telecommunications Industry Ombudsman in the September quarter, the ABC reported. A 12-hour Telstra outage on 8 July drove a 72 per cent rise in complaints that mentioned outages.\n\nTelcos paid $1.9 million in compensation to 2,267 people who complained, according to the ABC. FTI Consulting estimated the Telstra outage cost the economy $552 million. Consumer group ACCAN said the figures understated the problem and called for automatic compensation. Ombudsman Cynthia Gebert urged telcos to act quickly and fairly. Telstra said 99 per cent of complaints made directly to it had been resolved.",
-   "keyFacts": [
-    "More than 13,000 complaints were lodged in the quarter",
-    "Outage-related complaints rose 72 per cent",
-    "Telcos paid $1.9 million in compensation"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-19/telstra-outage-drives-surge-in-telco-outage-complaints/107400558"
-    }
-   ],
-   "publishedAt": "2026-11-19T00:03:00+11:00",
-   "createdAt": "2026-11-19T06:52:35+11:00"
-  },
-  {
-   "id": "2026-11-19-act-surgery-waitlist-whistleblower",
-   "batch": "2026-11-19",
-   "rank": 14,
-   "category": "Health",
-   "title": "Whistleblower alleges Canberra patients removed from surgery lists to cut wait times",
-   "summary": "Independent ACT MLA Thomas Emerson told the Legislative Assembly that a whistleblower alleged Canberra Health Services clerks were told to remove elective surgery patients who had waited more than 500 days, without consulting doctors, the ABC reported. The alleged aim was to improve average wait-time figures, and staff who refused were allegedly threatened.\n\nCanberra Health Services chief executive Janet Zagari called the allegations extremely disturbing and said no policy allowed removal without clinical review, according to the ABC. The service will commission an independent audit. Health Minister Marisa Paterson said the allegations were being treated with the utmost seriousness. The claims have not been tested.",
-   "keyFacts": [
-    "The allegations were raised during annual report hearings",
-    "They concern patients waiting more than 500 days",
-    "An independent audit will be commissioned"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-19/whistleblower-says-patients-removed-from-lists-to-improve-times/107400512"
-    }
-   ],
-   "publishedAt": "2026-11-19T06:35:00+11:00",
-   "createdAt": "2026-11-19T06:52:35+11:00"
-  },
-  {
-   "id": "2026-11-19-voyager-1-one-light-day",
-   "batch": "2026-11-19",
-   "rank": 15,
-   "category": "Science & Tech",
-   "title": "Voyager 1 reaches one light-day from Earth, 49 years after launch",
-   "summary": "NASA's Voyager 1 spacecraft was due to reach one light-day from Earth on 18 November, about 26 billion kilometres away, according to NASA and Space.com. At that distance a radio signal takes 24 hours to travel each way, so a command and its reply take two days.\n\nSpace.com said the milestone was expected at 10:16 GMT, or 9:16pm AEDT. Voyager 1 launched in September 1977 and in 2012 became the first human-made spacecraft to enter interstellar space, NASA said. It travels at about 61,000km/h. Its twin, Voyager 2, is expected to reach the same distance in November 2035, according to Space.com.",
-   "keyFacts": [
-    "One light-day is about 26 billion kilometres",
-    "Signals take 24 hours each way",
-    "Voyager 2 is expected to reach the mark in 2035"
-   ],
-   "sources": [
-    {
-     "name": "NASA",
-     "url": "https://svs.gsfc.nasa.gov/15120"
-    },
-    {
-     "name": "Space.com",
-     "url": "https://www.space.com/space-exploration/voyager/what-exactly-is-a-light-day-heres-what-voyager-1s-latest-milestone-means-for-the-interstellar-probe"
-    }
-   ],
-   "publishedAt": "2026-11-18T21:16:00+11:00",
-   "createdAt": "2026-11-19T06:52:35+11:00"
-  },
-  {
-   "id": "2026-11-19-rubio-outages-no-malign-actor",
-   "batch": "2026-11-19",
-   "rank": 18,
-   "category": "World",
-   "title": "Rubio says no evidence recent US outages were caused by a hostile actor",
-   "summary": "US Secretary of State Marco Rubio said there was zero evidence that recent outages affecting Microsoft, the Federal Aviation Administration, JPMorgan Chase and the National Security Agency were linked or caused by rival countries or criminals, AP reported.\n\nThe outages have disrupted US flights, business services and the NSA's classified internal network in recent days. The NSA has attributed its outage to routine maintenance, and Microsoft said its outage was caused by an earlier network capacity upgrade. Rubio made the comments while travelling with President Donald Trump in Asia, according to AP.",
-   "keyFacts": [
-    "Rubio cited outages at four organisations",
-    "He said there was no sign of a malign actor",
-    "The NSA blamed its outage on maintenance"
-   ],
-   "sources": [
-    {
-     "name": "AP (via PBS NewsHour)",
-     "url": "https://www.pbs.org/newshour/world/trump-plans-to-meet-separately-with-putin-on-his-china-trip-in-addition-to-their-3-way-talks-with-xi"
-    },
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/hours-long-microsoft-outage-hits-companies-governments"
-    }
-   ],
-   "publishedAt": "2026-11-19T03:57:00+11:00",
-   "createdAt": "2026-11-19T06:52:35+11:00"
   },
   {
    "id": "2026-11-22-kryvyi-rih-strike",
@@ -4731,6 +4680,182 @@
  ],
  "leftOut": [
   {
+   "id": "2026-11-26-lo-speers-inflation-week",
+   "batch": "2026-11-26",
+   "rank": 1,
+   "category": "Politics",
+   "title": "ABC analysis says inflation figures overshadowed government's legislative wins",
+   "summary": "An ABC analysis by David Speers argued that higher-than-expected inflation figures overshadowed a week in which Labor secured several end-of-year deals with the Greens. The piece noted the private health insurance rebate for over-65s will be wound back with pensioners exempted, and that discretionary trusts will face a minimum 30 per cent tax on distributions.\n\nSpeers wrote that headline inflation rose from 4.3 to 4.9 per cent, with fuel accounting for about half the increase, and that the Treasurer faces pressure before next month's mid-year budget update. The piece cited Newspoll showing Labor's primary vote at 27 per cent, down from 36 per cent a year earlier.",
+   "keyFacts": [
+    "Analysis piece by ABC's David Speers",
+    "Headline inflation rose to 4.9%",
+    "Newspoll has Labor's primary vote at 27%"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-26/inflation-numbers-ruin-governments-good-week/107424930"
+    }
+   ],
+   "publishedAt": "2026-11-26T05:00:00+11:00",
+   "createdAt": "2026-11-26T06:47:51+11:00",
+   "reason": "Commentary"
+  },
+  {
+   "id": "2026-11-26-lo-vic-upper-house-one-nation",
+   "batch": "2026-11-26",
+   "rank": 2,
+   "category": "Politics",
+   "title": "Analysts say Victoria's new upper house rules could boost One Nation",
+   "summary": "AAP reported that One Nation could gain significant influence in Victoria's upper house under new voting rules, even if it wins few lower house seats at Saturday's state election. The rules require voters to number at least five parties above the line or five candidates below it.\n\nOne Nation deputy leader Colleen Harkin named government spending, emissions reduction and First Nations recognition as areas the party could resist. Monash University's Zareh Ghazarian was quoted as expecting One Nation to win at least one seat in each of the eight regions. Animal Justice Party MP Georgie Purcell said the change could wipe out the crossbench.",
+   "keyFacts": [
+    "Voters must number at least five parties above the line",
+    "Academic expects One Nation seat in each of eight regions",
+    "Victorian election is on Saturday"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/upper-house-vote-change-could-hand-one-nation-power"
+    }
+   ],
+   "publishedAt": "2026-11-26T06:30:00+11:00",
+   "createdAt": "2026-11-26T06:47:51+11:00",
+   "reason": "Commentary"
+  },
+  {
+   "id": "2026-11-26-lo-pakistan-astronaut-docks",
+   "batch": "2026-11-26",
+   "rank": 3,
+   "category": "Science & Tech",
+   "title": "Pakistan's first astronaut boards China's Tiangong space station",
+   "summary": "Muhammad Zeeshan Ali became the first Pakistani in orbit and the first foreign astronaut to board China's Tiangong space station after the Shenzhou-24 crew docked early on Wednesday, Al Jazeera reported. He is expected to stay five to 10 days.\n\nPakistani Prime Minister Shehbaz Sharif described the mission as evidence of the friendship between Pakistan and China, while Chinese President Xi Jinping also said the joint mission reflected close ties between the two countries, according to Al Jazeera. The launch itself was reported on Wednesday.",
+   "keyFacts": [
+    "Ali docked with Tiangong early on Wednesday",
+    "Expected to stay five to 10 days",
+    "Launch was reported in an earlier update"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/25/pakistan-rejoices-as-countrys-first-astronaut-enters-orbit"
+    }
+   ],
+   "publishedAt": "2026-11-25T18:05:00+11:00",
+   "createdAt": "2026-11-26T06:47:51+11:00",
+   "reason": "Restatement, nothing new"
+  },
+  {
+   "id": "2026-11-26-lo-uk-muslim-students-survey",
+   "batch": "2026-11-26",
+   "rank": 4,
+   "category": "Other",
+   "title": "Survey finds 38% of Muslim students in UK report Islamophobia at university",
+   "summary": "A report by the Federation of Student Islamic Societies found 38 per cent of Muslim students in the UK said they had experienced Islamophobia at university, Al Jazeera reported. The survey covered 715 students at 63 universities.\n\nWomen were more likely to report being targeted than men, at 42 per cent compared with 34 per cent. Of those affected, 68 per cent said they did not feel able to report it. The federation has asked universities to adopt a definition of Islamophobia and the government to review its Prevent program, according to Al Jazeera.",
+   "keyFacts": [
+    "Survey of 715 students at 63 universities",
+    "38% report experiencing Islamophobia",
+    "68% of those affected did not feel able to report it"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/25/we-need-to-be-seen-over-a-third-of-uk-muslim-students-face-islamophobia"
+    }
+   ],
+   "publishedAt": "2026-11-25T21:05:00+11:00",
+   "createdAt": "2026-11-26T06:47:51+11:00",
+   "reason": "Human interest"
+  },
+  {
+   "id": "2026-11-26-lo-gaza-prisoners-held",
+   "batch": "2026-11-26",
+   "rank": 5,
+   "category": "World",
+   "title": "Feature examines Gaza prisoners held by Israel after completing sentences",
+   "summary": "An Al Jazeera feature examined the cases of Gaza prisoners who remain in Israeli custody after completing their sentences. It profiled Fadi Zughra, arrested in 2016 while fishing, who finished an eight-and-a-half-year sentence in early 2025 but is still detained.\n\nThe Palestinian Commission of Detainees and Ex-Detainees Affairs says 48 Gaza prisoners remain held after their sentences ended, and prisoner groups say Israel uses its 2002 Unlawful Combatants Law to detain them. The feature cited B'Tselem figures that 9,187 Palestinians were held on security grounds at the end of June 2026. The article did not include an Israeli response.",
+   "keyFacts": [
+    "Commission says 48 Gaza prisoners held past their sentences",
+    "Groups cite 2002 Unlawful Combatants Law",
+    "B'Tselem says 9,187 held on security grounds in June"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/25/sentences-served-but-gaza-prisoners-remain-behind-israeli-bars"
+    }
+   ],
+   "publishedAt": "2026-11-25T18:31:00+11:00",
+   "createdAt": "2026-11-26T06:47:51+11:00",
+   "reason": "Human interest"
+  },
+  {
+   "id": "2026-11-26-lo-turkey-helicopter-crash",
+   "batch": "2026-11-26",
+   "rank": 6,
+   "category": "World",
+   "title": "Turkish military helicopter crash near Eskisehir kills five crew",
+   "summary": "A Turkish Air Force AS-532 helicopter crashed shortly after taking off from Eskisehir on a training flight, killing all five crew members, Turkey's Ministry of National Defence said, according to Al Jazeera. The crash happened near Yorukakcayir village, about 15 kilometres west of the city centre.\n\nThe ministry said the wreckage had been reached but did not give a cause. Al Jazeera noted that an army Sikorsky S-70 crashed near Malatya on 12 November, killing four crew, and that no official explanation has been given for that crash.",
+   "keyFacts": [
+    "Five crew killed on a training flight, ministry says",
+    "Crash site about 15 km west of Eskisehir",
+    "No cause given"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/24/turkish-military-helicopter-crash-kills-five-in-western-turkiye"
+    }
+   ],
+   "publishedAt": "2026-11-25T06:52:00+11:00",
+   "createdAt": "2026-11-26T06:47:51+11:00",
+   "reason": "Outside today's window"
+  },
+  {
+   "id": "2026-11-26-lo-sa-zimbabwean-russia-fighter",
+   "batch": "2026-11-26",
+   "rank": 7,
+   "category": "World",
+   "title": "South African court gives suspended sentence to Zimbabwean who tried to fight for Russia",
+   "summary": "A South African court on Tuesday sentenced Zimbabwean man Tafadzwa Sithole to five years in prison, wholly suspended for five years, after he pleaded guilty to breaching the country's foreign military assistance law, Al Jazeera and AP reported.\n\nSithole was arrested at Johannesburg's OR Tambo airport on 8 November while trying to board a flight to Russia. He told the court he had agreed to fight for Russia for payment after applying online. He is due to be deported to Zimbabwe, and four other accused are negotiating plea deals, according to the report.",
+   "keyFacts": [
+    "Five-year sentence suspended for five years",
+    "Arrested at OR Tambo airport on 8 November",
+    "Four other accused negotiating plea deals"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/24/south-africa-convicts-zimbabwean-who-tried-to-fight-ukraine-for-russia"
+    }
+   ],
+   "publishedAt": "2026-11-25T10:29:00+11:00",
+   "createdAt": "2026-11-26T06:47:51+11:00",
+   "reason": "Outside today's window"
+  },
+  {
+   "id": "2026-11-26-lo-dadam-israel-dossier",
+   "batch": "2026-11-26",
+   "rank": 8,
+   "category": "Politics",
+   "title": "NSW MP named in Israeli government dossier criticises response to his complaint",
+   "summary": "NSW Labor MP Anthony D'Adam, who was named in a September 2025 Israeli Ministry of Diaspora Affairs dossier alongside senators Lidia Thorpe and Mehreen Faruqi, said authorities had downplayed his concerns, AAP reported.\n\nD'Adam wrote to Home Affairs Minister Tony Burke in January, and his complaint was referred to the Counter Foreign Interference Taskforce. He described a reply received in November as dismissive and said the dossier had a chilling effect. AAP said ASIO, the AFP and the Israeli embassy were contacted for comment; their responses were not included in the report.",
+   "keyFacts": [
+    "D'Adam named in a 2025 Israeli ministry dossier",
+    "Complaint referred to foreign interference taskforce",
+    "ASIO, AFP and Israeli embassy contacted for comment"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/mp-named-in-israel-report-slams-foreign-threat-downplay"
+    }
+   ],
+   "publishedAt": "2026-11-24T15:00:00+11:00",
+   "createdAt": "2026-11-26T06:47:51+11:00",
+   "reason": "Outside today's window"
+  },
+  {
    "id": "2026-11-25-lo-lamarre-condon-guilty",
    "batch": "2026-11-25-pm",
    "rank": 1,
@@ -4795,190 +4920,6 @@
    "publishedAt": "2026-11-25T14:32:00+11:00",
    "createdAt": "2026-11-25T17:51:21+11:00",
    "reason": "Commentary"
-  },
-  {
-   "id": "2026-11-25-lo-uss-colorado-aukus",
-   "batch": "2026-11-25-pm",
-   "rank": 4,
-   "category": "Australia",
-   "title": "USS Colorado named first US submarine for AUKUS rotational force in WA",
-   "summary": "The Pentagon announced in October that the Hawaii-based USS Colorado, a Virginia-class attack submarine, will be the first vessel assigned to Submarine Rotational Force-West at HMAS Stirling near Perth, Stars and Stripes reported. The rotation is due to begin next year.\n\nThe force is projected to host up to four US submarines and one British submarine. A joint statement from the three AUKUS partners called it a significant milestone, according to Stars and Stripes.",
-   "keyFacts": [
-    "Announced on 26 October, US time",
-    "Based at HMAS Stirling near Perth",
-    "Up to four US and one UK submarine"
-   ],
-   "sources": [
-    {
-     "name": "Stars and Stripes",
-     "url": "https://www.stripes.com/theaters/asia_pacific/2026-10-27/uss-colorado-submarine-australia-aukus-23273374.html"
-    }
-   ],
-   "publishedAt": "2026-10-27T10:00:00+11:00",
-   "createdAt": "2026-11-25T17:51:21+11:00",
-   "reason": "Outside today's window"
-  },
-  {
-   "id": "2026-11-25-lo-uk-everyday-fixes",
-   "batch": "2026-11-25-pm",
-   "rank": 5,
-   "category": "World",
-   "title": "UK Chancellor John Healey announced 'everyday fixes' package before October Budget",
-   "summary": "UK Chancellor John Healey announced five cost-of-living measures on 26 October ahead of the Budget, according to an HM Treasury release. They included tariff cuts on more than 100 products, which the Treasury said could save households up to £21 a year on food, and changes to business mileage rates.\n\nThe package also ended the Carer's Allowance earnings cliff edge with a taper and extended parental pay to more than 150,000 additional parents a year, the Treasury and ITV News reported.",
-   "keyFacts": [
-    "Announced 26 October",
-    "Tariffs cut on more than 100 products",
-    "Carer's Allowance cliff edge replaced with taper"
-   ],
-   "sources": [
-    {
-     "name": "HM Treasury",
-     "url": "https://www.gov.uk/government/news/everyday-fixes-to-make-life-easier-for-millions-of-britons"
-    },
-    {
-     "name": "ITV News",
-     "url": "https://itv.com/news/2026-10-27/pm-promises-end-of-carers-cliff-edge-in-cost-of-living-package-on-budget-eve"
-    }
-   ],
-   "publishedAt": "2026-10-27T11:00:00+11:00",
-   "createdAt": "2026-11-25T17:51:21+11:00",
-   "reason": "Outside today's window"
-  },
-  {
-   "id": "2026-11-25-lo-oleshky-evacuations",
-   "batch": "2026-11-25-pm",
-   "rank": 6,
-   "category": "World",
-   "title": "Melania Trump says nearly 800 evacuated during Oleshky ceasefire",
-   "summary": "US first lady Melania Trump said nearly 800 people were evacuated from the Russian-occupied town of Oleshky in Ukraine's Kherson region during a localised ceasefire, Ukrainska Pravda reported on 2 November. The ceasefire ran from 27 October to 1 November.\n\nUkraine's human rights commissioner Dmytro Lubinets said evacuees ranged in age from just over one to 94. Ukraine's General Staff said Russian forces used the pause to rotate units, according to the report.",
-   "keyFacts": [
-    "Ceasefire ran 27 October to 1 November",
-    "Nearly 800 evacuated, Melania Trump says",
-    "Ukraine says Russia rotated units during pause"
-   ],
-   "sources": [
-    {
-     "name": "Ukrainska Pravda",
-     "url": "https://www.pravda.com.ua/eng/news/2026/11/02/8060804/"
-    },
-    {
-     "name": "The White House",
-     "url": "https://whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-secures-ceasefire-between-russia-and-ukraine-localized-to-oleshky"
-    }
-   ],
-   "publishedAt": "2026-11-02T17:32:00+11:00",
-   "createdAt": "2026-11-25T17:51:21+11:00",
-   "reason": "Outside today's window"
-  },
-  {
-   "id": "2026-11-25-lo-raskin-russian-diesel",
-   "batch": "2026-11-25-pm",
-   "rank": 7,
-   "category": "World",
-   "title": "Raskin warns US fuel industry that Russian diesel imports may breach federal law",
-   "summary": "US Representative Jamie Raskin, the senior Democrat on the House Judiciary Committee, wrote to oil industry groups on 26 October warning that importing Russian diesel under a deal agreed by President Donald Trump could breach a statutory import ban, United24 Media reported.\n\nRaskin said an OFAC licence could not override the law and that penalties could include fines of up to $US1 million and up to 20 years in prison. The letters went to the American Petroleum Institute, the US Chamber of Commerce and fuel manufacturers, according to the report.",
-   "keyFacts": [
-    "Letters sent on 26 October",
-    "Says licence cannot override import ban",
-    "Cites penalties of up to 20 years"
-   ],
-   "sources": [
-    {
-     "name": "United24 Media",
-     "url": "https://united24media.com/world/trump-struck-a-russian-diesel-deal-but-us-buyers-could-still-face-20-years-in-prison-23831"
-    }
-   ],
-   "publishedAt": "2026-10-27T21:55:00+11:00",
-   "createdAt": "2026-11-25T17:51:21+11:00",
-   "reason": "Outside today's window"
-  },
-  {
-   "id": "2026-11-25-lo-newsom-dsa-video",
-   "batch": "2026-11-25-pm",
-   "rank": 8,
-   "category": "World",
-   "title": "Newsom says in undercover video that DSA will be a major force in 2028",
-   "summary": "California Governor Gavin Newsom told an undercover journalist that the Democratic Socialists of America would become a major force in the Democratic Party by 2028, according to a video obtained by Townhall and reported by The National News Desk in October.\n\nNewsom described it as a mainstream democratic movement. In a separate interview with PBS NewsHour, he said ideas associated with the DSA should be incorporated into the Democratic platform, according to the report.",
-   "keyFacts": [
-    "Video obtained by Townhall",
-    "Newsom calls DSA a mainstream movement",
-    "Reported on 27 October"
-   ],
-   "sources": [
-    {
-     "name": "The National News Desk (via KATU)",
-     "url": "https://katu.com/news/nation-world/california-gov-gavin-newsom-says-the-dsa-will-be-a-major-force-in-the-2028-election-kamala-harris-alexandria-ocasio-cortez"
-    }
-   ],
-   "publishedAt": "2026-10-28T09:00:00+11:00",
-   "createdAt": "2026-11-25T17:51:21+11:00",
-   "reason": "Outside today's window"
-  },
-  {
-   "id": "2026-11-25-lo-neil-young-lawsuit",
-   "batch": "2026-11-25-pm",
-   "rank": 9,
-   "category": "Other",
-   "title": "Neil Young sues Trump PAC for $US10 million over use of his song",
-   "summary": "Musician Neil Young has sued the Trump 47 Committee political action committee for $US10 million over the playing of Rockin' in the Free World before an October rally in Youngstown, Ohio, Courthouse News Service reported.\n\nYoung said the use breached a 2020 settlement requiring a licence and is seeking an injunction. He said the song stood for the opposite of what Trump stands for. The committee did not respond to a request for comment, according to the report.",
-   "keyFacts": [
-    "Suit seeks $US10 million and an injunction",
-    "Concerns 12 October rally in Youngstown",
-    "Alleges breach of 2020 settlement"
-   ],
-   "sources": [
-    {
-     "name": "Courthouse News Service",
-     "url": "https://www.courthousenews.com/rocker-neil-young-sues-trump-for-10-million-over-use-of-his-song/"
-    }
-   ],
-   "publishedAt": "2026-10-28T08:00:00+11:00",
-   "createdAt": "2026-11-25T17:51:21+11:00",
-   "reason": "Entertainment"
-  },
-  {
-   "id": "2026-11-25-lo-nc-candidate-standoff",
-   "batch": "2026-11-25-pm",
-   "rank": 10,
-   "category": "World",
-   "title": "North Carolina Libertarian state Senate candidate arrested after standoff with police",
-   "summary": "Libertarian North Carolina state Senate candidate Jonathan D. Miller was arrested in October after an hours-long armed standoff with police in Cary, Fox News reported. The standoff followed a welfare check and took place near a school.\n\nMiller posted on social media during the standoff. Police cited a warrant for possession of a firearm by a felon, and no shots were fired, according to Fox News. Former Libertarian presidential candidate Chase Oliver urged him to surrender.",
-   "keyFacts": [
-    "Standoff followed a welfare check",
-    "Police cited firearm possession warrant",
-    "No shots fired"
-   ],
-   "sources": [
-    {
-     "name": "Fox News",
-     "url": "https://www.foxnews.com/politics/armed-senate-hopeful-triggers-police-manhunt-near-grade-school-alarming-tweets-go-viral"
-    }
-   ],
-   "publishedAt": "2026-10-28T03:26:00+11:00",
-   "createdAt": "2026-11-25T17:51:21+11:00",
-   "reason": "Local crime"
-  },
-  {
-   "id": "2026-11-25-lo-trump-heckled-mississippi",
-   "batch": "2026-11-25-pm",
-   "rank": 11,
-   "category": "World",
-   "title": "Protester interrupts Trump rally in Mississippi over White House ballroom",
-   "summary": "A protester shouted at President Donald Trump about the White House ballroom construction during a rally in Corinth, Mississippi, held in support of Senator Cindy Hyde-Smith, Mediaite reported in October.\n\nTrump told the protester to go home and claimed, without giving evidence, that protesters were paid and linked them to George Soros. The protester was escorted out of the venue by security, according to reports of the event. Mediaite cited polling showing more Americans were dissatisfied than satisfied with the renovations.",
-   "keyFacts": [
-    "Rally held in Corinth, Mississippi",
-    "Supported Senator Cindy Hyde-Smith",
-    "Protester removed from venue"
-   ],
-   "sources": [
-    {
-     "name": "Mediaite",
-     "url": "https://mediaite.com/politics/trump/heckler-screams-at-trump-shove-that-ballroom-up-your-a"
-    }
-   ],
-   "publishedAt": "2026-10-27T12:00:00+11:00",
-   "createdAt": "2026-11-25T17:51:21+11:00",
-   "reason": "Human interest"
   },
   {
    "id": "2026-11-25-lo-cpi-forecast",
@@ -6089,32 +6030,6 @@
    "reason": "Outside today's window"
   },
   {
-   "id": "2026-11-21-lo-senegal-pastef-expels-faye",
-   "batch": "2026-11-21",
-   "rank": 3,
-   "category": "World",
-   "title": "Senegal's ruling party expels President Faye and 31 other members",
-   "summary": "Senegal's ruling Pastef party has expelled President Bassirou Diomaye Faye and 31 other members it described as inactive, Africanews reported, citing agencies. The move follows a months-long dispute between Faye and party leader Ousmane Sonko.\n\nFaye dismissed Sonko as prime minister in May 2026, and Sonko is now speaker of the National Assembly, according to Africanews and Channel Africa. Faye launched his own party in July. Pastef holds 130 of the Assembly's 165 seats, while Faye's party holds none. Africanews said the deadlock could put IMF support and new 2027 budget spending at risk.",
-   "keyFacts": [
-    "Faye and 31 others expelled from Pastef",
-    "Pastef holds 130 of 165 Assembly seats",
-    "Sonko is now National Assembly speaker"
-   ],
-   "sources": [
-    {
-     "name": "Africanews",
-     "url": "https://www.africanews.com/2026/11/18/senegals-ruling-party-pastef-expels-countrys-president-and-31-others/"
-    },
-    {
-     "name": "Channel Africa",
-     "url": "https://www.channelafrica.co.za/channelafrica/news/senegals-ruling-party-expels-president-faye/"
-    }
-   ],
-   "publishedAt": "2026-11-19T00:04:00+11:00",
-   "createdAt": "2026-11-21T06:50:59+11:00",
-   "reason": "Outside today's window"
-  },
-  {
    "id": "2026-11-21-lo-somalia-expels-uae-envoy",
    "batch": "2026-11-21",
    "rank": 4,
@@ -6183,28 +6098,6 @@
    "publishedAt": "2026-11-20T03:00:00+11:00",
    "createdAt": "2026-11-21T06:50:59+11:00",
    "reason": "Outside today's window"
-  },
-  {
-   "id": "2026-11-21-lo-ecb-presidency-deal",
-   "batch": "2026-11-21",
-   "rank": 7,
-   "category": "Economy",
-   "title": "France and Germany reported to agree deal backing Spain's de Cos for ECB",
-   "summary": "France and Germany have reportedly reached a deal that would give the European Central Bank presidency to Spain's Pablo Hernández de Cos, Eunews reported. Under the reported arrangement, Germany would take the chief economist role and France the head of market operations.\n\nEunews said Reuters reported Berlin would back the Spanish candidate if Markus Brunnermeier became chief economist. The deal must still be formalised, probably at a summit of EU leaders on 26 and 27 November. Each candidate needs the support of at least 16 euro area countries representing 65 per cent of the population. The Netherlands' Klaas Knot is the rival candidate.",
-   "keyFacts": [
-    "Deal reportedly backs Pablo Hernández de Cos",
-    "Must be formalised by EU leaders",
-    "Dutch candidate Klaas Knot is the rival"
-   ],
-   "sources": [
-    {
-     "name": "Eunews",
-     "url": "https://www.eunews.it/en/2026/11/18/france-and-germany-strike-ecb-deal-as-spain-nears-the-presidency/"
-    }
-   ],
-   "publishedAt": "2026-11-18T20:30:00+11:00",
-   "createdAt": "2026-11-21T06:50:59+11:00",
-   "reason": "Not yet confirmed"
   },
   {
    "id": "2026-11-21-lo-china-japan-taiwan-remarks",
@@ -6661,138 +6554,6 @@
    "reason": "Restatement, nothing new",
    "rank": 4,
    "createdAt": "2026-11-19T17:47:45+11:00"
-  },
-  {
-   "id": "2026-11-19-lo-england-odi-series",
-   "batch": "2026-11-19",
-   "rank": 1,
-   "category": "Sport",
-   "title": "England beat Australia by 97 runs in Hobart to win ODI series 2-1",
-   "summary": "England beat Australia by 97 runs in the third one-day international in Hobart on Wednesday to win the series 2-1, the ABC reported. England had lost the first match in Perth.\n\nBen Duckett scored 133 from 115 balls as England made 328, according to the ABC. Australia were bowled out for 231 in the 47th over. Cameron Green was struck on the helmet by a bouncer and left the field. Matt Renshaw took three wickets for Australia and Sonny Baker took four for England.",
-   "keyFacts": [
-    "England won by 97 runs",
-    "Duckett scored 133",
-    "England took the series 2-1"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-18/australia-vs-england-third-odi-hobart/107399944"
-    }
-   ],
-   "publishedAt": "2026-11-18T18:57:00+11:00",
-   "createdAt": "2026-11-19T06:52:35+11:00",
-   "reason": "Sport"
-  },
-  {
-   "id": "2026-11-19-lo-sandpapergate-uk-press",
-   "batch": "2026-11-19",
-   "rank": 2,
-   "category": "Sport",
-   "title": "English press turns on Cummins after Khawaja book revives ball-tampering affair",
-   "summary": "English newspapers have criticised Australian Test captain Pat Cummins after claims about the 2018 ball-tampering affair in Usman Khawaja's autobiography, the ABC reported. Columnists in the Daily Mail and The Telegraph said his credibility had been damaged.\n\nCameron Bancroft, one of three players banned over the affair, published a long article in The West Australian claiming the whole team knew about the sandpaper, according to the ABC. Cummins's management says he had no knowledge of the plan. Cricket Australia has announced a forum for players and staff.",
-   "keyFacts": [
-    "The claims stem from Khawaja's autobiography",
-    "Bancroft says the team knew",
-    "Cummins's management denies he knew"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-19/sandpapergate-cameron-bancroft-article-makes-headlines-in-uk/107401658"
-    }
-   ],
-   "publishedAt": "2026-11-19T06:26:00+11:00",
-   "createdAt": "2026-11-19T06:52:35+11:00",
-   "reason": "Sport"
-  },
-  {
-   "id": "2026-11-19-lo-festival-accessibility",
-   "batch": "2026-11-19",
-   "rank": 3,
-   "category": "Other",
-   "title": "People with disability call for more accessible music festivals",
-   "summary": "Music fans with disability say festivals need to do more to include them, the ABC reported ahead of the International Day of People with Disability. A 2022 Creative Australia survey found 40 per cent of people with disability attend festivals, compared with 45 per cent of others.\n\nRapper MC Wheels said a lack of accessible toilets was a major barrier, according to the ABC. Ability Fest, founded in 2018, was cited as Australia's first inclusive festival. A researcher said exclusion was often created by environments and systems rather than impairment.",
-   "keyFacts": [
-    "40 per cent of people with disability attend festivals, a survey found",
-    "Accessible toilets were named as a key barrier",
-    "Ability Fest began in 2018"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-19/people-with-disability-seek-better-music-festival-accessibility/107377402"
-    }
-   ],
-   "publishedAt": "2026-11-19T05:30:00+11:00",
-   "createdAt": "2026-11-19T06:52:35+11:00",
-   "reason": "Human interest"
-  },
-  {
-   "id": "2026-11-19-lo-speers-us-alliance",
-   "batch": "2026-11-19",
-   "rank": 4,
-   "category": "Politics",
-   "title": "ABC analysis says Australia keeps moving closer to US despite Trump's volatility",
-   "summary": "ABC political editor David Speers wrote that Donald Trump's meeting with Xi Jinping and Vladimir Putin in Shenzhen is awkward for US allies including Australia. He pointed to Australia signing the US-led declaration on AI supply chains and the Quad's agreement in Manila on maritime surveillance and a first joint exercise next year.\n\nSpeers argued that Australia is still drawing closer to the United States despite Prime Minister Anthony Albanese's cautious tone towards Trump. He noted Albanese said he would raise concerns about the Iran war with the US President.",
-   "keyFacts": [
-    "The piece is an analysis column",
-    "It cites the Quad maritime surveillance plan",
-    "It cites Australia's signing of the AI declaration"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-19/david-speers-trump-quad-apec-ally/107398518"
-    }
-   ],
-   "publishedAt": "2026-11-19T05:00:00+11:00",
-   "createdAt": "2026-11-19T06:52:35+11:00",
-   "reason": "Commentary"
-  },
-  {
-   "id": "2026-11-19-lo-trilateral-preview",
-   "batch": "2026-11-19",
-   "rank": 5,
-   "category": "World",
-   "title": "ABC previews what Trump, Putin and Xi want from Shenzhen meeting",
-   "summary": "The ABC's China correspondent previewed the first three-way meeting of Donald Trump, Xi Jinping and Vladimir Putin, due on the sidelines of APEC in Shenzhen. The White House listed nuclear arms control, the wars in Ukraine and Iran, trade and AI as topics.\n\nAnalysts quoted were sceptical of concrete outcomes, and no joint press conference or communique is expected, the ABC reported. The New START treaty lapsed in February. A White House spokeswoman said Trump viewed nuclear proliferation as very dangerous, while a Kremlin aide pointed to the meeting's symbolism.",
-   "keyFacts": [
-    "The meeting is the first of its kind",
-    "No joint communique is expected",
-    "New START lapsed in February"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-19/what-trump-putin-xi-want-when-they-meet/107390546"
-    }
-   ],
-   "publishedAt": "2026-11-19T05:41:00+11:00",
-   "createdAt": "2026-11-19T06:52:35+11:00",
-   "reason": "Commentary"
-  },
-  {
-   "id": "2026-11-19-lo-eu-ukraine-loan",
-   "batch": "2026-11-19",
-   "rank": 7,
-   "category": "World",
-   "title": "Von der Leyen presses EU states on €45 billion Ukraine loan for 2027",
-   "summary": "European Commission President Ursula von der Leyen is seeking support for a €45 billion loan to Ukraine for 2027, backed by joint EU borrowing, Euronews reported. It would be split into €25 billion for military needs and €20 billion for budget support, covering about two-thirds of Kyiv's expected shortfall.\n\nUkraine would repay only once Russia pays reparations, according to Euronews. The plan needs unanimous backing before next week's EU summit, and Hungary, Slovakia, Czechia and Bulgaria are resisting. The Commission first proposed the loan in late October.",
-   "keyFacts": [
-    "The loan totals €45 billion",
-    "€25 billion is for military needs",
-    "It needs unanimous support from 27 members"
-   ],
-   "sources": [
-    {
-     "name": "Euronews",
-     "url": "https://euronews.com/2026/11/18/europe-tonight-eu-proposes-45bn-ukraine-loan-as-trump-xi-and-putin-meet"
-    }
-   ],
-   "publishedAt": "2026-11-19T04:00:00+11:00",
-   "createdAt": "2026-11-19T06:52:35+11:00",
-   "reason": "Restatement, nothing new"
   },
   {
    "id": "2026-11-22-us-iran-war-fears",
