@@ -1,6 +1,475 @@
 {
- "updatedAt": "2026-11-26T17:55:00+11:00",
+ "updatedAt": "2026-11-27T06:55:00+11:00",
  "articles": [
+  {
+   "id": "2026-11-27-kuwait-drone-italians-killed",
+   "batch": "2026-11-27",
+   "rank": 1,
+   "category": "World",
+   "title": "Two Italian technicians killed in drone attack in Kuwait; Iran denies involvement",
+   "summary": "Two Italian technicians working for Rheinmetall Italia were killed in a drone attack on a facility in Kuwait on Thursday, according to Kuwait's defence ministry and Italian Foreign Minister Antonio Tajani. Tajani said the drones were Iranian and struck an air-defence surveillance station, injuring two others, a Pakistani national and a Kuwaiti army officer.\n\nIran's armed forces spokesman denied any Iranian attack and suggested it may have been a false-flag operation, AAP reported. Foreign Minister Abbas Araqchi also denied involvement and offered Kuwait a joint investigation. Tajani said Italy would lodge a complaint with the Iranian embassy in Rome.",
+   "keyFacts": [
+    "Kuwait's defence ministry blamed Iran for the attack on a 'vital facility'",
+    "Italy says two others were injured, a Pakistani and a Kuwaiti officer",
+    "Iran denies responsibility and has offered a joint investigation"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-27/italians-killed-in-kuwait-attack-iran/107432996"
+    },
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/iran-denies-attack-on-kuwait-as-two-italians-killed"
+    }
+   ],
+   "publishedAt": "2026-11-27T02:19:00+11:00",
+   "createdAt": "2026-11-27T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-27-trump-putin-pull-back-aggression",
+   "batch": "2026-11-27",
+   "rank": 2,
+   "category": "World",
+   "title": "Trump calls on Putin to pull back military aggression in Europe and make a quick deal",
+   "summary": "US President Donald Trump wrote on Truth Social that he wanted Russian President Vladimir Putin to pull back all military aggression against territories in Europe and to reach a deal quickly, the ABC reported. A day earlier, Trump and NATO Secretary-General Mark Rutte issued a joint statement after talks at Mar-a-Lago urging Russia to avoid actions that expand the war, according to AFP.\n\nUS mediator Jared Kushner said talks had reached a partial deadlock over Ukrainian territory, and said Putin had agreed not to use nuclear weapons, the ABC reported. Ukraine's air force said Russia launched ballistic missiles and 113 drones overnight on Wednesday.",
+   "keyFacts": [
+    "Trump made the call in a Truth Social post",
+    "Trump and Rutte jointly urged Russia not to widen the war",
+    "Kushner said territory remains the main sticking point in talks"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-27/trump-urges-putin-to-pull-back-military-aggression/107433138"
+    },
+    {
+     "name": "AFP (via Arab News)",
+     "url": "https://www.arabnews.com/world/trump-nato-chief-urge-russia-not-to-expand-ukraine-war-3014079"
+    }
+   ],
+   "publishedAt": "2026-11-27T04:03:00+11:00",
+   "createdAt": "2026-11-27T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-27-ecb-hernandez-de-cos",
+   "batch": "2026-11-27",
+   "rank": 3,
+   "category": "Economy",
+   "title": "Eurozone nominates Pablo Hernández de Cos to succeed Lagarde as ECB president",
+   "summary": "Eurozone governments agreed to recommend Spanish economist Pablo Hernández de Cos as the next president of the European Central Bank, European Council President António Costa said on Thursday, according to Al Jazeera. Hernández de Cos, 55, currently heads the Bank for International Settlements and is a former governor of the Bank of Spain.\n\nHe is due to take over in February from Christine Lagarde, who is leaving before her term ends in October next year. Costa said Laurence Boone and Markus Brunnermeier were also recommended for the ECB executive board. The ECB governing council and the European Parliament must still give their formal backing.",
+   "keyFacts": [
+    "Hernández de Cos currently heads the Bank for International Settlements",
+    "He is due to replace Christine Lagarde in February",
+    "The nomination still needs ECB and European Parliament backing"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/26/spanish-economist-to-become-new-european-central-bank-chief"
+    }
+   ],
+   "publishedAt": "2026-11-27T03:20:00+11:00",
+   "createdAt": "2026-11-27T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-27-antarctic-logistics-deal-china",
+   "batch": "2026-11-27",
+   "rank": 4,
+   "category": "Australia",
+   "title": "Australia enacts Antarctic logistics agreement with China as Beijing plans ice runway",
+   "summary": "The Australian Antarctic Division has a logistics agreement with China's polar research institute for the 2026-27 season, the ABC reported, citing a Senate estimates brief released under freedom of information. The Department of Foreign Affairs and Trade told the ABC the agreement had been enacted, but gave no details of its terms.\n\nChina is seeking approval to build a blue-ice runway in the Grove Mountains, inside the Australian Antarctic Territory, according to an environmental evaluation lodged with the Antarctic Treaty system. It proposes up to eight flights a year from about 2029-30. A DFAT spokesperson said all parties must comply with the Antarctic Treaty.",
+   "keyFacts": [
+    "The agreement covers the 2026-27 Antarctic season",
+    "China's proposed runway would allow up to eight flights a year",
+    "Defence and DFAT refused FOI requests on Chinese icebreaker port visits"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-27/china-and-australia-sign-antarctica-agreement-new-runway/107429314"
+    },
+    {
+     "name": "Antarctic Treaty Secretariat",
+     "url": "https://documents.ats.aq/EIES/EIA/02827enInitial%20Environmental%20Evaluation%20on%20the%20Construction%20and%20Operation%20of%20a%20Blue%20Ice%20Runway%20in%20the%20Grove%20Mountains,%20East%20Antarctica.pdf"
+    }
+   ],
+   "publishedAt": "2026-11-27T05:00:00+11:00",
+   "createdAt": "2026-11-27T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-27-kyiv-ballistic-missiles-shopping-centre",
+   "batch": "2026-11-27",
+   "rank": 5,
+   "category": "World",
+   "title": "Russian ballistic missiles hit Kyiv shopping centre and two other buildings, mayor says",
+   "summary": "Russian ballistic missiles struck a shopping centre and two other buildings on the eastern side of Kyiv late on Wednesday, Mayor Vitali Klitschko said, according to Reuters. Klitschko told residents to stay in shelters while the attack continued, and said one building was badly damaged.\n\nKlitschko initially reported three people wounded and later said four were hurt, two seriously, Reuters reported. Russia's defence ministry said on Thursday its forces had hit military-industrial facilities in Kyiv, according to Interfax as cited by Al Jazeera. Ukraine and Russia both deny targeting civilians.",
+   "keyFacts": [
+    "The strikes hit Kyiv's east bank late on Wednesday",
+    "Four people were wounded, two seriously, Klitschko said",
+    "Russia said it targeted military-industrial sites"
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via Cyprus Mail)",
+     "url": "https://cyprus-mail.com/2026/11/26/russian-forces-hit-kyiv-with-ballistic-missiles-mayor-says"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/26/ukraine-drone-attack-kills-five-in-russian-occupied-zaporizhia"
+    }
+   ],
+   "publishedAt": "2026-11-26T14:07:00+11:00",
+   "createdAt": "2026-11-27T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-27-savasleyka-airbase-strike",
+   "batch": "2026-11-27",
+   "rank": 6,
+   "category": "World",
+   "title": "Ukraine says strike on Russia's Savasleyka airbase damaged five military aircraft",
+   "summary": "Ukraine's General Staff said on Wednesday it had struck the Savasleyka airbase in Russia's Nizhny Novgorod region, east of Moscow, damaging five aircraft, Al Jazeera reported. It said three MiG-31 jets, used to launch hypersonic missiles, and two Su-34 fighter-bombers were hit.\n\nRussia did not immediately comment on the claim. Ukrainian Defence Minister Yevhenii Khmara said this week that Ukraine had struck 16 ballistic missile launchers over several months, according to Al Jazeera. The claimed strike follows Ukrainian attacks on Russian ships off Libya.",
+   "keyFacts": [
+    "The airbase is in the Nizhny Novgorod region",
+    "Ukraine says three MiG-31s and two Su-34s were damaged",
+    "Russia had not commented on the claim"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/26/ukraine-attacks-russian-military-base-says-five-planes-struck"
+    }
+   ],
+   "publishedAt": "2026-11-26T12:39:00+11:00",
+   "createdAt": "2026-11-27T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-27-putin-refinery-retaliation",
+   "batch": "2026-11-27",
+   "rank": 7,
+   "category": "World",
+   "title": "Putin says Russian response to Ukrainian refinery attacks is inevitable",
+   "summary": "Russian President Vladimir Putin said Russia would inevitably respond to continuing Ukrainian drone attacks on its oil refineries, speaking at a Kremlin meeting with officials and oil executives, AAP reported. Putin said Kyiv was continuing the attacks despite an appeal from the US president.\n\nUkraine has said it will stop striking Russian energy sites only when Russia does the same. Two industry sources estimated the attacks have cut combined Russian refinery processing by 45 per cent since late October, according to AAP. Several Russian regions have limited retail fuel sales, and Putin said petrol prices had stabilised after peaking in October.",
+   "keyFacts": [
+    "Putin said 'retaliatory measures' were inevitable",
+    "Industry sources say refinery processing has fallen about 45%",
+    "Some Russian regions have restricted retail fuel sales"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/russia-to-respond-to-ukraine-s-refinery-attacks-putin"
+    }
+   ],
+   "publishedAt": "2026-11-26T07:45:00+11:00",
+   "createdAt": "2026-11-27T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-27-zaporizhzhia-occupied-drone-five-killed",
+   "batch": "2026-11-27",
+   "rank": 8,
+   "category": "World",
+   "title": "Russian-installed governor says Ukrainian drone killed five in occupied Zaporizhzhia",
+   "summary": "A drone attack on a car park in the village of Vesioloye in the Russian-occupied part of Ukraine's Zaporizhzhia region killed five people and wounded three, the Moscow-installed governor Yevgeny Balitsky said on Telegram on Thursday, according to Al Jazeera. He blamed Ukraine for the attack.\n\nUkraine did not comment on the claim in Al Jazeera's report, and the casualty figures have not been independently verified. The report came hours after Russian missiles struck Kyiv and as Ukraine's energy capacity was reported to be below 40 per cent of pre-war levels.",
+   "keyFacts": [
+    "Five people were killed and three wounded, the governor said",
+    "The attack hit a car park in Vesioloye",
+    "The claim has not been independently verified"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/26/ukraine-drone-attack-kills-five-in-russian-occupied-zaporizhia"
+    }
+   ],
+   "publishedAt": "2026-11-26T21:02:00+11:00",
+   "createdAt": "2026-11-27T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-27-saudi-intercepts-riyadh-missiles-jazan",
+   "batch": "2026-11-27",
+   "rank": 9,
+   "category": "World",
+   "title": "Saudi-led coalition says it downed missiles over Riyadh; projectile lands at Jazan port",
+   "summary": "The Saudi-led coalition said its air defences destroyed two ballistic missiles fired at Riyadh and two drones over the Eastern Province, The National reported. Coalition spokesman Turki al-Malki said a cruise missile aimed at the western region and a drone near Jeddah port were also intercepted, while a projectile fell at Jazan port, causing minor damage and no civilian casualties.\n\nThe Houthis said they targeted Jeddah and Jazan ports in retaliation for coalition strikes on Hodeidah. There was no immediate confirmation that Jeddah was hit. The coalition later said the Houthis attacked the Jazan refinery and warned of a firm military response, the ABC reported.",
+   "keyFacts": [
+    "Two ballistic missiles aimed at Riyadh were destroyed, the coalition said",
+    "A projectile caused minor damage at Jazan port",
+    "The Houthis described the attacks as retaliation for Hodeidah strikes"
+   ],
+   "sources": [
+    {
+     "name": "The National",
+     "url": "https://www.thenationalnews.com/news/gulf/2026/11/26/saudi-arabia-intercepts-wave-of-retaliatory-houthi-attacks/"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-27/italians-killed-in-kuwait-attack-iran/107432996"
+    }
+   ],
+   "publishedAt": "2026-11-26T18:06:00+11:00",
+   "createdAt": "2026-11-27T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-27-bank-of-korea-rate-rise",
+   "batch": "2026-11-27",
+   "rank": 10,
+   "category": "Economy",
+   "title": "Bank of Korea raises cash rate to 3.25% and lifts growth forecasts",
+   "summary": "South Korea's central bank raised its key interest rate by 0.25 percentage points to 3.25 per cent on Thursday, citing strong domestic growth and inflation above its target, Al Jazeera reported. Annual inflation was 2.8 per cent in October, compared with the bank's 2 per cent target.\n\nThe Bank of Korea raised its growth forecast to 3.9 per cent for 2026 and 4.1 per cent for 2027, up from 3.3 and 2.9 per cent in August. Third-quarter GDP rose 3.4 per cent year on year, while October exports rose 94 per cent, with semiconductors making up nearly half, according to Al Jazeera.",
+   "keyFacts": [
+    "The key rate rose 0.25 points to 3.25%",
+    "October inflation was 2.8%, above the 2% target",
+    "The 2026 growth forecast was raised to 3.9%"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/economy/2026/11/26/south-koreas-central-bank-hikes-interest-rates-raises-gdp-growth-forecast"
+    }
+   ],
+   "publishedAt": "2026-11-26T16:49:00+11:00",
+   "createdAt": "2026-11-27T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-27-trump-gdp-data-fake",
+   "batch": "2026-11-27",
+   "rank": 11,
+   "category": "Economy",
+   "title": "Trump calls pre-election GDP figures fake after upward revision to 4.3% growth",
+   "summary": "US President Donald Trump said on Truth Social that economic figures released before the November midterm elections were fake and called for an immediate investigation, Al Jazeera reported. He did not provide evidence.\n\nOn Wednesday, the Bureau of Economic Analysis revised third-quarter annualised growth up to 4.3 per cent from its advance estimate of 3.4 per cent, released on October 29. The BEA did not respond to Al Jazeera's request for comment; it has previously said advance estimates change because they are based on incomplete source data. Republicans lost ground in the November 3 midterms.",
+   "keyFacts": [
+    "Q3 growth was revised to 4.3% from 3.4%",
+    "Trump called for an investigation without providing evidence",
+    "The BEA says advance estimates rely on incomplete data"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/economy/2026/11/26/trump-calls-gdp-data-released-before-midterms-fake-demands-investigation"
+    }
+   ],
+   "publishedAt": "2026-11-27T05:27:00+11:00",
+   "createdAt": "2026-11-27T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-27-fed-beige-book-november",
+   "batch": "2026-11-27",
+   "rank": 12,
+   "category": "Economy",
+   "title": "US Federal Reserve survey reports slight to moderate growth and sticky inflation",
+   "summary": "The US Federal Reserve's Beige Book survey, released on Wednesday, found economic activity grew at a slight to moderate pace across most of the country, with employment rising and prices increasing moderately, Reuters reported. Business contacts cited cost pressures from energy, transport, healthcare, insurance and tariffs.\n\nContacts said input costs were rising faster than the prices they could charge because customers were sensitive to price increases. Commerce Department data showed the PCE price index rose 3.8 per cent in the year to October, with the core measure up 3.3 per cent. Reuters said the Fed is broadly expected to raise rates at its December 8-9 meeting.",
+   "keyFacts": [
+    "Most of the Fed's 12 districts reported growth",
+    "Annual PCE inflation was 3.8% in October",
+    "The Fed's next decision is due on December 8-9"
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via Kitco)",
+     "url": "https://www.kitco.com/news/off-the-wire/2026-11-25/fed-survey-shows-continued-growth-and-sticky-inflation-recent-weeks"
+    }
+   ],
+   "publishedAt": "2026-11-26T07:00:00+11:00",
+   "createdAt": "2026-11-27T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-27-judge-blocks-fcc-abc-licences",
+   "batch": "2026-11-27",
+   "rank": 13,
+   "category": "World",
+   "title": "US judge blocks FCC hearing on licences of eight Disney-owned ABC stations",
+   "summary": "US District Judge Loren AliKhan granted Disney a preliminary injunction on Wednesday stopping the Federal Communications Commission from holding a hearing on the licences of eight ABC-owned television stations, Al Jazeera reported. In her ruling, she wrote that FCC Chair Brendan Carr had followed President Trump's rhetoric.\n\nCarr ordered early licence reviews in April, a day after Trump urged ABC to fire host Jimmy Kimmel; the licences were not due for renewal until at least 2028. An FCC spokesperson said the ruling was wrong on the facts and the law. ABC News called it a victory for the First Amendment.",
+   "keyFacts": [
+    "The injunction covers eight ABC-owned stations",
+    "The FCC ordered early licence reviews in April",
+    "The FCC says the ruling is wrong on facts and law"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/26/us-judge-blocks-trumps-fcc-attempt-to-target-disneys-abc-stations"
+    }
+   ],
+   "publishedAt": "2026-11-27T02:29:00+11:00",
+   "createdAt": "2026-11-27T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-27-birthright-citizenship-orders-struck-down",
+   "batch": "2026-11-27",
+   "rank": 14,
+   "category": "World",
+   "title": "US judge strikes down Trump's August birthright citizenship restrictions",
+   "summary": "US District Judge Christopher Cooper ruled on Wednesday that children affected by President Donald Trump's August executive orders on birthright citizenship are under US jurisdiction and entitled to citizenship under the Constitution, Al Jazeera reported. A Maryland court had already blocked the same policy with a preliminary injunction in September.\n\nThe case was brought by rights groups on behalf of affected children. ACLU lawyer Cody Wofsy said the president needed to accept the law. White House spokeswoman Lauren Bis described it as a ruling from an activist judge. The Supreme Court struck down Trump's original order in June.",
+   "keyFacts": [
+    "The ruling concerns executive orders issued in August",
+    "A Maryland court blocked the policy in September",
+    "The White House criticised the decision"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/26/judge-strikes-down-trumps-latest-restrictions-on-us-birthright-citizenship"
+    }
+   ],
+   "publishedAt": "2026-11-27T06:09:00+11:00",
+   "createdAt": "2026-11-27T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-27-guinea-bissau-election-delayed",
+   "batch": "2026-11-27",
+   "rank": 15,
+   "category": "World",
+   "title": "Guinea-Bissau's military-led government delays elections by two years to 2028",
+   "summary": "Guinea-Bissau's transitional president, Major General Horta Inta-a, issued a decree on Thursday moving presidential and legislative elections planned for December 6 to November 2028, Al Jazeera reported. The decree cited insufficient technical, material and financial conditions for holding the vote.\n\nThe army seized power last November, removing President Umaro Sissoco Embaló, who was seeking another term. The transitional charter bars Inta-a from standing. West African bloc ECOWAS has called for a short and transparent transition back to civilian rule, according to Al Jazeera.",
+   "keyFacts": [
+    "Elections were due on December 6",
+    "The new date is November 2028",
+    "The military took power in November last year"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/26/guinea-bissau-presidential-election-delayed-by-two-years"
+    }
+   ],
+   "publishedAt": "2026-11-27T05:07:00+11:00",
+   "createdAt": "2026-11-27T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-27-jordan-antiterror-law-amendments",
+   "batch": "2026-11-27",
+   "rank": 16,
+   "category": "World",
+   "title": "Jordan's parliament sends tougher anti-terrorism amendments to committee",
+   "summary": "Jordan's House of Representatives voted on Wednesday to refer draft amendments to the 2006 Anti-Terrorism Law to its legal committee, Al Jazeera reported. According to the state-run Jordan News Agency, the changes would raise minimum prison terms to 10 years, and up to 15 in some cases, while keeping the death penalty for the most serious offences.\n\nThe bill follows an October 23 attack on a funeral at a Greek Orthodox church in Karak governorate. First Deputy Speaker Ayatollah Freihat urged the government to withdraw the draft, criticising vague terms. Speaker Ibrahim Tarawneh said the chamber would review the legislation.",
+   "keyFacts": [
+    "Minimum sentences would rise to 10 years",
+    "The bill goes to committee, then the Senate",
+    "It follows the October 23 church attack"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/26/jordan-parliament-debates-antiterror-law-after-deadly-karak-church-attack"
+    }
+   ],
+   "publishedAt": "2026-11-27T00:23:00+11:00",
+   "createdAt": "2026-11-27T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-27-french-pacific-meth-seizure",
+   "batch": "2026-11-27",
+   "rank": 17,
+   "category": "World",
+   "title": "French forces seize more than three tonnes of methamphetamine near French Polynesia",
+   "summary": "French armed forces boarded an unflagged oil tanker outside French Polynesia's maritime zone and found 150 bales of methamphetamine weighing 3.328 tonnes, according to a statement from French Pacific command reported by the ABC. A US Coast Guard patrol aircraft assisted in tracking the vessel.\n\nThe drugs were taken to Tahiti to be destroyed, and the crew and vessel were released, the ABC reported. French seizures in the region this year now exceed 15 tonnes. University of Canterbury academic José Sousa-Santos told the ABC the seizure suggested traffickers were shifting towards methamphetamine for Australian and New Zealand markets.",
+   "keyFacts": [
+    "The seizure weighed 3.328 tonnes",
+    "French seizures in the region exceed 15 tonnes this year",
+    "The US Coast Guard assisted the operation"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-26/3-tonnes-of-methamphetamine-seized-french-armed-forces-pacific/107430324"
+    }
+   ],
+   "publishedAt": "2026-11-26T18:59:00+11:00",
+   "createdAt": "2026-11-27T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-27-global-shares-rise-thanksgiving",
+   "batch": "2026-11-27",
+   "rank": 18,
+   "category": "Economy",
+   "title": "Global shares rise as tech stocks recover; Wall Street shut for Thanksgiving",
+   "summary": "Share markets in Asia and Europe rose on Thursday as technology stocks recovered, while US markets were closed for Thanksgiving, AP reported. Japan's Nikkei 225 closed 0.9 per cent higher and Australia's S&P/ASX 200 gained 0.8 per cent to 8,763.80. Germany's DAX was up 1.9 per cent in early trading.\n\nBrent crude rose to about $US91 a barrel, according to AP. On Wednesday, Nvidia shares fell 3.9 per cent after S&P Global Ratings warned of a possible downgrade over governance. US markets reopen on Friday for a shortened session.",
+   "keyFacts": [
+    "The ASX 200 rose 0.8% to 8,763.80",
+    "Japan's Nikkei 225 gained 0.9%",
+    "US markets reopen Friday for a shortened session"
+   ],
+   "sources": [
+    {
+     "name": "AP (via ABC News US)",
+     "url": "https://abcnews.com/Business/wireStory/global-stocks-rise-tech-shares-rebound-us-closes-138462620"
+    }
+   ],
+   "publishedAt": "2026-11-27T00:19:00+11:00",
+   "createdAt": "2026-11-27T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-27-florida-doctor-abortion-licence",
+   "batch": "2026-11-27",
+   "rank": 19,
+   "category": "Health",
+   "title": "Florida attorney-general seeks to revoke doctor's licence over alleged illegal abortions",
+   "summary": "Florida Attorney-General James Uthmeier asked the state Board of Medicine to revoke the licence of Dr Sylvester Braithwaite, saying state health officials found he performed at least 149 illegal abortions in North Miami Beach between June 2024 and September 2026, WKMG reported. Surgeon General Joseph Ladapo issued an emergency order restricting his licence so he cannot perform elective abortions.\n\nThe order alleges more than 50 elective abortions after six weeks between June and September 2026. Florida generally bars abortions after six weeks, with limited exceptions. The allegations have not been tested before the board, and WKMG's report did not include a response from Dr Braithwaite.",
+   "keyFacts": [
+    "The attorney-general alleges at least 149 illegal abortions",
+    "An emergency order restricts the doctor's licence",
+    "The Board of Medicine has yet to consider the case"
+   ],
+   "sources": [
+    {
+     "name": "WKMG News 6",
+     "url": "https://www.clickorlando.com/news/florida/2026/11/25/florida-ag-calls-for-doctor-to-lose-his-license-over-illegal-abortions/"
+    },
+    {
+     "name": "Fox 13",
+     "url": "https://www.fox13news.com/news/florida-ag-calls-doctor-lose-medical-license-over-149-alleged-illegal-abortions"
+    }
+   ],
+   "publishedAt": "2026-11-25T21:00:00+11:00",
+   "createdAt": "2026-11-27T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-27-carney-pentagon-criticism",
+   "batch": "2026-11-27",
+   "rank": 20,
+   "category": "World",
+   "title": "Carney says Trump has not raised Pentagon criticism of Canada's defence spending",
+   "summary": "Canadian Prime Minister Mark Carney said on Wednesday that US President Donald Trump had not raised the Pentagon's concerns about Canada's military in their talks, according to CBC News and The Globe and Mail. The comments followed public criticism from the Pentagon of Canada's defence spending and military readiness.\n\nCarney pointed to Canada's NATO deployment in Latvia, Arctic cooperation and recent defence investment, Canadian media reported. Canadian ministers responded that Canada is a sovereign nation, while acknowledging readiness shortfalls and promising faster recruitment.",
+   "keyFacts": [
+    "Carney said the issue had not come up with Trump",
+    "The Pentagon criticised Canada's defence spending this week",
+    "Carney cited Canada's NATO deployment in Latvia"
+   ],
+   "sources": [
+    {
+     "name": "CBC News",
+     "url": "https://www.cbc.ca/news/politics/carney-trump-pentagon-criticism-canada-defence-spending-military-readiness-9.7435718"
+    },
+    {
+     "name": "The Globe and Mail",
+     "url": "https://www.theglobeandmail.com/canada/article-trump-pentagon-defence-spending-complaints-carney/"
+    }
+   ],
+   "publishedAt": "2026-11-26T05:59:00+11:00",
+   "createdAt": "2026-11-27T06:55:00+11:00"
+  },
+  {
+   "id": "2026-11-27-vec-smart-glasses-polling",
+   "batch": "2026-11-27",
+   "rank": 21,
+   "category": "Politics",
+   "title": "Victorian Electoral Commission says it cannot stop filming outside voting centres",
+   "summary": "The Victorian Electoral Commission said it has no power to stop filming in public areas outside voting centres, after Nationals MP Emma Kealy raised concerns about a One Nation volunteer wearing smart glasses outside the Horsham early voting centre, the ABC reported. Recording devices are banned for scrutineers inside voting centres and during counting.\n\nOne Nation candidate Andrew Partridge confirmed the volunteer wore the glasses and said they were used to take photos for social media, without recording audio. The VEC separately said ballot papers were not accessed after a security breach closed the Horsham centre for an hour on Tuesday.",
+   "keyFacts": [
+    "The VEC says filming in public outside centres is not prohibited",
+    "One Nation says the glasses were used only for photos",
+    "Victoria votes on Saturday"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-27/smart-glasses-polling-booths-victorian-electoral-commission/107425588"
+    }
+   ],
+   "publishedAt": "2026-11-27T05:58:00+11:00",
+   "createdAt": "2026-11-27T06:55:00+11:00"
+  },
   {
    "id": "2026-11-26-emissions-2035-shortfall",
    "batch": "2026-11-26-pm",
@@ -3851,31 +4320,6 @@
    "createdAt": "2026-11-21T06:50:59+11:00"
   },
   {
-   "id": "2026-11-20-icj-myanmar-genocide",
-   "batch": "2026-11-20-pm",
-   "category": "World",
-   "title": "UN's top court rules Myanmar committed genocide against the Rohingya",
-   "summary": "The International Court of Justice ruled on Thursday that Myanmar committed genocide against the Rohingya in northern Rakhine state in 2017, Al Jazeera reported. Court President Yuji Iwasawa said the judges decided 9-6. Al Jazeera said it is the first time the court has held a state responsible for genocide. The court ordered Myanmar to make reparations, including help for Rohingya to return safely and voluntarily.\n\nThe Gambia, which brought the case in 2019, called it a historic day for international justice, according to Reuters reporting carried by Al Jazeera. The reports included no response from Myanmar's military government. The opposition National Unity Government said it respected the court's authority. The US said it was studying the decision.",
-   "keyFacts": [
-    "Judges ruled 9-6 that Myanmar committed genocide",
-    "First ICJ finding of state responsibility for genocide",
-    "More than 730,000 Rohingya fled to Bangladesh in 2017"
-   ],
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/19/un-top-court-finds-myanmar-killed-10000-rohingya-as-it-rules-on-genocide"
-    },
-    {
-     "name": "Reuters (via Al Jazeera)",
-     "url": "https://www.aljazeera.com/news/2026/11/19/world-reacts-to-icj-finding-myanmar-guilty-of-genocide-against-rohingya"
-    }
-   ],
-   "publishedAt": "2026-11-19T21:31:00+11:00",
-   "rank": 1,
-   "createdAt": "2026-11-20T17:50:46+11:00"
-  },
-  {
    "id": "2026-11-20-albanese-xi-shenzhen-talks",
    "batch": "2026-11-20-pm",
    "category": "Australia",
@@ -3980,27 +4424,6 @@
    "createdAt": "2026-11-20T17:50:46+11:00"
   },
   {
-   "id": "2026-11-20-berlin-ukraine-coalition-meeting",
-   "batch": "2026-11-20-pm",
-   "category": "World",
-   "title": "European leaders meet in Berlin on Ukraine after Shenzhen summit",
-   "summary": "Germany, France and the UK hosted a meeting on Ukraine at the Chancellery in Berlin on Thursday, hours after the Trump-Xi-Putin meeting in Shenzhen, Al Jazeera reported. German Chancellor Friedrich Merz called the Shenzhen meeting a \"photo op\" and said any deal made without Europe and Ukraine would fail.\n\nUK Prime Minister Andy Burnham said Europe was ready to enter negotiations but a Ukraine-Russia agreement must come first, according to the report. French President Emmanuel Macron called for faster delivery of air defence interceptors. US envoy Jared Kushner, who attended with Steve Witkoff, said Trump wanted to make a deal with Europe by his side. Ukrainian President Volodymyr Zelenskyy said Europe had new sanctions ready.",
-   "keyFacts": [
-    "Meeting hosted by Germany, France and the UK",
-    "Merz says deals without Europe will fail",
-    "US envoys Kushner and Witkoff attended"
-   ],
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/19/european-leaders-unite-in-berlin-to-reaffirm-support-for-ukraine"
-    }
-   ],
-   "publishedAt": "2026-11-20T06:40:00+11:00",
-   "rank": 6,
-   "createdAt": "2026-11-20T17:50:46+11:00"
-  },
-  {
    "id": "2026-11-20-us-ai-chip-licences-china",
    "batch": "2026-11-20-pm",
    "category": "Business",
@@ -4068,48 +4491,6 @@
    "createdAt": "2026-11-20T17:50:46+11:00"
   },
   {
-   "id": "2026-11-20-denmark-greenland-us-deal",
-   "batch": "2026-11-20-pm",
-   "category": "World",
-   "title": "Danish parliament approves security deal with Greenland and the US",
-   "summary": "Denmark's parliament on Thursday approved a security agreement with Greenland and the United States, with all 109 members present voting in favour, Al Jazeera reported, citing AFP and Reuters. The deal, signed in New York on 22 September, supplements a 1951 accord on the US military presence and allows the US to build two military bases in Greenland.\n\nIt also bars countries outside the EU and NATO from strategic sectors and remains in force if Greenland becomes independent, according to the report. Greenland's parliament approved it earlier in November. The agreement does not need a US Senate vote and takes effect once Denmark notifies Washington by diplomatic note.",
-   "keyFacts": [
-    "Passed with all 109 members present in favour",
-    "Allows the US to build two bases in Greenland",
-    "Bars non-EU, non-NATO states from strategic sectors"
-   ],
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/19/denmark-parliament-approves-security-deal-with-greenland-and-us"
-    }
-   ],
-   "publishedAt": "2026-11-19T22:09:00+11:00",
-   "rank": 10,
-   "createdAt": "2026-11-20T17:50:46+11:00"
-  },
-  {
-   "id": "2026-11-20-south-korea-han-retrial",
-   "batch": "2026-11-20-pm",
-   "category": "World",
-   "title": "South Korea's Supreme Court orders retrial of ex-PM Han over martial law",
-   "summary": "South Korea's Supreme Court has overturned the 15-year prison sentence of former prime minister Han Duck-soo over his role in the 2024 martial law declaration and sent the case back to the Seoul High Court, Al Jazeera reported, citing Reuters and AP. The majority found shortcomings in the lower court's assessment of his actions.\n\nThe justices said it was difficult to establish that Han intended to undermine the constitution, according to the report. Han has denied wrongdoing apart from one perjury charge. The special prosecution team said it respected the ruling. Former president Yoon Suk Yeol was sentenced to life in February for insurrection and is appealing.",
-   "keyFacts": [
-    "Han's 15-year sentence overturned",
-    "Case returned to the Seoul High Court",
-    "Prosecutors say they respect the ruling"
-   ],
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/19/south-korean-court-orders-retrial-for-ex-pm-han-over-martial-law-attempt"
-    }
-   ],
-   "publishedAt": "2026-11-20T00:22:00+11:00",
-   "rank": 11,
-   "createdAt": "2026-11-20T17:50:46+11:00"
-  },
-  {
    "id": "2026-11-20-vic-one-nation-climate-vni",
    "batch": "2026-11-20-pm",
    "category": "Politics",
@@ -4173,48 +4554,6 @@
    "createdAt": "2026-11-20T17:50:46+11:00"
   },
   {
-   "id": "2026-11-20-bangladesh-yunus-home-fire",
-   "batch": "2026-11-20-pm",
-   "category": "World",
-   "title": "Fire set at family home of Bangladesh's former interim leader Yunus",
-   "summary": "The ancestral home of Muhammad Yunus, Bangladesh's former interim leader, was set on fire in Chittagong late on Wednesday, police said, according to AFP and AP reporting carried by Al Jazeera. A police patrol put out the flames, which damaged a disused ground-floor storeroom. No one was hurt and those responsible have not been identified.\n\nThe report said 22 Grameen Bank branches had been targeted by arson in recent days, during protests by supporters of former prime minister Sheikh Hasina. Hasina, sentenced to death in absentia last year, says she plans to return in December. Police said 107 people had been arrested since Wednesday.",
-   "keyFacts": [
-    "Police say fire was deliberately lit",
-    "No injuries; investigation under way",
-    "107 arrests reported since Wednesday"
-   ],
-   "sources": [
-    {
-     "name": "AFP/AP (via Al Jazeera)",
-     "url": "https://www.aljazeera.com/news/2026/11/19/home-of-bangladeshs-former-leader-muhammad-yunus-set-on-fire"
-    }
-   ],
-   "publishedAt": "2026-11-19T23:21:00+11:00",
-   "rank": 15,
-   "createdAt": "2026-11-20T17:50:46+11:00"
-  },
-  {
-   "id": "2026-11-20-hegseth-colombia-visit",
-   "batch": "2026-11-20-pm",
-   "category": "World",
-   "title": "Hegseth visits Colombia; both sides deny report of rejected military deal",
-   "summary": "US Defense Secretary Pete Hegseth visited Bogota on Wednesday and said the US and Colombia were \"completely on the same page\", Al Jazeera reported. He met Colombian Defence Minister Jorge Mora and presented a C-130 aircraft to the air force. No new funding was announced.\n\nThe New York Times reported that President Abelardo de la Espriella rejected direct US intervention against drug traffickers and that Hegseth shortened his visit over a declined military agreement. Both Hegseth and de la Espriella said the report was false, according to Al Jazeera. De la Espriella said direct intervention would need congressional approval. Hegseth travelled on to Ecuador and Honduras.",
-   "keyFacts": [
-    "Hegseth met Colombia's defence minister in Bogota",
-    "Both governments deny NYT report of a rejected deal",
-    "Colombia likely to host next year's AC3 meeting"
-   ],
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/19/on-the-same-page-hegseth-hails-us-ties-with-colombias-de-la-espriella"
-    }
-   ],
-   "publishedAt": "2026-11-20T06:53:00+11:00",
-   "rank": 16,
-   "createdAt": "2026-11-20T17:50:46+11:00"
-  },
-  {
    "id": "2026-11-20-senegal-migrant-boat-capsizes",
    "batch": "2026-11-20-pm",
    "category": "World",
@@ -4255,302 +4594,6 @@
    "publishedAt": "2026-11-20T10:09:00+11:00",
    "rank": 18,
    "createdAt": "2026-11-20T17:50:46+11:00"
-  },
-  {
-   "id": "2026-11-20-trump-xi-putin-declaration",
-   "batch": "2026-11-20",
-   "category": "World",
-   "title": "Trump, Xi and Putin issue joint declaration after first three-way meeting",
-   "summary": "Donald Trump, Xi Jinping and Vladimir Putin met for about 90 minutes on the sidelines of APEC in Shenzhen on Thursday evening and released a joint statement, the ABC reported. According to AAP and the ABC, it commits the three to UN reform, higher oil product supply and lower nuclear risk, and says bodies such as the International Criminal Court should not abuse their jurisdiction.\n\nThe statement does not mention the wars in Ukraine or Iran, the ABC and AAP said. Trump said Ukraine was discussed. Xi described the talks as constructive, AAP reported. Polish Prime Minister Donald Tusk criticised the meeting in a social media post.",
-   "keyFacts": [
-    "Meeting lasted about 90 minutes in Shenzhen",
-    "Statement covers UN reform, oil supply and nuclear risk",
-    "Text does not mention Ukraine or Iran"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-19/albanese-tells-putin-to-end-ukraine-war-now/107406348"
-    },
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/superpowers-agree-on-oil-supply-rise-world-peace-aim"
-    }
-   ],
-   "publishedAt": "2026-11-19T20:36:00+11:00",
-   "rank": 1,
-   "createdAt": "2026-11-20T06:48:18+11:00"
-  },
-  {
-   "id": "2026-11-20-putin-bridge-response",
-   "batch": "2026-11-20",
-   "category": "World",
-   "title": "Putin rules out partial truce and vows response to Crimean Bridge strikes",
-   "summary": "Russian President Vladimir Putin said after his talks with Donald Trump and Xi Jinping that Russia would not make agreements following Ukraine's strikes on the Crimean Bridge, according to TASS as reported by the Kyiv Post. He said Moscow's response would be more painful than the damage to the bridge, IBTimes reported.\n\nPutin said he had asked Russia's Security Council to reconsider a possible halt to strikes on energy and maritime targets. Ukraine's defence ministry said Neptune missiles hit the bridge's rail section, the third strike in a week. Russian Deputy Prime Minister Marat Khusnullin said some sections could reopen within one to two months.",
-   "keyFacts": [
-    "Bridge struck three times in a week",
-    "Putin dropped a possible energy and maritime truce",
-    "Some sections may reopen in one to two months"
-   ],
-   "sources": [
-    {
-     "name": "Kyiv Post",
-     "url": "https://www.kyivpost.com/post/90611"
-    },
-    {
-     "name": "IBTimes",
-     "url": "https://www.ibtimes.com/putin-rejects-halt-strikes-after-crimea-bridge-attacks-3809955"
-    }
-   ],
-   "publishedAt": "2026-11-20T02:02:00+11:00",
-   "rank": 2,
-   "createdAt": "2026-11-20T06:48:18+11:00"
-  },
-  {
-   "id": "2026-11-20-cop31-second-draft",
-   "batch": "2026-11-20",
-   "category": "Environment",
-   "title": "Second COP31 draft drops fossil fuel transition and adaptation finance figure",
-   "summary": "A revised draft of the main COP31 decision released in Antalya on Thursday no longer refers to transitioning away from fossil fuels, AAP and Climate Home News reported. The text was cut from 18 pages to nine and also removed a proposed adaptation finance figure of at least $US120 billion a year by 2035 and a reference to the Pacific Resilience Facility, AAP said.\n\nThe draft keeps targets to raise electricity to 35 per cent of final energy use by 2035 and to triple renewable capacity. Chris Bowen, the COP31 president of negotiations, said it used the strongest terms likely to win approval. Environment groups including Greenpeace and the Australian Conservation Foundation criticised the changes.",
-   "keyFacts": [
-    "Draft halved from 18 to nine pages",
-    "Fossil fuel transition wording removed",
-    "35 per cent electrification target retained"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/fossil-fuel-plan-pacific-fund-dropped-from-cop31-draft"
-    },
-    {
-     "name": "Climate Home News",
-     "url": "https://www.climatechangenews.com/2026/11/19/cop31-antalya-turkiye-australia-ministers-agremeent-fossil-fuels-electrification/"
-    }
-   ],
-   "publishedAt": "2026-11-20T00:38:00+11:00",
-   "rank": 3,
-   "createdAt": "2026-11-20T06:48:18+11:00"
-  },
-  {
-   "id": "2026-11-20-anthropic-nasdaq-debut",
-   "batch": "2026-11-20",
-   "category": "Business",
-   "title": "Anthropic shares open 34 per cent above IPO price in Nasdaq debut",
-   "summary": "Anthropic shares opened at $US111.50 on the Nasdaq on Thursday, about 34 per cent above the $US83 IPO price, according to Forbes and AAP. AAP said the company's market value briefly reached about $US2.1 trillion. The shares later eased and were up about 19 per cent at $US98.56 in early afternoon trade, AP reported.\n\nAnthropic sold 980 million shares, raising about $US81.3 billion, which Forbes said is the largest IPO on record. Chief executive Dario Amodei told CNBC the company hoped to become investment grade, AAP reported. One fund manager quoted by AAP said the company needed to reach profitability soon.",
-   "keyFacts": [
-    "Opened at $US111.50 versus $US83 IPO price",
-    "IPO raised about $US81.3 billion",
-    "Trades under the ticker ANT"
-   ],
-   "sources": [
-    {
-     "name": "Forbes",
-     "url": "https://www.forbes.com/sites/fionariley/2026/11/19/anthropic-ipo-live-shares-pop-34-to-open-at-11150/"
-    },
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/anthropic-valued-above-us2-trillion-in-nasdaq-debut"
-    },
-    {
-     "name": "AP (via Philadelphia Tribune)",
-     "url": "https://www.phillytrib.com/ap/business/a-strong-debut-for-anthropics-stock-is-not-enough-to-carry-wall-street-and-indexes/article_522a872b-b011-5b50-abf0-0125cc29628f.html"
-    }
-   ],
-   "publishedAt": "2026-11-20T03:30:00+11:00",
-   "rank": 4,
-   "createdAt": "2026-11-20T06:48:18+11:00"
-  },
-  {
-   "id": "2026-11-20-wall-street-sixth-loss",
-   "batch": "2026-11-20",
-   "category": "Economy",
-   "title": "Wall Street falls as S&P 500 heads for sixth straight loss",
-   "summary": "US shares fell on Thursday despite Anthropic's debut, with the S&P 500 down 1.1 per cent in early afternoon trade after an early gain of 1.3 per cent, AP reported. The Dow Jones index was down 766 points, or 1.5 per cent, and the Nasdaq was down 1 per cent at 12.45pm New York time, AP said.\n\nNvidia reversed an early gain of 4.7 per cent to trade lower, and Micron and CoreWeave also turned down, according to AP. Williams-Sonoma fell 13.9 per cent. The US 10-year Treasury yield eased to 5.06 per cent. Benzinga reported the S&P 500 was on track for a sixth consecutive daily loss.",
-   "keyFacts": [
-    "S&P 500 down 1.1 per cent in afternoon trade",
-    "Dow down 766 points at 12.45pm ET",
-    "10-year Treasury yield at 5.06 per cent"
-   ],
-   "sources": [
-    {
-     "name": "AP (via Philadelphia Tribune)",
-     "url": "https://www.phillytrib.com/ap/business/a-strong-debut-for-anthropics-stock-is-not-enough-to-carry-wall-street-and-indexes/article_522a872b-b011-5b50-abf0-0125cc29628f.html"
-    },
-    {
-     "name": "Benzinga",
-     "url": "https://www.benzinga.com/markets/equities/26/11/63446162/stock-market-today-anthropic-ipo-debut-sp-500-sixth-loss-november-19"
-    }
-   ],
-   "publishedAt": "2026-11-20T04:54:00+11:00",
-   "rank": 5,
-   "createdAt": "2026-11-20T06:48:18+11:00"
-  },
-  {
-   "id": "2026-11-20-gaza-tank-raid-ends",
-   "batch": "2026-11-20",
-   "category": "World",
-   "title": "Israel says it has ended tank raid in central Gaza",
-   "summary": "Israel's military said on Thursday it had concluded a tank raid in central Gaza aimed at destroying a suspected Hamas tunnel, Reuters reported. Reuters described it as the most prominent ground incursion across the ceasefire's yellow line since the October 2025 truce. The military said the main Salahudeen road had reopened.\n\nResidents told Reuters sporadic gunfire could still be heard and the road remained dangerous. The Hamas-run Gaza media office said about 6,000 people fled the area on Wednesday. Gaza health authorities say at least 1,600 Palestinians have been killed by Israeli strikes since the ceasefire, while Israel's military says five soldiers have been killed in that time.",
-   "keyFacts": [
-    "Raid targeted a suspected Hamas tunnel",
-    "About 6,000 people fled, Gaza media office said",
-    "Salahudeen road reopened, military said"
-   ],
-   "sources": [
-    {
-     "name": "Reuters (via Al-Monitor)",
-     "url": "https://www.al-monitor.com/originals/2026/11/israel-says-it-concludes-gaza-tank-raid"
-    },
-    {
-     "name": "Reuters (via CP24)",
-     "url": "https://cp24.com/news/world/2026/11/19/israel-says-it-concludes-gaza-tank-raid"
-    }
-   ],
-   "publishedAt": "2026-11-20T00:25:00+11:00",
-   "rank": 6,
-   "createdAt": "2026-11-20T06:48:18+11:00"
-  },
-  {
-   "id": "2026-11-20-riyadh-pif-tower-damaged",
-   "batch": "2026-11-20",
-   "category": "World",
-   "title": "Riyadh tower housing Saudi wealth fund damaged during Houthi missile attack",
-   "summary": "The Public Investment Fund tower in Riyadh's King Abdullah Financial District was damaged on Thursday, Reuters reported citing three sources, according to The National. The Saudi-led coalition said it dealt with a missile threat towards Riyadh and that falling debris caused material damage. It did not say whether the missile was intercepted.\n\nThe coalition said it also destroyed a cruise missile, intercepted four ballistic missiles and destroyed a launch platform in Yemen's Saada province, The National reported. Gulf News said the building is 80 storeys tall. The extent of damage and any casualties were not immediately known.",
-   "keyFacts": [
-    "Tower is in the King Abdullah Financial District",
-    "Coalition blamed falling debris for damage",
-    "Casualties not immediately known"
-   ],
-   "sources": [
-    {
-     "name": "The National",
-     "url": "https://www.thenationalnews.com/news/gulf/2026/11/19/saudi-sovereign-wealth-fund-tower-in-riyadh-damaged-in-houthi-strike/"
-    },
-    {
-     "name": "Gulf News",
-     "url": "https://gulfnews.com/world/mena/middle-east-war-riyadh-skyscraper-damaged-tanker-hit-near-oman-as-trump-weighs-fresh-iran-strikes-1.500752996"
-    }
-   ],
-   "publishedAt": "2026-11-19T18:04:00+11:00",
-   "rank": 7,
-   "createdAt": "2026-11-20T06:48:18+11:00"
-  },
-  {
-   "id": "2026-11-20-colby-nato-walkout",
-   "batch": "2026-11-20",
-   "category": "World",
-   "title": "Pentagon official leaves Ukraine meeting after criticising Kyiv's long-range strikes",
-   "summary": "US Under Secretary for Policy Elbridge Colby told a Ukraine Defence Contact Group meeting in Brussels that Ukraine's long-range strikes on Russia had little military value, then left before a classified Ukrainian briefing, the Kyiv Post reported, citing The Telegraph.\n\nGerman Defence Minister Boris Pistorius reportedly called the remarks \"stupid\", according to the Kyiv Post and The Independent. British Defence Secretary Wes Streeting said the strikes had degraded Russia's war capacity. Britain pledged 1,000 long-range drones to Ukraine, the Kyiv Post said. The Pentagon's account of the meeting was not included in the reports.",
-   "keyFacts": [
-    "Meeting was held in Brussels",
-    "Colby left before a Ukrainian briefing",
-    "Britain pledged 1,000 long-range drones"
-   ],
-   "sources": [
-    {
-     "name": "Kyiv Post",
-     "url": "https://www.kyivpost.com/post/90599"
-    },
-    {
-     "name": "The Independent (via Yahoo News UK)",
-     "url": "https://uk.news.yahoo.com/ukraine-russia-war-latest-kyiv-045443290.html"
-    }
-   ],
-   "publishedAt": "2026-11-20T00:13:00+11:00",
-   "rank": 8,
-   "createdAt": "2026-11-20T06:48:18+11:00"
-  },
-  {
-   "id": "2026-11-20-israel-responds-sanctions",
-   "batch": "2026-11-20",
-   "category": "Australia",
-   "title": "Israeli ambassador says Israel will respond to Australia's settler sanctions",
-   "summary": "Israel's ambassador to Australia, Hillel Newman, said Israel would respond to Australia's new sanctions over West Bank settlement activity, AAP reported. He described the move as megaphone diplomacy. An Israeli government spokesman said responses were being considered and would be announced at the appropriate time.\n\nForeign Minister Penny Wong on Wednesday sanctioned three people and four organisations, including for the first time a construction company and its owner, AAP said. Settler leader Daniela Weiss and her organisation Nachala were also listed. A DFAT spokesperson said the measures support a two-state solution.",
-   "keyFacts": [
-    "Sanctions cover three people and four organisations",
-    "A construction firm was listed for the first time",
-    "Israel has not said what its response will be"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/retaliation-for-settler-sanctions-israeli-ambassador"
-    }
-   ],
-   "publishedAt": "2026-11-19T17:57:00+11:00",
-   "rank": 9,
-   "createdAt": "2026-11-20T06:48:18+11:00"
-  },
-  {
-   "id": "2026-11-20-vic-labor-how-to-vote-cards",
-   "batch": "2026-11-20",
-   "category": "Politics",
-   "title": "Greens accuse Victorian Labor over how-to-vote cards putting Greens first",
-   "summary": "Victorian Labor volunteers handed out how-to-vote cards at early voting centres that list the Greens first and Labor second, AAP reported. In Point Cook and Tarneit, where the Greens are running open tickets, the cards leave the rest of the ballot blank. The Greens say the cards are designed to mislead voters.\n\nPremier Ben Carroll did not directly explain the cards and told voters to put Labor first, AAP said. Point Cook MP Mathew Hilakari defended them. Transparency International Australia said Victoria has no truth-in-advertising law for campaigns. The ABC separately reported an independent's card in Prahran closely resembles the Greens design.",
-   "keyFacts": [
-    "Cards authorised by Labor state secretary Steve Staikos",
-    "Issue raised in Point Cook and Tarneit",
-    "State election is on November 28"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/dirty-tricks-labor-accused-of-duping-early-voters"
-    },
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-19/victorian-election-live-early-voting-second-day/107402202"
-    }
-   ],
-   "publishedAt": "2026-11-20T03:30:00+11:00",
-   "rank": 10,
-   "createdAt": "2026-11-20T06:48:18+11:00"
-  },
-  {
-   "id": "2026-11-20-vec-richmond-votes-isolated",
-   "batch": "2026-11-20",
-   "category": "Politics",
-   "title": "VEC isolates about 700 early votes after unauthorised person worked at Richmond centre",
-   "summary": "The Victorian Electoral Commission isolated sealed boxes holding about 700 votes after an unauthorised person gained access to the Richmond early voting centre on the first day of early voting, AAP and news.com.au's News24 reported. AAP said the person had posed as a VEC casual worker.\n\nElectoral Commissioner Sven Bluemmel said the integrity of the vote had not been compromised, according to AAP. The VEC has not said publicly what will happen to the isolated ballots. Early voting continues ahead of the November 28 state election.",
-   "keyFacts": [
-    "About 700 votes isolated in sealed boxes",
-    "Incident happened on first day of early voting",
-    "Commissioner says integrity not compromised"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/dirty-tricks-labor-accused-of-duping-early-voters"
-    },
-    {
-     "name": "News24 (news.com.au)",
-     "url": "https://www.news24.com.au/latest/victorias-electoral-commission-quarantines-700-richmond-votes-after-unauthorised-campaigner-mistakenly-works-inside-booth/news-story/12f3eef1bd30741a484c626cb167151b?nk=5d15cbf08e226357252370d6c4bafe7a-1795094438"
-    }
-   ],
-   "publishedAt": "2026-11-20T03:30:00+11:00",
-   "rank": 11,
-   "createdAt": "2026-11-20T06:48:18+11:00"
-  },
-  {
-   "id": "2026-11-20-pc-reporting-red-tape",
-   "batch": "2026-11-20",
-   "category": "Economy",
-   "title": "Productivity Commission proposes cutting business non-financial reporting",
-   "summary": "A Productivity Commission interim report requested by Treasurer Jim Chalmers recommends winding back some non-financial reporting rules for businesses, AAP reported. It says mandatory climate-risk reporting should not be extended to medium-sized companies with revenue of $50 million or more from 2027.\n\nThe report also says some emissions reporting imposes unnecessarily high costs and that employers performing well on gender equality could report less often, AAP said. Commissioner Angela Jackson said reporting adds to a large regulatory load. The commission is also considering removing six-monthly payment-time reporting for small suppliers. Its final report is due by February.",
-   "keyFacts": [
-    "Interim report released on Friday",
-    "Climate reporting extension to mid-sized firms opposed",
-    "Final report due by February"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/call-to-wind-back-reporting-to-ease-business-red-tape"
-    }
-   ],
-   "publishedAt": "2026-11-20T05:00:00+11:00",
-   "rank": 12,
-   "createdAt": "2026-11-20T06:48:18+11:00"
   },
   {
    "id": "2026-11-22-kryvyi-rih-strike",
@@ -4741,31 +4784,6 @@
    "createdAt": "2026-11-22T06:49:47+11:00"
   },
   {
-   "id": "2026-11-22-us-sanctions-comancheros",
-   "batch": "2026-11-22",
-   "rank": 9,
-   "category": "Australia",
-   "title": "US sanctions Comancheros bikie club leaders over alleged cartel links",
-   "summary": "The US Treasury's Office of Foreign Assets Control has sanctioned the Australia-headquartered Comancheros motorcycle club and Italy's 'Ndrangheta, saying both run transnational criminal networks, AAP and 1News reported. Those named include Allan Meehan, described by AAP as the club's alleged \"world president\", and New Zealand chapter leaders.\n\nOFAC alleged the Comancheros facilitated large cocaine shipments. The sanctions block US-held property and bar dealings with those listed. Australian Federal Police Assistant Commissioner Stephen Nutt said members could lose access to banking. AAP said Australia does not enforce US sanctions, but local businesses may need to consider them. OFAC worked with the AFP and New Zealand Police.",
-   "keyFacts": [
-    "OFAC sanctioned the Comancheros and the 'Ndrangheta",
-    "Treasury Secretary Scott Bessent approved the sanctions on 19 November, AAP said",
-    "The AFP and NZ Police assisted, according to 1News"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/aussie-bikie-world-president-cops-us-cartel-sanctions"
-    },
-    {
-     "name": "1News",
-     "url": "https://1news.co.nz/2026/11/20/comancheros-leaders-in-nz-among-those-targeted-by-sweeping-us-sanctions/"
-    }
-   ],
-   "publishedAt": "2026-11-20T05:55:00+11:00",
-   "createdAt": "2026-11-22T06:49:47+11:00"
-  },
-  {
    "id": "2026-11-22-vic-labor-health-pledges",
    "batch": "2026-11-22",
    "rank": 10,
@@ -4872,6 +4890,362 @@
   }
  ],
  "leftOut": [
+  {
+   "id": "2026-11-27-lo-qatar-egypt-gaza-talks",
+   "batch": "2026-11-27",
+   "rank": 1,
+   "category": "World",
+   "title": "Qatar's emir and Egypt's president discuss Gaza ceasefire during Cairo visit",
+   "summary": "Qatar's Emir Sheikh Tamim bin Hamad Al Thani arrived in Cairo on Thursday for an official visit at the invitation of Egyptian President Abdel Fattah el-Sisi, Al Jazeera reported. Qatar said the visit aimed to strengthen investment and energy ties and coordinate efforts to reduce regional tensions.\n\nEgypt's presidential spokesman said the leaders called for political solutions and for preventing wider conflict. Sisi called on all parties to uphold the Gaza ceasefire and allow humanitarian aid. Qatar's Emiri Diwan said they discussed joint mediation to consolidate the ceasefire.",
+   "keyFacts": [
+    "The emir visited at Sisi's invitation",
+    "Both leaders called for the Gaza ceasefire to be upheld",
+    "Qatar and Egypt are joint mediators"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/26/qatari-egyptian-leaders-discuss-gaza-ceasefire-and-regional-security"
+    }
+   ],
+   "publishedAt": "2026-11-27T02:45:00+11:00",
+   "createdAt": "2026-11-27T06:55:00+11:00",
+   "reason": "No new development"
+  },
+  {
+   "id": "2026-11-27-lo-italy-ukraine-libya-analysis",
+   "batch": "2026-11-27",
+   "rank": 2,
+   "category": "World",
+   "title": "Analysis examines Italian objections to Ukraine's strikes on Russian ships off Libya",
+   "summary": "An Al Jazeera explainer examined why Italy has objected to Ukrainian strikes on Russian vessels off Libya. Italian Foreign Minister Antonio Tajani said the attacks violated Libya's sovereignty and that Rome had no prior knowledge of the plan.\n\nUkrainian Foreign Minister Andrii Sybiha said the vessels were legitimate targets and Kyiv did not intend to harm Libya. The piece cited the Kiel Institute as saying Italy has given Ukraine more than three billion euros in military aid, and noted Libya supplied about a quarter of Italy's crude oil imports last year, according to an analyst.",
+   "keyFacts": [
+    "Tajani said the strikes violated Libyan sovereignty",
+    "Ukraine says the ships were legitimate targets",
+    "Libya is a major crude supplier to Italy"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/26/why-is-italy-angry-with-ukraine-for-striking-russian-ships-off-libya"
+    }
+   ],
+   "publishedAt": "2026-11-27T02:02:00+11:00",
+   "createdAt": "2026-11-27T06:55:00+11:00",
+   "reason": "Commentary"
+  },
+  {
+   "id": "2026-11-27-lo-andalusia-spain-election-analysis",
+   "batch": "2026-11-27",
+   "rank": 3,
+   "category": "World",
+   "title": "Analysis looks at Andalusia's PP-Vox government ahead of Spain's snap election",
+   "summary": "An Al Jazeera analysis examined the governing coalition between the conservative People's Party and the far-right Vox party in Andalusia ahead of Spain's snap general election on Sunday. Polls cited in the piece put the PP first, the Socialists second and Vox third.\n\nPP leader Alberto Núñez Feijóo has said he would prefer a minority government supported by Vox but has not ruled out a coalition, according to the article. An academic quoted said the PP's earlier deal with Vox in Andalusia helped normalise the party.",
+   "keyFacts": [
+    "Spain holds a snap general election on Sunday",
+    "Polls put the PP ahead without a majority",
+    "Andalusia has had a PP-Vox government since May"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/26/andalusia-offers-a-glimpse-of-spains-future-as-the-far-right-gains-ground"
+    }
+   ],
+   "publishedAt": "2026-11-27T02:11:00+11:00",
+   "createdAt": "2026-11-27T06:55:00+11:00",
+   "reason": "Commentary"
+  },
+  {
+   "id": "2026-11-27-lo-thanksgiving-costs",
+   "batch": "2026-11-27",
+   "rank": 4,
+   "category": "Economy",
+   "title": "Report says cost of a US Thanksgiving meal has risen about 11% on last year",
+   "summary": "The Century Foundation estimated a typical Thanksgiving meal in the United States costs about 11 per cent more than last year, Al Jazeera reported. It said turkey prices were up 26 per cent and green beans almost 37 per cent.\n\nThe American Farm Bureau forecast a 6 per cent rise for a 10-person meal, its first increase since 2022, while Walmart said its holiday meal package was 12 per cent cheaper. A LendingTree survey found about a third of hosts felt financially strained, according to the report.",
+   "keyFacts": [
+    "The Century Foundation estimates an 11% rise",
+    "The Farm Bureau forecasts a 6% rise",
+    "Walmart says its meal package is cheaper"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/economy/2026/11/26/thanksgiving-dinner-costs-rise-putting-pressure-on-us-households"
+    }
+   ],
+   "publishedAt": "2026-11-26T21:30:00+11:00",
+   "createdAt": "2026-11-27T06:55:00+11:00",
+   "reason": "Commentary"
+  },
+  {
+   "id": "2026-11-27-lo-grattan-labor-election-gear",
+   "batch": "2026-11-27",
+   "rank": 5,
+   "category": "Politics",
+   "title": "Analysis says Labor is moving into election mode at the halfway point of its term",
+   "summary": "Political analyst Michelle Grattan wrote, in a piece republished by the ABC from The Conversation, that Labor is moving into election mode, noting its national campaign committee met for the first time on Monday. She pointed to a worsening economy, including a rate rise, higher unemployment and rising inflation.\n\nAsked whether he planned to retire, Prime Minister Anthony Albanese said no. Labor MP Ed Husic said the prime minister had earned the right to choose his timing. The next federal election is due by May 2028.",
+   "keyFacts": [
+    "Labor's campaign committee met on Monday",
+    "Albanese said he does not plan to retire",
+    "The next election is due by May 2028"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-27/michelle-grattan-labor-moves-to-election-gear/107430668"
+    }
+   ],
+   "publishedAt": "2026-11-27T05:00:00+11:00",
+   "createdAt": "2026-11-27T06:55:00+11:00",
+   "reason": "Commentary"
+  },
+  {
+   "id": "2026-11-27-lo-solomons-pact-analysis",
+   "batch": "2026-11-27",
+   "rank": 6,
+   "category": "World",
+   "title": "Analysis examines end of Solomon Islands' security pact with China",
+   "summary": "An ABC analysis examined Solomon Islands' decision to end its 2022 security pact with China, after it signed a treaty with Australia this week worth about $740 million. The treaty declares Solomon Islands will not host a foreign military base.\n\nPrime Minister Matthew Wale said the uncertainty of recent years was over. Opposition leader Manasseh Sogavare said the country had given up sovereignty to Australia and called for the treaty to be tabled. An academic said Chinese police would leave by the end of the month, which neither government has confirmed.",
+   "keyFacts": [
+    "The Australian treaty is worth about $740 million",
+    "Sogavare has called for the treaty to be tabled",
+    "Departure of Chinese police is unconfirmed"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-27/china-solomon-islands-security-pact-ends/107429200"
+    }
+   ],
+   "publishedAt": "2026-11-27T05:56:00+11:00",
+   "createdAt": "2026-11-27T06:55:00+11:00",
+   "reason": "Commentary"
+  },
+  {
+   "id": "2026-11-27-lo-barbie-exhibition-melbourne",
+   "batch": "2026-11-27",
+   "rank": 7,
+   "category": "Other",
+   "title": "Barbie exhibition opens at Melbourne Museum on Saturday",
+   "summary": "A Barbie exhibition developed by London's Design Museum will open at Melbourne Museum on Saturday and run until May 16, the ABC reported. The Australian showing includes more than 250 objects, among them 150 dolls, and toy maker Mattel is a partner.\n\nThe exhibition includes one-off dolls of tennis players Evonne Goolagong Cawley and Ash Barty, according to the local curator. The ABC said the show drew about 144,000 visitors in London, making it one of the Design Museum's most popular exhibitions.",
+   "keyFacts": [
+    "The exhibition runs from November 28 to May 16",
+    "It includes about 150 dolls",
+    "Mattel is a partner"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-27/barbie-exhibition-melbourne-museum-2026/107421566"
+    }
+   ],
+   "publishedAt": "2026-11-27T05:30:00+11:00",
+   "createdAt": "2026-11-27T06:55:00+11:00",
+   "reason": "Entertainment"
+  },
+  {
+   "id": "2026-11-27-lo-nz-mmp-review-calls",
+   "batch": "2026-11-27",
+   "rank": 8,
+   "category": "World",
+   "title": "Former NZ leaders call for review of MMP voting after election overhang",
+   "summary": "Former New Zealand prime ministers Geoffrey Palmer and Helen Clark are among those calling for a review of the country's mixed-member proportional voting system after the November 7 election, AAP reported. Preliminary results give Prime Minister Christopher Luxon's coalition 67 of 131 seats, helped by an overhang from National's electorate wins.\n\nLabour leader Chris Hipkins said National held power only through manipulating the system. ACT leader David Seymour said he was unsure a broader inquiry would help. Final results were expected on November 27.",
+   "keyFacts": [
+    "Preliminary results give the coalition 67 of 131 seats",
+    "National's party vote was about 29%",
+    "Final results were due on November 27"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/new-zealand-election-distortion-prompts-reform-calls"
+    }
+   ],
+   "publishedAt": "2026-11-27T03:00:00+11:00",
+   "createdAt": "2026-11-27T06:55:00+11:00",
+   "reason": "No new development"
+  },
+  {
+   "id": "2026-11-27-lo-khawaja-cummins",
+   "batch": "2026-11-27",
+   "rank": 9,
+   "category": "Sport",
+   "title": "Khawaja says he felt personally attacked by Cummins over ball-tampering comments",
+   "summary": "Former Test batter Usman Khawaja said he felt personally attacked by Australian captain Pat Cummins, who had described several accusations as nonsense at a press conference, AAP reported. Khawaja made the comments in an 80-minute interview on a cricket podcast.\n\nKhawaja said he had sent Cricket Australia chief executive Todd Greenberg a draft team statement admitting to ball-tampering in 2018, which was not used. He said he always wanted Cummins to stay captain, and again declined to say which players knew of the tampering beforehand.",
+   "keyFacts": [
+    "Khawaja spoke in an 80-minute podcast interview",
+    "He says he sent a draft statement to Todd Greenberg",
+    "He declined to name players who knew"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/shocked-khawaja-felt-personally-attacked-by-cummins"
+    }
+   ],
+   "publishedAt": "2026-11-26T19:00:00+11:00",
+   "createdAt": "2026-11-27T06:55:00+11:00",
+   "reason": "Sport"
+  },
+  {
+   "id": "2026-11-27-lo-our-lady-of-dolours-claims",
+   "batch": "2026-11-27",
+   "rank": 10,
+   "category": "Australia",
+   "title": "Former students of Sydney Catholic school sue over alleged historical abuse by priest",
+   "summary": "Three former students of Our Lady of Dolours school in Sydney are taking civil claims to the NSW Supreme Court alleging they were assaulted by parish priest Paul Francis Cahill in the 1970s and 1980s, the ABC reported. Cahill died in 2017. The claims are being brought through law firm Maurice Blackburn.\n\nThe allegations have not been tested in court. The Diocese of Broken Bay said it takes concerns seriously but declined an interview, while the Archdiocese of Sydney did not respond and Catholic Schools NSW declined to comment, according to the ABC.",
+   "keyFacts": [
+    "Three former students have lodged claims",
+    "The priest died in 2017",
+    "The allegations have not been tested in court"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-27/our-lady-of-dolours-catholic-church-abuse-allegations/107424146"
+    }
+   ],
+   "publishedAt": "2026-11-27T05:56:00+11:00",
+   "createdAt": "2026-11-27T06:55:00+11:00",
+   "reason": "Local crime"
+  },
+  {
+   "id": "2026-11-27-lo-pregnancy-discrimination-doctors",
+   "batch": "2026-11-27",
+   "rank": 11,
+   "category": "Health",
+   "title": "Doctors tell Four Corners pregnancy discrimination is affecting careers in medicine",
+   "summary": "Several doctors told the ABC's Four Corners they faced disadvantage in training and pay after becoming pregnant. One trainee said a three-year training offer was withdrawn months after she disclosed her pregnancy and replaced with a two-year contract.\n\nNSW Health said it does not comment on individual cases and that recruitment must be merit-based and lawful. The Attorney-General's office said it is carefully considering an October report by the Sex Discrimination Commissioner, to which the government has not yet responded.",
+   "keyFacts": [
+    "A trainee says her training offer was reduced after disclosure",
+    "NSW Health says recruitment is merit-based",
+    "The government has not responded to an October report"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-27/doctors-allege-pregnancy-discrimination-in-medicine/107396068"
+    }
+   ],
+   "publishedAt": "2026-11-27T05:55:00+11:00",
+   "createdAt": "2026-11-27T06:55:00+11:00",
+   "reason": "Human interest"
+  },
+  {
+   "id": "2026-11-27-lo-flinders-sailors-ferry",
+   "batch": "2026-11-27",
+   "rank": 12,
+   "category": "Australia",
+   "title": "Visiting sailors offer to ferry Flinders Island residents away from bushfire",
+   "summary": "A Victorian family sailing around Flinders Island offered residents boat rides away from the bushfire burning on the island, the ABC reported. Oliver Hordern, 21, said only one stranded resident accepted, as others had boats and planned to defend their homes.\n\nThe ABC said the fire has burned almost 15,000 hectares and damaged or destroyed six homes. An emergency warning remained for northern areas including Killiecrankie, where residents were told it was too late to leave. More than 60 firefighters were working on the fire, with rain forecast for Saturday.",
+   "keyFacts": [
+    "One resident accepted a boat ride",
+    "The fire has burned almost 15,000 hectares",
+    "Rain is forecast for Saturday"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-27/sailors-support-flinders-island-residents-during-bushfire/107432336"
+    }
+   ],
+   "publishedAt": "2026-11-27T05:22:00+11:00",
+   "createdAt": "2026-11-27T06:55:00+11:00",
+   "reason": "Human interest"
+  },
+  {
+   "id": "2026-11-27-lo-silver-rail-parents-petition",
+   "batch": "2026-11-27",
+   "rank": 13,
+   "category": "World",
+   "title": "Parents of boy killed in Oregon school shooting seek records from gunman's mother",
+   "summary": "The parents of five-year-old Rhoam Summer, who was killed in the October 15 shooting at Silver Rail Elementary School in Bend, Oregon, filed a petition on November 23 in Deschutes County Circuit Court, The Bulletin reported. It asks the court to order the 16-year-old gunman's mother to produce records on the purchase and ownership of the shotgun used.\n\nThe petition also seeks the teenager's online activity. Family lawyer Tim Williams said the family plans a wrongful death suit. The mother's lawyer did not respond to questions, according to The Bulletin.",
+   "keyFacts": [
+    "The petition was filed on November 23",
+    "It seeks records on the shotgun's ownership",
+    "The family is preparing a wrongful death suit"
+   ],
+   "sources": [
+    {
+     "name": "The Bulletin",
+     "url": "https://bendbulletin.com/2026/11/25/parents-of-silver-rail-victim-seek-info-on-shooters-gun-online-communications"
+    }
+   ],
+   "publishedAt": "2026-11-26T06:42:00+11:00",
+   "createdAt": "2026-11-27T06:55:00+11:00",
+   "reason": "Local crime"
+  },
+  {
+   "id": "2026-11-27-lo-provo-sticker-arrest",
+   "batch": "2026-11-27",
+   "rank": 14,
+   "category": "World",
+   "title": "DHS says Venezuelan man arrested in Utah over stickers urging Trump's assassination",
+   "summary": "US Immigration and Customs Enforcement arrested Venezuelan national Héctor Alejandro Mujica-Hernández in Provo, Utah, on October 16, the Department of Homeland Security said, according to KUTV. DHS alleges he distributed stickers encouraging President Donald Trump's assassination at a meeting of a local anti-ICE group.\n\nDHS said the FBI alerted investigators to threats found in his online activity, and that he entered the US legally in 2016 and overstayed his visa. KUTV's report did not state any charges, and did not include a response from the man.",
+   "keyFacts": [
+    "The arrest took place on October 16",
+    "DHS says he overstayed a visa issued in 2016",
+    "No charges were stated in the report"
+   ],
+   "sources": [
+    {
+     "name": "KUTV",
+     "url": "https://kutv.com/news/local/ice-arrests-provo-man-accused-of-distributing-stickers-promoting-violence-against-trump"
+    },
+    {
+     "name": "Fox News",
+     "url": "https://www.foxnews.com/us/venezuelan-illegal-immigrant-arrested-utah-soliciting-assassination-trump-dhs"
+    }
+   ],
+   "publishedAt": "2026-11-24T12:54:00+11:00",
+   "createdAt": "2026-11-27T06:55:00+11:00",
+   "reason": "Local crime"
+  },
+  {
+   "id": "2026-11-27-lo-young-republicans-grow-up",
+   "batch": "2026-11-27",
+   "rank": 15,
+   "category": "Politics",
+   "title": "Young Texas Republicans urge their party to 'grow up' after midterm losses",
+   "summary": "Members of the Tarrant County Young Republicans in Texas met in Fort Worth on November 23 to discuss the party's losses in the November 3 midterm elections, AP reported. Some members said the party needed to 'grow up' and show more humility, citing infighting.\n\nThe group's leaders said they were listening to members to identify better candidates and policies before 2028. Tarrant County, long a Republican stronghold, voted Democratic in the midterms, according to the report.",
+   "keyFacts": [
+    "The meeting was held in Fort Worth on November 23",
+    "Members criticised party infighting",
+    "Tarrant County voted Democratic in the midterms"
+   ],
+   "sources": [
+    {
+     "name": "AP (via San Antonio Express-News)",
+     "url": "https://www.mysanantonio.com/news/politics/article/these-young-republicans-have-a-message-for-their-22549247.php"
+    }
+   ],
+   "publishedAt": "2026-11-26T13:21:00+11:00",
+   "createdAt": "2026-11-27T06:55:00+11:00",
+   "reason": "Commentary"
+  },
+  {
+   "id": "2026-11-27-lo-huang-comeback-debate",
+   "batch": "2026-11-27",
+   "rank": 16,
+   "category": "Business",
+   "title": "AP report examines debate over Nvidia's reinstatement of Jensen Huang",
+   "summary": "An AP report examined criticism of Nvidia's decision to reinstate chief executive Jensen Huang, who resigned after admitting an affair with a woman suspected of being a Chinese spy and after reports of a relationship with a subordinate. The board said it had received US government assurances that Huang is not a national security concern, but did not address the misconduct allegations.\n\nCritics quoted said the move signalled impunity for powerful men. Huang told employees he had made mistakes and was in therapy, according to a report cited by AP. He is expected to appear before the Senate Banking Committee next week.",
+   "keyFacts": [
+    "Nvidia's board voted unanimously to reinstate Huang",
+    "The board cited US government security assurances",
+    "Huang is due before a Senate committee next week"
+   ],
+   "sources": [
+    {
+     "name": "AP (via News4JAX)",
+     "url": "https://www.news4jax.com/business/2026/11/25/nvidia-ceos-comeback-fuels-debate-over-misogyny-and-impunity-for-the-rich-and-powerful/"
+    }
+   ],
+   "publishedAt": "2026-11-26T06:55:00+11:00",
+   "createdAt": "2026-11-27T06:55:00+11:00",
+   "reason": "Commentary"
+  },
   {
    "id": "2026-11-26-snowtown-haydon-supervision",
    "batch": "2026-11-26-pm",
@@ -6319,28 +6693,6 @@
    "reason": "No new development"
   },
   {
-   "id": "2026-11-21-lo-senegal-newborn-fgm-arrests",
-   "batch": "2026-11-21-pm",
-   "rank": 14,
-   "category": "World",
-   "title": "Three arrested in Senegal after newborn dies following suspected genital mutilation",
-   "summary": "Three people, including a newborn girl's father and paternal grandmother, were arrested in Senegal's Tambacounda region after the baby died following suspected female genital mutilation, AP reported. A regional family affairs official said the procedure was allegedly carried out on 12 November, a day after the birth.\n\nThe official said the grandmother allegedly performed it without the mother's knowledge and the baby died on the way to a regional hospital. Female genital mutilation has been illegal in Senegal since 1999, with penalties of up to life imprisonment if it causes death, according to AP.",
-   "keyFacts": [
-    "Father, grandmother and another woman detained",
-    "Baby died on the way to hospital",
-    "Practice illegal in Senegal since 1999"
-   ],
-   "sources": [
-    {
-     "name": "AP (via WSB-TV)",
-     "url": "https://www.wsbtv.com/news/health/newborn-dies-after/SPN4FK7QU47DVKQ7CA7G55YNPM/"
-    }
-   ],
-   "publishedAt": "2026-11-20T03:16:00+11:00",
-   "createdAt": "2026-11-21T17:50:00+11:00",
-   "reason": "Local crime"
-  },
-  {
    "id": "2026-11-21-lo-sydney-terror-charges",
    "batch": "2026-11-21",
    "rank": 1,
@@ -6381,76 +6733,6 @@
     }
    ],
    "publishedAt": "2026-11-20T10:00:00+11:00",
-   "createdAt": "2026-11-21T06:50:59+11:00",
-   "reason": "Outside today's window"
-  },
-  {
-   "id": "2026-11-21-lo-somalia-expels-uae-envoy",
-   "batch": "2026-11-21",
-   "rank": 4,
-   "category": "World",
-   "title": "Somalia orders UAE ambassador to leave within 72 hours",
-   "summary": "Somalia's government ordered the United Arab Emirates ambassador to leave within 72 hours and recalled its own ambassador from Abu Dhabi, AP reported on Thursday. Information Minister Abdifatah Kasim Mohamud announced the decision after a Cabinet meeting.\n\nSomalia accuses the UAE of violating its sovereignty and supporting armed forces outside federal control, according to AP. The UAE has ties with Somaliland, Puntland and Jubbaland. UAE adviser Anwar Gargash accused President Hassan Sheikh Mohamud of putting personal calculations first. The dispute follows Somalia's annulment in January of agreements with the UAE on ports and security.",
-   "keyFacts": [
-    "UAE envoy given 72 hours to leave",
-    "Somalia recalls its ambassador from Abu Dhabi",
-    "Somalia accuses UAE of breaching sovereignty"
-   ],
-   "sources": [
-    {
-     "name": "AP (via ABC News US)",
-     "url": "https://abcnews.com/International/wireStory/somalia-orders-uae-ambassador-leave-diplomatic-dispute-escalates-138288436"
-    }
-   ],
-   "publishedAt": "2026-11-20T01:18:00+11:00",
-   "createdAt": "2026-11-21T06:50:59+11:00",
-   "reason": "Outside today's window"
-  },
-  {
-   "id": "2026-11-21-lo-house-china-aerospace-report",
-   "batch": "2026-11-21",
-   "rank": 5,
-   "category": "Politics",
-   "title": "US House China committee urges FAA not to certify Chinese-made aircraft",
-   "summary": "The US House Select Committee on China released a report recommending that the Federal Aviation Administration not certify Chinese-made aircraft and that the Treasury restrict outbound investment in China's aerospace sector, according to the committee. Chairman John Moolenaar said the US and its allies should tighten export controls and investment restrictions.\n\nThe report names Honeywell, GE Aerospace and Collins as having obtained licences for technology transfers involving Chinese military end users, the committee said. Reuters reported Honeywell said its projects were fully licensed by the US government. The FAA said it had not certified any Chinese aircraft, and China's embassy criticised the report.",
-   "keyFacts": [
-    "Report urges FAA not to certify Chinese aircraft",
-    "Recommends limits on aerospace investment in China",
-    "Honeywell says its projects were fully licensed"
-   ],
-   "sources": [
-    {
-     "name": "House Select Committee on the CCP",
-     "url": "https://chinaselectcommittee.house.gov/media/press-releases/investigation-details-how-western-government-policy-enabled-china-s-rise-in-the-skies"
-    },
-    {
-     "name": "Reuters (via Lufkin Daily News)",
-     "url": "https://lufkindailynews.com/news_reuters/top_news/exclusive-us-should-not-certify-chinese-aircraft-restrict-investments-in-chinas-aerospace-sector-lawmakers-say/article_539c833a-5cda-58af-86ae-df50cca092f5.html"
-    }
-   ],
-   "publishedAt": "2026-11-20T06:19:00+11:00",
-   "createdAt": "2026-11-21T06:50:59+11:00",
-   "reason": "Outside today's window"
-  },
-  {
-   "id": "2026-11-21-lo-uscc-taiwan-elections-report",
-   "batch": "2026-11-21",
-   "rank": 6,
-   "category": "World",
-   "title": "US commission says China will treat Taiwan's elections as a test",
-   "summary": "An annual report to the US Congress from the US-China Economic and Security Review Commission says Beijing will watch Taiwan's 28 November local elections and 2028 presidential vote to judge whether pressure can move Taiwan towards unification, the Taipei Times reported.\n\nThe report says China could escalate to a blockade or quarantine if its political approach fails, according to the newspaper. It lists Taiwan's vulnerabilities, including political divisions slowing defence spending and nearly $US30 billion in approved US weapons not yet delivered as of August. The report describes Taiwan as indispensable to the regional balance, the Taipei Times said.",
-   "keyFacts": [
-    "Report released by the US-China commission on 19 November",
-    "Says Beijing could escalate to blockade or quarantine",
-    "Nearly $US30 billion in US arms undelivered as of August"
-   ],
-   "sources": [
-    {
-     "name": "Taipei Times",
-     "url": "https://www.taipeitimes.com/News/front/archives/2026/11/20/2003868061"
-    }
-   ],
-   "publishedAt": "2026-11-20T03:00:00+11:00",
    "createdAt": "2026-11-21T06:50:59+11:00",
    "reason": "Outside today's window"
   },
@@ -6499,28 +6781,6 @@
     }
    ],
    "publishedAt": "2026-11-20T11:10:00+11:00",
-   "createdAt": "2026-11-21T06:50:59+11:00",
-   "reason": "Outside today's window"
-  },
-  {
-   "id": "2026-11-21-lo-michigan-rivers-e-coli",
-   "batch": "2026-11-21",
-   "rank": 10,
-   "category": "Environment",
-   "title": "Michigan officials estimate three in four rivers exceed E. coli limits",
-   "summary": "An estimated 75 per cent of Michigan's rivers and streams are likely to exceed state E. coli limits, according to Molly Rippke of the state's environment department, Bridge Michigan reported. The state has tested about half of its rivers and tributaries.\n\nThe report said sources include farm manure runoff, leaking septic systems and sewage. About 12.4 million people spend time on the state's rivers each year, according to the article. Lawmakers from both parties agree the problem is serious but differ on how to address it, Bridge Michigan said.",
-   "keyFacts": [
-    "About 75% of rivers likely exceed E. coli limits",
-    "State has tested about half its waterways",
-    "Sources include manure, septic systems and sewage"
-   ],
-   "sources": [
-    {
-     "name": "Bridge Michigan (via Michigan Public)",
-     "url": "https://www.michiganpublic.org/environment-climate-change/2026-11-19/michigan-rivers-streams-fecal-pollution-e-coli"
-    }
-   ],
-   "publishedAt": "2026-11-20T01:04:00+11:00",
    "createdAt": "2026-11-21T06:50:59+11:00",
    "reason": "Outside today's window"
   },
@@ -6681,138 +6941,6 @@
    "reason": "Restatement, nothing new",
    "rank": 3,
    "createdAt": "2026-11-20T17:50:46+11:00"
-  },
-  {
-   "id": "2026-11-20-lo-walkley-awards",
-   "batch": "2026-11-20",
-   "category": "Other",
-   "title": "ABC wins scoop of the year at 71st Walkley Awards",
-   "summary": "The ABC won seven awards at the 71st Walkley Awards for journalism, held in Sydney on Thursday night across 30 categories, the ABC reported. Scoop of the Year went to an ABC Investigations team for reporting on what ASIO knew before the Bondi attack.\n\nOther ABC winners included Foreign Correspondent's Gaza Children of War in the international category and Four Corners' Brutal Force in current affairs, according to the ABC. Walkley Foundation chief executive Shona Martyn said public interest journalism was in good hands. Other outlets' winners were not detailed in the ABC report.",
-   "keyFacts": [
-    "71st Walkley Awards held in Sydney",
-    "ABC won seven of 30 categories",
-    "Scoop of the Year for Bondi ASIO reporting"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-20/2026-walkley-awards-winners-scoop-of-the-year-bondi/107406420"
-    }
-   ],
-   "publishedAt": "2026-11-20T00:01:00+11:00",
-   "reason": "Ceremonial event",
-   "rank": 1,
-   "createdAt": "2026-11-20T06:48:18+11:00"
-  },
-  {
-   "id": "2026-11-20-lo-afl-draft-first-round",
-   "batch": "2026-11-20",
-   "category": "Sport",
-   "title": "Port Adelaide takes Dougie Cochrane at No.1 in AFL draft",
-   "summary": "Port Adelaide selected Dougie Cochrane with the first pick of the AFL national draft after matching an Essendon bid, AAP reported. Essendon took Ethan Drevers at No.2 and Carlton took father-son prospect Cody Walker at No.3.\n\nSydney took Brisbane academy player Caylen Murray at pick nine after Brisbane fell three points short of the draft value needed to match the bid, AAP said. Nineteen players were picked on the first night at Marvel Stadium, including five Indigenous players in the first round. The draft resumes on Friday night.",
-   "keyFacts": [
-    "Cochrane taken at pick one",
-    "19 players picked on opening night",
-    "Draft resumes Friday night"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/tears-trades-as-swans-shake-up-afl-draft-first-round"
-    }
-   ],
-   "publishedAt": "2026-11-19T22:30:00+11:00",
-   "reason": "Sport",
-   "rank": 2,
-   "createdAt": "2026-11-20T06:48:18+11:00"
-  },
-  {
-   "id": "2026-11-20-lo-foord-afc-award",
-   "batch": "2026-11-20",
-   "category": "Sport",
-   "title": "Caitlin Foord named AFC international women's player of the year",
-   "summary": "Matildas and Arsenal striker Caitlin Foord was named the Asian Football Confederation's international women's player of the year at a ceremony in Bangkok, AAP reported. She previously won the AFC youth award in 2011 and the women's player award in 2016.\n\nFoord is the second Australian to win the international award, after Ellie Carpenter in 2024, AAP said. She has 152 caps and 42 goals. Iranian goalkeeper Alireza Beiranvand won the men's player award, the first goalkeeper to do so, and North Korea's Kim Kyong-yong won the women's award.",
-   "keyFacts": [
-    "Awards held in Bangkok",
-    "Foord has 152 caps and 42 goals",
-    "Beiranvand first goalkeeper to win men's award"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/matildas-ace-lands-major-honour-in-asian-soccer-awards"
-    }
-   ],
-   "publishedAt": "2026-11-20T01:00:00+11:00",
-   "reason": "Sport",
-   "rank": 3,
-   "createdAt": "2026-11-20T06:48:18+11:00"
-  },
-  {
-   "id": "2026-11-20-lo-walk-against-family-violence",
-   "batch": "2026-11-20",
-   "category": "Australia",
-   "title": "Melbourne walk against family violence to begin 16 days of activism",
-   "summary": "The 18th annual Walk Against Family Violence is scheduled in Melbourne on Friday, starting at 10am from Birrarung Marr, AAP reported. Organisers say it marks the start of 16 days of activism against gender-based violence and coincides with Transgender Day of Remembrance.\n\nAAP spoke with survivors and advocates taking part, including a woman who now works with perpetrators of family violence. The report listed support services including 1800 RESPECT. No new government policy was announced in connection with the event.",
-   "keyFacts": [
-    "18th annual walk held in Melbourne",
-    "Marks start of 16 days of activism",
-    "Starts at Birrarung Marr at 10am"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/trapped-in-a-cage-thousands-to-walk-against-violence"
-    }
-   ],
-   "publishedAt": "2026-11-20T05:00:00+11:00",
-   "reason": "Human interest",
-   "rank": 4,
-   "createdAt": "2026-11-20T06:48:18+11:00"
-  },
-  {
-   "id": "2026-11-20-lo-economists-recession-risk",
-   "batch": "2026-11-20",
-   "category": "Economy",
-   "title": "Economists put recession risk higher after rise in unemployment",
-   "summary": "Economists said the rise in unemployment to 4.9 per cent in October increased the risk of an Australian recession, AAP reported. AMP chief economist Shane Oliver put the risk at about 40 per cent and cited five Reserve Bank rate rises in 2026.\n\nIndependent economist Saul Eslake said unemployment could reach the RBA's 5 per cent forecast as early as 2027, AAP said. He said a recession indicator known as the Sahm rule could be triggered in early 2027 if unemployment keeps rising at its recent pace. October inflation figures are due on Wednesday.",
-   "keyFacts": [
-    "Unemployment rose to 4.9 per cent in October",
-    "Oliver puts recession risk near 40 per cent",
-    "October inflation data due Wednesday"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/risk-is-high-recession-warning-after-jobless-spike"
-    }
-   ],
-   "publishedAt": "2026-11-20T03:30:00+11:00",
-   "reason": "Commentary",
-   "rank": 5,
-   "createdAt": "2026-11-20T06:48:18+11:00"
-  },
-  {
-   "id": "2026-11-20-lo-albanese-xi-business-access",
-   "batch": "2026-11-20",
-   "category": "Australia",
-   "title": "Businesses seek wider China market access before Albanese meets Xi",
-   "summary": "Prime Minister Anthony Albanese is due to meet Chinese President Xi Jinping in Shenzhen on Friday before travelling to Beijing for talks with Premier Li Qiang, the ABC reported. Executives from companies including BHP, Rio Tinto and ANZ are due to meet Chinese counterparts in Beijing.\n\nThe Business Council of Australia is seeking greater access for beef, rice, medical technology, resources and agricultural technology, according to the ABC. Business Council president Geoff Culbert is expected to say business confidence depends on trust and predictability. No outcomes from the meeting have been announced.",
-   "keyFacts": [
-    "Albanese due to meet Xi on Friday",
-    "Talks with Li Qiang to follow in Beijing",
-    "Business Council seeks wider market access"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-20/albanese-to-meet-xi-for-trade/107406222"
-    }
-   ],
-   "publishedAt": "2026-11-20T06:37:00+11:00",
-   "reason": "No new development",
-   "rank": 6,
-   "createdAt": "2026-11-20T06:48:18+11:00"
   },
   {
    "id": "2026-11-22-us-iran-war-fears",
