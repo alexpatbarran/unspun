@@ -1,6 +1,462 @@
 {
- "updatedAt": "2026-11-26T06:47:51+11:00",
+ "updatedAt": "2026-11-26T17:55:00+11:00",
  "articles": [
+  {
+   "id": "2026-11-26-emissions-2035-shortfall",
+   "batch": "2026-11-26-pm",
+   "rank": 1,
+   "category": "Environment",
+   "title": "Annual climate statement shows emissions fell 1.3%, short of pace for 2035 target",
+   "summary": "Australia's greenhouse gas emissions fell by 6.2 million tonnes, or 1.3 per cent, in the year to June 2026, according to the federal government's annual climate change statement released on Thursday. The ABC reported the fall was smaller than in the previous two reporting periods.\n\nXinhua reported the statement projects emissions on current trends at 42 per cent below 2005 levels in 2030 and 48 per cent in 2035, against targets of 43 per cent and 62 to 70 per cent. Climate Change Authority chair Matt Kean said annual cuts of 25 to 30 million tonnes are needed. Climate Minister Chris Bowen wrote that the recent rate of reduction was faster than the decade average.",
+   "keyFacts": [
+    "Emissions fell 6.2 million tonnes in the year to June 2026",
+    "The 2035 target is a 62–70% cut on 2005 levels",
+    "Renewables supplied a record 45.9% of the main power grid, the ABC said"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-26/australia-emissions-fall-short-2035-climate-target/107418552"
+    },
+    {
+     "name": "Xinhua",
+     "url": "https://english.news.cn/20261126/1a94b8bb16994758a5991ff9ea94eade/c.html"
+    }
+   ],
+   "publishedAt": "2026-11-26T12:50:00+11:00",
+   "createdAt": "2026-11-26T17:55:00+11:00"
+  },
+  {
+   "id": "2026-11-26-vic-coalition-costings",
+   "batch": "2026-11-26-pm",
+   "rank": 2,
+   "category": "Politics",
+   "title": "Victorian Coalition costings include leasing sewage plants and axing crossing removals",
+   "summary": "Victoria's Coalition released its election costings on Thursday, two days before Saturday's state election, the ABC reported. The Parliamentary Budget Office said the policies would reduce net debt by $20 billion over four years, to $176 billion.\n\nThe plan includes leasing Melbourne Water's Eastern and Western treatment plants, which the costings say would raise $13.63 billion by 2030-31 including land sales. Level crossing removals at Yarraville, Spotswood and on the Upfield line would be cancelled, and free kindergarten would stay at 15 hours a week. Opposition Leader Jess Wilson set a surplus target for 2032-33. Labor Treasurer Colin Brooks and Greens leader Ellen Sandell both criticised the plans.",
+   "keyFacts": [
+    "PBO says the policies cut net debt by $20 billion over four years",
+    "Sewage plant leases would raise $13.63 billion by 2030-31",
+    "More than 1.6 million Victorians had already voted, the ABC said"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-26/coalition-costings-victorian-state-election-2026/107430554"
+    }
+   ],
+   "publishedAt": "2026-11-26T16:38:00+11:00",
+   "createdAt": "2026-11-26T17:55:00+11:00"
+  },
+  {
+   "id": "2026-11-26-qld-ambulance-commissioner-retires",
+   "batch": "2026-11-26-pm",
+   "rank": 3,
+   "category": "Health",
+   "title": "Queensland Ambulance Service commissioner to leave after deaths linked to delays",
+   "summary": "Queensland Ambulance Service Commissioner Craig Emery will retire, Health Minister Tim Nicholls announced on Thursday, the ABC reported. Emery's five-year contract was due to end in February, and he will finish on 31 December after a period of leave. Deputy commissioner David Hartley will act in the role.\n\nThe ABC reported seven patients have died while waiting for ambulances in Queensland since late June. Nicholls said it was Emery's decision and denied he had been pushed out. United Workers Union Queensland's Fiona Scalon described Emery as a \"scapegoat\". Opposition Leader Steven Miles said the underlying cause was bed block in hospitals.",
+   "keyFacts": [
+    "Emery finishes on 31 December",
+    "Seven patients have died waiting for ambulances since late June, the ABC said",
+    "David Hartley will be acting commissioner"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-26/qld-ambulance-service-commissioner-resigns/107429060"
+    }
+   ],
+   "publishedAt": "2026-11-26T11:12:00+11:00",
+   "createdAt": "2026-11-26T17:55:00+11:00"
+  },
+  {
+   "id": "2026-11-26-nt-emailed-threat-ministers",
+   "batch": "2026-11-26-pm",
+   "rank": 4,
+   "category": "Australia",
+   "title": "NT Police investigate emailed threat against ministers over child protection laws",
+   "summary": "Northern Territory Police are investigating an encrypted email sent early on Thursday that threatened violence, including at public places in Darwin, unless the territory's new child protection laws are scrapped, according to AAP and the ABC. Chief Minister Lia Finocchiaro said it was sent at 4.16am to ministerial and electorate offices, government media units, the clerk and the ombudsman.\n\nAssistant Commissioner Sonia Kennon said police were treating the threat as credible until assessed, while noting many such threats are hoaxes, AAP reported. Police were also checking reports of similar emails in other jurisdictions. Finocchiaro called the email disturbing, and Opposition Leader Selena Uibo condemned threats of violence.",
+   "keyFacts": [
+    "The email was sent at 4.16am on Thursday",
+    "Anti-terrorism units are assessing its credibility, police said",
+    "The sender has not been identified"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-26/nt-government-threat-darwin-minister-and-public-areas/107429190"
+    },
+    {
+     "name": "AAP (via Yahoo News)",
+     "url": "https://au.news.yahoo.com/email-threat-territory-ministers-staff-014411018.html"
+    }
+   ],
+   "publishedAt": "2026-11-26T11:33:00+11:00",
+   "createdAt": "2026-11-26T17:55:00+11:00"
+  },
+  {
+   "id": "2026-11-26-bom-hot-summer-outlook",
+   "batch": "2026-11-26-pm",
+   "rank": 5,
+   "category": "Environment",
+   "title": "Bureau of Meteorology forecasts above-average summer temperatures for nearly all Australia",
+   "summary": "The Bureau of Meteorology expects above-average temperatures across almost all of Australia this summer as an El Niño strengthens, the ABC reported on Thursday. Bureau climatologist Qian Zhou said there is a higher chance of unusually high maximum temperatures nationwide, except a small area near Exmouth in WA.\n\nThe outlook shows below-average rainfall likely in Tasmania and coastal parts of the Kimberley and Pilbara, and possible extreme rainfall in southern Queensland and north-eastern NSW, particularly in December. The bureau said October was the warmest October on record for global sea surface temperatures. Royal Australian College of GPs president Ramya Raman said extreme heat can cause significant public health problems.",
+   "keyFacts": [
+    "Above-average temperatures are forecast for almost all of Australia",
+    "An El Niño is strengthening, the bureau says",
+    "October set a record for global sea surface temperatures"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-26/weather-bureau-predicts-another-long-hot-australian-summer/107424992"
+    }
+   ],
+   "publishedAt": "2026-11-26T13:10:00+11:00",
+   "createdAt": "2026-11-26T17:55:00+11:00"
+  },
+  {
+   "id": "2026-11-26-western-downs-data-centre-cleared",
+   "batch": "2026-11-26-pm",
+   "rank": 6,
+   "category": "Business",
+   "title": "Federal regulator clears $32 billion Queensland data centre from further assessment",
+   "summary": "The National Environmental Protection Agency has decided the $32 billion Western Downs Digital Park near Dalby in Queensland does not need further federal environmental assessment, the ABC reported on Thursday. The agency found the project unlikely to have a significant impact on matters of national environmental significance.\n\nAnthropic signed an agreement in September to use the site and hoped to begin operations in 2027. Developer Zerra DC welcomed the decision, which the ABC said took about two months. The project still needs council and state approvals. A Climate Council report has said the site could become a major emissions source without renewable power, and local group Western Downs Says Pause said the project was being fast-tracked.",
+   "keyFacts": [
+    "The project is valued at $32 billion",
+    "Council and state approvals are still required",
+    "Anthropic aims to begin using the site in 2027"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-26/western-downs-digital-park-federal-environmental-approval/107428970"
+    }
+   ],
+   "publishedAt": "2026-11-26T11:48:00+11:00",
+   "createdAt": "2026-11-26T17:55:00+11:00"
+  },
+  {
+   "id": "2026-11-26-flinders-island-fire-homes",
+   "batch": "2026-11-26-pm",
+   "rank": 7,
+   "category": "Australia",
+   "title": "Flinders Island bushfire burns about 10% of island; up to six homes damaged or destroyed",
+   "summary": "A bushfire on Tasmania's Flinders Island had burned about 13,000 hectares by Thursday after a wind change pushed it south-west, according to the Tasmania Fire Service. This updates earlier reports of emergency warnings on the island.\n\nTFS deputy regional chief Steve Richardson told ABC radio that up to six homes had been damaged or destroyed, though crews had not been able to safely assess them, AAP reported via SBS. Residents near Killiecrankie were told around 10am it was too late to leave. Power lines are down on several roads and some communication towers are running on backup generators, the ABC said. The fire is suspected to have been started by lightning.",
+   "keyFacts": [
+    "About 13,000 hectares have burned",
+    "Up to six homes damaged or destroyed, not yet assessed",
+    "An evacuation centre is operating at Whitemark"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-26/flinders-island-bushfire-thursday-making-significant-run/107425982"
+    },
+    {
+     "name": "SBS News (AAP)",
+     "url": "https://www.sbs.com.au/news/article/homes-lost-as-bushfires-tear-through-tasmanias-flinders-island/fplcwbzeh"
+    }
+   ],
+   "publishedAt": "2026-11-26T13:34:00+11:00",
+   "createdAt": "2026-11-26T17:55:00+11:00"
+  },
+  {
+   "id": "2026-11-26-david-jones-administration-extended",
+   "batch": "2026-11-26-pm",
+   "rank": 8,
+   "category": "Business",
+   "title": "Court gives David Jones administrators three more months to find a buyer",
+   "summary": "The NSW Supreme Court has extended the administration of department store chain David Jones, giving administrator McGrathNicol more time to complete a sale, AAP reported on Thursday. A second creditors' meeting has been set for 3 March. McGrathNicol's lawyer had described the extension as modest.\n\nAAP reported David Jones owes $155 million to Hilco and about $81 million to owner Anchorage Capital, and that more than 140 parties have contacted the administrators. Eighteen Australian stores and one in New Zealand are due to close by the end of the year, and almost 1,700 of about 6,000 staff have been made redundant. Chief executive Erica Berchtold told 2GB she expected the business to survive.",
+   "keyFacts": [
+    "Second creditors' meeting set for 3 March",
+    "19 stores are closing by year end",
+    "Almost 1,700 staff have been made redundant, AAP says"
+   ],
+   "sources": [
+    {
+     "name": "AAP (via InDaily)",
+     "url": "https://www.indailysa.com.au/news/just-in/2026/11/26/the-survival-of-david-jones-hope-of-new-year-rebirth"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-26/asx-markets-business-news-live-updates-thursday-26-november/107428134"
+    }
+   ],
+   "publishedAt": "2026-11-26T15:16:00+11:00",
+   "createdAt": "2026-11-26T17:55:00+11:00"
+  },
+  {
+   "id": "2026-11-26-harvey-norman-sales-fall",
+   "batch": "2026-11-26-pm",
+   "rank": 9,
+   "category": "Business",
+   "title": "Harvey Norman says pre-tax profit fell 47% in first four months as sales drop",
+   "summary": "Harvey Norman's pre-tax profit fell 47 per cent in the first four months of the financial year, and same-store sales at its 195 Australian franchises fell 3.7 per cent to the end of October, AAP reported after the retailer's annual meeting on Wednesday.\n\nSame-store sales were down 1.6 per cent in the first 20 days of November. Executive chairman Gerry Harvey told AAP he expected 2027 to be very difficult, named inflation as his biggest concern and said he believed a recession was unavoidable. He said the half-year profit fall would be smaller than 47 per cent. Shares fell 2.8 per cent to $4.13, AAP said.",
+   "keyFacts": [
+    "Pre-tax profit down 47% in the four months to October",
+    "Australian same-store sales down 3.7%",
+    "Shares fell 2.8% to $4.13"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/harvey-norman-s-profit-nearly-halves-as-sales-drop"
+    }
+   ],
+   "publishedAt": "2026-11-26T05:45:00+11:00",
+   "createdAt": "2026-11-26T17:55:00+11:00"
+  },
+  {
+   "id": "2026-11-26-chalmers-suncorp-allegations",
+   "batch": "2026-11-26-pm",
+   "rank": 10,
+   "category": "Business",
+   "title": "Chalmers says Suncorp whistleblower claims are serious and expects regulator scrutiny",
+   "summary": "Treasurer Jim Chalmers said allegations about insurer Suncorp's handling of home insurance claims were serious and that he expected the regulator to examine them closely, the ABC reported on Thursday. The allegations were aired by a former employee on the ABC's 7.30 program on Tuesday.\n\nThe whistleblower alleged Suncorp rewarded staff for denying or reducing claims and that its culture put profit ahead of customers. APRA said it took the concerns seriously, and the Australian Consumers Insurance Lobby called for ASIC to intervene. The Insurance Council declined to comment. The ABC's reports did not include a response from Suncorp.",
+   "keyFacts": [
+    "The allegations were broadcast on 7.30 on Tuesday",
+    "APRA says it takes the concerns seriously",
+    "A consumer group has called for ASIC intervention"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-26/asx-markets-business-news-live-updates-thursday-26-november/107428134"
+    },
+    {
+     "name": "ABC 7.30",
+     "url": "https://www.abc.net.au/news/2026-11-24/whistleblower-alleges-suncorp-rewards-staff-deny-insurance-claim/107422530"
+    }
+   ],
+   "publishedAt": "2026-11-26T09:13:00+11:00",
+   "createdAt": "2026-11-26T17:55:00+11:00"
+  },
+  {
+   "id": "2026-11-26-virgin-airport-strikes",
+   "batch": "2026-11-26-pm",
+   "rank": 11,
+   "category": "Business",
+   "title": "Virgin Australia airport workers strike at four major airports over pay and shifts",
+   "summary": "Virgin Australia airport workers held short strikes on Thursday at Adelaide, Brisbane, Melbourne and Sydney airports, the Australian Services Union said, according to the ABC. Stoppages ran for two to three hours in the morning and afternoon at the different airports.\n\nThe union said the dispute concerns pay and being required to work nine-hour shifts at single rates, and warned of delays and cancellations. ASU assistant national secretary Scott Cowen said Virgin could end the action with a fair offer. Virgin said it had contingency plans and did not expect passengers to be affected, and that it remained committed to working with unions.",
+   "keyFacts": [
+    "Strikes affect Adelaide, Brisbane, Melbourne and Sydney",
+    "The ASU says nine-hour shifts at single rates are in dispute",
+    "Virgin says it has contingency plans in place"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-26/virgin-australia-workers-industrial-action/107428072"
+    }
+   ],
+   "publishedAt": "2026-11-26T07:27:00+11:00",
+   "createdAt": "2026-11-26T17:55:00+11:00"
+  },
+  {
+   "id": "2026-11-26-tas-greyhound-ban-defeated",
+   "batch": "2026-11-26-pm",
+   "rank": 12,
+   "category": "Politics",
+   "title": "Tasmania's upper house rejects greyhound racing ban; government says phase-out continues",
+   "summary": "Tasmania's Legislative Council voted six to eight on Wednesday against a bill to formally ban greyhound racing, the ABC reported. The bill, which had passed the lower house, would have ended the industry by June 2029 and immediately banned breeding for racing and non-medical euthanasia of racing dogs. Labor and six independents voted against it.\n\nRacing Minister Roger Jaensch said the phase-out would proceed without legislative protections, and Premier Jeremy Rockliff said taxpayer funding would end from 2029. The Welfare Alliance for Greyhounds described the outcome as \"perverse\", while RSPCA Tasmania said the industry should not treat it as a reprieve.",
+   "keyFacts": [
+    "The bill was defeated six votes to eight",
+    "It would have ended racing by June 2029",
+    "The government says public funding ends from 2029"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-26/greyhound-racing-tasmania-phase-out-legislative-protections/107428306"
+    }
+   ],
+   "publishedAt": "2026-11-26T09:54:00+11:00",
+   "createdAt": "2026-11-26T17:55:00+11:00"
+  },
+  {
+   "id": "2026-11-26-cairo-ring-road-fire",
+   "batch": "2026-11-26-pm",
+   "rank": 13,
+   "category": "World",
+   "title": "Fire after crash on Cairo ring road kills at least 30, Egypt's health ministry says",
+   "summary": "At least 30 people were killed on Wednesday when a fire broke out on Cairo's Ring Road in the Warraq area, Egypt's health ministry said, according to AP. The ABC's version of the AP report said the fire followed a fuel tanker crash and that more than two dozen cars and motorcycles were burned.\n\nHealth Minister Khaled Abdel Ghaffar said the toll was preliminary. Reports of the number injured differed between versions of the AP story, at 15 and 25. The public prosecutor's office said DNA testing was under way to identify victims. President Abdel-Fattah el-Sissi offered condolences.",
+   "keyFacts": [
+    "At least 30 people were killed",
+    "The death toll is preliminary, the health minister said",
+    "DNA testing is being used to identify victims"
+   ],
+   "sources": [
+    {
+     "name": "AP (via News4JAX)",
+     "url": "https://www.news4jax.com/news/2026/11/25/a-fire-on-a-major-highway-surrounding-cairo-kills-at-least-30-people-egypts-health-ministry-says/"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-26/egypt-deadly-fuel-tanker-crash-cairo-highway/107428222"
+    }
+   ],
+   "publishedAt": "2026-11-26T06:14:00+11:00",
+   "createdAt": "2026-11-26T17:55:00+11:00"
+  },
+  {
+   "id": "2026-11-26-dubai-tanker-projectile",
+   "batch": "2026-11-26-pm",
+   "rank": 14,
+   "category": "World",
+   "title": "UK maritime agency reports projectile explosion near tanker 50 nautical miles off Dubai",
+   "summary": "The UK Maritime Trade Operations agency said a tanker's captain reported an explosion caused by an unidentified projectile about 50 nautical miles west of Dubai early on Thursday local time, according to Anadolu Agency and Middle East Eye.\n\nUKMTO said all crew were safe and accounted for, and there was no damage to the vessel or environmental impact. The agency classed the incident as suspicious activity and advised ships to proceed with caution. No group had claimed responsibility in the reports. The incident follows a series of attacks on Gulf shipping and Saudi infrastructure linked to the Iran conflict.",
+   "keyFacts": [
+    "The explosion was about 50 nautical miles west of Dubai",
+    "No damage or injuries were reported",
+    "UKMTO advised vessels to proceed with caution"
+   ],
+   "sources": [
+    {
+     "name": "Anadolu Agency",
+     "url": "https://www.aa.com.tr/en/middle-east/explosion-reported-near-tanker-west-of-dubai-uk-maritime-agency/4138116"
+    },
+    {
+     "name": "Middle East Eye",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ukmto-reports-explosion-near-tanker-west-dubai"
+    }
+   ],
+   "publishedAt": "2026-11-26T10:29:00+11:00",
+   "createdAt": "2026-11-26T17:55:00+11:00"
+  },
+  {
+   "id": "2026-11-26-gaza-strike-hamas-education-official",
+   "batch": "2026-11-26-pm",
+   "rank": 15,
+   "category": "World",
+   "title": "Palestinian media say Israeli strike killed Hamas deputy education minister and his wife",
+   "summary": "Palestinian media reported that an overnight Israeli strike on an apartment building in Deir al-Balah in central Gaza killed Khaled Abu Nada, deputy education minister in the Hamas-run government, and his wife, The Times of Israel reported on Thursday.\n\nThe Israeli military said it had struck a senior Hamas operative and would release more details later. The reports said two people were killed. The strike follows Israeli strikes earlier this week that Israeli and Palestinian officials said killed senior Hamas internal security figures.",
+   "keyFacts": [
+    "The strike hit an apartment building in Deir al-Balah",
+    "Palestinian media named the official as Khaled Abu Nada",
+    "The IDF said it targeted a senior Hamas operative"
+   ],
+   "sources": [
+    {
+     "name": "The Times of Israel",
+     "url": "https://www.timesofisrael.com/liveblog_entry/overnight-idf-strike-in-gaza-said-to-kill-hamas-education-official/"
+    }
+   ],
+   "publishedAt": "2026-11-26T15:28:00+11:00",
+   "createdAt": "2026-11-26T17:55:00+11:00"
+  },
+  {
+   "id": "2026-11-26-poland-border-no-fly-zone",
+   "batch": "2026-11-26-pm",
+   "rank": 16,
+   "category": "World",
+   "title": "Poland plans no-fly zone along its border with Ukraine from around January",
+   "summary": "Poland's deputy defence minister Cezary Tomczyk said a decree would create a no-fly zone in eastern Poland extending between a dozen and several dozen kilometres from the Ukrainian border, Ukrainska Pravda reported on Wednesday, citing Polish outlet Interia.\n\nThe aim is for the decree to take effect at the end of December or start of January. The report linked the plan to debris from Russian Kh-101 missiles found in three places in Poland after a 20 November attack on Ukraine, and a drone that entered Polish airspace overnight on 23–24 November. The Kyiv Independent reported Poland has also asked NATO to intercept Russian missiles over Ukraine.",
+   "keyFacts": [
+    "The zone would extend up to several dozen kilometres from the border",
+    "Target start is late December or early January",
+    "Russian missile debris was found in three Polish locations"
+   ],
+   "sources": [
+    {
+     "name": "Ukrainska Pravda (via Yahoo News)",
+     "url": "https://www.yahoo.com/news/world/articles/poland-plans-establish-no-fly-140400915.html"
+    }
+   ],
+   "publishedAt": "2026-11-26T01:04:00+11:00",
+   "createdAt": "2026-11-26T17:55:00+11:00"
+  },
+  {
+   "id": "2026-11-26-karachi-building-collapse",
+   "batch": "2026-11-26-pm",
+   "rank": 17,
+   "category": "World",
+   "title": "Karachi building collapse kills three; police arrest four as families report 17 missing",
+   "summary": "A six-storey building under construction collapsed in Karachi's KECHS area near Baloch Colony on Wednesday, killing at least three people and injuring 14, Dawn reported, citing rescue officials. Karachi mayor Murtaza Wahab said building authorities had planned to demolish the structure but a court stay order had prevented it.\n\nPolice arrested four suspects on Thursday and registered a case naming more than 10 people, including the landowner, builder and engineers, Aaj News reported. Families have reported 17 people missing. Sindh Chief Minister Murad Ali Shah ordered a review of possible negligence, and President Asif Ali Zardari called for a full investigation.",
+   "keyFacts": [
+    "At least three dead and 14 injured",
+    "Four suspects arrested; 17 people reported missing",
+    "A court stay had blocked a planned demolition, the mayor said"
+   ],
+   "sources": [
+    {
+     "name": "Dawn",
+     "url": "https://www.dawn.com/news/2046989/at-least-3-killed-14-injured-after-under-construction-building-collapses-near-karachis-baloch-colony"
+    },
+    {
+     "name": "Aaj News",
+     "url": "https://english.aaj.tv/news/330482171/four-arrested-over-karachi-building-collapse-as-17-remain-missing"
+    }
+   ],
+   "publishedAt": "2026-11-26T16:41:00+11:00",
+   "createdAt": "2026-11-26T17:55:00+11:00"
+  },
+  {
+   "id": "2026-11-26-indonesia-mine-toll-13",
+   "batch": "2026-11-26-pm",
+   "rank": 18,
+   "category": "World",
+   "title": "Death toll in flooded West Java gold mine rises to 13, with 13 still missing",
+   "summary": "Thirteen workers have died and 13 remain missing after a river overflowed and flooded an unlicensed gold mine in West Java, Indonesia, AFP reported on Thursday, citing search and rescue chief Desiana Kartika Bahari. Earlier reports said 26 workers were trapped.\n\nWest Java police spokesman Hendra Rochmawan said 11 miners escaped before the shafts flooded after heavy rain on Monday, and that authorities were not alerted until Tuesday. The shaft is about 100 metres deep, according to AFP. The search for the missing workers resumed on Thursday.",
+   "keyFacts": [
+    "13 confirmed dead and 13 missing",
+    "11 miners escaped before flooding, police said",
+    "Authorities were alerted a day after the flood"
+   ],
+   "sources": [
+    {
+     "name": "AFP (via Malay Mail)",
+     "url": "https://www.malaymail.com/news/world/2026/11/26/indonesia-mining-disaster-100m-deep-shaft-flooded-by-overflowing-river-13-miners-dead/244825"
+    }
+   ],
+   "publishedAt": "2026-11-26T14:03:00+11:00",
+   "createdAt": "2026-11-26T17:55:00+11:00"
+  },
+  {
+   "id": "2026-11-26-vance-huang-no-pardon",
+   "batch": "2026-11-26-pm",
+   "rank": 19,
+   "category": "Business",
+   "title": "Vance says Nvidia's Huang is not under investigation and does not need a pardon",
+   "summary": "US Vice President JD Vance said on Wednesday that the Justice Department and national security officials told him Nvidia chief executive Jensen Huang was not under investigation, CBS News reported. Vance said Huang did not need a pardon and that reinstating him was ultimately the board's decision.\n\nNvidia's board reinstated Huang on Monday after he resigned earlier this month, the ABC reported. President Donald Trump told the New York Post a pardon was \"always an option\" but probably unnecessary. Attorney-General Todd Blanche said there was no evidence Huang broke any law. Huang is due to testify before the Senate Banking Committee on 1 December.",
+   "keyFacts": [
+    "Vance said he was told Huang is not under investigation",
+    "Huang was reinstated as CEO on Monday",
+    "Huang is due before a Senate committee on 1 December"
+   ],
+   "sources": [
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/news/vance-says-jensen-huang-doesnt-need-pardon/"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-26/jd-vance-shrugs-off-ceo-pardon-after-trump-comment/107429070"
+    }
+   ],
+   "publishedAt": "2026-11-26T06:25:00+11:00",
+   "createdAt": "2026-11-26T17:55:00+11:00"
+  },
+  {
+   "id": "2026-11-26-hera-dimorphos-crater",
+   "batch": "2026-11-26-pm",
+   "rank": 20,
+   "category": "Science & Tech",
+   "title": "ESA's Hera images show large crater left on asteroid Dimorphos by NASA's DART impact",
+   "summary": "New images from the European Space Agency's Hera spacecraft show a stadium-sized crater on the asteroid Dimorphos, left by NASA's deliberate DART collision in 2022, the ABC reported, citing Reuters and ESA.\n\nHera mission scientist Michael Küppers said the side hit by DART is now completely covered by a crater, while the opposite side showed no major change. He said Dimorphos is now tumbling chaotically and that there are hundreds of boulders in the system. Dimorphos is about 151 metres wide and orbits the larger asteroid Didymos; neither poses a threat to Earth. Hera is due to move within 13 kilometres next month.",
+   "keyFacts": [
+    "DART struck Dimorphos in 2022 to test asteroid deflection",
+    "Dimorphos is about 151 metres wide",
+    "Hera will approach within 13 km next month"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-26/new-photos-of-struck-asteroid-dimorphos/107428078"
+    }
+   ],
+   "publishedAt": "2026-11-26T07:41:00+11:00",
+   "createdAt": "2026-11-26T17:55:00+11:00"
+  },
   {
    "id": "2026-11-26-blyth-defects-one-nation",
    "batch": "2026-11-26",
@@ -4097,269 +4553,6 @@
    "createdAt": "2026-11-20T06:48:18+11:00"
   },
   {
-   "id": "2026-11-19-unemployment-4-9",
-   "batch": "2026-11-19-pm",
-   "category": "Economy",
-   "title": "Unemployment rises to 4.9 per cent as employment falls by 43,500 in October",
-   "summary": "Australia's seasonally adjusted unemployment rate rose to 4.9 per cent in October from 4.7 per cent in September, according to ABS figures reported by the ABC and SBS. Employment fell by about 43,500 and the labour force shrank by 30,400, the ABC reported. Economists had expected the rate to hold steady, SBS said.\n\nThe ABC said it is the highest rate since the pandemic. BetaShares economist David Bassanese said the result strengthened the case for the Reserve Bank to hold rates in December. Moody's analysts said most of the fall was in part-time jobs. Opposition Leader Angus Taylor said Australia was in an \"economic crisis\", according to the ABC.",
-   "keyFacts": [
-    "Unemployment rate rose from 4.7 to 4.9 per cent",
-    "Employment fell by about 43,500 in October",
-    "Youth unemployment rose to 11.3 per cent"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://abc.net.au/news/2026-11-19/unemployment-rate-jumps-in-october-in-australia/107399076"
-    },
-    {
-     "name": "SBS News",
-     "url": "https://www.sbs.com.au/news/article/australias-unemployment-figures-high/pnwz5e8jz"
-    },
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-19/federal-politics-live-blog-migrant-workers/107400850"
-    }
-   ],
-   "publishedAt": "2026-11-19T11:30:00+11:00",
-   "rank": 1,
-   "createdAt": "2026-11-19T17:47:45+11:00"
-  },
-  {
-   "id": "2026-11-19-trump-putin-shenzhen-talks",
-   "batch": "2026-11-19-pm",
-   "category": "World",
-   "title": "Trump and Putin meet on APEC sidelines in Shenzhen; no joint statement issued",
-   "summary": "US President Donald Trump and Russian President Vladimir Putin met on the sidelines of the APEC summit in Shenzhen, according to the ABC and ANI. The ABC reported that Trump greeted Putin with a handshake and said the pair would meet a second time later in the day.\n\nKremlin aide Yuri Ushakov said the leaders discussed the war in Ukraine and bilateral relations and issued no joint statement, Ukrainian outlet UA.NEWS reported. Ushakov said no major announcements were made because both sides were preparing for the three-way meeting with Chinese President Xi Jinping. The US side had not released its own account in the reports reviewed.",
-   "keyFacts": [
-    "First in-person talks since the 2025 Alaska summit",
-    "Kremlin says Ukraine and bilateral ties were discussed",
-    "Three-way meeting with Xi was due later on Thursday"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-19/trump-xi-putin-meeting-live-blog-apec-summit/107394202"
-    },
-    {
-     "name": "UA.NEWS",
-     "url": "https://ua.news/en/world/tramp-i-putin-zavershili-zustrich-u-shenchzheni-bez-spilnoyi-zaiavi-dlia-presi"
-    },
-    {
-     "name": "ANI (via The Tribune)",
-     "url": "https://www.tribuneindia.com/news/world/russia-strikes-ukraine-as-putin-holds-talks-with-trump-in-shenzen-ahead-of-key-trilateral-with-xi"
-    }
-   ],
-   "publishedAt": "2026-11-19T15:55:00+11:00",
-   "rank": 2,
-   "createdAt": "2026-11-19T17:47:45+11:00"
-  },
-  {
-   "id": "2026-11-19-anthropic-ipo-priced-83",
-   "batch": "2026-11-19-pm",
-   "category": "Business",
-   "title": "Anthropic prices IPO at $US83 a share, raising about $US81 billion",
-   "summary": "AI company Anthropic priced its initial public offering at $US83 a share, above its expected range of $US70 to $US78, AP reported. The company said on X that the price was set and that trading on Nasdaq was expected to begin on Thursday US time under the ticker ANT.\n\nAP said the sale of 980 million shares, up from 825 million planned, raised about $US81 billion and valued the company at about $US1.5 trillion. AP said that was more than the roughly $US75 billion raised by SpaceX in June. The company's filings describe $US6.2 billion in debt and computing commitments of about $US900 billion, according to AP.",
-   "keyFacts": [
-    "What changed: priced at $US83, above the $US70-$US78 range",
-    "Share sale enlarged to 980 million shares",
-    "AP reports a valuation of about $US1.5 trillion"
-   ],
-   "sources": [
-    {
-     "name": "AP (via PBS NewsHour)",
-     "url": "https://www.pbs.org/newshour/economy/anthropic-prices-its-ipo-at-83-per-share-valuing-the-ai-giant-at-1-5-trillion"
-    },
-    {
-     "name": "Anthropic",
-     "url": "https://x.com/AnthropicAI/status/2123196808675405860"
-    }
-   ],
-   "publishedAt": "2026-11-19T11:54:00+11:00",
-   "rank": 3,
-   "createdAt": "2026-11-19T17:47:45+11:00"
-  },
-  {
-   "id": "2026-11-19-trump-weighs-iran-strikes-nyt",
-   "batch": "2026-11-19-pm",
-   "category": "World",
-   "title": "Trump weighing new strikes on Iran as Israel presses for campaign, NYT reports",
-   "summary": "US President Donald Trump is considering another round of major strikes on Iran but has not decided, The New York Times reported, citing US and Israeli officials, according to i24NEWS and The Times of Israel. Israeli Prime Minister Benjamin Netanyahu has urged a four- to seven-day air campaign, the reports said.\n\nIsrael's Mossad chief Roman Gofman met US officials in Washington last week with intelligence that Iran is advancing chemical and biological weapons work, according to the reports. Axios reported some US officials believe the intelligence is driven by an agenda. Trump told Fox News there was an indication Iran was looking at gas. Iran has not responded to the reports.",
-   "keyFacts": [
-    "The NYT says Trump has not made a decision",
-    "Israel is reported to favour a four- to seven-day campaign",
-    "US officials are reported to be divided on the intelligence"
-   ],
-   "sources": [
-    {
-     "name": "i24NEWS",
-     "url": "https://www.i24news.tv/en/news/israel/defense/artc-netanyahu-urges-trump-to-join-four-to-seven-day-air-campaign-against-iran-report-says-report"
-    },
-    {
-     "name": "The Times of Israel",
-     "url": "https://www.timesofisrael.com/liveblog_entry/trump-said-weighing-another-iran-offensive-as-netanyahu-pushes-a-4-to-7-day-campaign/"
-    }
-   ],
-   "publishedAt": "2026-11-19T15:30:00+11:00",
-   "rank": 4,
-   "createdAt": "2026-11-19T17:47:45+11:00"
-  },
-  {
-   "id": "2026-11-19-crimea-bridge-hit-again",
-   "batch": "2026-11-19-pm",
-   "category": "World",
-   "title": "Crimea bridge hit again overnight as rail traffic halted",
-   "summary": "The bridge linking Russia to occupied Crimea was hit again just after midnight local time on Thursday, its Moscow-installed head Sergei Aksyonov said, according to the Kyiv Independent. Russia's Transport Ministry said rail traffic was temporarily suspended after a drone attack and no one was hurt, ANI reported, citing TASS.\n\nThe strike follows a Ukrainian missile attack on Tuesday that dropped part of the bridge into the Kerch Strait. The Kyiv Independent said it could not independently verify the extent of the latest damage. Aksyonov said general traffic was paused while damage was assessed. Ukraine had not commented on the latest strike in the reports reviewed.",
-   "keyFacts": [
-    "What changed: a further strike overnight on Thursday",
-    "Rail traffic suspended, according to Russia",
-    "No injuries reported by Russian officials"
-   ],
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/ukrainian-forces-once-more-hit-russias-crimean-bridge-days-after-devastating-strike/"
-    },
-    {
-     "name": "ANI (via The Tribune)",
-     "url": "https://www.tribuneindia.com/news/world/russia-strikes-ukraine-as-putin-holds-talks-with-trump-in-shenzen-ahead-of-key-trilateral-with-xi"
-    }
-   ],
-   "publishedAt": "2026-11-19T11:04:00+11:00",
-   "rank": 5,
-   "createdAt": "2026-11-19T17:47:45+11:00"
-  },
-  {
-   "id": "2026-11-19-senate-electoral-bill-guillotine",
-   "batch": "2026-11-19-pm",
-   "category": "Politics",
-   "title": "Labor and Coalition block Senate inquiry into electoral funding bill",
-   "summary": "Labor and the Coalition voted down independent senator David Pocock's motion to refer the government's electoral reform bill to a Senate committee, the ABC reported. The bill changes political donation and disclosure rules. South Australian Liberal senator Andrew McLachlan crossed the floor to back the referral with the Greens, One Nation and crossbench.\n\nSenate government business manager Katy Gallagher then moved to suspend standing orders to set time limits on debate for five bills, including the electoral bill and a defence bases bill, with votes from 1pm, according to the ABC. Labor's gas reservation, trust tax and capital gains tax bills were not included.",
-   "keyFacts": [
-    "Pocock's referral motion was defeated",
-    "One Liberal senator crossed the floor",
-    "Five bills listed for a guillotine"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-19/federal-politics-live-blog-migrant-workers/107400850"
-    }
-   ],
-   "publishedAt": "2026-11-19T12:04:00+11:00",
-   "rank": 6,
-   "createdAt": "2026-11-19T17:47:45+11:00"
-  },
-  {
-   "id": "2026-11-19-port-of-darwin-landbridge",
-   "batch": "2026-11-19-pm",
-   "category": "Australia",
-   "title": "Marles says government still wants Port of Darwin back as Landbridge refuses to sell",
-   "summary": "Acting Prime Minister Richard Marles said the government remains committed to returning the Port of Darwin to Australian hands, but gave no timeline, the ABC and news.com.au reported. Marles said the government wanted operator Landbridge to sell its interest.\n\nLandbridge, a Chinese-owned company that signed a 99-year, $506 million lease in 2015, said it is not a willing seller and that forced divestment would breach international law, news.com.au reported. The ABC said the company has taken international legal action, calling the move discriminatory under the Australia-China free trade agreement. Prime Minister Anthony Albanese is due to meet President Xi Jinping on Friday.",
-   "keyFacts": [
-    "Lease signed in 2015 for 99 years",
-    "Landbridge says it is not a willing seller",
-    "No timeline given for the buyback"
-   ],
-   "sources": [
-    {
-     "name": "news.com.au (via Yahoo News)",
-     "url": "https://au.news.yahoo.com/port-darwin-rears-head-albo-014355165.html"
-    },
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-19/federal-politics-live-blog-migrant-workers/107400850"
-    }
-   ],
-   "publishedAt": "2026-11-19T12:43:00+11:00",
-   "rank": 8,
-   "createdAt": "2026-11-19T17:47:45+11:00"
-  },
-  {
-   "id": "2026-11-19-ndis-plan-management-panel",
-   "batch": "2026-11-19-pm",
-   "category": "Health",
-   "title": "Government sets up NDIS plan management panel to tighten oversight",
-   "summary": "NDIS Minister Jenny McAllister announced a Plan Management Panel to strengthen oversight of providers who manage participants' funds and to target fraud, the ABC reported. The government expects its broader NDIS changes to save $1.4 billion over the forward estimates.\n\nBetween July and September, the National Disability Insurance Agency rejected 3,600 claims worth $5.8 million over suspected fraud, misuse or non-compliance, according to the ABC. The ABC report did not include responses from disability advocates or plan managers. Details of how providers will be selected for the panel were not given in the report.",
-   "keyFacts": [
-    "Panel to oversee plan management providers",
-    "3,600 claims worth $5.8m rejected July-September",
-    "Overhaul expected to save $1.4 billion"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-19/federal-politics-live-blog-migrant-workers/107400850"
-    }
-   ],
-   "publishedAt": "2026-11-19T08:09:00+11:00",
-   "rank": 9,
-   "createdAt": "2026-11-19T17:47:45+11:00"
-  },
-  {
-   "id": "2026-11-19-wilson-gas-exploration-pledge",
-   "batch": "2026-11-19-pm",
-   "category": "Politics",
-   "title": "Jess Wilson pledges gas exploration process within 60 days if elected",
-   "summary": "Victorian Opposition Leader Jess Wilson said she would seek expressions of interest for gas exploration within 60 days if she became premier, the ABC reported. Wilson ruled out changing Victoria's fracking laws.\n\nThe Coalition has also promised to lift the payroll tax threshold to $1.2 million, according to the ABC. Neither major party has pledged to return land tax to 2023 levels. Victorian Electoral Commission figures show 211,461 people voted at early voting centres on Wednesday. Labor's response to the gas pledge was not included in the ABC report. Early voting for the state election began this week.",
-   "keyFacts": [
-    "Expressions of interest within 60 days",
-    "Fracking laws would not change",
-    "211,461 early votes cast on Wednesday"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-19/victorian-election-live-early-voting-second-day/107402202"
-    }
-   ],
-   "publishedAt": "2026-11-19T10:58:00+11:00",
-   "rank": 11,
-   "createdAt": "2026-11-19T17:47:45+11:00"
-  },
-  {
-   "id": "2026-11-19-family-first-disendorses-candidate",
-   "batch": "2026-11-19-pm",
-   "category": "Politics",
-   "title": "Family First disendorses Bendigo West candidate over online posts",
-   "summary": "Family First has disendorsed its Bendigo West candidate for the Victorian election, Christos Harisopoulos, over online content the party described as unacceptable, the ABC reported. A post attributed to him made claims about land sales to China by the major parties.\n\nParty national director Lyle Shelton said Family First is a small party with limited resources, according to the ABC. The party disendorsed him on Wednesday afternoon. The ABC said he was the latest candidate in the campaign dropped over social media posts. Harisopoulos' response was not included in the report.",
-   "keyFacts": [
-    "Candidate disendorsed on Wednesday",
-    "Party cited unacceptable online content",
-    "Shelton cited limited party resources"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-19/victorian-election-live-early-voting-second-day/107402202"
-    }
-   ],
-   "publishedAt": "2026-11-19T09:40:00+11:00",
-   "rank": 12,
-   "createdAt": "2026-11-19T17:47:45+11:00"
-  },
-  {
-   "id": "2026-11-19-gaza-central-raid-deaths",
-   "batch": "2026-11-19-pm",
-   "category": "World",
-   "title": "Medics report three killed as Israeli raid continues in central Gaza",
-   "summary": "Palestinian medics said an Israeli airstrike near an Israeli ground raid in central Gaza killed one person, and two others were killed by Israeli fire in Deir al-Balah and Gaza City on Thursday, SBS reported, citing Reuters. The Israeli military said it struck a militant in Gaza City and knew of no incident in Deir al-Balah.\n\nThe military said troops were dismantling a tunnel west of the ceasefire line. Hamas said the raid and displacement violated the ceasefire. The US-backed body overseeing the truce accused both Israel and Hamas of failing to meet commitments, according to the report. Gaza health authorities say at least 1,600 people have been killed since the ceasefire.",
-   "keyFacts": [
-    "What changed: medics report three deaths on Thursday",
-    "Israel says it is dismantling a tunnel",
-    "Hamas says the raid violates the ceasefire"
-   ],
-   "sources": [
-    {
-     "name": "Reuters (via SBS News)",
-     "url": "https://www.sbs.com.au/news/article/israeli-ground-raid-displacement-central-gaza/hawq68s1r"
-    }
-   ],
-   "publishedAt": "2026-11-19T13:46:00+11:00",
-   "rank": 13,
-   "createdAt": "2026-11-19T17:47:45+11:00"
-  },
-  {
    "id": "2026-11-22-kryvyi-rih-strike",
    "batch": "2026-11-22",
    "rank": 1,
@@ -4679,6 +4872,168 @@
   }
  ],
  "leftOut": [
+  {
+   "id": "2026-11-26-snowtown-haydon-supervision",
+   "batch": "2026-11-26-pm",
+   "rank": 1,
+   "category": "Australia",
+   "title": "SA court refuses interim supervision order for Snowtown accomplice Mark Haydon",
+   "summary": "A South Australian Supreme Court judge on Thursday refused the Crown's application for an interim supervision order over Mark Ray Haydon, who was convicted in 2006 of assisting offenders in the Snowtown murders, AAP reported. Haydon, 67, has completed his sentence and was paroled in May 2024.\n\nJustice Kristopher Handshin said the court lacked jurisdiction to impose an order solely because of the seriousness of the offending, and noted reports reflected Haydon's progress. AAP said there was agreement he posed a low risk. His current order expires on Friday. The Crown's application for a new order continues, and the matter returns to court on 28 April.",
+   "keyFacts": [
+    "Haydon was convicted of seven counts of assisting an offender",
+    "His current order expires on Friday",
+    "The matter returns to court on 28 April"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/court-victory-for-snowtown-serial-killings-accomplice"
+    }
+   ],
+   "publishedAt": "2026-11-26T13:00:00+11:00",
+   "createdAt": "2026-11-26T17:55:00+11:00",
+   "reason": "Local crime"
+  },
+  {
+   "id": "2026-11-26-anmer-hall-burglary-court",
+   "batch": "2026-11-26-pm",
+   "rank": 2,
+   "category": "Other",
+   "title": "Two men appear in UK court charged over burglary at Prince William's Norfolk home",
+   "summary": "Two men appeared at Norwich Magistrates' Court charged with burglary and trespassing on a protected site over a break-in at Anmer Hall, Prince William's home on the Sandringham estate, on Monday evening, AAP reported.\n\nProsecutor John Cooper told the court the men and a third suspect, who has not been arrested, triggered motion sensors shortly before 6pm and allegedly took six pairs of cufflinks and a clock. Police found the two men in nearby woodland about 7.15pm. Neither entered a plea, and both were remanded in custody while prosecutors seek the Attorney General's consent for the trespass charge.",
+   "keyFacts": [
+    "The men are aged 34 and 32",
+    "Six pairs of cufflinks and a clock were allegedly taken",
+    "A third suspect has not been arrested"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/two-accused-of-stealing-cufflinks-at-william-s-home"
+    }
+   ],
+   "publishedAt": "2026-11-26T15:45:00+11:00",
+   "createdAt": "2026-11-26T17:55:00+11:00",
+   "reason": "Celebrity"
+  },
+  {
+   "id": "2026-11-26-thomas-markle-charged",
+   "batch": "2026-11-26-pm",
+   "rank": 3,
+   "category": "Other",
+   "title": "US grand jury charges Thomas Markle Sr with possessing child abuse material",
+   "summary": "A US grand jury has charged Thomas Markle Sr, 82, father of the Duchess of Sussex, with two counts of possessing child sexual abuse images, according to court documents in California, AAP reported, citing PA. Each count carries a maximum of 20 years in prison.\n\nThe filing says he possessed 35mm film negatives on or about 30 October and 4 November. AAP said the FBI detained him on 6 November after seizing material from two Los Angeles storage units. First assistant US attorney Bill Essayli said Markle is presumed innocent. A Florida court-ordered evaluation found him competent to stand trial, and he remains in custody.",
+   "keyFacts": [
+    "He faces two counts",
+    "Each carries up to 20 years in prison",
+    "Prosecutors say he is presumed innocent"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/thomas-markle-indicted-for-child-sex-abuse-material"
+    }
+   ],
+   "publishedAt": "2026-11-25T23:45:00+11:00",
+   "createdAt": "2026-11-26T17:55:00+11:00",
+   "reason": "Celebrity"
+  },
+  {
+   "id": "2026-11-26-biddy-porter-inquest",
+   "batch": "2026-11-26-pm",
+   "rank": 4,
+   "category": "Australia",
+   "title": "Inquest into 2020 death of NSW girl Biddy Porter hears closing submissions",
+   "summary": "The NSW State Coroner was due to hear closing submissions on Thursday in the inquest into the death of 10-year-old Bridgette \"Biddy\" Porter, who died at a rural property in July 2020, AAP reported.\n\nA NSW Supreme Court judge ruled in 2021 that the 14-year-old charged over her death was not criminally responsible because of mental illness. The inquest has heard evidence about the family's disagreements over medical matters and warning signs in the weeks before the death, AAP said. The teenager remains in a forensic facility. Details of the death are subject to a non-publication order.",
+   "keyFacts": [
+    "Biddy Porter died on 8 July 2020",
+    "The teenager was found not criminally responsible in 2021",
+    "State Coroner Teresa O'Sullivan is hearing the inquest"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/family-fought-over-vaccines-before-teen-turned-killer"
+    }
+   ],
+   "publishedAt": "2026-11-26T14:45:00+11:00",
+   "createdAt": "2026-11-26T17:55:00+11:00",
+   "reason": "Local crime"
+  },
+  {
+   "id": "2026-11-26-libya-lna-vows-retaliation",
+   "batch": "2026-11-26-pm",
+   "rank": 5,
+   "category": "World",
+   "title": "Eastern Libyan forces vow retaliation after officers die in Ukrainian drone attack",
+   "summary": "The Libyan National Army's general command vowed to retaliate at a time and place of its choosing after two Libyan naval officers died following a Ukrainian drone attack on a Russian warship at the Benghazi naval base, AAP reported. The LNA said the officers were pronounced dead on Tuesday evening.\n\nLocal officials said at least four drones were intercepted and two struck the corvette, and a Libyan official said at least 10 people were wounded. Two officials said sea drones were launched from a Ukrainian-run base in western Libya. Ukrainian officials had said Kyiv's forces did not target Libyans and did not immediately respond on Wednesday.",
+   "keyFacts": [
+    "Two Libyan naval officers died",
+    "At least 10 people were wounded, a Libyan official said",
+    "Ukraine says it did not target Libyans"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/libya-vows-retaliation-for-deaths-in-ukrainian-attack"
+    }
+   ],
+   "publishedAt": "2026-11-26T09:45:00+11:00",
+   "createdAt": "2026-11-26T17:55:00+11:00",
+   "reason": "Restatement, nothing new"
+  },
+  {
+   "id": "2026-11-26-pope-cop31-troubling",
+   "batch": "2026-11-26-pm",
+   "rank": 6,
+   "category": "World",
+   "title": "Pope Leo says it is troubling COP31 ended without clear climate commitments",
+   "summary": "Pope Leo said at his weekly general audience in St Peter's Square on Wednesday that it was troubling the COP31 climate talks ended without the international community adopting clear commitments, Reuters reported.\n\nThe talks ended on Sunday after the European Union and others rejected a final text proposed by COP31 presidents Turkey and Australia as too weak. Reuters said it was the first time since Copenhagen in 2009 that UN climate talks failed to adopt a deal. The pope called for a renewed sense of shared responsibility.",
+   "keyFacts": [
+    "The remarks were made at Wednesday's general audience",
+    "COP31 ended on Sunday without an agreed deal",
+    "Turkey and Australia jointly presided over COP31"
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via Al-Monitor)",
+     "url": "https://www.al-monitor.com/originals/2026/11/pope-leo-calls-cop31-failure-troubling-urges-action-climate-change"
+    },
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/pope-calls-failure-at-un-climate-summit-troubling"
+    }
+   ],
+   "publishedAt": "2026-11-26T08:45:00+11:00",
+   "createdAt": "2026-11-26T17:55:00+11:00",
+   "reason": "Commentary"
+  },
+  {
+   "id": "2026-11-26-macys-parade-postponed",
+   "batch": "2026-11-26-pm",
+   "rank": 7,
+   "category": "Other",
+   "title": "Macy's Thanksgiving Day Parade postponed to Saturday because of nor'easter",
+   "summary": "Macy's postponed its Thanksgiving Day Parade in New York to Saturday 28 November because of a nor'easter, The Times of Israel reported, citing the company. Macy's said it was the first postponement in the parade's 100-year history.\n\nNew York City Mayor Zohran Mamdani warned of sustained winds of 30 to 40 miles per hour with gusts up to 65 miles per hour. The storm coincided with the Thanksgiving travel period, when up to 80 million people were expected to travel, according to the report.",
+   "keyFacts": [
+    "The parade moves to Saturday 28 November",
+    "Macy's says it is the first postponement in 100 years",
+    "Gusts of up to 65 mph were forecast"
+   ],
+   "sources": [
+    {
+     "name": "ABC7 New York",
+     "url": "https://abc7ny.com/story/will-macys-parade-balloons-fly-storm-wind-rain-puts-doubt/20078423/"
+    },
+    {
+     "name": "The Times of Israel",
+     "url": "https://www.timesofisrael.com/liveblog-november-26-2026/"
+    }
+   ],
+   "publishedAt": "2026-11-26T12:00:00+11:00",
+   "createdAt": "2026-11-26T17:55:00+11:00",
+   "reason": "Ceremonial event"
+  },
   {
    "id": "2026-11-26-lo-speers-inflation-week",
    "batch": "2026-11-26",
@@ -6458,102 +6813,6 @@
    "reason": "No new development",
    "rank": 6,
    "createdAt": "2026-11-20T06:48:18+11:00"
-  },
-  {
-   "id": "2026-11-19-lo-elton-john-ai-copyright",
-   "batch": "2026-11-19-pm",
-   "category": "Other",
-   "title": "Elton John urges government to protect Australian artists from AI",
-   "summary": "Singer Elton John used a recorded address to the ARIA Awards to urge the federal government to protect Australian artists and their work from artificial intelligence, the ABC reported. The government is consulting on changes to copyright law.\n\nActing Prime Minister Richard Marles told News24 he understood the concern and that creative workers should be fully compensated, according to the ABC. The government has not announced the outcome of its copyright consultation. The ACTU separately welcomed recently announced mandatory AI guardrails, the ABC reported.",
-   "keyFacts": [
-    "Message delivered at the ARIA Awards",
-    "Government is consulting on copyright changes",
-    "Marles said creators should be compensated"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-19/federal-politics-live-blog-migrant-workers/107400850"
-    }
-   ],
-   "publishedAt": "2026-11-19T07:55:00+11:00",
-   "reason": "Celebrity",
-   "rank": 1,
-   "createdAt": "2026-11-19T17:47:45+11:00"
-  },
-  {
-   "id": "2026-11-19-lo-tatarstan-oil-station-drones",
-   "batch": "2026-11-19-pm",
-   "category": "World",
-   "title": "Ukrainian drones reported to hit oil pumping station in Tatarstan",
-   "summary": "Ukrainian drones struck the Kaleykino oil pumping station near Almetyevsk in Russia's Tatarstan republic overnight, the Kyiv Independent reported, citing a Ukrainian monitoring channel and eyewitness accounts of a fire. Neither Russian nor Ukrainian officials had confirmed the strike in the report.\n\nThe Kyiv Independent also cited Reuters reporting that Ukrainian attacks over 20 days had disrupted or halted operations at 15 of Russia's 35 major refineries, according to two industry sources. Ukraine's General Staff confirmed separate strikes on two refineries in Krasnodar Krai earlier in the week.",
-   "keyFacts": [
-    "Strike reported by a Telegram monitoring channel",
-    "Not confirmed by officials on either side",
-    "Site is about 380km north of Kazakhstan"
-   ],
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/ukrainian-drones-reportedly-target-oil-hub-in-russias-tatarstan/"
-    }
-   ],
-   "publishedAt": "2026-11-19T15:46:00+11:00",
-   "reason": "Not yet confirmed",
-   "rank": 2,
-   "createdAt": "2026-11-19T17:47:45+11:00"
-  },
-  {
-   "id": "2026-11-19-lo-marles-defends-apec-photo",
-   "batch": "2026-11-19-pm",
-   "category": "Politics",
-   "title": "Marles defends Albanese's appearance in APEC photo with Putin",
-   "summary": "Acting Prime Minister Richard Marles said Prime Minister Anthony Albanese's appearance in the APEC leaders' photo with Russian President Vladimir Putin was part of respecting the host, the ABC and SBS reported. Marles said Australia's position on Ukraine could not be clearer.\n\nAlbanese said he would respect the wishes of the host and make Australia's position on Ukraine clear, according to SBS. Greens leader David Shoebridge called for tougher sanctions on Russia and an end to Russian oil imports, the ABC reported. Criticism of the photo was reported on Wednesday.",
-   "keyFacts": [
-    "Photo taken at a leaders' banquet in Shenzhen",
-    "Marles said it reflected respect for the host",
-    "Greens called for tougher Russia sanctions"
-   ],
-   "sources": [
-    {
-     "name": "SBS News",
-     "url": "https://www.sbs.com.au/news/article/albanese-putin-photo-apec-trump-china-2026/qhxs35kye"
-    },
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-19/federal-politics-live-blog-migrant-workers/107400850"
-    }
-   ],
-   "publishedAt": "2026-11-19T07:26:00+11:00",
-   "reason": "Restatement, nothing new",
-   "rank": 3,
-   "createdAt": "2026-11-19T17:47:45+11:00"
-  },
-  {
-   "id": "2026-11-19-lo-defence-heritage-sites",
-   "batch": "2026-11-19-pm",
-   "category": "Politics",
-   "title": "Marles restates plan to keep four defence heritage sites in public hands",
-   "summary": "Defence Minister Richard Marles said four of the 67 defence sites earmarked for sale, including Victoria Barracks in Sydney and Melbourne, Fort Queenscliff and RAAF Williams Point Cook, would be retained and moved to the finance department, the ABC reported. Marles said the government could not afford to maintain unused bases.\n\nThe decision to keep the four sites was announced by Prime Minister Anthony Albanese on 8 November, Defence Connect reported. Opposition Leader Angus Taylor said the Coalition had forced the change and would keep campaigning to save other sites.",
-   "keyFacts": [
-    "Four of 67 sites will be retained",
-    "Sites move from Defence to Finance",
-    "Decision first announced on 8 November"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-19/federal-politics-live-blog-migrant-workers/107400850"
-    },
-    {
-     "name": "Defence Connect",
-     "url": "https://www.defenceconnect.com.au/land/19098-vacated-but-retained-government-backflips-on-victoria-barracks-sydney-and-melbourne-divestment-plans"
-    }
-   ],
-   "publishedAt": "2026-11-19T11:13:00+11:00",
-   "reason": "Restatement, nothing new",
-   "rank": 4,
-   "createdAt": "2026-11-19T17:47:45+11:00"
   },
   {
    "id": "2026-11-22-us-iran-war-fears",
