@@ -1,6 +1,218 @@
 {
- "updatedAt": "2026-11-27T06:55:00+11:00",
+ "updatedAt": "2026-11-27T17:44:00+11:00",
  "articles": [
+  {
+   "id": "2026-11-27-nz-final-result-hung",
+   "batch": "2026-11-27-pm",
+   "rank": 1,
+   "category": "World",
+   "title": "NZ final count leaves Luxon's coalition one seat short as Opportunity holds balance",
+   "summary": "New Zealand's official election results, released by the Electoral Commission on Friday after special votes were counted, left Prime Minister Christopher Luxon's governing coalition of National, ACT and NZ First one seat short of a majority, the ABC reported.\n\nAP reported that neither the right-leaning nor the left-leaning bloc won enough seats to govern alone, leaving the centrist newcomer, The Opportunity Party, as the deciding vote. Preliminary results on election night had given the coalition a narrow majority, helped by an overhang of electorate seats. Party leaders are expected to begin negotiations over forming a government.",
+   "keyFacts": [
+    "Official results were released on 27 November after special votes were counted",
+    "The National-ACT-NZ First coalition is one seat short of a majority, according to the ABC",
+    "AP reports The Opportunity Party holds the balance of power"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-27/official-results-of-new-zealand-s-national-election-announced/107434326"
+    },
+    {
+     "name": "Electoral Commission (NZ)",
+     "url": "https://elections.nz/media-and-news/2026/2026-general-election-official-results"
+    },
+    {
+     "name": "AP (via WRAL)",
+     "url": "https://www.wral.com/news/ap/a19a8-final-count-in-new-zealand-s-election-gives-neither-right-nor-left-bloc-enough-seats-for-a-majority/"
+    }
+   ],
+   "publishedAt": "2026-11-27T14:00:00+11:00",
+   "createdAt": "2026-11-27T17:44:00+11:00"
+  },
+  {
+   "id": "2026-11-27-sanctions-irgc-arson-two-men",
+   "batch": "2026-11-27-pm",
+   "rank": 2,
+   "category": "Australia",
+   "title": "Australia sanctions two men over Iran-backed antisemitic arson attacks in 2024",
+   "summary": "Foreign Minister Penny Wong has announced sanctions against two men the government alleges directed antisemitic arson attacks in Australia in 2024 on behalf of Iran's Islamic Revolutionary Guard Corps, according to a ministerial statement and the ABC. The attacks targeted the Adass Israel synagogue in Melbourne and the Lewis Continental Kitchen in Sydney, The Jerusalem Post reported.\n\nAAP reported the move revealed the alleged masterminds of the attacks. The government expelled Iran's ambassador in 2025 after ASIO concluded Tehran was behind the attacks. Iran has previously rejected the accusations.",
+   "keyFacts": [
+    "Two men were sanctioned over alleged roles directing the 2024 attacks",
+    "The government links the attacks to Iran's Revolutionary Guard Corps",
+    "Australia expelled Iran's ambassador over the attacks in 2025"
+   ],
+   "sources": [
+    {
+     "name": "Minister for Foreign Affairs",
+     "url": "https://www.foreignminister.gov.au/minister/penny-wong/media-release/further-action-against-irans-irgc-attacks-australia"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-27/two-men-sanctioned-over-iran-backed-antisemitic-arson-attacks/107435226"
+    },
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/alleged-masterminds-of-anti-semitic-attacks-revealed"
+    }
+   ],
+   "publishedAt": "2026-11-27T10:00:00+11:00",
+   "createdAt": "2026-11-27T17:44:00+11:00"
+  },
+  {
+   "id": "2026-11-27-zelenskyy-grid-attack-warning",
+   "batch": "2026-11-27-pm",
+   "rank": 3,
+   "category": "World",
+   "title": "Zelenskyy warns of imminent major Russian attack on Ukraine's power grid",
+   "summary": "Ukrainian President Volodymyr Zelenskyy said Russia was preparing a major new strike on Ukraine's energy system and that it could come soon, AP reported on Thursday. He did not give a specific date.\n\nThe warning came as US President Donald Trump called on Russian President Vladimir Putin to pull back military aggression in Europe and reach a quick deal, Al Jazeera reported. Ukraine has faced repeated Russian strikes on power infrastructure, causing outages, while Russia says it targets military and energy facilities used by Ukraine's armed forces.",
+   "keyFacts": [
+    "Zelenskyy says Russia is preparing a large strike on Ukraine's power grid",
+    "The warning followed Trump's call for Putin to pull back and make a deal",
+    "Russia says its strikes target facilities supporting Ukraine's military"
+   ],
+   "sources": [
+    {
+     "name": "AP (via PBS)",
+     "url": "https://www.pbs.org/newshour/world/zelenskyy-warns-of-imminent-major-russian-attack-on-ukraines-power-grid"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back"
+    }
+   ],
+   "publishedAt": "2026-11-27T09:30:00+11:00",
+   "createdAt": "2026-11-27T17:44:00+11:00"
+  },
+  {
+   "id": "2026-11-27-jazan-refinery-worker-killed",
+   "batch": "2026-11-27-pm",
+   "rank": 4,
+   "category": "World",
+   "title": "Houthi attack on Saudi Jazan refinery kills Nepali worker and halts some operations",
+   "summary": "A Houthi attack on Saudi Aramco's Jazan refinery in south-western Saudi Arabia killed a Nepali worker, according to Arab News, citing the Saudi-led coalition. The Jerusalem Post reported the attack also halted some operations at the facility.\n\nThe coalition had earlier said it intercepted missiles and drones launched at Riyadh, Jeddah and the Eastern Province, and warned of a firm response after the refinery was targeted. The Houthis said their attacks were retaliation for coalition strikes on Hodeidah. Bahrain condemned the refinery attack, ANI reported.",
+   "keyFacts": [
+    "A Nepali worker was killed at the Jazan refinery, Arab News reports",
+    "Some refinery operations were halted, according to The Jerusalem Post",
+    "The Houthis say the attacks respond to coalition strikes on Hodeidah"
+   ],
+   "sources": [
+    {
+     "name": "Arab News",
+     "url": "https://www.arabnews.com/saudi-arabia/houthi-attack-on-saudi-arabias-jazan-refinery-kills-nepali-worker-3014153"
+    },
+    {
+     "name": "The Jerusalem Post",
+     "url": "https://www.jpost.com/middle-east/article-916252"
+    },
+    {
+     "name": "ANI",
+     "url": "https://www.aninews.in/news/world/middle-east/bahrain-condemns-houthi-attacks-on-saudi-arabia8217s-oil-refinery-in-jazan20261127113226/"
+    }
+   ],
+   "publishedAt": "2026-11-27T08:00:00+11:00",
+   "createdAt": "2026-11-27T17:44:00+11:00"
+  },
+  {
+   "id": "2026-11-27-trump-troops-iran-victory",
+   "batch": "2026-11-27-pm",
+   "rank": 5,
+   "category": "World",
+   "title": "Trump tells troops victory over Iran is at hand and urges Tehran to make a deal",
+   "summary": "US President Donald Trump told deployed service members during Thanksgiving calls that the United States had \"a victory at hand\" in the war with Iran, The Washington Times reported. He urged Tehran to reach an agreement.\n\nAl Jazeera reported Trump also played down support for Iran from Russia and China during the calls, saying both countries wanted the war to end. Iranian officials have said there will be no talks with Washington until a list of conditions is met.",
+   "keyFacts": [
+    "Trump spoke to deployed troops in Thanksgiving calls on Thursday, US time",
+    "He said victory was at hand and urged Iran to make a deal",
+    "He played down Russian and Chinese support for Iran, Al Jazeera reported"
+   ],
+   "sources": [
+    {
+     "name": "The Washington Times",
+     "url": "https://www.washingtontimes.com/news/2026/nov/26/trump-phones-troops-thanksgiving-victory-hand-iran/"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/27/trump-downplays-russia-china-support-for-iran-during-talks-with-us-troops"
+    }
+   ],
+   "publishedAt": "2026-11-27T07:30:00+11:00",
+   "createdAt": "2026-11-27T17:44:00+11:00"
+  },
+  {
+   "id": "2026-11-27-afp-cyberattack",
+   "batch": "2026-11-27-pm",
+   "rank": 6,
+   "category": "Science & Tech",
+   "title": "News agency AFP takes content platform offline after cyberattack",
+   "summary": "Agence France-Presse said it had been hit by a cyberattack and had taken its AFP Forum content platform offline, according to Bernama and Al Jazeera. AFP Forum is used by media clients to access the agency's text, photos and video.\n\nAl Jazeera and Arab News also reported the attack and the shutdown of the platform, which serves media organisations around the world, including in Australia. The agency was also targeted by a cyberattack in 2024 that affected some client services.",
+   "keyFacts": [
+    "AFP says it was targeted in a cyberattack",
+    "The AFP Forum client content platform was taken offline",
+    "AFP was also hit by a cyberattack in 2024"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/27/global-news-agency-afp-reports-cyberattack-shuts-down-content-platform"
+    },
+    {
+     "name": "Bernama",
+     "url": "https://www.bernama.com/en/world/news.php?id=2640136"
+    }
+   ],
+   "publishedAt": "2026-11-27T12:00:00+11:00",
+   "createdAt": "2026-11-27T17:44:00+11:00"
+  },
+  {
+   "id": "2026-11-27-summer-bushfire-outlook",
+   "batch": "2026-11-27-pm",
+   "rank": 7,
+   "category": "Environment",
+   "title": "Authorities warn of increased summer bushfire risk across most Australian states",
+   "summary": "Fire and weather authorities have warned that most Australian states face an increased risk of bushfires this summer, according to The New Daily and Xinhua. The seasonal outlook was released as an out-of-control fire continued to burn on Tasmania's Flinders Island.\n\nThe warning follows the Bureau of Meteorology's forecast this week of above-average summer temperatures for nearly all of Australia. Flinders Island's fire has burned about a tenth of the island and damaged homes, Tasmanian authorities said earlier this week.",
+   "keyFacts": [
+    "Authorities say most states face increased bushfire risk this summer",
+    "The outlook came as the Flinders Island fire continued to burn",
+    "The Bureau of Meteorology has forecast a hotter-than-average summer"
+   ],
+   "sources": [
+    {
+     "name": "The New Daily",
+     "url": "https://www.thenewdaily.com.au/news/2026/11/27/grim-summer-fire-warning"
+    },
+    {
+     "name": "Xinhua",
+     "url": "https://english.news.cn/asiapacific/20261127/7c1db8c024634b579f39bc178b01536f/c.html"
+    }
+   ],
+   "publishedAt": "2026-11-27T11:00:00+11:00",
+   "createdAt": "2026-11-27T17:44:00+11:00"
+  },
+  {
+   "id": "2026-11-27-asx-wisetech-trading-update",
+   "batch": "2026-11-27-pm",
+   "rank": 8,
+   "category": "Economy",
+   "title": "ASX rises as WiseTech shares jump about 17% after trading update",
+   "summary": "WiseTech Global shares rose about 16.7% to a nearly 10-month high on Friday after the logistics software company said its outlook for the 2027 financial year was unchanged, Investing.com reported. The company said the financial year had started well.\n\nThe gain helped lift the S&P/ASX 200, which closed higher as technology shares recovered, according to International Business Times. Al Jazeera reported Asian share markets also rose after an earlier sell-off in technology stocks.",
+   "keyFacts": [
+    "WiseTech shares rose about 16.7% after its trading update",
+    "WiseTech said its FY27 outlook was unchanged",
+    "Asian markets rose as technology shares recovered"
+   ],
+   "sources": [
+    {
+     "name": "Investing.com",
+     "url": "https://www.investing.com/news/stock-market-news/wisetech-shares-jump-167-to-nearly-10month-high-as-fy27-outlook-holds-5052790"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/economy/2026/11/27/asian-stock-markets-rise-after-earlier-tech-rout"
+    }
+   ],
+   "publishedAt": "2026-11-27T16:30:00+11:00",
+   "createdAt": "2026-11-27T17:44:00+11:00"
+  },
   {
    "id": "2026-11-27-kuwait-drone-italians-killed",
    "batch": "2026-11-27",
@@ -4320,282 +4532,6 @@
    "createdAt": "2026-11-21T06:50:59+11:00"
   },
   {
-   "id": "2026-11-20-albanese-xi-shenzhen-talks",
-   "batch": "2026-11-20-pm",
-   "category": "Australia",
-   "title": "Xi tells Albanese China-Australia ties have seen a 'full turnaround'",
-   "summary": "Prime Minister Anthony Albanese met Chinese President Xi Jinping in Shenzhen on Friday on the sidelines of APEC, their fifth formal meeting, AAP reported. According to AAP, Xi congratulated Albanese for leading a \"full turnaround\" in relations. Xinhua's readout said ties were developing steadily, AFP reported.\n\nAlbanese said both countries had worked to stabilise the relationship and would not be defined by their differences, according to AFP. AAP said no agreements were reported. Albanese is due in Beijing for talks with Premier Li Qiang and a business roundtable, where Australian firms are seeking wider market access, including for beef, which faces a 55 per cent tariff above China's quota, AAP said.",
-   "keyFacts": [
-    "Fifth formal meeting between Albanese and Xi",
-    "No agreements reported from the Shenzhen talks",
-    "Talks with Premier Li Qiang to follow in Beijing"
-   ],
-   "sources": [
-    {
-     "name": "AAP (via Canberra Daily)",
-     "url": "https://canberradaily.com.au/xi-lauds-pm-for-full-turnaround-in-china-relationship/"
-    },
-    {
-     "name": "AFP (via Yahoo News)",
-     "url": "https://www.yahoo.com/news/world/articles/australia-pm-says-talks-chinas-050723411.html"
-    },
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-20/albanese-to-meet-xi-for-trade/107406222"
-    }
-   ],
-   "publishedAt": "2026-11-20T14:20:00+11:00",
-   "rank": 2,
-   "createdAt": "2026-11-20T17:50:46+11:00"
-  },
-  {
-   "id": "2026-11-20-trump-iran-decision-next-year",
-   "batch": "2026-11-20-pm",
-   "category": "World",
-   "title": "Trump says decision on new Iran strikes can wait until next year",
-   "summary": "US President Donald Trump indicated he would not decide on renewed major strikes on Iran until next year, Reuters reported on Thursday (US time). He told Reuters he would discuss it after the start of the year and told Fox News, \"We'll see what happens after January 1\". He told Axios and Israel's Channel 12 he was not rushing.\n\nIran's Foreign Ministry said US claims that Iran was developing chemical and biological weapons were an attempt to justify military action, Reuters said. Gulf News, citing Axios, said options under discussion for a joint US-Israeli operation included strikes on suspected nuclear sites. A Pentagon official put the war's cost at $US48.3 billion as of 13 November.",
-   "keyFacts": [
-    "Trump points to a decision after 1 January",
-    "Iran rejects US claims about weapons programs",
-    "Pentagon puts war cost at $US48.3 billion"
-   ],
-   "sources": [
-    {
-     "name": "Reuters (via ThePrint)",
-     "url": "https://theprint.in/world/trump-says-no-rush-on-iran-decision-looks-to-next-year/3103750/"
-    },
-    {
-     "name": "Gulf News",
-     "url": "https://gulfnews.com/world/americas/will-us-strike-iran-again-trump-says-decision-can-wait-until-2027-1.500754568"
-    }
-   ],
-   "publishedAt": "2026-11-20T09:00:00+11:00",
-   "rank": 3,
-   "createdAt": "2026-11-20T17:50:46+11:00"
-  },
-  {
-   "id": "2026-11-20-asx-seventh-loss-week",
-   "batch": "2026-11-20-pm",
-   "category": "Economy",
-   "title": "ASX 200 falls for seventh straight day, down about 5 per cent for the week",
-   "summary": "Australian shares fell for a seventh consecutive session on Friday, with all 11 sectors lower, AAP reported. At lunchtime the S&P/ASX 200 was down 1.17 per cent at 8,625.2, according to AAP. IBTimes reported the index at 8,594.2 in the afternoon, down 1.56 per cent and about 5.4 per cent for the week. AAP said it was likely the worst week since early 2020.\n\nAnalysts cited weakness on Wall Street and in AI-related stocks, which Anthropic's share debut did not reverse, AAP said. Technology shares fell about 5 per cent and gold was near a 14-month low. Monash IVF fell more than 20 per cent after a trading update, AAP reported. The Australian dollar was near 66.5 US cents.",
-   "keyFacts": [
-    "Seventh straight daily fall for the ASX 200",
-    "Weekly loss of about 5 per cent",
-    "Technology sector down about 5 per cent on Friday"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/aussie-share-market-on-track-for-worst-week-in-years"
-    },
-    {
-     "name": "IBTimes Australia",
-     "url": "https://www.ibtimes.com.au/asx-200-falls-ai-selloff-seven-session-losing-streak-1878977"
-    }
-   ],
-   "publishedAt": "2026-11-20T14:34:00+11:00",
-   "rank": 4,
-   "createdAt": "2026-11-20T17:50:46+11:00"
-  },
-  {
-   "id": "2026-11-20-us-senate-iran-war-powers",
-   "batch": "2026-11-20-pm",
-   "category": "Politics",
-   "title": "US Senate rejects resolution to end US involvement in Iran war, 51-48",
-   "summary": "The US Senate on Thursday voted 51-48 against a war powers resolution that would have directed President Trump to withdraw US forces from hostilities with Iran, Reuters reported via Al Jazeera. The House passed a similar measure 220-204 in September. Republicans Susan Collins, Lisa Murkowski and Rand Paul voted in favour and Democrat John Fetterman voted against.\n\nDemocratic Senator Tim Kaine said the 3 November midterm results showed the war was unpopular. Republicans who opposed the measure restated their support for the military campaign, according to the report. Republicans control the Senate until 3 January, when the new Congress, in which Democrats won both chambers, begins, Reuters said.",
-   "keyFacts": [
-    "Senate vote was 51-48 against the resolution",
-    "Three Republicans backed it; one Democrat opposed",
-    "New Congress begins on 3 January"
-   ],
-   "sources": [
-    {
-     "name": "Reuters (via Al Jazeera)",
-     "url": "https://www.aljazeera.com/news/2026/11/19/senate-republicans-in-us-reject-measure-to-limit-trumps-war-powers-in-iran"
-    },
-    {
-     "name": "Reuters (via ThePrint)",
-     "url": "https://theprint.in/world/trump-says-no-rush-on-iran-decision-looks-to-next-year/3103750/"
-    }
-   ],
-   "publishedAt": "2026-11-20T07:30:00+11:00",
-   "rank": 5,
-   "createdAt": "2026-11-20T17:50:46+11:00"
-  },
-  {
-   "id": "2026-11-20-us-ai-chip-licences-china",
-   "batch": "2026-11-20-pm",
-   "category": "Business",
-   "title": "US approved licences for about 879,000 AI chips to China, House data shows",
-   "summary": "The US Commerce Department approved exports of about 879,000 advanced Nvidia and AMD chips to Chinese companies between December 2025 and May 2026, according to licensing data released by the House Foreign Affairs Committee, Reuters reported. Approvals included 150,000 chips for Tencent and 75,000 for Alibaba. Companies had sought to ship 3.4 million chips. It is unclear how many shipments took place.\n\nFormer US official Chris McGuire said more than 30 per cent went to firms the Pentagon lists as Chinese military companies, raising questions about the security review. Nvidia said approvals carried strict conditions and limited volumes and that it has stopped shipping H200 chips to China. AMD did not respond, Reuters said.",
-   "keyFacts": [
-    "About 879,000 chip export licences approved",
-    "Committee chair Brian Mast released the data",
-    "Nvidia says it has stopped H200 shipments to China"
-   ],
-   "sources": [
-    {
-     "name": "Reuters (via Al Jazeera)",
-     "url": "https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months"
-    }
-   ],
-   "publishedAt": "2026-11-20T08:58:00+11:00",
-   "rank": 7,
-   "createdAt": "2026-11-20T17:50:46+11:00"
-  },
-  {
-   "id": "2026-11-20-nikkei-falls-ai-selloff",
-   "batch": "2026-11-20-pm",
-   "category": "Economy",
-   "title": "Japan's Nikkei drops more than 4 per cent as AI share sell-off spreads",
-   "summary": "Japan's Nikkei 225 fell more than 4 per cent in early trading on Friday, following overnight losses on Wall Street, Xinhua and Reuters reported. Xinhua said that at 10am Tokyo time the index was down 2,505.50 points, or 4.21 per cent, at 56,938.71, while the broader Topix was down 1.76 per cent.\n\nXinhua said concern about AI-related stocks continued to weigh on sentiment. Reuters reported the Nikkei down 4.28 per cent at 56,899.52 at one point, with technology stocks tracking declines in the US. On Wall Street on Thursday, Nvidia fell 3.3 per cent and AMD 7.7 per cent, according to Reuters reporting carried by Al Jazeera.",
-   "keyFacts": [
-    "Nikkei down about 4.2 per cent in early trade",
-    "Topix down 1.76 per cent",
-    "Losses followed falls in US tech shares"
-   ],
-   "sources": [
-    {
-     "name": "Xinhua",
-     "url": "https://english.news.cn/20261120/f85e5166f6c8466291b089743b39d6a7/c.html"
-    },
-    {
-     "name": "Reuters (via MarketScreener)",
-     "url": "https://www.marketscreener.com/news/japan-s-nikkei-falls-more-than-4-as-tech-stocks-track-wall-street-declines-ce785ed2de8bf727"
-    }
-   ],
-   "publishedAt": "2026-11-20T12:10:00+11:00",
-   "rank": 8,
-   "createdAt": "2026-11-20T17:50:46+11:00"
-  },
-  {
-   "id": "2026-11-20-tps-venezuelans-appeals-court",
-   "batch": "2026-11-20-pm",
-   "category": "Politics",
-   "title": "US appeals court lets Trump end deportation protections for Venezuelans",
-   "summary": "A US appeals court has allowed the Trump administration, for now, to end Temporary Protected Status for Venezuelans, which covers about 600,000 people, Al Jazeera reported, citing Reuters and AP. The status shields holders from deportation. The decision does not end the underlying legal challenges, and the administration has also filed an emergency request with the Supreme Court.\n\nThe administration says the protection was always meant to be temporary and that conditions in Venezuela have improved since the US operation in January that removed Nicolás Maduro. Rights advocates say his government remains largely in place, according to the report. The US State Department continues to advise against travel to Venezuela.",
-   "keyFacts": [
-    "About 600,000 Venezuelans hold TPS",
-    "Ruling lets the protections lapse for now",
-    "Underlying legal challenges continue"
-   ],
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/19/us-appeals-court-lets-trump-end-tps-deportation-protections-for-venezuelans"
-    }
-   ],
-   "publishedAt": "2026-11-20T08:11:00+11:00",
-   "rank": 9,
-   "createdAt": "2026-11-20T17:50:46+11:00"
-  },
-  {
-   "id": "2026-11-20-vic-one-nation-climate-vni",
-   "batch": "2026-11-20-pm",
-   "category": "Politics",
-   "title": "One Nation pledges to scrap Victoria's climate department and VNI West",
-   "summary": "One Nation would abolish the climate change section of Victoria's energy and environment department if it formed government, Barnaby Joyce said while campaigning in Kerang on Friday, the ABC reported. He said a royal commission would examine renewable energy deals and refer any suspected corruption to prosecutors.\n\nJoyce also said One Nation would seek to revoke approved permits for the VNI West transmission line and build new coal-fired power stations, according to the ABC. Energy Minister Jaclyn Symes has previously said the government could have worked more closely with affected communities on the line, the ABC said. Victorians vote on 28 November.",
-   "keyFacts": [
-    "Pledge to abolish the climate change department",
-    "Royal commission into renewable energy deals proposed",
-    "Party would seek to revoke VNI West permits"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-20/victorian-election-live-campaign-liberal-labor/107407614"
-    }
-   ],
-   "publishedAt": "2026-11-20T14:38:00+11:00",
-   "rank": 12,
-   "createdAt": "2026-11-20T17:50:46+11:00"
-  },
-  {
-   "id": "2026-11-20-trump-nyt-penguin-suit-proceeds",
-   "batch": "2026-11-20-pm",
-   "category": "Politics",
-   "title": "Judge lets Trump's defamation suit against NYT and Penguin Random House proceed",
-   "summary": "A federal judge in Tampa, Florida, ruled on Thursday that Donald Trump's defamation lawsuit against The New York Times and Penguin Random House can go ahead, Reuters reported via Al Jazeera. Judge Steven Merryday dismissed two of Trump's claims but found the rest plausibly alleged defamation.\n\nThe suit cites statements in a book by Peter Baker and articles by Susanne Craig and Russ Buettner, which Trump says were false and aimed at harming his 2024 campaign. The Times and Penguin deny defaming him and argued that some statements were opinion and that the suit was legally flawed, according to the report. Press freedom groups have criticised Trump's lawsuits against media outlets.",
-   "keyFacts": [
-    "Judge Steven Merryday allowed most claims to proceed",
-    "Two of Trump's claims were dismissed",
-    "Defendants deny defamation"
-   ],
-   "sources": [
-    {
-     "name": "Reuters (via Al Jazeera)",
-     "url": "https://www.aljazeera.com/economy/2026/11/19/trumps-case-against-nyt-and-penguin-random-house-may-proceed-judge"
-    }
-   ],
-   "publishedAt": "2026-11-20T07:32:00+11:00",
-   "rank": 13,
-   "createdAt": "2026-11-20T17:50:46+11:00"
-  },
-  {
-   "id": "2026-11-20-kirkland-free-legal-work",
-   "batch": "2026-11-20-pm",
-   "category": "Politics",
-   "title": "Democrats say law firm gave Trump administration $US11.8m in free legal work",
-   "summary": "Democratic lawmakers Jamie Raskin, Richard Blumenthal and Adam Schiff said law firm Kirkland & Ellis has provided at least $US11.8 million in free legal services to the Trump administration, Reuters reported via Al Jazeera. They said the work went to agencies including the Commerce and Defense departments and called it evidence of coercion of major law firms.\n\nKirkland said in a November letter, obtained by Reuters, that its agreement with the White House had had little impact on its pro bono work. Its lawyer did not respond to Reuters. The Democrats said they had sought records from nine other firms. The three are due to lead investigations when the new Congress begins on 3 January.",
-   "keyFacts": [
-    "Democrats cite at least $US11.8m in free services",
-    "Kirkland says the deal had little impact on pro bono work",
-    "Records sought from nine other firms"
-   ],
-   "sources": [
-    {
-     "name": "Reuters (via Al Jazeera)",
-     "url": "https://www.aljazeera.com/news/2026/11/20/democrats-say-law-firm-gave-11-8m-worth-of-service-to-trump-administration"
-    }
-   ],
-   "publishedAt": "2026-11-20T12:10:00+11:00",
-   "rank": 14,
-   "createdAt": "2026-11-20T17:50:46+11:00"
-  },
-  {
-   "id": "2026-11-20-senegal-migrant-boat-capsizes",
-   "batch": "2026-11-20-pm",
-   "category": "World",
-   "title": "Four dead after migrant boat capsizes off Senegal as Canaries arrivals rise",
-   "summary": "Four bodies were recovered after a migrant boat capsized near Yenne, south of Dakar, Boubacar Seye of the group Horizons Sans Frontieres told Reuters, as reported by Al Jazeera. A local official said at least 50 people were on board. Searches continued and the number missing was unclear.\n\nSpain's Interior Ministry said 24,364 migrants reached the Canary Islands between 1 January and 15 November, up from 14,690 a year earlier, including 11,037 in the first half of November. The UN refugee agency says nearly 600 people have died this year trying to reach the islands. Senegal's President Faye has asked for an assessment of irregular migration.",
-   "keyFacts": [
-    "At least 50 people were reportedly on board",
-    "Canaries arrivals up about two-thirds this year",
-    "UNHCR reports nearly 600 deaths on the route in 2026"
-   ],
-   "sources": [
-    {
-     "name": "Reuters (via Al Jazeera)",
-     "url": "https://www.aljazeera.com/news/2026/11/20/four-bodies-recovered-after-senegal-boat-capsizes-amid-migration-surge"
-    }
-   ],
-   "publishedAt": "2026-11-20T11:10:00+11:00",
-   "rank": 17,
-   "createdAt": "2026-11-20T17:50:46+11:00"
-  },
-  {
-   "id": "2026-11-20-tbilisi-gas-explosion",
-   "batch": "2026-11-20-pm",
-   "category": "World",
-   "title": "Six killed in suspected gas explosion at Tbilisi apartment building",
-   "summary": "Six people, including a child, were killed when a suspected gas explosion partly collapsed a five-storey apartment building in Tbilisi, Georgia, on Thursday morning, AFP reported via Al Jazeera. A three-year-old girl was rescued alive after several hours.\n\nGeorgia's Interior Minister Sulkhan Tamazashvili said preliminary findings pointed to a blast on the fifth floor when a resident tried to switch on a gas heater. Supplier Tbilisi Energy said the apartment was registered as unoccupied and had used no gas for a year. Prosecutors have opened a criminal investigation into possible safety breaches, and 28 families are being moved to hotels, according to the report.",
-   "keyFacts": [
-    "Six dead, including a child",
-    "Preliminary finding points to a gas heater",
-    "Criminal investigation opened into safety breaches"
-   ],
-   "sources": [
-    {
-     "name": "AFP (via Al Jazeera)",
-     "url": "https://www.aljazeera.com/news/2026/11/19/six-killed-in-suspected-gas-explosion-at-georgia-apartment-building"
-    }
-   ],
-   "publishedAt": "2026-11-20T10:09:00+11:00",
-   "rank": 18,
-   "createdAt": "2026-11-20T17:50:46+11:00"
-  },
-  {
    "id": "2026-11-22-kryvyi-rih-strike",
    "batch": "2026-11-22",
    "rank": 1,
@@ -4890,6 +4826,194 @@
   }
  ],
  "leftOut": [
+  {
+   "id": "2026-11-27-lo-patterson-high-court",
+   "batch": "2026-11-27-pm",
+   "rank": 1,
+   "category": "Australia",
+   "title": "Erin Patterson takes appeal bid to the High Court",
+   "summary": "Erin Patterson, who was convicted of murdering three relatives and attempting to murder a fourth with a meal containing death cap mushrooms, is taking her appeal to the High Court, AAP reported.\n\nVictoria's Court of Appeal rejected her appeal against her convictions on 30 October, according to Al Jazeera, and she remains sentenced to life in prison. To be heard, Patterson must first be granted special leave by the High Court. Her lawyers had argued the trial was unfair, which prosecutors disputed.",
+   "keyFacts": [
+    "Patterson was convicted over the 2023 death cap mushroom lunch",
+    "The Victorian Court of Appeal dismissed her appeal on 30 October",
+    "The High Court must grant special leave before hearing an appeal"
+   ],
+   "sources": [
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/killer-erin-patterson-takes-appeal-fight-to-high-court"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/30/australian-mushroom-murderer-erin-patterson-loses-appeal-bid"
+    }
+   ],
+   "publishedAt": "2026-11-27T12:00:00+11:00",
+   "createdAt": "2026-11-27T17:44:00+11:00",
+   "reason": "Local crime"
+  },
+  {
+   "id": "2026-11-27-lo-alan-jones-defence",
+   "batch": "2026-11-27-pm",
+   "rank": 2,
+   "category": "Australia",
+   "title": "Alan Jones's lawyers open and close defence case in two hours",
+   "summary": "Lawyers for former broadcaster Alan Jones opened and closed his defence case within two hours at his trial in Sydney, the ABC reported on Friday. Jones has pleaded not guilty to charges of indecent assault and other offences involving several men, which he denies.\n\nThe trial is being heard by a judge without a jury. Earlier in the trial the court heard evidence from accusers and from former radio colleagues, including Ray Hadley and Jason Morrison, according to earlier reports.",
+   "keyFacts": [
+    "Jones's defence case opened and closed within two hours",
+    "Jones has pleaded not guilty to all charges",
+    "The trial is being heard by a judge without a jury"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-27/nsw-sydney-alan-jones-trial-defence-case-opens-and-closes/107433742"
+    },
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/power-trust-and-money-in-focus-at-alan-jones-trial"
+    }
+   ],
+   "publishedAt": "2026-11-27T13:00:00+11:00",
+   "createdAt": "2026-11-27T17:44:00+11:00",
+   "reason": "Local crime"
+  },
+  {
+   "id": "2026-11-27-lo-schoolies-twelfth-charged",
+   "batch": "2026-11-27-pm",
+   "rank": 3,
+   "category": "Australia",
+   "title": "Twelfth teenager charged over alleged group assault during Gold Coast schoolies",
+   "summary": "Queensland Police have charged a twelfth male teenager over an alleged group bashing during schoolies celebrations on the Gold Coast, the ABC reported on Friday. Schoolies week draws thousands of Queensland school-leavers to Surfers Paradise each November.\n\nThe charges relate to an alleged group assault during the annual school-leavers' event, according to the ABC, which said eleven others had already been charged. None of the allegations have been tested in court, and the accused have not entered pleas.",
+   "keyFacts": [
+    "A twelfth male teenager has been charged, according to the ABC",
+    "The alleged assault happened during Gold Coast schoolies",
+    "The allegations have not been tested in court"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-27/qld-twelfth-charged-schoolies-gold-coast-alleged-bashing/107436214"
+    }
+   ],
+   "publishedAt": "2026-11-27T15:00:00+11:00",
+   "createdAt": "2026-11-27T17:44:00+11:00",
+   "reason": "Local crime"
+  },
+  {
+   "id": "2026-11-27-lo-vic-lobby-groups",
+   "batch": "2026-11-27-pm",
+   "rank": 4,
+   "category": "Politics",
+   "title": "ABC report examines two unofficial lobby groups spending on Victorian election ads",
+   "summary": "An ABC report examined two unofficial campaign groups, Fix Victoria and Better Victoria, which have been spending on advertising ahead of Saturday's Victorian state election.\n\nThe report looked at who funds the groups and the messages in their advertising, according to the ABC. Third-party campaigners are subject to Victoria's electoral donation and disclosure rules. The report did not involve a new decision or announcement by a government, party or regulator.",
+   "keyFacts": [
+    "Fix Victoria and Better Victoria have been running election advertising",
+    "The ABC report examines the groups' funding and messages",
+    "Victorians vote in the state election on Saturday 28 November"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-27/fix-victoria-better-victoria-election-ads/107433368"
+    }
+   ],
+   "publishedAt": "2026-11-27T05:00:00+11:00",
+   "createdAt": "2026-11-27T17:44:00+11:00",
+   "reason": "Commentary"
+  },
+  {
+   "id": "2026-11-27-lo-hanson-vic-campaign-bus",
+   "batch": "2026-11-27-pm",
+   "rank": 5,
+   "category": "Politics",
+   "title": "Pauline Hanson joins One Nation campaign bus in Melbourne on Victorian election eve",
+   "summary": "One Nation leader Pauline Hanson led her party's campaign bus across Melbourne on the final day of campaigning before Saturday's Victorian state election, the ABC reported in its live coverage. One Nation is contesting seats in both houses of the Victorian parliament.\n\nThe New Daily reported the major parties made final pitches to voters, with Premier Jacinta Allan's Labor government and Brad Battin's Coalition continuing to dispute each other's costings. Voting in Victorian state elections is compulsory for enrolled adults.",
+   "keyFacts": [
+    "Hanson campaigned in Melbourne on the day before polling day",
+    "Labor and the Coalition made final pitches to voters",
+    "Polls open across Victoria on Saturday 28 November"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-27/victorian-election-live-coalition-labor-costings-polling-day-eve/107433332"
+    },
+    {
+     "name": "The New Daily",
+     "url": "https://thenewdaily.com.au/news/politics/australian-politics/2026/11/27/victoria-election-pauline-hanson"
+    }
+   ],
+   "publishedAt": "2026-11-27T12:00:00+11:00",
+   "createdAt": "2026-11-27T17:44:00+11:00",
+   "reason": "No new development"
+  },
+  {
+   "id": "2026-11-27-lo-spain-election-explained",
+   "batch": "2026-11-27-pm",
+   "rank": 6,
+   "category": "World",
+   "title": "Al Jazeera explainer sets out Spain's 2026 snap election in maps and charts",
+   "summary": "Al Jazeera published an explainer using maps and charts to describe Spain's upcoming snap general election, including the main parties contesting the vote.\n\nThe piece summarises the positions of Prime Minister Pedro Sánchez's Socialists, the conservative People's Party and the far-right Vox party. It does not report a new development in the campaign and draws on previously published results and polling. Spain's Congress of Deputies has 350 seats, and a party or coalition needs 176 to hold a majority.",
+   "keyFacts": [
+    "The explainer covers Spain's upcoming snap general election",
+    "It sets out the main parties and polling",
+    "It does not report a new development"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/27/spains-2026-election-explained-in-maps-and-charts"
+    }
+   ],
+   "publishedAt": "2026-11-27T10:00:00+11:00",
+   "createdAt": "2026-11-27T17:44:00+11:00",
+   "reason": "Commentary"
+  },
+  {
+   "id": "2026-11-27-lo-lebanon-christian-villages-feature",
+   "batch": "2026-11-27-pm",
+   "rank": 7,
+   "category": "World",
+   "title": "Al Jazeera feature examines Israel's approach to Christian villages in south Lebanon",
+   "summary": "An Al Jazeera feature examined Israel's dealings with Christian villages in southern Lebanon, arguing the approach is aimed at dividing local communities.\n\nIsrael has said its operations in southern Lebanon target Hezbollah and are needed to protect communities in northern Israel. Hezbollah has said its actions are a response to Israeli attacks on Lebanon. The feature presents an interpretation of events rather than reporting a new decision or incident, and Lebanon's government has not announced any change in policy in response to it.",
+   "keyFacts": [
+    "The feature focuses on Christian villages in southern Lebanon",
+    "It argues Israel is trying to divide local communities",
+    "Israel says its operations target Hezbollah"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/features/2026/11/27/israel-uses-christian-villages-in-southern-lebanon-to-divide-and-conquer"
+    }
+   ],
+   "publishedAt": "2026-11-27T09:00:00+11:00",
+   "createdAt": "2026-11-27T17:44:00+11:00",
+   "reason": "Commentary"
+  },
+  {
+   "id": "2026-11-27-lo-fire-ants-wildlife-carer",
+   "batch": "2026-11-27-pm",
+   "rank": 8,
+   "category": "Environment",
+   "title": "Sydney wildlife carer warns fire ant outbreak could harm native species",
+   "summary": "A Sydney wildlife carer has warned that the red imported fire ant outbreak in Sydney could be devastating for native animals, the ABC reported on Friday.\n\nThe NSW government said this week that the Sydney detection is part of a larger infestation and that biosecurity control work is continuing. The carer's warning adds a local perspective but does not reflect a new government decision or detection. Fire ants can sting animals and people and damage ecosystems, according to biosecurity authorities.",
+   "keyFacts": [
+    "A wildlife carer warned of harm to native species",
+    "NSW has said the Sydney detection is part of a larger infestation",
+    "No new government decision was announced"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-27/sydney-fire-ant-outbreak-nsw-government-biosecurity-control/107433370"
+    }
+   ],
+   "publishedAt": "2026-11-27T06:00:00+11:00",
+   "createdAt": "2026-11-27T17:44:00+11:00",
+   "reason": "Restatement, nothing new"
+  },
   {
    "id": "2026-11-27-lo-qatar-egypt-gaza-talks",
    "batch": "2026-11-27",
@@ -6693,50 +6817,6 @@
    "reason": "No new development"
   },
   {
-   "id": "2026-11-21-lo-sydney-terror-charges",
-   "batch": "2026-11-21",
-   "rank": 1,
-   "category": "Australia",
-   "title": "Man charged with terrorism offences after raids in Sydney's south-west",
-   "summary": "A 35-year-old man was charged with making a document connected with terrorism and using a carriage service to possess violent extremist material after raids in Sydney's south-west on Friday, ABC News reported. Police allege the material related to religiously motivated extremism, including Islamic State.\n\nThe man was arrested at an Ingleburn home and refused bail, according to the ABC. A 34-year-old man arrested in Campbelltown was expected to be charged with hindering police, and a 33-year-old arrested at Wolli Creek was expected to face firearms charges. Police searched several properties and seized items.",
-   "keyFacts": [
-    "35-year-old charged and refused bail",
-    "Police allege Islamic State-related material",
-    "Two other men arrested in the raids"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-20/sydney-counter-terror-raids-campbelltown/107407568"
-    }
-   ],
-   "publishedAt": "2026-11-20T10:58:00+11:00",
-   "createdAt": "2026-11-21T06:50:59+11:00",
-   "reason": "Outside today's window"
-  },
-  {
-   "id": "2026-11-21-lo-trump-nuclear-limits-hard",
-   "batch": "2026-11-21",
-   "rank": 2,
-   "category": "World",
-   "title": "Trump says nuclear arms limits with China and Russia will be hard to achieve",
-   "summary": "US President Donald Trump said after talks with Xi Jinping and Vladimir Putin that an agreement to limit nuclear weapons would be very hard to achieve but he would keep working on it, Reuters reported. He spoke to Reuters by phone on his flight back from the three-way meeting in China.\n\nTrump said Xi agreed with the concept, according to Reuters, while China has been reluctant to join arms control talks. Reuters cited estimates of about 410 Chinese, 3,708 US and 5,420 Russian warheads. The leaders' joint statement said a nuclear war cannot be won and committed them to dialogue on reducing nuclear risks.",
-   "keyFacts": [
-    "Trump spoke to Reuters after the Shenzhen meeting",
-    "He said Xi agrees with the concept",
-    "Joint statement commits to dialogue on nuclear risks"
-   ],
-   "sources": [
-    {
-     "name": "Reuters (via ThePrint)",
-     "url": "https://theprint.in/world/trump-says-nuclear-arms-limits-with-china-russia-will-be-very-hard-to-achieve/3103756/"
-    }
-   ],
-   "publishedAt": "2026-11-20T10:00:00+11:00",
-   "createdAt": "2026-11-21T06:50:59+11:00",
-   "reason": "Outside today's window"
-  },
-  {
    "id": "2026-11-21-lo-china-japan-taiwan-remarks",
    "batch": "2026-11-21",
    "rank": 8,
@@ -6757,32 +6837,6 @@
    "publishedAt": "2026-11-20T18:00:00+11:00",
    "createdAt": "2026-11-21T06:50:59+11:00",
    "reason": "Restatement, nothing new"
-  },
-  {
-   "id": "2026-11-21-lo-marana-ice-detention-licence",
-   "batch": "2026-11-21",
-   "rank": 9,
-   "category": "Politics",
-   "title": "Arizona town issues business licence for planned immigration detention centre",
-   "summary": "The town of Marana, Arizona, issued a business licence to Management & Training Corporation to run an immigration detention centre in a former state prison, AP reported, citing Arizona Luminaria. A town spokesman said there were no grounds under town code to refuse it.\n\nArizona Public Media said the town had twice asked the company why sexual abuse allegations were missing from a 2023 audit of the site. The company said one allegation was mistakenly omitted and the others were classed as unfounded. ICE awarded the company a $US335 million contract in September. Opponents said they would keep opposing the facility.",
-   "keyFacts": [
-    "Licence dated 18 November, runs to November 2027",
-    "ICE contract worth $US335 million",
-    "Town says code gave no grounds to refuse"
-   ],
-   "sources": [
-    {
-     "name": "Arizona Luminaria/AP (via AZFamily)",
-     "url": "https://www.azfamily.com/2026/11/19/arizona-town-approves-business-license-immigration-detention-facility/"
-    },
-    {
-     "name": "Arizona Public Media",
-     "url": "https://www.azpm.org/border/2026-11-19/marana-greenlights-license-for-ice-detention-center-amid-questions-about-abuse-allegations"
-    }
-   ],
-   "publishedAt": "2026-11-20T11:10:00+11:00",
-   "createdAt": "2026-11-21T06:50:59+11:00",
-   "reason": "Outside today's window"
   },
   {
    "id": "2026-11-21-lo-abc-news-staffers-leave",
@@ -6853,94 +6907,6 @@
    "publishedAt": "2026-11-20T18:00:00+11:00",
    "createdAt": "2026-11-21T06:50:59+11:00",
    "reason": "Sport"
-  },
-  {
-   "id": "2026-11-21-lo-loganholme-murder-charges",
-   "batch": "2026-11-21",
-   "rank": 14,
-   "category": "Other",
-   "title": "Three 16-year-olds charged with murder over Loganholme pub shooting",
-   "summary": "Queensland police have charged three 16-year-old boys with murder, attempted murder and arson over a drive-by shooting at a pub at Loganholme, south of Brisbane, on 24 October, AAP reported. Five people were taken into custody after search warrants were executed on Thursday.\n\nVana-Reese Schuster-Togiatau was shot during a boxing event and died five days later, according to AAP. Three men were also injured. Detective Inspector Ian Galpin said two people were in the car from which shots were fired, and gang involvement had not been ruled out. The three were due in Brisbane Children's Court on Friday.",
-   "keyFacts": [
-    "Three teenagers charged with murder",
-    "Shooting occurred on 24 October",
-    "Police have not ruled out gang involvement"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/five-arrested-after-drive-by-killing-at-pub"
-    }
-   ],
-   "publishedAt": "2026-11-20T08:00:00+10:00",
-   "createdAt": "2026-11-21T06:50:59+11:00",
-   "reason": "Local crime"
-  },
-  {
-   "id": "2026-11-20-lo-bukele-third-term-bid",
-   "batch": "2026-11-20-pm",
-   "category": "World",
-   "title": "Bukele expected to register for a third term as El Salvador's president",
-   "summary": "El Salvador's President Nayib Bukele was expected to register as a candidate for a third term before Thursday's deadline, Al Jazeera reported, citing Reuters. The election is set for 28 February 2027. A 2025 constitutional change allowed a third term and extended terms from five to six years.\n\nRights groups say more than 1 per cent of the population has been detained under a state of emergency with limited due process, according to the report. The government says gangs have been largely dismantled. Rival candidates include Maytee Iraheta of ARENA and Rafael Aguirre of the FMLN. Registration had not been confirmed in the report.",
-   "keyFacts": [
-    "Election scheduled for 28 February 2027",
-    "2025 amendment allowed a third term",
-    "Registration not yet confirmed"
-   ],
-   "sources": [
-    {
-     "name": "Reuters (via Al Jazeera)",
-     "url": "https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-expected-to-formalise-bid-for-third-presidential-term"
-    }
-   ],
-   "publishedAt": "2026-11-20T11:22:00+11:00",
-   "reason": "Not yet confirmed",
-   "rank": 1,
-   "createdAt": "2026-11-20T17:50:46+11:00"
-  },
-  {
-   "id": "2026-11-20-lo-rohingya-australians-react",
-   "batch": "2026-11-20-pm",
-   "category": "Australia",
-   "title": "Rohingya community in Australia reacts to ICJ genocide ruling",
-   "summary": "Members of Australia's Rohingya community welcomed the International Court of Justice ruling that Myanmar committed genocide, AAP reported. Asma Nayim Ullah, who arrived in Australia by boat as a child, told AAP that many people's first word on hearing the news was \"finally\".\n\nAAP said about 5,000 Rohingya live in Australia. Her family stayed up on Thursday night to watch the ruling from The Hague, according to the report. AAP cited estimates that about 750,000 Rohingya have fled to Bangladesh since August 2017. The article did not include a response from the Australian government.",
-   "keyFacts": [
-    "About 5,000 Rohingya live in Australia",
-    "Community members watched the ruling overnight",
-    "No Australian government response reported"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/finally-relief-for-australians-after-genocide-ruling"
-    }
-   ],
-   "publishedAt": "2026-11-20T09:00:00+11:00",
-   "reason": "Human interest",
-   "rank": 2,
-   "createdAt": "2026-11-20T17:50:46+11:00"
-  },
-  {
-   "id": "2026-11-20-lo-ministers-recession-comments",
-   "batch": "2026-11-20-pm",
-   "category": "Politics",
-   "title": "Ministers say Treasury and RBA are not forecasting a recession",
-   "summary": "Workplace Relations Minister Amanda Rishworth said on Friday the Reserve Bank and Treasury were not forecasting a recession and she had no reason to dispute that, the ABC reported. Health Minister Mark Butler said the coming mid-year budget update would aim to ease inflation pressure without a \"slash and burn\" approach.\n\nShadow Treasurer Tim Wilson accused the government of pursuing policies that add to inflation, and Deputy Liberal Leader Jane Hume called for action to restore business confidence, according to the ABC. The comments followed Thursday's figures showing unemployment rose to 4.9 per cent in October.",
-   "keyFacts": [
-    "Rishworth says no recession is forecast",
-    "Butler rules out 'slash and burn' in MYEFO",
-    "Coalition criticises government on inflation"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-20/federal-politics-live-blog-recession-concerns/107407116"
-    }
-   ],
-   "publishedAt": "2026-11-20T07:19:00+11:00",
-   "reason": "Restatement, nothing new",
-   "rank": 3,
-   "createdAt": "2026-11-20T17:50:46+11:00"
   },
   {
    "id": "2026-11-22-us-iran-war-fears",
