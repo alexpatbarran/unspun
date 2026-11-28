@@ -1,6 +1,495 @@
 {
- "updatedAt": "2026-11-28T07:12:00+11:00",
+ "updatedAt": "2026-11-28T17:58:00+11:00",
  "articles": [
+  {
+   "id": "2026-11-28-taiwan-local-elections-vote",
+   "batch": "2026-11-28-pm",
+   "category": "World",
+   "title": "Taiwan votes in local elections as China sends warplanes and targets Taipei candidate",
+   "summary": "Taiwanese voters chose mayors and county chiefs in all 22 cities and counties on Saturday, with about 11,000 positions at stake, according to Reuters and Al Jazeera. The most closely watched race is Taipei, where Kuomintang mayor Chiang Wan-an faces the Democratic Progressive Party's Puma Shen.\n\nTaiwan's defence ministry said it detected 33 Chinese military aircraft and eight warships around the island in the prior 24 hours. Chinese state media accused Shen of taking US money, and Chinese police say he is wanted for separatism. Shen told Reuters Chinese police had never contacted him. Chiang's team declined to comment. Polls closed at 4pm local time.",
+   "keyFacts": [
+    "Voting covered all 22 cities and counties",
+    "In 2022 the KMT won 14, the DPP five and others three",
+    "Presidential and legislative elections are due in early 2028"
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via Korea Times)",
+     "url": "https://www.koreatimes.co.kr/world/20261128/taiwan-votes-in-local-elections-as-china-sends-warplanes-lambasts-taipei-candidate"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/28/taiwan-votes-in-local-elections-to-choose-mayors-other-leaders"
+    }
+   ],
+   "publishedAt": "2026-11-28T15:44:00+11:00",
+   "createdAt": "2026-11-28T17:58:00+11:00",
+   "rank": 1
+  },
+  {
+   "id": "2026-11-28-msf-gaza-city-strike",
+   "batch": "2026-11-28-pm",
+   "category": "World",
+   "title": "Israeli strike on MSF building in Gaza City kills two; Israel says they were Hamas members",
+   "summary": "An Israeli air strike hit a Doctors Without Borders (MSF) building near al-Shifa Hospital in western Gaza City, killing two men who worked as watchmen, according to MSF and ABC News. MSF said the site was clearly marked and its location was known to the Israeli military, and that its staff death toll in Gaza has reached 17.\n\nThe Israeli military acknowledged the men worked for MSF but said they were members of Hamas's armed wing posing as aid workers. It did not publicly provide evidence and said the strike was not aimed at a hospital. WHO chief Tedros Adhanom Ghebreyesus called attacks on health workers in Gaza unacceptable.",
+   "keyFacts": [
+    "MSF says its Gaza staff death toll is now 17",
+    "Israel says the two men were Hamas operatives",
+    "The strike comes despite an October 2025 ceasefire"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://abc.net.au/news/2026-11-28/two-killed-israeli-air-strike-gaza-msf/107438266"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff"
+    }
+   ],
+   "publishedAt": "2026-11-28T14:45:00+11:00",
+   "createdAt": "2026-11-28T17:58:00+11:00",
+   "rank": 2
+  },
+  {
+   "id": "2026-11-28-italy-kuwait-drone-iran-made",
+   "batch": "2026-11-28-pm",
+   "category": "World",
+   "title": "Italy says drone that killed two Italians in Kuwait was made in Iran; Tehran denies launch",
+   "summary": "Italian Foreign Minister Antonio Tajani said Kuwaiti investigators had found that the drone used in Thursday's attack in Kuwait, which killed two Italian technicians and injured two other people, was manufactured in Iran, according to Middle East Eye and bdnews24.\n\nTajani said Iran maintains the drone was not launched from its territory, while noting that Iran's regional allies also use Iranian-made drones. Iran denies involvement, and Foreign Minister Abbas Araghchi has called the attack suspicious. Tajani said Tehran has offered to join a commission of inquiry with Italy and Kuwait. Saudi Arabia and Syria were among countries that blamed Iran.",
+   "keyFacts": [
+    "Two Italians were killed in the drone attack on Thursday",
+    "Italy cites Kuwaiti findings that the drone was Iranian-made",
+    "Iran denies launching it and offers a joint inquiry"
+   ],
+   "sources": [
+    {
+     "name": "Middle East Eye",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/drone-killed-two-italians-kuwait-was-iranian-made-says-italys-foreign"
+    },
+    {
+     "name": "bdnews24",
+     "url": "https://bdnews24.com/world/btfqyv091x"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran"
+    }
+   ],
+   "publishedAt": "2026-11-28T10:47:00+11:00",
+   "createdAt": "2026-11-28T17:58:00+11:00",
+   "rank": 3
+  },
+  {
+   "id": "2026-11-28-ecuador-peru-el-nino-floods",
+   "batch": "2026-11-28-pm",
+   "category": "Environment",
+   "title": "Ecuador reports 34 deaths as El Niño rains flood cities in Ecuador and Peru",
+   "summary": "Ecuador's National Secretariat for Risk Management reported 34 deaths and 47,000 people affected nationwide by heavy rain, according to Al Jazeera, citing AFP and Anadolu. In the city of Manta, two rivers broke their banks.\n\nIn Piura, northern Peru, about 2,000 families were affected after 12 hours of rain, Peru's civil defence chief said, and hospital patients were moved to higher ground. Peru's weather service warned heavy rain could last four more days, and the navy said El Niño-driven swells had closed dozens of ports. Several Latin American countries have declared national emergencies over the El Niño event.",
+   "keyFacts": [
+    "Ecuador reports 34 deaths and 47,000 people affected",
+    "About 2,000 families affected in Piura, Peru",
+    "Peru's president postponed a trip to Colombia"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/28/el-nino-linked-deluges-flood-cities-in-peru-ecuador"
+    }
+   ],
+   "publishedAt": "2026-11-28T15:57:00+11:00",
+   "createdAt": "2026-11-28T17:58:00+11:00",
+   "rank": 4
+  },
+  {
+   "id": "2026-11-28-iran-says-tankers-recovered",
+   "batch": "2026-11-28-pm",
+   "category": "World",
+   "title": "Iran says its navy retook two tankers seized by US forces; no US comment",
+   "summary": "Iran's navy said its special forces had recovered two Iranian oil tankers that it said had been seized by the US military, according to TASS and Anadolu Agency. Navy commander Shahram Irani, quoted by the Fars news agency, said the vessels were boarded while the US personnel aboard were asleep.\n\nIrani also claimed US forces charge shipowners for escorting vessels through the Strait of Hormuz. The claims have not been independently verified, and US officials had not commented at the time of the reports. The announcement comes amid a US naval blockade of Iranian ports.",
+   "keyFacts": [
+    "Iran's navy commander made the claim on Friday",
+    "He said crews boarded the ships while US personnel slept",
+    "US officials had not responded to the claim"
+   ],
+   "sources": [
+    {
+     "name": "TASS",
+     "url": "https://tass.com/world/2225829"
+    },
+    {
+     "name": "Anadolu Agency (via A News)",
+     "url": "https://www.anews.com.tr/middle-east/2026/11/27/iran-claims-it-recovered-2-oil-tankers-seized-by-us-military"
+    }
+   ],
+   "publishedAt": "2026-11-27T21:36:00+11:00",
+   "createdAt": "2026-11-28T17:58:00+11:00",
+   "rank": 5
+  },
+  {
+   "id": "2026-11-28-irgc-tankers-mines-khasab",
+   "batch": "2026-11-28-pm",
+   "category": "World",
+   "title": "Revolutionary Guard says two tankers hit mines near Hormuz while on 'unauthorised routes'",
+   "summary": "Iran's Islamic Revolutionary Guard Corps said two oil tankers caught fire and exploded after hitting naval mines near Oman's Khasab port and in the eastern Strait of Hormuz, according to Al Jazeera and the Times of Israel, citing Iranian state media.\n\nThe IRGC said the vessels were using unauthorised routes through the strait. The ships' names, flags and any casualties were not reported, and the claim has not been independently confirmed. Separately, the IRGC said the number of tankers using such routes had fallen in recent days, Reuters reported via the Jerusalem Post.",
+   "keyFacts": [
+    "The IRGC says two tankers struck mines near Khasab",
+    "It says the ships were on unauthorised routes",
+    "No independent confirmation or casualty details were given"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran"
+    },
+    {
+     "name": "Times of Israel",
+     "url": "https://www.timesofisrael.com/liveblog-november-28-2026"
+    },
+    {
+     "name": "Reuters (via Jerusalem Post)",
+     "url": "https://www.jpost.com/middle-east/iran-news/article-916347"
+    }
+   ],
+   "publishedAt": "2026-11-28T11:00:00+11:00",
+   "createdAt": "2026-11-28T17:58:00+11:00",
+   "rank": 6
+  },
+  {
+   "id": "2026-11-28-peter-cain-quits-act-liberals",
+   "batch": "2026-11-28-pm",
+   "category": "Politics",
+   "title": "Peter Cain quits Canberra Liberals to sit as independent in ACT Assembly",
+   "summary": "Ginninderra MLA Peter Cain has resigned from the Canberra Liberals and will sit as an independent in the ACT Legislative Assembly, ABC News reported. He is the second Liberal to leave the party room this year, cutting the opposition to seven seats and lifting the crossbench to eight.\n\nCain said he could push for transparency, responsible spending and better services more effectively from the crossbench, and will recontest his seat in 2028. Opposition Leader Mark Parton said the party was disappointed and surprised, and that he learned of the move late on Friday. Chief Minister Andrew Barr said the government would work constructively with Cain.",
+   "keyFacts": [
+    "Cain will sit as an independent and recontest in 2028",
+    "The opposition falls to seven seats",
+    "He is the second Liberal MLA to leave the party this year"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-28/peter-cain-quits-canberra-liberals/107437706"
+    }
+   ],
+   "publishedAt": "2026-11-28T10:33:00+11:00",
+   "createdAt": "2026-11-28T17:58:00+11:00",
+   "rank": 7
+  },
+  {
+   "id": "2026-11-28-us-thanksgiving-storm-cleanup",
+   "batch": "2026-11-28-pm",
+   "category": "World",
+   "title": "Power restored to most of US East Coast after Thanksgiving storm caused 900,000 outages",
+   "summary": "Rain and flooding eased along the US East Coast on Friday after a Thanksgiving storm downed trees and power lines and led to water rescues in several states from New York to Virginia, according to Al Jazeera, citing AP and AFP.\n\nPower outages peaked at more than 900,000 on Thursday and fell to about 264,000 by Friday evening, according to poweroutage.us. FlightAware counted about 1,600 flight delays and more than 500 cancellations on Friday. The National Weather Service said the system would weaken slowly, and coastal flood warnings remained from New Jersey to Virginia. Record tides on the California coast also prompted evacuations.",
+   "keyFacts": [
+    "Outages peaked above 900,000 on Thursday",
+    "About 264,000 remained without power on Friday evening",
+    "Coastal flood warnings stayed in place from New Jersey to Virginia"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/28/parts-of-us-clean-up-after-thanksgiving-storm-lashes-east-coast"
+    }
+   ],
+   "publishedAt": "2026-11-28T14:00:00+11:00",
+   "createdAt": "2026-11-28T17:58:00+11:00",
+   "rank": 8
+  },
+  {
+   "id": "2026-11-28-argentina-central-bank-law",
+   "batch": "2026-11-28-pm",
+   "category": "Economy",
+   "title": "Argentina passes law barring central bank from printing money to fund government",
+   "summary": "Argentina's Chamber of Deputies gave final approval on Thursday to a bill that makes preserving the currency's value the central bank's main mission and bars it from printing money to finance government spending, according to Reuters and AP, reported by Al Jazeera. The vote was 141 to none, with 99 abstentions.\n\nPresident Javier Milei's office welcomed the law. The Senate had earlier removed a provision Milei sought requiring two-thirds of both chambers to dismiss central bank governors. The Senate separately advanced a bill to suspend primaries before the 2027 presidential election; critics including Buenos Aires governor Axel Kicillof oppose it, while Milei's party says it simplifies elections.",
+   "keyFacts": [
+    "The final vote was 141 to 0, with 99 abstentions",
+    "Past money printing contributed to inflation above 200% in 2023",
+    "A separate bill to suspend 2027 primaries still needs the lower house"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending"
+    }
+   ],
+   "publishedAt": "2026-11-27T11:11:00+11:00",
+   "createdAt": "2026-11-28T17:58:00+11:00",
+   "rank": 9
+  },
+  {
+   "id": "2026-11-28-buffel-grass-not-listed",
+   "batch": "2026-11-28-pm",
+   "category": "Environment",
+   "title": "National committee decides not to list buffel grass as a weed of national significance",
+   "summary": "The National Biosecurity Committee has decided not to list buffel grass as a weed of national significance, citing a lack of national consensus and differing views among jurisdictions and stakeholders, ABC News reported. The committee described buffel as a valued pasture grass that causes harm in places such as conservation areas.\n\nCattle Australia and the NT Cattlemen's Association welcomed the decision, saying producers rely on buffel as feed in drought, Beef Central and the ABC reported. The Invasive Species Council, the Central Land Council and the Arid Lands Environment Centre said listing would have enabled national coordination against its spread, and called for a federal inquiry.",
+   "keyFacts": [
+    "The decision was conveyed to stakeholders on Friday",
+    "Buffel was declared a weed in the Northern Territory in 2024",
+    "Environmental and land council groups want a federal inquiry"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-28/buffel-grass-spared-weed-of-national-significance-listing/107436668"
+    },
+    {
+     "name": "Beef Central",
+     "url": "https://www.beefcentral.com/news/common-sense-prevails-buffel-grass-not-a-weed/"
+    }
+   ],
+   "publishedAt": "2026-11-28T11:28:00+11:00",
+   "createdAt": "2026-11-28T17:58:00+11:00",
+   "rank": 10
+  },
+  {
+   "id": "2026-11-28-accc-food-labels-inquiry",
+   "batch": "2026-11-28-pm",
+   "category": "Business",
+   "title": "ACCC finds no evidence tomato and egg labels were misleading after Four Corners report",
+   "summary": "The Australian Competition and Consumer Commission said it found no evidence that country-of-origin claims on processed tomato products, or cage-free claims on eggs, were false or misleading, ABC News reported. The inquiries followed a Four Corners investigation that commissioned forensic testing.\n\nThe ACCC said it reviewed traceability records, audits and supplier testing but did not conduct its own tests, and that origin testing cannot prove origin with certainty. Source Certain, the laboratory Four Corners used, said the ACCC relied on evidence from the companies under examination. The ABC said it stands by its reporting. Turmeric, spirits and health ratings were outside the ACCC's inquiry.",
+   "keyFacts": [
+    "The ACCC examined tomato origin and cage-free egg claims",
+    "It did not commission independent testing",
+    "The ABC says it stands by the Four Corners investigation"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-27/accc-concludes-food-fraud-inquiries-after-four-corners-episode/107435478"
+    }
+   ],
+   "publishedAt": "2026-11-27T17:04:00+11:00",
+   "createdAt": "2026-11-28T17:58:00+11:00",
+   "rank": 11
+  },
+  {
+   "id": "2026-11-28-mccrae-landslide-warning",
+   "batch": "2026-11-28-pm",
+   "category": "Australia",
+   "title": "Emergency warning issued after landslide damages house at McCrae on Mornington Peninsula",
+   "summary": "Authorities issued an emergency warning after a landslide at McCrae on Victoria's Mornington Peninsula damaged a house following heavy rain, ABC News reported. People were told to stay away while assessments continued, and roads including Point Nepean Road and The Eyrie were closed.\n\nMornington Peninsula Shire Mayor Stephen Batty said the council was working with other authorities to establish the extent of the incident. Emergency services warned the slope could fail further in the coming hours and days. The area has had previous landslides that damaged properties in 2022 and 2025. The landslide came as storms brought heavy rain to parts of Victoria on election day.",
+   "keyFacts": [
+    "An emergency warning is in place at McCrae",
+    "Point Nepean Road and The Eyrie are closed",
+    "Authorities warn the slope may fail further"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-28/landslide-mccrae-mornington-peninsula-warning/107437814"
+    }
+   ],
+   "publishedAt": "2026-11-28T10:17:00+11:00",
+   "createdAt": "2026-11-28T17:58:00+11:00",
+   "rank": 12
+  },
+  {
+   "id": "2026-11-28-ukraine-laser-downs-jet-drone",
+   "batch": "2026-11-28-pm",
+   "category": "Science & Tech",
+   "title": "Ukraine says experimental laser shot down Russian jet-powered drone for first time",
+   "summary": "Ukraine says a domestically built laser system has destroyed a Russian Geran-type jet-powered drone for the first time, according to Militarnyi, citing presidential adviser Serhii Flash. He said the 4-kilowatt Blysk laser, made by Carmine Sky, protects a critical infrastructure site and went on combat duty in Kyiv in early November.\n\nFlash said it was too early to discuss serial production and testing continues. The defence innovation cluster Brave1 also told AFP the technology remains experimental, the Times of Israel reported. The manufacturer says lasers take several seconds to burn through a Shahed-type drone and pose fewer risks to people nearby than anti-aircraft guns.",
+   "keyFacts": [
+    "The Blysk laser has a stated output of 4 kW",
+    "Its stated range is up to 1 km",
+    "Officials say the system is still experimental"
+   ],
+   "sources": [
+    {
+     "name": "Militarnyi",
+     "url": "https://militarnyi.com/en/news/ukrainian-blysk-laser-system-shoots-down-geran-jet-powered-drone-for-the-first-time/"
+    },
+    {
+     "name": "Times of Israel",
+     "url": "https://www.timesofisrael.com/liveblog-november-28-2026"
+    }
+   ],
+   "publishedAt": "2026-11-26T04:11:00+11:00",
+   "createdAt": "2026-11-28T17:58:00+11:00",
+   "rank": 13
+  },
+  {
+   "id": "2026-11-28-wa-legal-practice-board-report",
+   "batch": "2026-11-28-pm",
+   "category": "Australia",
+   "title": "WA parliamentary report makes 60 recommendations on state's legal profession regulator",
+   "summary": "A WA parliamentary committee report on the Legal Practice Board of Western Australia, tabled on Thursday, made 60 recommendations, including an independent review of the board's governance, ABC News reported. Its findings included lawyers waiting more than a year for practising certificates and more than 2,000 lawyers facing extra conditions because of a regulator error.\n\nCommittee chair Kate Doust said there were reports of a culture of fear of the board. The board acknowledged it had not always met an acceptable standard and said it welcomed the inquiry and was considering the findings. The Law Society said the failings must be fixed, and the state government called some evidence concerning.",
+   "keyFacts": [
+    "The committee made 60 recommendations",
+    "More than 2,000 lawyers faced extra conditions after a regulator error",
+    "The board says it is considering the findings"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-28/report-shows-failings-legal-practice-board-western-australia/107430436"
+    }
+   ],
+   "publishedAt": "2026-11-28T13:32:00+11:00",
+   "createdAt": "2026-11-28T17:58:00+11:00",
+   "rank": 14
+  },
+  {
+   "id": "2026-11-28-trans-mountain-capacity-boost",
+   "batch": "2026-11-28-pm",
+   "category": "Business",
+   "title": "Trans Mountain pipeline capacity rises 10% to 980,000 barrels a day ahead of schedule",
+   "summary": "Canada's government-owned Trans Mountain Corp. said a project using a chemical drag-reducing agent has raised the Alberta-to-British Columbia oil pipeline's capacity by about 10% to 980,000 barrels a day, two months ahead of schedule, The Canadian Press reported.\n\nThe company expects a further 210,000 barrels a day from new pipeline segments and pump stations by the end of 2028. It shipped an average 840,000 barrels a day in the third quarter, up from 777,000 a year earlier, and has paid the federal government $C1.45 billion in interest, dividends and capital returns so far this year.",
+   "keyFacts": [
+    "Capacity is now about 980,000 barrels a day",
+    "A further 210,000 barrels a day is planned by end-2028",
+    "Third-quarter net income was $C132 million"
+   ],
+   "sources": [
+    {
+     "name": "The Canadian Press (via BNN Bloomberg)",
+     "url": "https://www.bnnbloomberg.ca/business/2026/11/27/project-to-increase-trans-mountain-pipeline-flows-starts-up-ahead-of-schedule/"
+    },
+    {
+     "name": "CTV News",
+     "url": "https://www.ctvnews.ca/business/article/project-to-increase-trans-mountain-pipeline-flows-starts-up-ahead-of-schedule/"
+    }
+   ],
+   "publishedAt": "2026-11-28T03:45:00+11:00",
+   "createdAt": "2026-11-28T17:58:00+11:00",
+   "rank": 15
+  },
+  {
+   "id": "2026-11-28-puerto-rico-power-protest",
+   "batch": "2026-11-28-pm",
+   "category": "World",
+   "title": "Thousands protest in Puerto Rico over record electricity prices",
+   "summary": "Thousands of people protested in San Juan on Friday over record electricity rates, living costs and public services, blocking one of the island's main highways, according to Al Jazeera, citing AP and Reuters. Organisers estimated about 8,000 people took part, backed by about 30 groups including unions and religious organisations.\n\nProtesters blamed Luma Energy, the private operator of the power grid. Puerto Rico's Supreme Court on Wednesday approved cancelling the government's contract with Luma. The island's Association of Industries warned the cancellation could deter private investment, while environmental groups said they would keep pushing for change. Some residential bills rose about 18%.",
+   "keyFacts": [
+    "Organisers estimated about 8,000 protesters",
+    "The Supreme Court approved cancelling Luma's contract on Wednesday",
+    "Some household power bills rose about 18%"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/28/thousands-of-puerto-ricans-join-day-of-national-outrage-protest"
+    }
+   ],
+   "publishedAt": "2026-11-28T12:00:00+11:00",
+   "createdAt": "2026-11-28T17:58:00+11:00",
+   "rank": 16
+  },
+  {
+   "id": "2026-11-28-canada-waitlist-deaths-report",
+   "batch": "2026-11-28-pm",
+   "category": "Health",
+   "title": "Think tank says record 29,468 Canadians died while on health care waiting lists",
+   "summary": "Canadian think tank SecondStreet.org says at least 29,468 Canadians died in 2025–26 while waiting for surgery, diagnostic scans or specialist appointments, the highest total it has recorded, The Hub reported. Quebec reported 11,548 deaths and Ontario 10,376; Newfoundland and Labrador did not provide data.\n\nThe report does not establish that delays caused the deaths, and coverage differs between provinces, The Hub noted. SecondStreet says the true figure is higher and supports more private options. Federal Health Minister Marjorie Michel has raised concerns about Alberta's new mixed public-private model, which Alberta says complies with the Canada Health Act.",
+   "keyFacts": [
+    "SecondStreet counts 29,468 deaths in 2025–26",
+    "The cumulative total since 2018 exceeds 129,000",
+    "The report does not show delays caused the deaths"
+   ],
+   "sources": [
+    {
+     "name": "The Hub",
+     "url": "https://thehub.ca/2026/11/26/record-29500-canadians-died-on-healthcare-waiting-lists-last-year-study"
+    },
+    {
+     "name": "SecondStreet.org",
+     "url": "https://secondstreet.org/2026/11/25/died-on-a-waiting-list-2026-report/"
+    }
+   ],
+   "publishedAt": "2026-11-26T14:00:00+11:00",
+   "createdAt": "2026-11-28T17:58:00+11:00",
+   "rank": 17
+  },
+  {
+   "id": "2026-11-28-poilievre-washington-trip",
+   "batch": "2026-11-28-pm",
+   "category": "World",
+   "title": "Canada's Poilievre to visit Washington as Canada–US trade talks continue",
+   "summary": "Canadian Conservative leader Pierre Poilievre will travel to Washington next week to push for tariff-free trade with the United States, CBC News and CTV News reported. According to CTV, a senior Conservative source said Poilievre has told the Prime Minister's Office about the trip, planned for Thursday, and that Canada's ambassador to the US will brief him beforehand.\n\nThe visit comes as the Carney government continues trade negotiations with the Trump administration. CTV reported the trip comes ahead of a byelection in Brantford. No response from the Prime Minister's Office was reported.",
+   "keyFacts": [
+    "The trip is planned for next Thursday",
+    "Canada's US ambassador is to brief Poilievre first",
+    "He is pushing for tariff-free trade with the US"
+   ],
+   "sources": [
+    {
+     "name": "CTV News",
+     "url": "https://www.ctvnews.ca/politics/article/poilievre-to-visit-washington-as-canada-us-trade-talks-continue/"
+    },
+    {
+     "name": "CBC News",
+     "url": "https://www.cbc.ca/news/politics/poilievre-washington-trip-9.7439098"
+    }
+   ],
+   "publishedAt": "2026-11-27T21:00:00+11:00",
+   "createdAt": "2026-11-28T17:58:00+11:00",
+   "rank": 18
+  },
+  {
+   "id": "2026-11-28-uk-ngole-appeal-ruling",
+   "batch": "2026-11-28-pm",
+   "category": "World",
+   "title": "UK appeal court rules charity discriminated against Christian social worker",
+   "summary": "The Court of Appeal in England ruled 2–1 that mental health charity Touchstone in Leeds unlawfully discriminated against social worker Felix Ngole over his religious beliefs, including his opposition to same-sex marriage, Christian Today reported. The charity withdrew a job offer in 2022 after finding earlier media coverage of his views, and did not reinstate it after a second interview.\n\nA 2024 tribunal had found discrimination only over the withdrawn offer. The appeal judges found in Ngole's favour on the remaining complaints and refused permission to appeal to the Supreme Court. Touchstone had said it was concerned about the effect on staff and service users. The Christian Legal Centre backed Ngole.",
+   "keyFacts": [
+    "The court ruled 2–1 in Ngole's favour",
+    "Touchstone withdrew the job offer in 2022",
+    "Permission to appeal to the Supreme Court was refused"
+   ],
+   "sources": [
+    {
+     "name": "Christian Today",
+     "url": "https://www.christiantoday.com/news/christian-social-worker-wins-discrimination-case-after-charity-withdrew-job-offer"
+    }
+   ],
+   "publishedAt": "2026-11-28T06:12:00+11:00",
+   "createdAt": "2026-11-28T17:58:00+11:00",
+   "rank": 19
+  },
+  {
+   "id": "2026-11-28-wine-australia-glut",
+   "batch": "2026-11-28-pm",
+   "category": "Business",
+   "title": "Australian wine sales exceed production but surplus stock remains, report says",
+   "summary": "Australian wine production fell 18% to 925 million litres in 2025–26 while just over one billion litres were sold, according to Wine Australia's annual production, sales and inventory report, ABC News reported. Domestic sales fell 1% to a two-decade low and exports dropped below 600 million litres for the first time in 20 years.\n\nInventory fell 9% to 1.78 billion litres, but Wine Australia's Peter Bailey said about 124 million litres of excess stock remains. The grape crush was the lowest in 25 years. Economist Kym Anderson said the drop may not be permanent because many growers left grapes unpicked rather than removing vines.",
+   "keyFacts": [
+    "Production fell 18% to 925 million litres",
+    "Exports fell below 600 million litres",
+    "About 124 million litres of excess stock remains"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-28/australian-wine-glut-continues-despite-sales-production/107425900"
+    }
+   ],
+   "publishedAt": "2026-11-28T06:40:00+11:00",
+   "createdAt": "2026-11-28T17:58:00+11:00",
+   "rank": 20
+  },
+  {
+   "id": "2026-11-28-wa-dairy-pollution-investigation",
+   "batch": "2026-11-28-pm",
+   "category": "Environment",
+   "title": "WA regulator investigates suspected pollution of Blackwood River tributary from dairy",
+   "summary": "WA's Department of Water and Environmental Regulation is investigating suspected pollution of a creek feeding the Blackwood River from a property leased by dairy company Peninsula Downs at Warner Glen, ABC News reported. The department issued an environmental protection notice in May identifying animal effluent and carcasses as suspected sources.\n\nTesting commissioned by neighbouring landholders found E. coli levels far above recreational water guidelines. Managing director Ross Woodhouse said the company is fully compliant with the department's requirements and that farm runoff is common. The department said some requirements had been met, the notice remains in force and further action will be considered if needed.",
+   "keyFacts": [
+    "An environmental protection notice was issued on May 15",
+    "Landholder tests recorded high E. coli downstream",
+    "The company says it is complying with the regulator"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-28/wa-dairy-giant-under-investigation/107427310"
+    }
+   ],
+   "publishedAt": "2026-11-28T10:58:00+11:00",
+   "createdAt": "2026-11-28T17:58:00+11:00",
+   "rank": 21
+  },
   {
    "id": "2026-11-28-vic-election-day",
    "batch": "2026-11-28",
@@ -4659,119 +5148,6 @@
    "createdAt": "2026-11-22T17:45:00+11:00"
   },
   {
-   "id": "2026-11-21-wall-street-nasdaq-plunges-close",
-   "batch": "2026-11-21-pm",
-   "rank": 1,
-   "category": "Economy",
-   "title": "Wall Street closes sharply lower as Nasdaq falls more than 5% and Nvidia drops 14%",
-   "summary": "US shares fell heavily on Friday, with the Nasdaq closing down more than 5 per cent and the S&P 500 down 3.7 per cent, according to AFP via SBS News. Nvidia shares closed 14.01 per cent lower. The close confirms the S&P 500's seventh straight losing session, reported earlier as under way.\n\nAnthropic shares, priced at US$83 in their initial public offering, closed below US$89 after trading above US$110 on Thursday, AFP reported. ABC News said the S&P 500 is now in a correction, more than 10 per cent below its 6 October record. Analysts cited by AFP pointed to doubts about returns on AI spending and a US move to restrict Chinese remote access to Nvidia chips.",
-   "keyFacts": [
-    "Nasdaq closed down more than 5%, S&P 500 down 3.7%",
-    "Nvidia closed 14.01% lower",
-    "Anthropic shares closed below US$89, versus a US$83 IPO price"
-   ],
-   "sources": [
-    {
-     "name": "SBS News (AFP)",
-     "url": "https://www.sbs.com.au/news/article/global-stocks-tumble-as-ai-bubble-fears-prompt-market-sell-off-with-anthropic-shares-falling/mhzp6bpkf"
-    },
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-21/anthropic-ipo-fails-to-calm-ai-jitters-stock-market-debut/107412118"
-    }
-   ],
-   "publishedAt": "2026-11-21T11:03:00+11:00",
-   "createdAt": "2026-11-21T17:50:00+11:00"
-  },
-  {
-   "id": "2026-11-21-nvidia-sec-accounting-report",
-   "batch": "2026-11-21-pm",
-   "rank": 3,
-   "category": "Business",
-   "title": "Nvidia shares fall 14% after report SEC is examining possible accounting issues",
-   "summary": "Nvidia shares closed 14.01 per cent lower on Friday, AFP reported via SBS News, after Reuters reported that US Securities and Exchange Commission enforcement staff were examining potential accounting issues at the company. Reuters cited two people briefed on the matter and could not determine when the inquiry began or its scope, according to 24/7 Wall St.\n\nThe SEC declined to comment and Nvidia did not immediately respond, 24/7 Wall St reported. The Wall Street Journal had reported earlier in the week that the SEC was investigating whether Nvidia's disclosures misled investors. The company has been led by interim chief executive Colette Kress since Jensen Huang resigned on 12 November.",
-   "keyFacts": [
-    "Reuters reported SEC staff examining potential accounting issues",
-    "SEC declined to comment",
-    "Nvidia closed down 14.01% on Friday"
-   ],
-   "sources": [
-    {
-     "name": "24/7 Wall St. (via Yahoo Finance)",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-plunges-12-reuters-201702082.html"
-    },
-    {
-     "name": "SBS News (AFP)",
-     "url": "https://www.sbs.com.au/news/article/global-stocks-tumble-as-ai-bubble-fears-prompt-market-sell-off-with-anthropic-shares-falling/mhzp6bpkf"
-    }
-   ],
-   "publishedAt": "2026-11-21T07:17:00+11:00",
-   "createdAt": "2026-11-21T17:50:00+11:00"
-  },
-  {
-   "id": "2026-11-21-denmark-expels-russian-attache",
-   "batch": "2026-11-21-pm",
-   "rank": 7,
-   "category": "World",
-   "title": "Denmark expels Russian defence attache over alleged plot to kill Ukrainian rapper",
-   "summary": "Denmark is expelling Russia's defence attache, Foreign Minister Lars Lokke Rasmussen said on Friday, after the Danish intelligence service PET said it suspected Russian intelligence of planning to kill a Ukrainian rapper at a concert near Copenhagen, Al Jazeera reported, citing AFP. The attache has seven days to leave.\n\nPET said three people were stopped in a car near the venue, where police found firearms and knives. Two people have been charged with attempted murder and assisting a foreign intelligence service. Police suspect a banned gang helped plan the alleged attack. Russia's embassy called the expulsion vengeful and said no evidence of Russian involvement had been presented.",
-   "keyFacts": [
-    "Russian defence attache given seven days to leave",
-    "Two charged with attempted murder",
-    "Russia's embassy says no evidence was presented"
-   ],
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/21/denmark-expels-russian-diplomat-over-alleged-plot-to-kill-ukrainian-rapper"
-    }
-   ],
-   "publishedAt": "2026-11-21T12:12:00+11:00",
-   "createdAt": "2026-11-21T17:50:00+11:00"
-  },
-  {
-   "id": "2026-11-21-riyadh-missiles-intercepted",
-   "batch": "2026-11-21-pm",
-   "rank": 8,
-   "category": "World",
-   "title": "Saudi-led coalition says it intercepted three missiles fired at Riyadh",
-   "summary": "The Saudi-led coalition backing Yemen's internationally recognised government said it intercepted three ballistic missiles aimed at Riyadh overnight, Al Jazeera reported. Emergency alerts were issued for the capital and southern Saudi Arabia.\n\nThe attack followed coalition strikes on Friday on Houthi-held sites, including Sanaa and the port of Hodeidah, and came days after Houthi missiles hit the Public Investment Fund tower, the country's tallest building, according to Al Jazeera. The Houthis have threatened Saudi Arabia's financial district and Red Sea ports including Jeddah. The Houthis had not commented on the interceptions in Al Jazeera's report, and no damage was reported.",
-   "keyFacts": [
-    "Three ballistic missiles intercepted, coalition says",
-    "Emergency alerts issued for Riyadh and the south",
-    "Follows coalition strikes on Hodeidah and Sanaa"
-   ],
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles"
-    }
-   ],
-   "publishedAt": "2026-11-21T11:00:00+11:00",
-   "createdAt": "2026-11-21T17:50:00+11:00"
-  },
-  {
-   "id": "2026-11-21-paris-police-zecler-sentenced",
-   "batch": "2026-11-21-pm",
-   "rank": 9,
-   "category": "World",
-   "title": "Paris court sentences three police officers over 2020 racist assault on music producer",
-   "summary": "A Paris criminal court on Friday sentenced three police officers over the 2020 assault on music producer Michel Zecler, finding racism was an aggravating factor, Al Jazeera reported, citing AFP. Each received five years, with between three and four years suspended.\n\nSecurity footage recorded the assault outside Zecler's Paris studio in November 2020. The court found his account consistent and said a falsified police report damaged the officers' credibility, according to the report. The officers had said Zecler was not wearing a mask and had tried to grab a weapon. Zecler's lawyer said justice had been done. AFP noted guilty verdicts in police violence cases are rare in France.",
-   "keyFacts": [
-    "Three officers each sentenced to five years, partly suspended",
-    "Court found racism an aggravating factor",
-    "Assault was filmed in November 2020"
-   ],
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/21/three-french-police-officers-sentenced-over-racist-assault-on-black-man"
-    }
-   ],
-   "publishedAt": "2026-11-21T14:01:00+11:00",
-   "createdAt": "2026-11-21T17:50:00+11:00"
-  },
-  {
    "id": "2026-11-22-kryvyi-rih-strike",
    "batch": "2026-11-22",
    "rank": 1,
@@ -4893,73 +5269,6 @@
    "createdAt": "2026-11-22T06:49:47+11:00"
   },
   {
-   "id": "2026-11-22-bayer-roundup-settlement-approved",
-   "batch": "2026-11-22",
-   "rank": 6,
-   "category": "Business",
-   "title": "US judge approves Bayer's $US7.25 billion Roundup cancer settlement",
-   "summary": "A St Louis judge on Friday approved a settlement under which Bayer will pay up to $US7.25 billion over as long as 21 years to resolve claims that its Roundup weedkiller caused non-Hodgkin lymphoma, AP reported. Circuit Judge Timothy Boyer described the payouts as fair and adequate in a written order.\n\nAP said participants could receive on average between $US10,000 and $US165,000, depending on factors including exposure and illness severity. Bayer denies that Roundup causes cancer, and its chief executive Bill Anderson called the settlement a milestone. Some plaintiffs' lawyers say the payments are too small, and the approval could be appealed. The cancer link remains disputed between the WHO's cancer agency and the US EPA.",
-   "keyFacts": [
-    "The settlement is worth up to $US7.25 billion over 21 years",
-    "Bayer denies Roundup causes cancer",
-    "The approval can still be appealed, AP reported"
-   ],
-   "sources": [
-    {
-     "name": "AP (via PBS NewsHour)",
-     "url": "https://www.pbs.org/newshour/nation/court-approves-7-25-billion-bayer-settlement-over-claims-roundup-weed-killer-caused-cancer"
-    }
-   ],
-   "publishedAt": "2026-11-21T10:25:00+11:00",
-   "createdAt": "2026-11-22T06:49:47+11:00"
-  },
-  {
-   "id": "2026-11-22-palisades-fire-guilty-verdict",
-   "batch": "2026-11-22",
-   "rank": 7,
-   "category": "World",
-   "title": "US jury finds man guilty of starting fire that became deadly Palisades blaze",
-   "summary": "A federal jury in Los Angeles on Friday found Jonathan Rinderknecht guilty of arson-related charges over the fire that grew into the January 2025 Palisades Fire, NBC Los Angeles and ABC7 reported. Prosecutors alleged he started the Lachman Fire on New Year's Day 2025, which rekindled days later in strong winds. The Palisades Fire killed 12 people and destroyed thousands of structures.\n\nIt was a retrial; the first trial ended in a mistrial in June with jurors split 10-2 in favour of acquittal. Prosecutors cited phone location data and online search records. His lawyer, Steve Haney, argued the evidence was circumstantial and that fireworks could have caused the blaze. Sentencing is set for March 2027.",
-   "keyFacts": [
-    "Rinderknecht was found guilty at a retrial on Friday",
-    "His first trial ended in a 10-2 mistrial in June",
-    "Sentencing is set for 17 March 2027"
-   ],
-   "sources": [
-    {
-     "name": "NBC Los Angeles",
-     "url": "https://www.nbclosangeles.com/news/local/palisades-arson-trial-jonathan-rinderknecht/3972494/"
-    },
-    {
-     "name": "ABC7 Los Angeles",
-     "url": "https://abc7.com/post/jonathan-rinderknecht-found-guilty-setting-blaze-became-palisades-fire-during-retrial/20060892/"
-    }
-   ],
-   "publishedAt": "2026-11-21T10:03:00+11:00",
-   "createdAt": "2026-11-22T06:49:47+11:00"
-  },
-  {
-   "id": "2026-11-22-home-birth-midwife-rules",
-   "batch": "2026-11-22",
-   "rank": 8,
-   "category": "Health",
-   "title": "New national rules for home birth midwives take effect in January",
-   "summary": "From January, every midwife attending a home birth must hold an endorsement requiring extra training and 5,000 hours of work to qualify for professional indemnity insurance, AAP reported. Secondary midwives were previously exempt, and two midwives are required at a home birth.\n\nThe federal government says the change makes home birth safer and closes insurance gaps. Midwives and mothers say it could halve the number of home births, and rallies were planned around Australia on Saturday. Senators from several parties have asked Assistant Health Minister Rebecca White to reverse the change. White said the decision was made more than 18 months ago and that public home birth services remain unchanged.",
-   "keyFacts": [
-    "The rules apply to all home birth midwives from January",
-    "Opponents say home births could fall by half or more",
-    "White said public home birth services are unchanged"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/new-home-birth-rules-to-limit-access-for-expectant-mums"
-    }
-   ],
-   "publishedAt": "2026-11-21T16:30:00+11:00",
-   "createdAt": "2026-11-22T06:49:47+11:00"
-  },
-  {
    "id": "2026-11-22-vic-labor-health-pledges",
    "batch": "2026-11-22",
    "rank": 10,
@@ -4978,48 +5287,6 @@
     }
    ],
    "publishedAt": "2026-11-21T23:30:00+11:00",
-   "createdAt": "2026-11-22T06:49:47+11:00"
-  },
-  {
-   "id": "2026-11-22-malaysia-rohingya-turkey",
-   "batch": "2026-11-22",
-   "rank": 11,
-   "category": "World",
-   "title": "Malaysia says it will resettle 10,000 Rohingya refugees in Turkey",
-   "summary": "Malaysian Deputy Prime Minister Ahmad Zahid Hamidi said on Friday that Malaysia will resettle 10,000 Rohingya refugees in Turkey through a skills training program, AAP reported. He said the government would work with Turkish authorities and the UN refugee agency and would consider the consent of those involved. Turkey's foreign ministry did not immediately respond.\n\nThe announcement came a day after the International Court of Justice ruled Myanmar committed genocide against the Rohingya. A Myanmar government spokeswoman called the ruling unfair and said it was a nine-to-six decision. UNHCR figures show Malaysia had about 193,000 registered refugees from Myanmar at the end of February.",
-   "keyFacts": [
-    "Malaysia plans to resettle 10,000 Rohingya in Turkey",
-    "Turkey had not responded, AAP reported",
-    "Myanmar called the ICJ genocide ruling unfair"
-   ],
-   "sources": [
-    {
-     "name": "AAP",
-     "url": "https://aapnews.aap.com.au/news/myanmar-guilty-of-state-sponsored-genocide-un-court"
-    }
-   ],
-   "publishedAt": "2026-11-21T15:00:00+11:00",
-   "createdAt": "2026-11-22T06:49:47+11:00"
-  },
-  {
-   "id": "2026-11-22-honda-toyota-airbag-recall",
-   "batch": "2026-11-22",
-   "rank": 12,
-   "category": "Business",
-   "title": "Honda and Toyota recall 1.6 million US vehicles over Takata airbag risk",
-   "summary": "Honda and Toyota are recalling about 1.6 million vehicles in the US because their Takata airbag inflators could rupture, the ABC reported, citing Reuters. Both companies said no injuries, crashes or ruptures have been linked to the recalled vehicles.\n\nThe US road safety regulator NHTSA said the companies saw early evidence of degradation risk. Honda's recall covers 810,592 older US vehicles, while Toyota's covers 790,000 vehicles worldwide, including 314,000 in the US. Inflators will be replaced. Defective Takata inflators have been linked to at least 28 US deaths since 2009. Lexus has also recalled more than 7,000 vehicles in Australia, the ABC said.",
-   "keyFacts": [
-    "About 1.6 million US vehicles are being recalled",
-    "The companies said no injuries are linked to these vehicles",
-    "Lexus has recalled more than 7,000 vehicles in Australia"
-   ],
-   "sources": [
-    {
-     "name": "ABC News (Reuters)",
-     "url": "https://www.abc.net.au/news/2026-11-21/honda-toyota-recall-vehicles-over-takata-airbag-rupture-risk/107412768"
-    }
-   ],
-   "publishedAt": "2026-11-21T15:42:00+11:00",
    "createdAt": "2026-11-22T06:49:47+11:00"
   },
   {
@@ -5066,6 +5333,204 @@
   }
  ],
  "leftOut": [
+  {
+   "id": "2026-11-28-lo-tame-handbury-comments",
+   "batch": "2026-11-28-pm",
+   "category": "Other",
+   "title": "Former media executive admits making rape remark about Grace Tame",
+   "summary": "Former Murdoch Magazines owner Matt Handbury admitted in an email to Grace Tame that he said she was looking to be raped again, after she overheard the remark at a University of New South Wales function, ABC News reported. Handbury described the comment as a poor attempt at humour and said he regretted it.\n\nTame, a former Australian of the Year and survivor of child sexual abuse, wrote about the exchange in Crikey and said the humour explanation was indefensible. Handbury, a nephew of Rupert Murdoch, sits on the board of a Sydney rehabilitation centre. The ABC said it had sought comment from him.",
+   "keyFacts": [
+    "Handbury admitted the remark in an email",
+    "Tame described the exchange in Crikey",
+    "The ABC sought comment from Handbury"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-28/grace-tame-former-media-exec-matt-handbury-rape-comment-nsw/107437856"
+    }
+   ],
+   "publishedAt": "2026-11-28T12:43:00+11:00",
+   "createdAt": "2026-11-28T17:58:00+11:00",
+   "reason": "Celebrity",
+   "rank": 1
+  },
+  {
+   "id": "2026-11-28-lo-lyon-dropped-test-squad",
+   "batch": "2026-11-28-pm",
+   "category": "Sport",
+   "title": "Nathan Lyon left out of Australian Test squad for New Zealand series",
+   "summary": "Australia's selectors have left spinner Nathan Lyon out of a 13-player squad for the four-Test home series against New Zealand, his first omission since 2011, ABC News reported, citing AAP. The first Test starts on 9 December.\n\nWestern Australia's Corey Rocchiccioli and Queensland's Jack Clayton were named in their first Test squads, with Rocchiccioli expected to be the main spinner. Marnus Labuschagne and Cooper Connolly were also dropped after the series loss to South Africa, while Steve Smith returned. Lyon, 39, has played 145 Tests and took six wickets against South Africa.",
+   "keyFacts": [
+    "Lyon has played 145 Tests",
+    "Corey Rocchiccioli and Jack Clayton are new to the squad",
+    "The first Test begins on 9 December"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-28/nathan-lyon-axed-as-australia-names-test-squad/107437842"
+    }
+   ],
+   "publishedAt": "2026-11-28T09:55:00+11:00",
+   "createdAt": "2026-11-28T17:58:00+11:00",
+   "reason": "Sport",
+   "rank": 2
+  },
+  {
+   "id": "2026-11-28-lo-bronson-reed-dies",
+   "batch": "2026-11-28-pm",
+   "category": "Other",
+   "title": "Adelaide-born WWE wrestler Bronson Reed dies aged 38",
+   "summary": "WWE announced that Adelaide-born wrestler Jermaine Haley, who performed as Bronson Reed, has died aged 38, ABC News reported. WWE attributed his death to medical complications.\n\nIn a statement, WWE described him as a devoted family man and beloved colleague and extended condolences to his family, including his pregnant wife and their daughter. Reed had told the ABC in 2025 that he began wrestling with friends in backyards in Adelaide before reaching the international circuit, where he performed as a villain character.",
+   "keyFacts": [
+    "WWE announced the death on Saturday",
+    "WWE cited medical complications",
+    "He was born in Adelaide"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-28/wwe-wrestler-bronson-reed-dies-aged-38/107438016"
+    }
+   ],
+   "publishedAt": "2026-11-28T13:05:00+11:00",
+   "createdAt": "2026-11-28T17:58:00+11:00",
+   "reason": "Celebrity",
+   "rank": 3
+  },
+  {
+   "id": "2026-11-28-lo-schoolies-assault-feature",
+   "batch": "2026-11-28-pm",
+   "category": "Australia",
+   "title": "ABC report details alleged schoolies assault that left 15-year-old on life support",
+   "summary": "An ABC report detailed the alleged group assault of a 15-year-old Ipswich boy near the Surfers Paradise schoolies zone at about 3am on Tuesday. He suffered a broken jaw, multiple fractures and bleeding on the brain and has been on life support, the ABC reported.\n\nTwelve Brisbane teenagers aged 17 to 19 have been charged with acts intended to cause grievous bodily harm; at least four were registered schoolies. Police said more people are being sought. The family asked that the boy not be named. The Queensland government cancelled a press conference wrapping up schoolies week.",
+   "keyFacts": [
+    "Twelve teenagers have been charged",
+    "The boy has been on life support",
+    "Police are seeking more people"
+   ],
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://abc.net.au/news/2026-11-28/schoolies-alleged-assault-gold-coast/107433500"
+    }
+   ],
+   "publishedAt": "2026-11-28T08:00:00+11:00",
+   "createdAt": "2026-11-28T17:58:00+11:00",
+   "reason": "Local crime",
+   "rank": 4
+  },
+  {
+   "id": "2026-11-28-lo-comer-predicts-omar-indictment",
+   "batch": "2026-11-28-pm",
+   "category": "Politics",
+   "title": "House Republican chairman predicts indictment of Ilhan Omar; she denies wrongdoing",
+   "summary": "House Oversight Committee chairman James Comer told Newsmax he believes an indictment of Democratic congresswoman Ilhan Omar is coming, citing alleged immigration and welfare fraud, Newsweek reported. He did not provide evidence, and no charges have been announced.\n\nOmar has not been charged, denies wrongdoing and says the federal investigation targets political opponents. Federal agents searched her Washington home in October under a court warrant. President Trump has said the case is a matter for the Justice Department, and Attorney General Todd Blanche declined to say whether charges may follow.",
+   "keyFacts": [
+    "Comer made the prediction in a Newsmax interview",
+    "No charges have been filed against Omar",
+    "Omar denies wrongdoing"
+   ],
+   "sources": [
+    {
+     "name": "Newsweek (via Yahoo News)",
+     "url": "https://www.yahoo.com/news/us/articles/ilhan-omar-indictment-coming-comer-135312562.html"
+    }
+   ],
+   "publishedAt": "2026-11-28T00:53:00+11:00",
+   "createdAt": "2026-11-28T17:58:00+11:00",
+   "reason": "Not yet confirmed",
+   "rank": 5
+  },
+  {
+   "id": "2026-11-28-lo-silver-nvidia-analysis",
+   "batch": "2026-11-28-pm",
+   "category": "Politics",
+   "title": "Nate Silver argues Nvidia–China scandal could have major political fallout",
+   "summary": "Election analyst Nate Silver argued in his Silver Bulletin newsletter that the political fallout from the Nvidia scandal is being underestimated. The scandal followed reports, citing the New York Times, that former chief executive Jensen Huang had an affair with a woman US intelligence officials believe was a Chinese spy.\n\nSilver also discussed reports of chips being diverted to China through a company linked to the woman, and a related investigation transferred from the Commerce Department to the Justice Department. He described his views as provisional. The piece is analysis rather than new reporting; Nvidia has since reinstated Huang.",
+   "keyFacts": [
+    "The piece was published in Silver Bulletin",
+    "Silver says the story is underpriced politically",
+    "It contains analysis, not new reporting"
+   ],
+   "sources": [
+    {
+     "name": "Silver Bulletin",
+     "url": "https://www.natesilver.net/p/the-nvidia-story-is-a-bfd"
+    }
+   ],
+   "publishedAt": "2026-11-13T12:00:00+11:00",
+   "createdAt": "2026-11-28T17:58:00+11:00",
+   "reason": "Commentary",
+   "rank": 6
+  },
+  {
+   "id": "2026-11-28-lo-mokhber-blockade-vow",
+   "batch": "2026-11-28-pm",
+   "category": "World",
+   "title": "Adviser to Iran's supreme leader vows to break US naval blockade",
+   "summary": "Mohammad Mokhber, an adviser to Iran's Supreme Leader Mojtaba Khamenei, vowed on Friday to break the US naval blockade of Iranian ports, according to Iranian state media reported by Reuters via the Jerusalem Post. He did not say how.\n\nIran's navy commander Shahram Irani told state television that efforts to break the blockade were under way and that ports remained active. US Central Command said separately that a US aircraft disabled the cargo ship Pacific Archer after its crew tried to breach the blockade. President Trump described the blockade as the greatest in history.",
+   "keyFacts": [
+    "Mokhber gave no details of how the blockade would be broken",
+    "Iran's navy says its ports remain active",
+    "The US disabled the Pacific Archer on Thursday"
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via Jerusalem Post)",
+     "url": "https://www.jpost.com/middle-east/iran-news/article-916347"
+    }
+   ],
+   "publishedAt": "2026-11-28T09:42:00+11:00",
+   "createdAt": "2026-11-28T17:58:00+11:00",
+   "reason": "Restatement, nothing new",
+   "rank": 7
+  },
+  {
+   "id": "2026-11-28-lo-who-tedros-venezuela",
+   "batch": "2026-11-28-pm",
+   "category": "World",
+   "title": "WHO chief makes first visit to Venezuela by head of the agency",
+   "summary": "World Health Organization Director-General Tedros Adhanom Ghebreyesus met Venezuela's interim president Delcy Rodríguez in Caracas, the first visit to the country by a head of the UN health agency, the Times of Israel reported, citing AFP.\n\nThe WHO said it would support domestic production of medicines and vaccines and efforts to strengthen Venezuela's health system. Neither side announced funding figures. Tedros posted about the meeting on social media on Friday. The visit follows a series of meetings between Rodríguez and foreign officials since she took office this year.",
+   "keyFacts": [
+    "Tedros met interim president Delcy Rodríguez",
+    "It is the first such visit by a WHO chief",
+    "No funding figures were announced"
+   ],
+   "sources": [
+    {
+     "name": "Times of Israel",
+     "url": "https://www.timesofisrael.com/liveblog-november-28-2026"
+    }
+   ],
+   "publishedAt": "2026-11-28T08:00:00+11:00",
+   "createdAt": "2026-11-28T17:58:00+11:00",
+   "reason": "Ceremonial event",
+   "rank": 8
+  },
+  {
+   "id": "2026-11-28-lo-grynspan-albanese-letter",
+   "batch": "2026-11-28-pm",
+   "category": "Other",
+   "title": "Open letter urges UN secretary-general frontrunner to speak out on Albanese",
+   "summary": "More than 400 people signed an open letter urging Rebeca Grynspan, head of UNCTAD and a leading candidate for UN secretary-general, to press Costa Rica to admit UN special rapporteur Francesca Albanese, Al Jazeera reported. The letter was published by Costa Rican outlet SURCOS Digital.\n\nCosta Rica denied Albanese entry and she spent a second night at an airport near San José. UN human rights chief Volker Türk had already urged Costa Rica to reconsider. Grynspan, a former Costa Rican vice-president, did not immediately respond to a request for comment.",
+   "keyFacts": [
+    "More than 400 people signed the letter",
+    "Grynspan led a UN Security Council straw poll on 20 November",
+    "Albanese was held at the airport for a second night"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/28/un-chief-frontrunner-urged-to-speak-out-over-albanese-detention-2"
+    }
+   ],
+   "publishedAt": "2026-11-28T15:46:00+11:00",
+   "createdAt": "2026-11-28T17:58:00+11:00",
+   "reason": "Commentary",
+   "rank": 9
+  },
   {
    "id": "2026-11-28-lo-canada-data-centres-letter",
    "batch": "2026-11-28",
@@ -7025,282 +7490,6 @@
    "publishedAt": "2026-11-22T08:32:00+11:00",
    "createdAt": "2026-11-22T17:45:00+11:00",
    "reason": "Restatement, nothing new"
-  },
-  {
-   "id": "2026-11-21-lo-vic-election-final-week",
-   "batch": "2026-11-21-pm",
-   "rank": 1,
-   "category": "Australia",
-   "title": "Analysts forecast Coalition win as Victorian campaign enters final week",
-   "summary": "Political analysts expect the Coalition to win majority government at Victoria's 28 November election, possibly on a scale similar to Jeff Kennett's 1992 victory, ABC News reported. Premier Ben Carroll and Opposition Leader Jess Wilson campaigned at early voting centres on Saturday.\n\nA Redbridge poll for the Australian Financial Review projects a two-party preferred result of 57 per cent for the Coalition and 43 per cent for Labor, according to the ABC. Deakin University's Geoff Robinson said regional cities including Geelong, Ballarat and Bendigo were in play. Carroll declined to say whether he would hold his seat of Niddrie. These are forecasts, not results.",
-   "keyFacts": [
-    "Election is on 28 November",
-    "Redbridge poll projects 57-43 to the Coalition",
-    "Analysts compare possible result with 1992"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-21/victorian-election-final-week/107412434"
-    }
-   ],
-   "publishedAt": "2026-11-21T15:25:00+11:00",
-   "createdAt": "2026-11-21T17:50:00+11:00",
-   "reason": "Commentary"
-  },
-  {
-   "id": "2026-11-21-lo-irgc-mq9-drone-claim",
-   "batch": "2026-11-21-pm",
-   "rank": 2,
-   "category": "World",
-   "title": "Iran's Revolutionary Guards claim to have shot down US drone over Strait of Hormuz",
-   "summary": "Iran's Islamic Revolutionary Guard Corps said its aerospace forces shot down a US MQ-9 drone over the Strait of Hormuz, Middle East Eye reported, citing state broadcaster IRIB. The IRGC said it was the 58th MQ-9 destroyed by Iranian forces.\n\nThe claim has not been independently confirmed. Middle East Eye's report included no US response and no details of when the incident happened or of any wreckage. Iran and the US have been at war since 28 February, and Iran has made similar claims about US drones in recent days.",
-   "keyFacts": [
-    "IRGC claims MQ-9 drone shot down over Hormuz",
-    "IRGC says it is the 58th such drone",
-    "No US confirmation or response reported"
-   ],
-   "sources": [
-    {
-     "name": "Middle East Eye",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-its-aerospace-forces-intercepted-us-mq-9-drone-over-hormuz"
-    }
-   ],
-   "publishedAt": "2026-11-21T13:54:00+11:00",
-   "createdAt": "2026-11-21T17:50:00+11:00",
-   "reason": "Not yet confirmed"
-  },
-  {
-   "id": "2026-11-21-lo-araghchi-diplomacy-trump-terms",
-   "batch": "2026-11-21-pm",
-   "rank": 3,
-   "category": "World",
-   "title": "Araghchi says Iran still seeks diplomacy as Trump calls Tehran's terms unacceptable",
-   "summary": "Iranian Foreign Minister Abbas Araghchi said Tehran still hopes diplomacy can end its war with the United States and that messages are being exchanged through mediators, Ariana News reported, citing Reuters and Iranian media. He said Iran wants guarantees that Washington is serious and an agreement preventing further war.\n\nAraghchi said keeping Iran's highly enriched uranium inside the country was a red line, though a fair solution was possible. At a White House news conference on Friday, US President Donald Trump said Iran wanted a deal but not one acceptable to him. Qatari and Iranian officials met earlier in the week.",
-   "keyFacts": [
-    "Araghchi says messages passing through mediators",
-    "Uranium staying in Iran is a red line, he said",
-    "Trump says Iran's terms are unacceptable"
-   ],
-   "sources": [
-    {
-     "name": "Ariana News",
-     "url": "https://www.ariananews.af/araqchi-says-iran-wants-diplomacy-to-end-war-trump-says-terms-unacceptable/"
-    }
-   ],
-   "publishedAt": "2026-11-21T14:59:00+11:00",
-   "createdAt": "2026-11-21T17:50:00+11:00",
-   "reason": "Restatement, nothing new"
-  },
-  {
-   "id": "2026-11-21-lo-trump-huang-second-chance",
-   "batch": "2026-11-21-pm",
-   "rank": 4,
-   "category": "Business",
-   "title": "Trump says Jensen Huang should get a second chance at Nvidia",
-   "summary": "US President Donald Trump said on Friday he would like to see former Nvidia chief executive Jensen Huang given a second chance, Al Jazeera reported. Huang resigned on 12 November over a scandal involving an alleged relationship with Alice Huang, a suspected Chinese intelligence asset.\n\nTrump described Huang as a good man who had made bad decisions and said he wanted a big apology. Nvidia board chair Harvey Jones has said directors unanimously accepted the resignation and do not plan to reinstate Huang, according to Al Jazeera. Trump also said he had not lost confidence in Commerce Secretary Howard Lutnick.",
-   "keyFacts": [
-    "Trump backs a return for Huang",
-    "Nvidia board says it will not reinstate him",
-    "Trump says he still has confidence in Lutnick"
-   ],
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang"
-    }
-   ],
-   "publishedAt": "2026-11-21T12:49:00+11:00",
-   "createdAt": "2026-11-21T17:50:00+11:00",
-   "reason": "Restatement, nothing new"
-  },
-  {
-   "id": "2026-11-21-lo-cummins-remains-captain",
-   "batch": "2026-11-21-pm",
-   "rank": 5,
-   "category": "Sport",
-   "title": "Cricket Australia board backs Pat Cummins to stay as Test captain",
-   "summary": "Cricket Australia's board unanimously supported Pat Cummins as captain for the three-Test series against New Zealand starting in Perth on 9 December, SBS News reported, citing AP. CA said it rejected any implication that his integrity had been compromised.\n\nCummins has denied knowing about the use of sandpaper on the 2018 tour of South Africa. Former teammates including Usman Khawaja and David Warner have given contradicting accounts, according to the report. Cummins said he supports an independent forum on the tour and would attend. CA chair David Boon and chief executive Todd Greenberg met him in Sydney on Friday.",
-   "keyFacts": [
-    "Board support was unanimous, CA says",
-    "Series against New Zealand starts 9 December",
-    "Cummins denies prior knowledge of ball tampering"
-   ],
-   "sources": [
-    {
-     "name": "SBS News (AP)",
-     "url": "https://www.sbs.com.au/news/article/reject-any-implications-pat-cummins-to-remain-australia-captain/opu7nem1l"
-    }
-   ],
-   "publishedAt": "2026-11-21T15:08:00+11:00",
-   "createdAt": "2026-11-21T17:50:00+11:00",
-   "reason": "Sport"
-  },
-  {
-   "id": "2026-11-21-lo-bourke-street-stabbing",
-   "batch": "2026-11-21-pm",
-   "rank": 6,
-   "category": "Australia",
-   "title": "Man in critical condition after stabbing in Melbourne CBD",
-   "summary": "A 24-year-old man was taken to the Royal Melbourne Hospital in a critical condition after being stabbed on Bourke Street near Elizabeth Street at about 2.30pm on Saturday, ABC News reported, citing Victoria Police.\n\nPolice said the two men were not believed to know each other. The alleged offender fled along Elizabeth Street towards Little Bourke Street, according to police, who are making inquiries. No arrest had been reported. Police asked anyone with information or footage to contact Crime Stoppers.",
-   "keyFacts": [
-    "24-year-old in critical condition",
-    "Police say the men did not know each other",
-    "No arrest reported"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-21/man-in-hospital-after-stabbing-on-bourke-street-mall/107412922"
-    }
-   ],
-   "publishedAt": "2026-11-21T16:45:00+11:00",
-   "createdAt": "2026-11-21T17:50:00+11:00",
-   "reason": "Local crime"
-  },
-  {
-   "id": "2026-11-21-lo-kirup-boy-killed-ute",
-   "batch": "2026-11-21-pm",
-   "rank": 7,
-   "category": "Australia",
-   "title": "Boy, 11, dies after being hit by ute on South Western Highway in Kirup",
-   "summary": "An 11-year-old boy died after being hit by a ute while crossing the South Western Highway in Kirup, about 220 kilometres south of Perth, at about 5.50pm on Friday, ABC News reported, citing WA Police. He was flown to Perth Children's Hospital and later died.\n\nThe 25-year-old driver was not injured and is assisting police. A local resident told the ABC that residents had asked Main Roads to lower the town's 60km/h speed limit to 40km/h. Main Roads had been contacted for comment, the ABC said.",
-   "keyFacts": [
-    "Boy hit while crossing highway on Friday evening",
-    "Driver, 25, assisting police",
-    "Residents had sought a lower speed limit"
-   ],
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-21/boy-11-dies-after-being-hit-by-ute-in-kirup/107412608"
-    }
-   ],
-   "publishedAt": "2026-11-21T14:33:00+11:00",
-   "createdAt": "2026-11-21T17:50:00+11:00",
-   "reason": "Human interest"
-  },
-  {
-   "id": "2026-11-21-lo-bolsonaro-hospitalised",
-   "batch": "2026-11-21-pm",
-   "rank": 8,
-   "category": "World",
-   "title": "Former Brazilian president Bolsonaro hospitalised with intestinal obstruction",
-   "summary": "Former Brazilian president Jair Bolsonaro, 71, was admitted to hospital in Brasilia on Friday with abdominal pain and distension, according to a hospital statement reported by MercoPress. Reuters reported his doctor said tests showed a partial intestinal obstruction.\n\nHis son, Senator Carlos Bolsonaro, said on social media that his father was receiving pain relief and doctors were trying to treat the condition without surgery, Reuters reported. Bolsonaro is serving a 27-year sentence for plotting a coup after his 2022 election loss and is under humanitarian house arrest. He has had several operations since being stabbed in 2018.",
-   "keyFacts": [
-    "Admitted to a Brasilia hospital on Friday",
-    "Doctor reports partial intestinal obstruction",
-    "Bolsonaro is under humanitarian house arrest"
-   ],
-   "sources": [
-    {
-     "name": "Reuters (via MarketScreener)",
-     "url": "https://www.marketscreener.com/news/brazil-ex-president-bolsonaro-hospitalized-with-intestinal-obstruction-ce785ed3dc89f027"
-    },
-    {
-     "name": "MercoPress",
-     "url": "https://en.mercopress.com/2026/11/21/former-brazilian-president-jair-bolsonaro-hospitalised-in-brasilia-with-abdominal-pain"
-    }
-   ],
-   "publishedAt": "2026-11-21T10:16:00+11:00",
-   "createdAt": "2026-11-21T17:50:00+11:00",
-   "reason": "Human interest"
-  },
-  {
-   "id": "2026-11-21-lo-trump-canada-fair-deal",
-   "batch": "2026-11-21-pm",
-   "rank": 9,
-   "category": "World",
-   "title": "Trump says Canada feels emboldened but he wants a fair trade deal",
-   "summary": "US President Donald Trump said at a White House news conference on Friday that Canada was feeling emboldened but that the US was working on a fair trade deal, The Canadian Press reported. He said he had spoken with Prime Minister Mark Carney at the Asia-Pacific summit in Shenzhen.\n\nTrump repeated claims that Canada had taken advantage of the US, according to the report. US-Canada trade talks broke down in August, and 50 per cent tariffs apply to some Canadian goods. Carney said on Wednesday a very good arrangement was possible but Canada was pursuing other trade deals.",
-   "keyFacts": [
-    "Trump says he wants a fair deal with Canada",
-    "Talks broke down in August",
-    "Carney says Canada is pursuing other deals"
-   ],
-   "sources": [
-    {
-     "name": "The Canadian Press (via CP24)",
-     "url": "https://www.cp24.com/news/canada/2026/11/20/trump-says-canada-feeling-emboldened-but-hes-seeking-a-fair-trade-deal/"
-    }
-   ],
-   "publishedAt": "2026-11-21T07:47:00+11:00",
-   "createdAt": "2026-11-21T17:50:00+11:00",
-   "reason": "Restatement, nothing new"
-  },
-  {
-   "id": "2026-11-21-lo-rijiju-rahul-compromised-pm",
-   "batch": "2026-11-21-pm",
-   "rank": 10,
-   "category": "World",
-   "title": "Indian minister responds to Rahul Gandhi's 'compromised PM' post",
-   "summary": "Indian Congress leader Rahul Gandhi posted a picture of the three-way meeting between Donald Trump, Xi Jinping and Vladimir Putin, writing that a \"compromised PM\" could never sit at that table, in remarks seen as aimed at Prime Minister Narendra Modi, The Hans India reported.\n\nParliamentary Affairs Minister Kiren Rijiju said Gandhi should not make statements against India, according to the report, and the Deccan Herald reported that he questioned Congress over the 1962 war with China. BJP media convenor Ashish Usha Agarwal said a US-China-Russia meeting does not define India's global standing, citing its role in BRICS, the Quad and the G20.",
-   "keyFacts": [
-    "Gandhi posted about Trump-Xi-Putin meeting",
-    "Rijiju said Gandhi should not speak against India",
-    "BJP cites India's role in BRICS, Quad and G20"
-   ],
-   "sources": [
-    {
-     "name": "The Hans India",
-     "url": "https://www.thehansindia.com/news/cities/new-delhi/bjp-fumes-at-rahul-over-compromised-pm-jibe-1144241"
-    },
-    {
-     "name": "Deccan Herald",
-     "url": "https://www.deccanherald.com/india/rijiju-hits-back-at-rahuls-compromised-pm-jibe-asks-congress-questions-on-1962-war-poverty-4226217"
-    }
-   ],
-   "publishedAt": "2026-11-21T10:22:00+11:00",
-   "createdAt": "2026-11-21T17:50:00+11:00",
-   "reason": "Commentary"
-  },
-  {
-   "id": "2026-11-21-lo-first-nations-youth-day-of-action",
-   "batch": "2026-11-21-pm",
-   "rank": 11,
-   "category": "World",
-   "title": "First Nations youth plan Canada-wide day of action against major projects bill",
-   "summary": "First Nations youth in Canada plan a national day of action on 8 December against federal legislation to fast-track major projects, The Canadian Press reported. The date coincides with an Assembly of First Nations meeting in Ottawa.\n\nThe 243-page bill would shorten reviews and create national interest zones for pre-approval, according to the report. Organisers from Attawapiskat First Nation said it would override Indigenous rights and fail to protect the environment, and the Chiefs of Ontario support the action. Prime Minister Mark Carney has said Indigenous participation is central to his agenda.",
-   "keyFacts": [
-    "Day of action set for 8 December",
-    "Bill would shorten project reviews",
-    "Chiefs of Ontario back the protest"
-   ],
-   "sources": [
-    {
-     "name": "CTV News (The Canadian Press)",
-     "url": "https://www.ctvnews.ca/politics/article/first-nations-youth-plan-day-of-action-against-ottawas-major-projects-legislation/"
-    },
-    {
-     "name": "paNOW (The Canadian Press)",
-     "url": "https://panow.com/2026/11/20/first-nations-youth-plan-day-of-action-against-ottawas-major-projects-legislation/"
-    }
-   ],
-   "publishedAt": "2026-11-21T07:38:00+11:00",
-   "createdAt": "2026-11-21T17:50:00+11:00",
-   "reason": "No new development"
-  },
-  {
-   "id": "2026-11-21-lo-kim-factory-visit-trump",
-   "batch": "2026-11-21-pm",
-   "rank": 13,
-   "category": "World",
-   "title": "Kim Jong Un inspects factories after Trump leaves Asia without meeting",
-   "summary": "North Korean state media said Kim Jong Un inspected factories producing school equipment on Friday, AFP reported via Arab News. The visit came after US President Donald Trump left Asia without meeting Kim.\n\nTrump said he had been too busy and that he and Kim would meet at some point, according to AFP. Pyongyang has not commented on Trump's remarks. Trump has said Kim would like to meet him, which North Korea has not confirmed. The two leaders met three times during Trump's first term.",
-   "keyFacts": [
-    "KCNA says Kim inspected school equipment factories",
-    "Trump left Asia without meeting Kim",
-    "Pyongyang has not responded to Trump's comments"
-   ],
-   "sources": [
-    {
-     "name": "Arab News (AFP)",
-     "url": "https://www.arabnews.pk/world/north-koreas-kim-visits-factory-sites-after-apparent-trump-snub-3007651"
-    }
-   ],
-   "publishedAt": "2026-11-21T13:51:00+11:00",
-   "createdAt": "2026-11-21T17:50:00+11:00",
-   "reason": "No new development"
   },
   {
    "id": "2026-11-22-us-iran-war-fears",
